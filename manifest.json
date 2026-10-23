@@ -1,0 +1,10 @@
+{
+  "name": "Mis noticias",
+  "short_name": "Noticias",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#f6f4ef",
+  "icons": [{"src": "icono.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]
+}

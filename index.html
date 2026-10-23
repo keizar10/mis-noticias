@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mis noticias</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icono.png">
+<link rel="icon" href="icono.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Noticias">
+<meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141416" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,650&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f4ef; --card:#ffffff; --ink:#1b1b1d; --muted:#6b6a66; --line:#e4e1d9; --chip:#ece9e1;
+  --accent:#b4441c;
+  --elpais:#2563a8; --elmundo:#1d8a6b; --abc:#c2410c; --lavanguardia:#7c3aed;
+  --shadow:0 1px 2px rgba(0,0,0,.05),0 2px 10px rgba(0,0,0,.04);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#141416; --card:#1e1e21; --ink:#ecebe7; --muted:#9b9a95; --line:#2d2d31; --chip:#29292d;
+    --accent:#f08a5d;
+    --elpais:#6ea8ef; --elmundo:#4cc9a4; --abc:#fb8a4f; --lavanguardia:#b190ff;
+    --shadow:none;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{font:15px/1.5 Inter,system-ui,-apple-system,sans-serif;-webkit-font-smoothing:antialiased;
+  padding:env(safe-area-inset-top) 0 calc(24px + env(safe-area-inset-bottom))}
+a{color:inherit}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px}
+
+header{position:sticky;top:0;z-index:5;background:var(--bg);padding-top:14px;border-bottom:1px solid var(--line)}
+.top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.fila2{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:6px}
+h1{font:650 30px/1.1 Newsreader,Georgia,serif;margin:0;letter-spacing:-.01em}
+.edicion{color:var(--muted);font-size:13px;min-width:0}
+.acciones{display:flex;gap:8px;align-items:center}
+select,button.icono{font:inherit;font-size:13px;color:var(--ink);background:var(--chip);border:0;border-radius:10px;padding:7px 10px;max-width:44vw;flex:none}
+button.icono{cursor:pointer;line-height:0;padding:8px}
+button.icono svg{width:18px;height:18px}
+nav{display:flex;gap:6px;overflow-x:auto;padding:12px 0 10px;scrollbar-width:none}
+nav::-webkit-scrollbar{display:none}
+nav button{flex:none;font:500 14px Inter,sans-serif;color:var(--muted);background:transparent;border:1px solid var(--line);
+  border-radius:999px;padding:6px 13px;cursor:pointer;display:flex;align-items:center;gap:7px}
+nav button[aria-selected=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.punto{width:8px;height:8px;border-radius:50%;background:var(--c,var(--accent));flex:none}
+
+main.wrap{padding-top:16px}
+.aviso{background:var(--chip);border-radius:12px;padding:10px 14px;font-size:13px;color:var(--muted);margin-bottom:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;box-shadow:var(--shadow);margin-bottom:12px}
+.dia{border-left:4px solid var(--accent)}
+.etq{font:600 11px Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+.dia .texto{font:500 19px/1.45 Newsreader,Georgia,serif;margin:0}
+h2.seccion{font:650 21px Newsreader,Georgia,serif;margin:22px 0 10px}
+.tema h3{font:650 19px/1.25 Newsreader,Georgia,serif;margin:0 0 4px}
+.tema>p{margin:0 0 12px;color:var(--ink)}
+.enfoques{display:grid;gap:8px}
+@media (min-width:640px){.enfoques{grid-template-columns:1fr 1fr}}
+.enfoque{background:var(--bg);border-radius:12px;padding:10px 12px;border-top:3px solid var(--c)}
+.enfoque .medio{font:600 12px Inter,sans-serif;color:var(--c);margin-bottom:2px}
+.enfoque p{margin:0;font-size:14px}
+.enfoque a{display:block;font-size:13px;color:var(--muted);margin-top:6px;text-decoration:none}
+.enfoque a:hover{text-decoration:underline}
+
+.cab-medio{display:flex;align-items:center;gap:10px;margin:4px 0 10px}
+.cab-medio h2{font:650 26px Newsreader,Georgia,serif;margin:0}
+.cab-medio .punto{width:12px;height:12px}
+.prioriza{color:var(--muted);margin:0 0 14px}
+.noticia{display:block;text-decoration:none;padding:14px 16px}
+.noticia .sec{font:600 11px Inter,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--c)}
+.noticia h3{font:650 18px/1.3 Newsreader,Georgia,serif;margin:2px 0 4px}
+.noticia p{margin:0;color:var(--muted);font-size:14px}
+.noticia:active{opacity:.7}
+.vacio{text-align:center;color:var(--muted);padding:48px 16px}
+.vacio strong{display:block;color:var(--ink);font:650 20px Newsreader,serif;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <h1>Mis noticias</h1>
+      <div class="acciones">
+        <button class="icono" id="recargar" aria-label="Recargar">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="fila2">
+      <div class="edicion" id="edicion">Cargando…</div>
+      <select id="archivo" aria-label="Edición"></select>
+    </div>
+    <nav id="pestanas" role="tablist"></nav>
+  </div>
+</header>
+<main class="wrap" id="contenido"></main>
+
+<script>
+const MEDIOS = {
+  elpais:{nombre:"El País"}, elmundo:{nombre:"El Mundo"},
+  abc:{nombre:"ABC"}, lavanguardia:{nombre:"La Vanguardia"}
+};
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const col = m => `--c:var(--${m})`;
+const guardado = (k, v) => { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch(e) { return null; } };
+
+let edicion = null;
+let pestana = guardado("pestana") || "resumen";
+if (pestana !== "resumen" && !MEDIOS[pestana]) pestana = "resumen";
+
+async function cargarJSON(ruta){
+  const r = await fetch(`${ruta}?t=${Date.now()}`, {cache:"no-store"});
+  if (!r.ok) throw new Error(r.status);
+  return r.json();
+}
+
+function fechaLarga(e){
+  const d = new Date(e.fecha + "T12:00:00");
+  const txt = d.toLocaleDateString("es-ES", {weekday:"long", day:"numeric", month:"long"});
+  const hora = (e.generada || "").slice(11,16);
+  return `${txt[0].toUpperCase()+txt.slice(1)} · edición de ${e.franja}${hora ? " ("+hora+")" : ""}`;
+}
+
+function pintarPestanas(){
+  const lista = [["resumen","Resumen",null], ...Object.entries(MEDIOS).map(([k,m]) => [k, m.nombre, k])];
+  $("#pestanas").innerHTML = lista.map(([k, n, c]) =>
+    `<button role="tab" data-p="${k}" aria-selected="${k===pestana}" ${c ? `style="${col(c)}"` : ""}>${c ? '<span class="punto"></span>' : ""}${n}</button>`
+  ).join("");
+}
+
+function vistaResumen(e){
+  let h = "";
+  if (!e.con_ia) h += `<div class="aviso">Esta edición solo tiene titulares: el resumen con IA no estaba disponible (revisa la clave de API del repositorio).</div>`;
+  if (e.resumen_dia) h += `<div class="card dia"><p class="etq">El día en cuatro diarios</p><p class="texto">${esc(e.resumen_dia)}</p></div>`;
+  if (e.temas_comunes?.length){
+    h += `<h2 class="seccion">Temas en común</h2>`;
+    for (const t of e.temas_comunes){
+      h += `<div class="card tema"><h3>${esc(t.titulo)}</h3><p>${esc(t.resumen)}</p><div class="enfoques">`;
+      for (const m of t.medios){
+        h += `<div class="enfoque" style="${col(m.medio)}"><div class="medio">${esc(MEDIOS[m.medio]?.nombre || m.medio)}</div><p>${esc(m.enfoque)}</p>`;
+        for (const n of m.noticias || []) h += `<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titular)} ↗</a>`;
+        h += `</div>`;
+      }
+      h += `</div></div>`;
+    }
+  }
+  if (!e.con_ia){
+    h += `<h2 class="seccion">Primeros titulares</h2>`;
+    for (const m of e.medios.filter(x => !x.error)){
+      const n = m.noticias[0];
+      if (n) h += tarjeta(n, m.medio, m.nombre);
+    }
+  }
+  return h;
+}
+
+function tarjeta(n, medio, etiqueta){
+  return `<a class="card noticia" style="${col(medio)}" href="${esc(n.url)}" target="_blank" rel="noopener">
+    ${(etiqueta || n.seccion) ? `<div class="sec">${esc(etiqueta || n.seccion)}</div>` : ""}
+    <h3>${esc(n.titular)}</h3>${n.resumen ? `<p>${esc(n.resumen)}</p>` : ""}</a>`;
+}
+
+function vistaMedio(e, clave){
+  const m = e.medios.find(x => x.medio === clave);
+  let h = `<div class="cab-medio" style="${col(clave)}"><span class="punto"></span><h2>${esc(MEDIOS[clave].nombre)}</h2></div>`;
+  if (!m || m.error) return h + `<div class="vacio"><strong>Sin datos</strong>No se pudo leer este diario en esta edición.</div>`;
+  if (m.resumen) h += `<p class="prioriza">${esc(m.resumen)}</p>`;
+  return h + m.noticias.map(n => tarjeta(n, clave)).join("");
+}
+
+function pintar(){
+  pintarPestanas();
+  const c = $("#contenido");
+  if (!edicion){
+    c.innerHTML = `<div class="vacio"><strong>Aún no hay ninguna edición</strong>Se genera a las 7:00 y a las 18:00. También puedes lanzarla a mano desde GitHub → Actions.</div>`;
+    return;
+  }
+  $("#edicion").textContent = fechaLarga(edicion);
+  c.innerHTML = pestana === "resumen" ? vistaResumen(edicion) : vistaMedio(edicion, pestana);
+}
+
+async function cargarArchivo(){
+  try {
+    const indice = await cargarJSON("ediciones/indice.json");
+    $("#archivo").innerHTML = indice.map((x, i) => {
+      const d = new Date(x.fecha + "T12:00:00").toLocaleDateString("es-ES", {weekday:"short", day:"numeric", month:"short"});
+      return `<option value="${esc(i === 0 ? "noticias.json" : x.archivo)}">${i === 0 ? "Última" : `${d} · ${x.franja}`}</option>`;
+    }).join("");
+  } catch(e) { $("#archivo").style.display = "none"; }
+}
+
+async function cargar(ruta = "noticias.json"){
+  try { edicion = await cargarJSON(ruta); }
+  catch(e) { edicion = null; $("#edicion").textContent = "Sin edición disponible"; }
+  pintar();
+}
+
+$("#pestanas").addEventListener("click", ev => {
+  const b = ev.target.closest("button[data-p]"); if (!b) return;
+  pestana = b.dataset.p; guardado("pestana", pestana); pintar(); window.scrollTo({top:0});
+});
+$("#archivo").addEventListener("change", ev => cargar(ev.target.value));
+$("#recargar").addEventListener("click", () => { cargarArchivo(); cargar(); });
+document.addEventListener("visibilitychange", () => { if (!document.hidden && $("#archivo").value === "noticias.json") cargar(); });
+
+cargarArchivo();
+cargar();
+</script>
+</body>
+</html>
