@@ -1,70 +1,43 @@
 {
  "fecha": "2026-10-23",
- "franja": "mañana",
- "generada": "2026-10-23T09:00+02:00",
+ "franja": "tarde",
+ "generada": "2026-10-23T21:44+02:00",
  "con_ia": true,
- "resumen_dia": "Feijóo confirma que intentará gobernar aunque su lista no sea la más votada y que pactaría con Vox, mientras el PP y el PSOE se enfrentan por el vídeo generado con IA y por los debates televisivos de la campaña. En paralelo, la UCO detecta facturas desaparecidas en la contabilidad del PSOE dentro de la investigación sobre financiación ilegal. En lo económico, el Ibex cae más de un 2% por Bankinter y el repunte del petróleo ante la inestabilidad en el Golfo. Internacionalmente destacan el terremoto en el Tíbet, con al menos 16 muertos, y el empate técnico en las presidenciales de Brasil.",
+ "resumen_dia": "La jornada está marcada por la campaña para las elecciones generales del 29-N, con el Supremo exigiendo al Gobierno la lista de afectados por la 'ley de nietos' y Feijóo y Vox con el PP en el centro de las negociaciones. Las causas judiciales que afectan a Zapatero y al PSOE (caso Cloacas) también ocupan portadas. En paralelo, el Rey y la Princesa Leonor marcan el tono institucional en la entrega de los Premios Princesa de Asturias, y el ataque racista de Trappes y los disturbios en Francia completan la actualidad internacional.",
  "temas_comunes": [
   {
-   "titulo": "Campaña electoral y pactos del PP",
-   "resumen": "Feijóo afirma que intentará gobernar aunque no sea la lista más votada y que pactará con Vox. Vox pide al PP que retire candidaturas en dos provincias a cambio de retirar las suyas en circunscripciones clave para el Senado.",
+   "titulo": "Supremo y la 'ley de nietos'",
+   "resumen": "El Supremo reclama a los ministros Bolaños y Albares la lista de unos 163.000 nacionalizados a los que se ha suspendido el voto para el 29-N, con un plazo de cinco días y advertencia de responsabilidad penal.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Destaca la declaración de Feijóo de pactar con Vox y el refuerzo de su equipo en el Congreso con perfiles de gestión y alcaldes en las listas.",
+     "enfoque": "Destaca la cifra de 163.020 afectados y la amenaza de multa y responsabilidad penal.",
      "noticias": [
       {
-       "titular": "Última hora de la actualidad política, en directo | Feijóo intentará gobernar aunque no sea la lista más votada: “El objetivo es echar a Sánchez”",
-       "url": "https://elpais.com/espana/2026-10-23/ultima-hora-de-la-actualidad-politica-en-directo.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "Feijóo se refuerza en el Congreso: portavoces de la línea dura, veteranos y experiencia de gestión con miras al Gobierno",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-se-refuerza-en-el-congreso-portavoces-de-la-linea-dura-veteranos-y-experiencia-de-gestion-con-miras-al-gobierno.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Subraya la negociación con Vox sobre el Senado y la exigencia de Abascal de que el PP ceda en dos provincias.",
-     "noticias": [
-      {
-       "titular": "Vox pide al PP que se aparte en dos provincias a cambio de su retirada en circunscripciones clave para el Senado",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ada5d77fc6c836b4a8b456d.html",
+       "titular": "El Supremo exige al Gobierno la lista de los afectados por la ‘ley de nietos’ y amenaza de multa y posible responsabilidad penal si no lo hace",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/el-supremo-da-cinco-dias-a-bolanos-y-albares-para-entregar-los-nombres-de-los-mas-de-160000-nacionalizados-por-la-ley-de-nietos-a-los-que-ha-suspendido-el-derecho-al-voto.html",
        "seccion": "Elecciones Generales"
       }
      ]
-    }
-   ]
-  },
-  {
-   "titulo": "Vídeo del PP generado con IA y debate sobre sus límites",
-   "resumen": "Un vídeo del PP contra el PSOE, elaborado con IA, abre el debate sobre los límites legales de este tipo de contenidos en campaña. Sánchez y Feijóo también se acusan de vetar cadenas para los debates electorales.",
-   "medios": [
+    },
     {
-     "medio": "elpais",
-     "enfoque": "Recoge la opinión de juristas sobre la libertad de expresión y la sátira aplicadas al vídeo.",
+     "medio": "elmundo",
+     "enfoque": "Subraya la posible imputación penal de los ministros y las multas reiteradas.",
      "noticias": [
       {
-       "titular": "El vídeo del PP contra el PSOE agita el debate sobre los límites de la IA en la batalla política",
-       "url": "https://elpais.com/espana/2026-10-23/el-video-del-pp-contra-el-psoe-agita-el-debate-sobre-los-limites-de-la-ia-en-la-batalla-politica.html",
-       "seccion": "España"
+       "titular": "El Supremo da cinco días a Albares y Bolaños para que le entreguen la lista de los 163.020 afectados por la ley de nietos y les advierte de su responsabilidad penal",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/23/6adb37b3e9cf4a651e8b4587.html",
+       "seccion": "Tribunal Supremo"
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Enmarca el vídeo como parte de una campaña con vídeos falsos hechos con IA y lo relaciona con los formatos electorales.",
+     "enfoque": "Enfatiza el plazo de cinco días y la advertencia sobre responsabilidades penales.",
      "noticias": [
       {
-       "titular": "Los vídeos falsos fabricados con IA irrumpen en la campaña",
-       "url": "https://www.lavanguardia.com/politica/20261023/11665829/campanas-deepfakes.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Sánchez y Feijóo reabren la pugna por los debates de la campaña en televisión",
-       "url": "https://www.lavanguardia.com/politica/20261023/11665840/sanchez-feijoo-reabren-pugna-debates-campana-29-n-television.html",
+       "titular": "El Tribunal Supremo reclama los nombres de los 163.000 afectados por la 'ley de nietos'",
+       "url": "https://www.lavanguardia.com/politica/20261023/11666385/supremo-reclama-nombros-163-000-afectados-ley-nietos.html",
        "seccion": "Política"
       }
      ]
@@ -72,171 +45,141 @@
    ]
   },
   {
-   "titulo": "Sánchez en el programa de Broncano",
-   "resumen": "El presidente del Gobierno participó en 'La Revuelta', de David Broncano, donde respondió a preguntas sobre dinero y vida personal. Varios diarios lo presentan con tono crítico o desde el formato del programa.",
+   "titulo": "Zapatero y la causa por malversación",
+   "resumen": "La Fiscalía pide ampliar la investigación a Zapatero con el delito de malversación, y el juez reclama la relación de regalos recibidos por Presidencia.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Pone el foco en la petición de investigar por malversación y en las joyas como posible objeto del delito.",
+     "noticias": [
+      {
+       "titular": "La Fiscalía pide investigar a Zapatero por malversación y el juez reclama el acta de todos los regalos recibidos por Presidencia del Gobierno durante su mandato",
+       "url": "https://www.elmundo.es/espana/2026/10/23/6adb4a8c21efa06e428b45aa.html",
+       "seccion": "José Luis Rodríguez Zapatero"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca la petición fiscal de añadir malversación y la reclamación del listado de regalos a Patrimonio.",
+     "noticias": [
+      {
+       "titular": "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación",
+       "url": "https://www.lavanguardia.com/politica/20261023/11666707/fiscalia-pide-anadir-imputacion-zapatero-delito-malversacion.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Discursos del Rey y Leonor en Oviedo",
+   "resumen": "El Rey pide cuidar la democracia más allá de las elecciones y la Princesa Leonor reclama esperanza ante el desencanto social, durante la entrega de los Premios Princesa de Asturias.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Describe la entrevista como una sesión de tono amable y menciona las críticas de los invitados a Milei.",
+     "enfoque": "Recoge el llamamiento a la mesura del Rey y el mensaje de entusiasmo de Leonor, junto con la crónica de los premios.",
      "noticias": [
       {
-       "titular": "Sánchez con Broncano: sesión de control del buen rollito",
-       "url": "https://elpais.com/espana/2026-10-22/sanchez-con-broncano-sesion-de-control-del-buen-rollito.html",
+       "titular": "El Rey pide mesura ante la “altísima responsabilidad” de las próximas elecciones",
+       "url": "https://elpais.com/espana/2026-10-23/el-rey-pide-mesura-ante-la-altisima-responsabilidad-de-las-proximas-elecciones.html",
        "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Presenta la intervención con un titular irónico sobre el presidente.",
-     "noticias": [
-      {
-       "titular": "Sánchez suspende el test Voight-Kampff",
-       "url": "https://www.abc.es/play/television/rebeca-argudo-sanchez-suspende-test-voightkampff-20261023021948-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Se centra en las respuestas de Sánchez a las preguntas clásicas del programa.",
-     "noticias": [
-      {
-       "titular": "Pedro Sánchez responde a las preguntas clásicas de 'La Revuelta'",
-       "url": "https://www.lavanguardia.com/television/20261023/11665873/pedro-sanchez-responde-preguntas-clasicas-revuelta.html",
-       "seccion": "Televisión"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Contabilidad del PSOE y financiación ilegal",
-   "resumen": "La UCO y la Audiencia Nacional constatan descuadres y facturas desaparecidas en la contabilidad del PSOE dentro de la investigación sobre financiación. Pardo de Vera irá a juicio por el caso Adif y ha mostrado disposición a colaborar.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Pone el foco en las facturas desaparecidas y en los descuadres detectados por la UCO.",
-     "noticias": [
-      {
-       "titular": "La UCO detecta la desaparición de facturas en la contabilidad del PSOE al rastrear la financiación ilegal",
-       "url": "https://www.elmundo.es/espana/2026/10/22/6ada535cfdddff545b8b45a9.html",
-       "seccion": "Audiencia Nacional"
       },
       {
-       "titular": "La defensa de Pardo de Vera transmite a Anticorrupción su disposición a colaborar con la Justicia",
-       "url": "https://www.elmundo.es/espana/2026/10/23/6ada590fe9cf4ac43d8b456d.html",
-       "seccion": "Audiencia Nacional"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Asocia la crítica al PSOE con su estrategia de comunicación en redes, sin referirse a la investigación contable.",
-     "noticias": [
-      {
-       "titular": "El PSOE hace pasar en redes a altos cargos por periodistas neutrales",
-       "url": "https://www.abc.es/espana/psoe-pasar-altos-cargos-periodistas-neutrales-pseudomedios-20261023025033-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Mercados: caída del Ibex y petróleo",
-   "resumen": "El Ibex 35 cerró con una caída del 2,1% por Bankinter y la prima de riesgo francesa. El petróleo sube por la inestabilidad en el Golfo Pérsico y los carburantes no bajan al mismo ritmo.",
-   "medios": [
-    {
-     "medio": "abc",
-     "enfoque": "Centra la caída en los resultados trimestrales de Bankinter y en la prima de riesgo francesa.",
-     "noticias": [
-      {
-       "titular": "El Ibex se hunde un 2,12% y pierde los 19.000 puntos lastrado por Bankinter y la prima de riesgo francesa",
-       "url": "https://www.abc.es/economia/ibex-hunde-212-pierde-19000-puntos-lastrado-20261022202636-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Vincula la subida del crudo con las primas de guerra en el Golfo y la caída de Meta.",
-     "noticias": [
-      {
-       "titular": "El precio del petróleo repunta por la inestabilidad en el Golfo y agita las bolsas",
-       "url": "https://www.lavanguardia.com/economia/20261022/11665745/ibex-cae-2-1-pierde-19-000-puntos-repunte-petroleo-dudas-tecnologicas.html",
-       "seccion": "Economía"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Explica por qué el crudo sube pero los carburantes no bajan, con la flota de petroleros que cruza Ormuz.",
-     "noticias": [
-      {
-       "titular": "Guerra de trincheras de los petroleros del Golfo Pérsico: por qué el crudo sale pero los carburantes no bajan",
-       "url": "https://www.elmundo.es/internacional/2026/10/22/6ada2b0ae85ece1e598b4590.html",
-       "seccion": "Estados Unidos"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Virus Shamonda y primer contagio humano",
-   "resumen": "Un virus que hasta ahora afectaba a animales ha infectado a una persona en Francia, que ha fallecido. En Girona se han detectado casos en tres explotaciones de vacuno de leche, y las autoridades sostienen que el riesgo para la población general es muy bajo.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Pone el foco en el primer salto del virus a un humano en Francia y en la vigilancia del Centro Europeo.",
-     "noticias": [
-      {
-       "titular": "El primer salto del shamonda a un humano: qué se sabe de un virus emergente que ha sorprendido a los expertos",
-       "url": "https://elpais.com/sociedad/2026-10-23/el-primer-salto-del-shamonda-a-un-humano-que-se-sabe-de-un-virus-emergente-que-ha-sorprendido-a-los-expertos.html",
-       "seccion": "Enfermedades infecciosas"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Destaca los casos en Girona y el bajo riesgo para la población.",
-     "noticias": [
-      {
-       "titular": "Virus Shamonda: un caso excepcional",
-       "url": "https://www.lavanguardia.com/vida/20261023/11665782/virus-shamonda-caso-excepcional.html",
-       "seccion": "Sociedad"
+       "titular": "Leonor anima a los jóvenes a mantener el “entusiasmo” en tiempos de “desencanto social profundo”",
+       "url": "https://elpais.com/espana/2026-10-23/leonor-anima-a-los-jovenes-a-mantener-el-entusiasmo-en-tiempos-de-desencanto-social-profundo.html",
+       "seccion": "España"
       },
       {
-       "titular": "Detectado el virus Shamonda en tres explotaciones de vacuno de leche en Girona",
-       "url": "https://www.lavanguardia.com/vida/20261022/11665772/detectado-virus-shamonda-tres-explotaciones-vacuno-leche-girona.html",
-       "seccion": "Sociedad"
+       "titular": "Unos premios Princesa de Asturias por la unión de la humanidad, la democracia y el “tiquitaca” europeo",
+       "url": "https://elpais.com/cultura/2026-10-23/unos-premios-princesa-de-asturias-por-la-union-de-la-humanidad-la-democracia-y-el-tiquitaca-europeo.html",
+       "seccion": "Cultura"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la alusión del Rey a la responsabilidad del voto y la de Leonor sobre las preguntas de su generación.",
+     "noticias": [
+      {
+       "titular": "Felipe VI recuerda el voto como una \"altísima responsabilidad\", y subraya: \"La democracia requiere un compromiso diario\"",
+       "url": "https://www.elmundo.es/espana/2026/10/23/6adb810afdddfff10b8b4580.html",
+       "seccion": "Felipe VI"
+      },
+      {
+       "titular": "\"Necesitamos confiar\": la Princesa Leonor reivindica los problemas de su generación y recuerda que los jóvenes \"nos hacemos preguntas\"",
+       "url": "https://www.elmundo.es/espana/2026/10/23/6adb85e6fc6c834f048b4598.html",
+       "seccion": "Princesa Leonor"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Se centra en el mensaje político del Rey sobre las instituciones y en el discurso de Leonor.",
+     "noticias": [
+      {
+       "titular": "El Rey defiende que la democracia «no se agota en unas elecciones» y pide «cuidar sus formas e instituciones»",
+       "url": "https://www.abc.es/cultura/rey-defiende-democracia-agota-elecciones-pide-cuidar-20261023194630-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "La Princesa apela al sentido de la esperanza frente a «estos tiempos de desencanto social»",
+       "url": "https://www.abc.es/espana/casa-real/princesa-leonor-apela-sentido-esperanza-frente-tiempos-20261023193653-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Abre con el discurso de ambos sobre democracia y esperanza.",
+     "noticias": [
+      {
+       "titular": "El Rey advierte ante las elecciones del 29-N que la democracia “no se agota” en las urnas",
+       "url": "https://www.lavanguardia.com/cultura/20261023/11666741/rey-advierte-elecciones-29-n-democracia-agota-urnas.html",
+       "seccion": "Cultura"
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Terremoto en el Tíbet",
-   "resumen": "Un terremoto de magnitud 7 sacudió el Tíbet chino y dejó al menos 16 muertos y 65 heridos. Se han derrumbado cientos de viviendas y los equipos de rescate siguen trabajando.",
+   "titulo": "Ataque racista en Trappes y disturbios en Francia",
+   "resumen": "Un atentado con arma automática en Trappes deja un muerto y varios heridos, y el comercio de París y Marsella se blinda ante nuevos disturbios de fin de semana.",
    "medios": [
     {
      "medio": "elmundo",
-     "enfoque": "Recoge la magnitud del seísmo y el número de viviendas derrumbadas.",
+     "enfoque": "Recoge la condena de Macron y la inquietud del comercio de Marsella ante nuevos saqueos.",
      "noticias": [
       {
-       "titular": "Un terremoto de magnitud 7 en el Tíbet chino deja al menos 16 muertos, 65 heridos y derrumba cientos de viviendas",
-       "url": "https://www.elmundo.es/internacional/2026/10/22/6ada74f5fdddffbf5e8b459b.html",
-       "seccion": "China"
+       "titular": "Macron condena \"la ideología racista\" tras el atentado con metralleta en Trappes que deja un muerte y cuatro heridos",
+       "url": "https://www.elmundo.es/internacional/2026/10/23/6adb2f6c21efa0bc628b45a7.html",
+       "seccion": "Francia"
+      },
+      {
+       "titular": "\"Saquearon las marcas buenas y ahora podemos ser los siguientes\": el pequeño comercio de Marsella teme una segunda ola de pillajes",
+       "url": "https://www.elmundo.es/internacional/2026/10/23/6adb3b7321efa0516d8b457a.html",
+       "seccion": "Francia"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Describe el blindaje de los comercios de París ante las movilizaciones del sábado.",
+     "noticias": [
+      {
+       "titular": "Los comerciantes de París se blindan ante el temor a nuevos disturbios este fin de semana",
+       "url": "https://www.abc.es/internacional/comerciantes-franceses-blindan-ante-fin-semana-protestas-20261023180223-nt.html",
+       "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Añade las cifras de desplazados y la altitud de la zona afectada.",
+     "enfoque": "Vincula el ataque de carácter racista con la tensión de la protesta del sábado.",
      "noticias": [
       {
-       "titular": "Un terremoto en el Tíbet deja un mínimo de 16 muertos y 65 heridos",
-       "url": "https://www.lavanguardia.com/internacional/20261023/11666113/terremoto-tibet-deja-minimo-16-muertos-65-heridos.html",
+       "titular": "Un atentado de móvil racista causa un muerto y cinco heridos cerca de París",
+       "url": "https://www.lavanguardia.com/internacional/20261023/11666365/muerto-cuatro-heridos-disparar-hombre-vehiculo-cerca-paris.html",
        "seccion": "Internacional"
       }
      ]
@@ -244,28 +187,39 @@
    ]
   },
   {
-   "titulo": "Calor extremo y muertes en Europa",
-   "resumen": "Un estudio atribuye más de 50.000 muertes en Europa este verano al calor extremo, y cifra en miles los fallecimientos en España y en Barcelona por el cambio climático.",
+   "titulo": "Feijóo y el programa electoral del PP",
+   "resumen": "Feijóo plantea cambios en Igualdad, la ley del aborto para menores y la eutanasia, además de una bajada del IRPF en 2027, mientras busca completar una mayoría con Vox.",
    "medios": [
     {
-     "medio": "elmundo",
-     "enfoque": "Pone el foco en el total europeo y en el peso del cambio climático en los fallecimientos.",
+     "medio": "elpais",
+     "enfoque": "Pone el foco en la posibilidad de completar la mayoría con Vox y en los cambios sobre aborto y eutanasia.",
      "noticias": [
       {
-       "titular": "El calor extremo bate un récord histórico en Europa con más de 50.300 muertes en un solo verano",
-       "url": "https://www.elmundo.es/salud/2026/10/23/6ada5bb9e9cf4a6b638b456d.html",
-       "seccion": "salud"
+       "titular": "Feijóo, dispuesto a “completar” la mayoría con Vox: “Mi primer objetivo es que Sánchez se vaya”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-intentara-gobernar-aunque-no-sea-la-lista-mas-votada-mi-primer-objetivo-es-que-sanchez-se-vaya.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Resalta la propuesta de rebaja del IRPF y el blindaje del salario mínimo.",
+     "noticias": [
+      {
+       "titular": "Feijóo apela al voto de los trabajadores con una bajada del IRPF en 2027 y el blindaje de la exención del salario mínimo",
+       "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/23/6adb9bc1fdddff9e7d8b4587.html",
+       "seccion": "PP"
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Centra la información en Barcelona como segunda ciudad europea con más muertes.",
+     "enfoque": "Destaca la integración de Igualdad en otros ministerios y el debate sobre el aborto en menores.",
      "noticias": [
       {
-       "titular": "Barcelona fue este verano la segunda urbe europea con más muertes por el cambio climático",
-       "url": "https://www.lavanguardia.com/vida/20261023/11665726/barcelona-verano-segunda-urbe-europea-mas-muertes-cambio-climatico.html",
-       "seccion": "Sociedad"
+       "titular": "Feijóo meterá Igualdad “dentro de otros ministerios” y abrirá el debate del aborto en menores",
+       "url": "https://www.lavanguardia.com/politica/20261023/11666277/feijoo-metera-igualdad-otros-ministerios-abrira-debate-aborto-menores.html",
+       "seccion": "Política"
       }
      ]
     }
@@ -276,196 +230,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la política de cara a la campaña, con Feijóo y su equipo en el centro, y pone después temas de cultura y opinión. Dedica también espacio a la IA en la batalla política y a la sanidad.",
+   "resumen": "Prioriza la política nacional de cara al 29-N, con el Supremo y la 'ley de nietos' y el programa de Feijóo con Vox. Dedica también espacio a la figura de Augusto Delkáder y a los Premios Princesa de Asturias.",
    "noticias": [
     {
-     "titular": "Última hora de la actualidad política, en directo | Feijóo intentará gobernar aunque no sea la lista más votada: “El objetivo es echar a Sánchez”",
-     "url": "https://elpais.com/espana/2026-10-23/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "titular": "El Supremo exige al Gobierno la lista de los afectados por la ‘ley de nietos’ y amenaza de multa y posible responsabilidad penal si no lo hace",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/el-supremo-da-cinco-dias-a-bolanos-y-albares-para-entregar-los-nombres-de-los-mas-de-160000-nacionalizados-por-la-ley-de-nietos-a-los-que-ha-suspendido-el-derecho-al-voto.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El Tribunal Supremo da cinco días a Bolaños y Albares para entregar los nombres de 163.020 nacionalizados afectados por la 'ley de nietos', con advertencia de multa y responsabilidad penal."
+    },
+    {
+     "titular": "Feijóo, dispuesto a “completar” la mayoría con Vox: “Mi primer objetivo es que Sánchez se vaya”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-intentara-gobernar-aunque-no-sea-la-lista-mas-votada-mi-primer-objetivo-es-que-sanchez-se-vaya.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo afirma que quiere completar una mayoría con Vox y que su primer objetivo es la salida de Sánchez; expone cambios en Igualdad, aborto de menores y eutanasia."
+    },
+    {
+     "titular": "Vox exige al PP tener grupo propio en el Senado y protagonismo en Cataluña",
+     "url": "https://elpais.com/espana/2026-10-23/vox-exige-al-pp-tener-grupo-propio-en-el-senado-y-protagonismo-en-cataluna.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Vox reclama grupo propio en el Senado y peso en Cataluña, y no descarta que el PP no concurra al Senado en alguna provincia como Girona."
+    },
+    {
+     "titular": "El Rey pide mesura ante la “altísima responsabilidad” de las próximas elecciones",
+     "url": "https://elpais.com/espana/2026-10-23/el-rey-pide-mesura-ante-la-altisima-responsabilidad-de-las-proximas-elecciones.html",
      "seccion": "España",
-     "resumen": "Feijóo afirma que intentará gobernar aunque no sea la lista más votada y confirma que pactaría con Vox."
+     "resumen": "El Rey pide mesura ante la responsabilidad de las próximas elecciones y reivindica la Constitución como marco de todos los españoles."
     },
     {
-     "titular": "Feijóo se refuerza en el Congreso: portavoces de la línea dura, veteranos y experiencia de gestión con miras al Gobierno",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-se-refuerza-en-el-congreso-portavoces-de-la-linea-dura-veteranos-y-experiencia-de-gestion-con-miras-al-gobierno.html",
+     "titular": "Leonor anima a los jóvenes a mantener el “entusiasmo” en tiempos de “desencanto social profundo”",
+     "url": "https://elpais.com/espana/2026-10-23/leonor-anima-a-los-jovenes-a-mantener-el-entusiasmo-en-tiempos-de-desencanto-social-profundo.html",
      "seccion": "España",
-     "resumen": "El PP incorpora a consejeros autonómicos y alcaldes a sus listas y prevé remodelaciones de gobierno en varias comunidades."
+     "resumen": "Leonor apela al entusiasmo de los jóvenes ante lo que describe como desencanto social y complejidades de su generación."
     },
     {
-     "titular": "El vídeo del PP contra el PSOE agita el debate sobre los límites de la IA en la batalla política",
-     "url": "https://elpais.com/espana/2026-10-23/el-video-del-pp-contra-el-psoe-agita-el-debate-sobre-los-limites-de-la-ia-en-la-batalla-politica.html",
-     "seccion": "España",
-     "resumen": "Juristas consultados coinciden en que la libertad de expresión y la sátira dan márgenes amplios al vídeo del PP contra el PSOE."
+     "titular": "Unos premios Princesa de Asturias por la unión de la humanidad, la democracia y el “tiquitaca” europeo",
+     "url": "https://elpais.com/cultura/2026-10-23/unos-premios-princesa-de-asturias-por-la-union-de-la-humanidad-la-democracia-y-el-tiquitaca-europeo.html",
+     "seccion": "Cultura",
+     "resumen": "Crónica de la entrega de los Premios Princesa de Asturias en Oviedo, con galardonados como Patti Smith, Messi, Barnes o Studio Ghibli."
     },
     {
-     "titular": "El primer salto del shamonda a un humano: qué se sabe de un virus emergente que ha sorprendido a los expertos",
-     "url": "https://elpais.com/sociedad/2026-10-23/el-primer-salto-del-shamonda-a-un-humano-que-se-sabe-de-un-virus-emergente-que-ha-sorprendido-a-los-expertos.html",
-     "seccion": "Enfermedades infecciosas",
-     "resumen": "Un virus que solo afectaba a animales ha infectado por primera vez a una persona en Francia, que ha muerto."
+     "titular": "Muere a los 76 años Augusto Delkáder, periodista de raza, miembro del equipo fundador de EL PAÍS y expresidente de honor de la Cadena SER",
+     "url": "https://elpais.com/comunicacion/2026-10-23/muere-a-los-76-anos-augusto-delkader-periodista-de-raza-miembro-del-equipo-fundador-de-el-pais-y-expresidente-de-honor-de-la-cadena-ser.html",
+     "seccion": "Comunicación",
+     "resumen": "Fallece Augusto Delkáder, miembro del equipo fundador de EL PAÍS y expresidente de honor de la Cadena SER, a los 76 años."
     },
     {
-     "titular": "Los nostálgicos de Franco disparan los precios en la puja del pazo de Meirás",
-     "url": "https://elpais.com/espana/galicia/2026-10-23/los-nostalgicos-de-franco-disparan-los-precios-en-la-puja-del-pazo-de-meiras.html",
-     "seccion": "Pazo de Meirás",
-     "resumen": "Los objetos de Franco ofrecidos por su familia suben de precio antes de la subasta del pazo de Meirás el día 27."
-    },
-    {
-     "titular": "El estupor de los dos historiadores usados por el PP y Vox para proteger una cruz franquista: “¿Cómo voy a decir yo algo así?”",
-     "url": "https://elpais.com/espana/2026-10-23/el-estupor-de-los-dos-historiadores-usados-por-el-pp-y-vox-para-proteger-una-cruz-franquista-como-voy-a-decir-yo-algo-asi.html",
-     "seccion": "España",
-     "resumen": "Dos historiadores citados en una resolución de la Junta de Extremadura denuncian falseamiento de sus trabajos para proteger una cruz franquista."
-    },
-    {
-     "titular": "Francesc Augé recibirá la eutanasia el 27 de noviembre, tras más de dos años varado en los juzgados",
-     "url": "https://elpais.com/espana/catalunya/2026-10-23/francesc-auge-recibira-la-eutanasia-el-27-de-noviembre-tras-mas-de-dos-anos-varado-en-los-juzgados.html",
-     "seccion": "Cataluña",
-     "resumen": "Francesc Augé recibirá la eutanasia el 27 de noviembre tras el archivo de la causa judicial."
+     "titular": "La novela premiada ‘Donde el agua trabaja’ está escrita por IA al 99%, según el detector Pangram",
+     "url": "https://elpais.com/cultura/2026-10-23/una-herramienta-de-deteccion-atribuye-a-la-ia-el-99-de-la-novela-premiada-donde-el-agua-trabaja-de-david-silva-rojas.html",
+     "seccion": "Cultura",
+     "resumen": "Un detector de IA indica que la novela premiada 'Donde el agua trabaja' está escrita casi en su totalidad por IA, pese a unas bases que lo excluían; la editorial cancela la presentación."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Destaca la información judicial sobre el PSOE y las negociaciones de la derecha para la campaña, junto con sucesos y terrorismo. Incluye también temas internacionales y de salud.",
+   "resumen": "Pone el foco en causas judiciales que afectan al Gobierno y al PSOE (Supremo, Zapatero, caso Cloacas) y en la violencia en Francia. Incluye también asuntos de sanidad y economía internacional.",
    "noticias": [
     {
-     "titular": "La UCO detecta la desaparición de facturas en la contabilidad del PSOE al rastrear la financiación ilegal",
-     "url": "https://www.elmundo.es/espana/2026/10/22/6ada535cfdddff545b8b45a9.html",
+     "titular": "El Supremo da cinco días a Albares y Bolaños para que le entreguen la lista de los 163.020 afectados por la ley de nietos y les advierte de su responsabilidad penal",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/23/6adb37b3e9cf4a651e8b4587.html",
+     "seccion": "Tribunal Supremo",
+     "resumen": "El Supremo exige a Albares y Bolaños la lista de 163.020 afectados por la 'ley de nietos' y les advierte de posible imputación penal y multas."
+    },
+    {
+     "titular": "La Fiscalía pide investigar a Zapatero por malversación y el juez reclama el acta de todos los regalos recibidos por Presidencia del Gobierno durante su mandato",
+     "url": "https://www.elmundo.es/espana/2026/10/23/6adb4a8c21efa06e428b45aa.html",
+     "seccion": "José Luis Rodríguez Zapatero",
+     "resumen": "La Fiscalía pide investigar a Zapatero también por malversación y el juez reclama la relación de regalos recibidos por Presidencia del Gobierno."
+    },
+    {
+     "titular": "El juez Pedraz acusa al PSOE de retrasar \"artificialmente\" la entrega de documentación del 'caso Cloacas' y reclama al partido que cumpla \"sin más demora\"",
+     "url": "https://www.elmundo.es/espana/2026/10/23/6adb4915fdddff3d6d8b4595.html",
      "seccion": "Audiencia Nacional",
-     "resumen": "La UCO detecta facturas desaparecidas en la contabilidad del PSOE dentro de la investigación sobre financiación ilegal."
+     "resumen": "El juez Pedraz reprocha al PSOE retrasar sin justificación suficiente la entrega de documentación del caso Cloacas, invocando el secreto profesional de forma genérica."
     },
     {
-     "titular": "Vox pide al PP que se aparte en dos provincias a cambio de su retirada en circunscripciones clave para el Senado",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ada5d77fc6c836b4a8b456d.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Vox pide al PP que retire candidaturas en dos provincias a cambio de retirar las suyas en circunscripciones clave del Senado."
+     "titular": "Felipe VI recuerda el voto como una \"altísima responsabilidad\", y subraya: \"La democracia requiere un compromiso diario\"",
+     "url": "https://www.elmundo.es/espana/2026/10/23/6adb810afdddfff10b8b4580.html",
+     "seccion": "Felipe VI",
+     "resumen": "Felipe VI subraya el voto como una alta responsabilidad y señala que la democracia exige compromiso diario, a poco más de un mes de las generales."
     },
     {
-     "titular": "El ceutí de la 'casa de los horrores' ganaba 1.000 euros al día con 74 inmigrantes hacinados, les esclavizaba en obras bajo su control y dormía con una de ellas",
-     "url": "https://www.elmundo.es/espana/2026/10/22/6ada3357e4d4d892618b4574.html",
-     "seccion": "Ceuta",
-     "resumen": "Detenido en Ceuta por explotar a inmigrantes alojados en una vivienda, a los que cobraba por dormir y trabajar."
+     "titular": "Macron condena \"la ideología racista\" tras el atentado con metralleta en Trappes que deja un muerte y cuatro heridos",
+     "url": "https://www.elmundo.es/internacional/2026/10/23/6adb2f6c21efa0bc628b45a7.html",
+     "seccion": "Francia",
+     "resumen": "Macron condena el ataque racista con metralleta en Trappes, con un muerto y cuatro heridos, y el presunto autor queda detenido."
     },
     {
-     "titular": "La defensa de Pardo de Vera transmite a Anticorrupción su disposición a colaborar con la Justicia",
-     "url": "https://www.elmundo.es/espana/2026/10/23/6ada590fe9cf4ac43d8b456d.html",
-     "seccion": "Audiencia Nacional",
-     "resumen": "La ex presidenta de Adif Isabel Pardo de Vera irá a juicio por el enchufe y su defensa se ofrece a colaborar con Anticorrupción."
+     "titular": "\"Saquearon las marcas buenas y ahora podemos ser los siguientes\": el pequeño comercio de Marsella teme una segunda ola de pillajes",
+     "url": "https://www.elmundo.es/internacional/2026/10/23/6adb3b7321efa0516d8b457a.html",
+     "seccion": "Francia",
+     "resumen": "Comerciantes de Marsella temen nuevos saqueos tras los disturbios y cierran sus negocios el fin de semana pese a la prohibición de manifestaciones."
     },
     {
-     "titular": "Guerra de trincheras de los petroleros del Golfo Pérsico: por qué el crudo sale pero los carburantes no bajan",
-     "url": "https://www.elmundo.es/internacional/2026/10/22/6ada2b0ae85ece1e598b4590.html",
-     "seccion": "Estados Unidos",
-     "resumen": "La Armada de EEUU protege a petroleros fantasma en Ormuz, mientras el precio del crudo no se traslada a los carburantes."
+     "titular": "Feijóo apela al voto de los trabajadores con una bajada del IRPF en 2027 y el blindaje de la exención del salario mínimo",
+     "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/23/6adb9bc1fdddff9e7d8b4587.html",
+     "seccion": "PP",
+     "resumen": "Feijóo propone bajar el IRPF en 2027 y blindar la exención del salario mínimo, y confirma a Catalá como candidato para el 29-N."
     },
     {
-     "titular": "Un terremoto de magnitud 7 en el Tíbet chino deja al menos 16 muertos, 65 heridos y derrumba cientos de viviendas",
-     "url": "https://www.elmundo.es/internacional/2026/10/22/6ada74f5fdddffbf5e8b459b.html",
-     "seccion": "China",
-     "resumen": "Un terremoto de magnitud 7 en el Tíbet chino deja al menos 16 muertos y cientos de viviendas derrumbadas."
-    },
-    {
-     "titular": "La caída del banquero de Orban abre la caja del antiguo poder húngaro",
-     "url": "https://www.elmundo.es/internacional/2026/10/23/6ad9ff1de85ece0f738b4571.html",
-     "seccion": "Hungría",
-     "resumen": "La detención del ex director del Banco Central húngaro abre la investigación sobre el enriquecimiento en el entorno de Orban."
+     "titular": "Las CCAA dicen 'no' al decreto de listas de espera y el Ministerio de Sanidad lo sacará a audiencia pública",
+     "url": "https://www.elmundo.es/salud/2026/10/23/6adb1658e9cf4a427e8b4592.html",
+     "seccion": "salud",
+     "resumen": "Las comunidades autónomas rechazan el decreto de listas de espera y Sanidad lo someterá a audiencia pública, según explica la ministra."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Pone el foco en el Gobierno y el PSOE, con críticas a su comunicación y a la ley de amnistía, y en la vivienda. Incluye también información económica y judicial.",
+   "resumen": "Destaca la intervención del Rey sobre la democracia y la cobertura de los Premios Princesa de Asturias. Incluye también la vertiente política de la reorganización de listas del PP y las dificultades de la violencia en Francia y Jordania.",
    "noticias": [
     {
-     "titular": "Vicente Vallés: «Moncloa y sus socios aprobaron la ley de amnistía como pago por la investidura de Pedro Sánchez»",
-     "url": "https://www.abc.es/play/television/noticias/vicente-valles-moncloa-socios-aprobaron-ley-amnistia-20261023101958-nt.html",
+     "titular": "El Rey defiende que la democracia «no se agota en unas elecciones» y pide «cuidar sus formas e instituciones»",
+     "url": "https://www.abc.es/cultura/rey-defiende-democracia-agota-elecciones-pide-cuidar-20261023194630-nt.html",
      "seccion": "",
-     "resumen": "El Supremo acusa al Constitucional de excederse en su revisión del auto de amnistía aplicado al procés."
+     "resumen": "El Rey afirma que la democracia no se agota en las elecciones y pide cuidar sus formas e instituciones, en la ceremonia de Oviedo."
     },
     {
-     "titular": "Consumo obliga a dos plataformas a retirar 8.318 anuncios de pisos turísticos que se ofertaban como alquiler de temporada",
-     "url": "https://www.abc.es/economia/consumo-obliga-dos-plataformas-retirar-8318-anuncios-20261023083330-nt.html",
+     "titular": "La Princesa apela al sentido de la esperanza frente a «estos tiempos de desencanto social»",
+     "url": "https://www.abc.es/espana/casa-real/princesa-leonor-apela-sentido-esperanza-frente-tiempos-20261023193653-nt.html",
      "seccion": "",
-     "resumen": "Consumo exige a dos plataformas retirar 8.318 anuncios de pisos turísticos publicados como alquiler de temporada."
+     "resumen": "La Princesa Leonor llama a mantener la esperanza ante lo que describe como desencanto social profundo y la voz de su generación."
     },
     {
-     "titular": "Así blindó la Abogacía las trabas del Gobierno a la opa de BBVA: «La libertad de empresa no es un derecho absoluto»",
-     "url": "https://www.abc.es/economia/blindo-abogacia-trabas-gobierno-opa-bbva-libertad-20261023024153-nt.html",
+     "titular": "Génova cierra una «renovación silenciosa» más profunda de lo esperado para los comicios",
+     "url": "https://www.abc.es/espana/genova-cierra-renovacion-silenciosa-profunda-esperado-29n-20261023025045-nt.html",
      "seccion": "",
-     "resumen": "La Abogacía del Estado sostuvo la intervención del Gobierno en la opa de BBVA sobre Sabadell."
+     "resumen": "El PP cierra una renovación de sus listas electorales más profunda de lo previsto, con Miguel Tellado al frente de la operación."
     },
     {
-     "titular": "El patrimonio inmobiliario de Sánchez: dos viviendas y 12.845 euros anuales por alquilar inmuebles",
-     "url": "https://www.abc.es/espana/patrimonio-inmobiliario-pedro-sanchez-dos-viviendas-aparcamientos-inmuebles-20261023193058-nt.html",
+     "titular": "Al menos siete muertos y 34 heridos en un atentado yihadista contra una iglesia en Jordania",
+     "url": "https://www.abc.es/internacional/siete-muertos-atentado-iglesia-jordania-20261023152517-nt.html",
      "seccion": "",
-     "resumen": "Se detalla el patrimonio inmobiliario de Sánchez, con dos viviendas y rentas por alquiler, a semanas de las generales."
+     "resumen": "Un atentado yihadista contra una iglesia en la provincia jordana de Karak deja al menos siete muertos y 34 heridos."
     },
     {
-     "titular": "El Ibex se hunde un 2,12% y pierde los 19.000 puntos lastrado por Bankinter y la prima de riesgo francesa",
-     "url": "https://www.abc.es/economia/ibex-hunde-212-pierde-19000-puntos-lastrado-20261022202636-nt.html",
+     "titular": "Pedraz acusa al PSOE de incumplir sus requerimientos y le exige que aporte documentación «sin más demora»",
+     "url": "https://www.abc.es/espana/pedraz-acusa-psoe-incumplir-requerimientos-exige-aporte-20261023135826-nt.html",
      "seccion": "",
-     "resumen": "El Ibex cae un 2,12% por el retroceso de Bankinter tras sus cuentas y la subida de la prima de riesgo francesa."
+     "resumen": "El juez Pedraz da al PSOE 15 días para entregar documentación del caso de las cloacas y le reprocha incumplir sus requerimientos."
     },
     {
-     "titular": "El juez sospecha que las naves de las ONG de Ceuta se utilizaban para distribuir drogas",
-     "url": "https://www.abc.es/espana/juez-investiga-locales-ong-ceuta-distribuia-droga-20261023203921-nt.html",
+     "titular": "La NASA admite que China podría ganar la carrera por volver a la Luna: «Puede llevar astronautas en tres años»",
+     "url": "https://www.abc.es/ciencia/nasa-admite-china-ganar-carrera-volver-luna-20261023211924-nt.html",
      "seccion": "",
-     "resumen": "El juez de Ceuta investiga si las naves de varias ONG se usaban para distribuir drogas."
+     "resumen": "La NASA reconoce que China podría llegar antes a la Luna y que la carrera será más reñida de lo previsto."
     },
     {
-     "titular": "La oposición venezolana pierde el miedo a protestar pese al sabotaje del chavismo",
-     "url": "https://www.abc.es/internacional/marcha-caracas-reclama-regreso-maria-corina-machado-20261022012800-nt.html",
+     "titular": "Los comerciantes de París se blindan ante el temor a nuevos disturbios este fin de semana",
+     "url": "https://www.abc.es/internacional/comerciantes-franceses-blindan-ante-fin-semana-protestas-20261023180223-nt.html",
      "seccion": "",
-     "resumen": "La oposición venezolana convoca una protesta en Caracas pidiendo elecciones, en medio de contramanifestaciones del chavismo."
+     "resumen": "Comerciantes de París blindan sus tiendas ante posibles disturbios en la jornada de movilizaciones del sábado."
+    },
+    {
+     "titular": "Peter Lim vende el 42% del Valencia CF al cofundador de KKR y otros inversores",
+     "url": "https://www.abc.es/deportes/futbol/peter-lim-vende-100-millones-euros-acciones-20261023142848-nt.html",
+     "seccion": "",
+     "resumen": "Peter Lim vende el 42% del Valencia CF a un cofundador de KKR y otros inversores."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Prioriza la campaña electoral y los debates televisivos, junto con la economía y los temas de sociedad. Hace seguimiento de la sanidad animal y de la salud pública en Cataluña.",
+   "resumen": "Abre con el discurso del Rey y de Leonor y con la causa judicial de Zapatero y el caso de los menores de Ceuta. Dedica espacio también a la política catalana y a la campaña de Sánchez en medios no habituales.",
    "noticias": [
     {
-     "titular": "Sánchez y Feijóo reabren la pugna por los debates de la campaña en televisión",
-     "url": "https://www.lavanguardia.com/politica/20261023/11665840/sanchez-feijoo-reabren-pugna-debates-campana-29-n-television.html",
+     "titular": "El Rey advierte ante las elecciones del 29-N que la democracia “no se agota” en las urnas",
+     "url": "https://www.lavanguardia.com/cultura/20261023/11666741/rey-advierte-elecciones-29-n-democracia-agota-urnas.html",
+     "seccion": "Cultura",
+     "resumen": "El Rey sostiene que la democracia no se limita a las urnas y Leonor reclama esperanza ante el desencanto de los jóvenes."
+    },
+    {
+     "titular": "El Tribunal Supremo reclama los nombres de los 163.000 afectados por la 'ley de nietos'",
+     "url": "https://www.lavanguardia.com/politica/20261023/11666385/supremo-reclama-nombros-163-000-afectados-ley-nietos.html",
      "seccion": "Política",
-     "resumen": "PSOE y PP se acusan mutuamente de vetar cadenas de televisión propuestas para los debates electorales."
+     "resumen": "El Supremo reclama a Bolaños y Albares los nombres de unos 163.000 afectados por la 'ley de nietos' y les advierte de responsabilidades penales."
     },
     {
-     "titular": "Los vídeos falsos fabricados con IA irrumpen en la campaña",
-     "url": "https://www.lavanguardia.com/politica/20261023/11665829/campanas-deepfakes.html",
+     "titular": "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación",
+     "url": "https://www.lavanguardia.com/politica/20261023/11666707/fiscalia-pide-anadir-imputacion-zapatero-delito-malversacion.html",
      "seccion": "Política",
-     "resumen": "Un vídeo del PP con imágenes falsas hechas con IA plantea dudas sobre la legitimidad de los formatos electorales."
+     "resumen": "La Fiscalía pide añadir el delito de malversación a la imputación de Zapatero, y el juez pide a Patrimonio la lista de regalos devueltos."
     },
     {
-     "titular": "El precio del petróleo repunta por la inestabilidad en el Golfo y agita las bolsas",
-     "url": "https://www.lavanguardia.com/economia/20261022/11665745/ibex-cae-2-1-pierde-19-000-puntos-repunte-petroleo-dudas-tecnologicas.html",
-     "seccion": "Economía",
-     "resumen": "El petróleo sube por la inestabilidad en el Golfo, el Ibex cae un 2,1% y Meta se desploma más de un 7%."
+     "titular": "Feijóo meterá Igualdad “dentro de otros ministerios” y abrirá el debate del aborto en menores",
+     "url": "https://www.lavanguardia.com/politica/20261023/11666277/feijoo-metera-igualdad-otros-ministerios-abrira-debate-aborto-menores.html",
+     "seccion": "Política",
+     "resumen": "Feijóo plantea integrar Igualdad en otros ministerios y abrir el debate sobre que los padres conozcan la interrupción del embarazo de menores de 16 y 17 años."
     },
     {
-     "titular": "Detectado el virus Shamonda en tres explotaciones de vacuno de leche en Girona",
-     "url": "https://www.lavanguardia.com/vida/20261022/11665772/detectado-virus-shamonda-tres-explotaciones-vacuno-leche-girona.html",
-     "seccion": "Sociedad",
-     "resumen": "El virus Shamonda se ha detectado en tres explotaciones de vacuno de leche en Girona."
+     "titular": "Sánchez aprovechará los formatos mediáticos de gran audiencia tras su “éxito” en ‘La Revuelta’",
+     "url": "https://www.lavanguardia.com/politica/20261023/11666339/sanchez-aprovechara-formatos-mediaticos-gran-audiencia-exito-revuelta.html",
+     "seccion": "Política",
+     "resumen": "Sánchez prevé usar formatos televisivos de gran audiencia para captar nuevos públicos antes del 29-N, tras el resultado de 'La Revuelta'."
     },
     {
-     "titular": "Las encuestas confirman el empate técnico entre Lula y Bolsonaro a tres días de las elecciones",
-     "url": "https://www.lavanguardia.com/internacional/20261023/11665851/encuestas-confirman-empate-tecnico-lula-bolsonaro-tres-dias-elecciones.html",
+     "titular": "Marruecos ignora las peticiones de reagrupación familiar de los menores de Ceuta",
+     "url": "https://www.lavanguardia.com/politica/20261023/11666490/marruecos-ignora-peticiones-reagrupacion-familiar-menores-llegados-ceuta.html",
+     "seccion": "Política",
+     "resumen": "El Gobierno indica que Marruecos no ha respondido a 63 expedientes de reagrupación familiar de menores de Ceuta enviados a Rabat."
+    },
+    {
+     "titular": "Un atentado de móvil racista causa un muerto y cinco heridos cerca de París",
+     "url": "https://www.lavanguardia.com/internacional/20261023/11666365/muerto-cuatro-heridos-disparar-hombre-vehiculo-cerca-paris.html",
      "seccion": "Internacional",
-     "resumen": "Las encuestas sitúan a Lula y Bolsonaro en empate técnico a tres días de las elecciones en Brasil."
+     "resumen": "Un ataque de motivación racista en Trappes causa un muerto y cinco heridos y añade tensión a la protesta del sábado en Francia."
     },
     {
-     "titular": "Millones de ciberataques tras los fallos hallados por la IA en PHP",
-     "url": "https://www.lavanguardia.com/vida/20261023/11665863/millones-ciberataques-fallos-hallados-ia-php.html",
-     "seccion": "Sociedad",
-     "resumen": "Un fallo en PHP detectado con IA provoca millones de ciberataques y cierres de emergencia de servicios."
-    },
-    {
-     "titular": "Un terremoto en el Tíbet deja un mínimo de 16 muertos y 65 heridos",
-     "url": "https://www.lavanguardia.com/internacional/20261023/11666113/terremoto-tibet-deja-minimo-16-muertos-65-heridos.html",
-     "seccion": "Internacional",
-     "resumen": "Un terremoto en el Tíbet deja al menos 16 muertos y 12.500 desplazados."
+     "titular": "Seat detiene la producción de eléctricos en Martorell de forma provisional",
+     "url": "https://www.lavanguardia.com/dinero/20261023/11666723/seat-martorell-produccion-electricos-martorell-fabrica.html",
+     "seccion": "Dinero",
+     "resumen": "Seat para de forma provisional la producción de eléctricos en Martorell por falta de celdas de batería."
     }
    ]
   }
