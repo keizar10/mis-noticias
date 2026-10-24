@@ -1,0 +1,430 @@
+{
+ "fecha": "2026-10-24",
+ "franja": "tarde",
+ "generada": "2026-10-24T20:33+02:00",
+ "con_ia": true,
+ "resumen_dia": "Las protestas juveniles contra el coste de la vida y la precarización dominan la jornada: en Francia superan el medio millón de manifestantes con más de un millar de detenidos, y en Italia y Barcelona se suceden convocatorias con incidentes limitados. En España, la campaña para las generales del 29-N centra la agenda, con Sánchez, Feijóo, Abascal y la alianza ERC-Podemos en actos de precampaña y con la polémica por la 'ley de nietos' en el Supremo. En Brasil, la segunda vuelta aparece técnicamente empatada tras el último debate entre Lula y Flávio Bolsonaro.",
+ "temas_comunes": [
+  {
+   "titulo": "Protestas juveniles en Francia",
+   "resumen": "Cientos de miles de personas se manifiestan en Francia contra el coste de la vida y la precarización, con un fuerte despliegue policial y más de mil detenidos según el Ministerio del Interior. Hubo también un atentado mortal de signo racista en Trappes.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya el pulso de medio millón de personas a Macron pese al despliegue y el balance del ministro del Interior, con menos destrozos que la semana anterior.",
+     "noticias": [
+      {
+       "titular": "Medio millón de personas mantiene el pulso a Macron en toda Francia pese al despliegue policial",
+       "url": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
+       "seccion": "Francia"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca que la ira social supera el blindaje policial, con más de 400.000 manifestantes que desafían prohibiciones y cargas.",
+     "noticias": [
+      {
+       "titular": "La ira social desborda al blindaje policial en Francia: \"Todo el mundo odia a la Policía\"",
+       "url": "https://www.elmundo.es/internacional/2026/10/24/6adcf5e4fc6c8337488b4580.html",
+       "seccion": "Francia"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Presenta el 'Acto 2' de movilizaciones con cientos de miles de personas, mayoritariamente jóvenes, y los disturbios en retroceso.",
+     "noticias": [
+      {
+       "titular": "Cientos de miles de franceses vuelven a tomar la calle bajo una fuerte vigilancia policial",
+       "url": "https://www.abc.es/internacional/cientos-miles-personas-vuelven-tomar-calles-francia-20261024184753-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Pone el foco en el control policial de la protesta y en el atentado de Trappes, y vincula la violencia con el voto a la ultraderecha.",
+     "noticias": [
+      {
+       "titular": "La policía francesa logra controlar la protesta",
+       "url": "https://www.lavanguardia.com/internacional/20261024/11667249/policia-francesa-logra-controlar-protesta.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Un atentado mortal de signo racista sacude Francia en plena ola de protestas",
+       "url": "https://www.lavanguardia.com/internacional/20261024/11666807/atentado-mortal-signo-racista-sacude-francia-plena-ola-protestas.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Francia: la izquierda en las calles, la ultraderecha en las urnas",
+       "url": "https://www.lavanguardia.com/internacional/20261024/11666799/francia-izquierda-calles-ultraderecha-urnas.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Protestas juveniles en Italia y Barcelona",
+   "resumen": "Italia y Barcelona registran convocatorias juveniles contra el coste de la vida con despliegue policial. En Milán fue detenido el presunto promotor de las protestas en redes, y en Barcelona hubo disturbios en el centro.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Describe una jornada sin incidentes graves en Italia y da el dato de la detención de un periodista de origen marroquí.",
+     "noticias": [
+      {
+       "titular": "La temida jornada de protestas en Italia transcurre sin incidentes y con la detención del presunto promotor en redes de los disturbios",
+       "url": "https://elpais.com/internacional/2026-10-24/la-temida-jornada-de-protestas-en-italia-transcurre-sin-incidentes-y-con-la-detencion-del-presunto-promotor-en-redes-de-los-disturbios.html",
+       "seccion": "Italia"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge las protestas de Milán con 1.400 agentes y las identificaciones en Roma, y los disturbios de Barcelona con mobiliario urbano dañado.",
+     "noticias": [
+      {
+       "titular": "Miles de jóvenes protestan en Milán contra el coste de la vida mientras la Policía identifica a más de 200 personas en Roma",
+       "url": "https://www.elmundo.es/internacional/2026/10/24/6adcd30fe85ece54528b458a.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Disturbios, cargas, quema de contenedores y tiendas cerradas en el centro de Barcelona por una protesta de jóvenes convocada por redes sociales",
+       "url": "https://www.elmundo.es/cataluna/2026/10/24/6adcf26cfdddff1e2a8b4599.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Informa de la detención en Milán del presunto cerebro de las protestas y de la dispersión de una concentración en Plaça Catalunya.",
+     "noticias": [
+      {
+       "titular": "Detenido en Milán el presunto cerebro de las protestas juveniles en Italia",
+       "url": "https://www.lavanguardia.com/internacional/20261024/11667247/detenido-milan-presunto-cerebro-protestas-juveniles-italia.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Mossos y Guàrdia Urbana dispersan una concentración “contra el sistema” en Plaça Catalunya",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html",
+       "seccion": "Barcelona"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Campaña electoral de las generales del 29-N",
+   "resumen": "Los partidos inician la precampaña para las elecciones del 29 de noviembre con actos en Granada, Vigo, Palma y Barcelona. Los temas son aborto, fiscalidad, corrupción y vivienda.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge los discursos de Sánchez en Granada, Feijóo en Vigo y el acto de ERC y Podemos en Barcelona, con foco en la corrupción y en la protección del aborto.",
+     "noticias": [
+      {
+       "titular": "Sánchez reivindica “la España de Lorca” frente a la “involución” del PP y Vox",
+       "url": "https://elpais.com/espana/2026-10-24/sanchez-reivindica-la-espana-de-lorca-frente-a-la-involucion-del-pp-y-vox.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Feijóo advierte al PSOE de que no va a “indultar corruptos” si gobierna: “Me encargaré de que paguen por todo”",
+       "url": "https://elpais.com/espana/2026-10-24/feijoo-advierte-al-psoe-de-que-no-va-a-indultar-corruptos-si-gobierna-me-encargare-de-que-paguen-por-todo.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Montero y Rufián: “Una izquierda que se presenta en la misma papeleta con el PSOE no va a arreglar los problemas”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-24/montero-y-rufian-una-izquierda-que-se-presenta-en-la-misma-papeleta-con-el-psoe-no-va-a-arreglar-los-problemas.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Enmarca la campaña en la 'motosierra' de Vox y las 'tijeras' del PP, y en la alianza ERC-Podemos y las acusaciones cruzadas.",
+     "noticias": [
+      {
+       "titular": "Pedro Sánchez se enfunda la camiseta del amor y agita el miedo a las \"tijeras\" del PP y a la \"motosierra\" de Vox",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adc76dae9cf4aec178b4574.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Feijóo llama a \"derribar el muro de Sánchez\" el 29-N y advierte al PSOE de que no va a \"indultar a los corruptos\": \"Me encargaré de que paguen por todo\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adc870f21efa0263a8b4570.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Montero y Rufián presumen de alianza entre ERC y Podemos y recrudecen sus ataques contra todos: \"El frente somos nosotros\"",
+       "url": "https://www.elmundo.es/cataluna/2026/10/24/6adc985b21efa088288b45b4.html",
+       "seccion": "Artículos Cristina Rubio"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la petición de Abascal de una gran mayoría para llegar a la Presidencia y la promesa fiscal de Feijóo.",
+     "noticias": [
+      {
+       "titular": "Santiago Abascal reclama «una gran mayoría» para «un gran cambio» en España",
+       "url": "https://www.abc.es/espana/baleares/abascal-palma-presento-vicepresidente-ganar-elecciones-20261024135525-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Feijóo promete una amplia rebaja fiscal a jóvenes, familias y autónomos",
+       "url": "https://www.abc.es/espana/galicia/feijoo-promete-amplia-rebaja-fiscal-merece-jovenes-20261024133011-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge el tándem Rufián-Montero, la posición de Junts frente a ERC y la postura de Orriols sobre su voto a Vox.",
+     "noticias": [
+      {
+       "titular": "Rufián y Montero estrenan su tándem con reproches a un PSOE al que quieren “someter” y al Frente Amplio",
+       "url": "https://www.lavanguardia.com/politica/elecciones/20261024/11667190/rufian-montero-estrenan-tandem-reproches-psoe-quieren-someter-frente-amplio.html",
+       "seccion": "Elecciones"
+      },
+      {
+       "titular": "Nogueras afirma que Junts es el “único partido de obediencia catalana” el 29-N por la alianza ERC-Podemos",
+       "url": "https://www.lavanguardia.com/politica/elecciones/20261024/11667231/nogueras-afirma-junts-unico-partido-obediencia-catalana-29-n-alianza-erc.html",
+       "seccion": "Elecciones"
+      },
+      {
+       "titular": "Sílvia Orriols no ve contradicción en votar a Aliança en Catalunya y Vox en las generales",
+       "url": "https://www.lavanguardia.com/politica/20261024/11667229/silvia-orriols-ve-contradiccion-votar-alianca-catalunya-vox-generales.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Feijóo advierte al PSOE de que no va a “indultar a los corruptos”: “Me encargaré de que paguen por todo”",
+       "url": "https://www.lavanguardia.com/politica/20261024/11667203/feijoo-advierte-psoe-indultar-corruptos-me-encargare-paguen.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la movilización en Francia y Europa, la precariedad económica y la campaña electoral en España, con atención a la situación en Brasil. Mantiene además noticias de sociedad y cultura.",
+   "noticias": [
+    {
+     "titular": "Medio millón de personas mantiene el pulso a Macron en toda Francia pese al despliegue policial",
+     "url": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
+     "seccion": "Francia",
+     "resumen": "Medio millón de manifestantes en Francia pese a un despliegue policial que ha dejado más de mil detenidos."
+    },
+    {
+     "titular": "¿Dónde y por qué se protesta en Europa? Las reivindicaciones de los jóvenes de cada país",
+     "url": "https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html",
+     "seccion": "Europa",
+     "resumen": "Repaso de las más de 170 movilizaciones convocadas en Europa en poco más de un mes y de sus motivos comunes."
+    },
+    {
+     "titular": "La temida jornada de protestas en Italia transcurre sin incidentes y con la detención del presunto promotor en redes de los disturbios",
+     "url": "https://elpais.com/internacional/2026-10-24/la-temida-jornada-de-protestas-en-italia-transcurre-sin-incidentes-y-con-la-detencion-del-presunto-promotor-en-redes-de-los-disturbios.html",
+     "seccion": "Italia",
+     "resumen": "La jornada de protestas en Italia transcurre sin incidentes graves tras la detención de un presunto promotor en redes."
+    },
+    {
+     "titular": "Sánchez reivindica “la España de Lorca” frente a la “involución” del PP y Vox",
+     "url": "https://elpais.com/espana/2026-10-24/sanchez-reivindica-la-espana-de-lorca-frente-a-la-involucion-del-pp-y-vox.html",
+     "seccion": "España",
+     "resumen": "Sánchez defiende en Granada la protección del aborto y promete actuar en vivienda."
+    },
+    {
+     "titular": "Feijóo advierte al PSOE de que no va a “indultar corruptos” si gobierna: “Me encargaré de que paguen por todo”",
+     "url": "https://elpais.com/espana/2026-10-24/feijoo-advierte-al-psoe-de-que-no-va-a-indultar-corruptos-si-gobierna-me-encargare-de-que-paguen-por-todo.html",
+     "seccion": "España",
+     "resumen": "Feijóo promete no indultar a corruptos y pide a Zapatero que pida perdón, citando sumarios e imputados del PSOE."
+    },
+    {
+     "titular": "¿Puede Lula remontar a Flávio Bolsonaro? Esto es lo que dicen las encuestas",
+     "url": "https://elpais.com/america/2026-10-24/puede-lula-remontar-a-flavio-bolsonaro-esto-es-lo-que-dicen-las-encuestas.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "Las encuestas dan ventaja a Flávio Bolsonaro, aunque el modelo del diario le otorga la victoria en siete de cada diez simulaciones."
+    },
+    {
+     "titular": "Los ‘milquini’, los nuevos mileuristas en la economía de 2026: “El ocio lo reducimos al mínimo”",
+     "url": "https://elpais.com/economia/2026-10-24/los-milquini-los-nuevos-mileuristas-en-la-economia-de-2026-el-ocio-lo-reducimos-al-minimo.html",
+     "seccion": "Economía",
+     "resumen": "Reportaje sobre los 'milquini' y la pérdida de poder adquisitivo de los salarios netos de 1.500 euros."
+    },
+    {
+     "titular": "Miles de personas se manifiestan en Madrid en defensa del sistema de pensiones: “¡No se venden!”",
+     "url": "https://elpais.com/economia/2026-10-24/miles-de-personas-se-manifiestan-en-madrid-en-defensa-del-sistema-de-pensiones-no-se-venden.html",
+     "seccion": "Economía",
+     "resumen": "Miles de personas marchan en Madrid en defensa de las pensiones, con una afluencia que los convocantes elevan al doble de lo habitual."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el acento en la conflictividad social en Francia y en la campaña del 29-N, con una mirada a la seguridad y a la corrupción. Completa la portada con asuntos internacionales y de ocio.",
+   "noticias": [
+    {
+     "titular": "La ira social desborda al blindaje policial en Francia: \"Todo el mundo odia a la Policía\"",
+     "url": "https://www.elmundo.es/internacional/2026/10/24/6adcf5e4fc6c8337488b4580.html",
+     "seccion": "Francia",
+     "resumen": "Más de 400.000 manifestantes en Francia desafían las prohibiciones y las cargas policiales."
+    },
+    {
+     "titular": "Miles de jóvenes protestan en Milán contra el coste de la vida mientras la Policía identifica a más de 200 personas en Roma",
+     "url": "https://www.elmundo.es/internacional/2026/10/24/6adcd30fe85ece54528b458a.html",
+     "seccion": "",
+     "resumen": "En Milán, 1.400 agentes vigilan una protesta contra el coste de la vida, mientras Roma registra 200 identificaciones."
+    },
+    {
+     "titular": "Feijóo llama a \"derribar el muro de Sánchez\" el 29-N y advierte al PSOE de que no va a \"indultar a los corruptos\": \"Me encargaré de que paguen por todo\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adc870f21efa0263a8b4570.html",
+     "seccion": "Política",
+     "resumen": "Feijóo llama a derribar el 'muro de Sánchez' y promete reforzar a la Policía y la Guardia Civil."
+    },
+    {
+     "titular": "Pedro Sánchez se enfunda la camiseta del amor y agita el miedo a las \"tijeras\" del PP y a la \"motosierra\" de Vox",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adc76dae9cf4aec178b4574.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Sánchez agita el miedo a los recortes del PP y de Vox y reclama blindar el aborto en la Constitución."
+    },
+    {
+     "titular": "Ex trabajadores de Más Madrid denuncian a Tesh Sidi, portavoz en el Congreso y número dos del Frente Amplio, por \"acoso laboral\"",
+     "url": "https://www.elmundo.es/madrid/2026/10/24/6adc934afc6c8351788b456e.html",
+     "seccion": "Artículos Vicente Coll",
+     "resumen": "Ex trabajadores de Más Madrid denuncian a Tesh Sidi por presunto acoso laboral."
+    },
+    {
+     "titular": "El reto \"inasumible\" y la \"paliza brutal\" de poner nombre a todos los 'nietos': la mitad de los consulados aún no ha aportado información",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adbb2d321efa03e428b45c4.html",
+     "seccion": "Artículos Manuel Marraco",
+     "resumen": "Los consulados no han aportado aún los datos de los nietos y Albares y Bolaños ven difícil cumplir el requerimiento."
+    },
+    {
+     "titular": "Abusos sexuales, mentiras y líneas rojas: el brutal anuncio que ha sacudido la campaña en EEUU",
+     "url": "https://www.elmundo.es/internacional/2026/10/23/6adb5c4ee85ecedf338b459a.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Los republicanos usan a la madre de una candidata en Ohio para desacreditarla, en una campaña de EEUU que se vuelve contra ellos."
+    },
+    {
+     "titular": "Miles de pensionistas salen a la calle a exigir subidas de las pensiones del 6%, mejores salarios y acceso a la vivienda",
+     "url": "https://www.elmundo.es/economia/2026/10/24/6adcc9b421efa06d528b4576.html",
+     "seccion": "",
+     "resumen": "Pensionistas salen a la calle en varias ciudades para exigir subidas del 6% y rechazar la privatización del sistema."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la campaña española, con los actos de Abascal y Feijóo, y la polémica judicial por la 'ley de nietos'. Dedica espacio también a sucesos y a la cultura.",
+   "noticias": [
+    {
+     "titular": "Santiago Abascal reclama «una gran mayoría» para «un gran cambio» en España",
+     "url": "https://www.abc.es/espana/baleares/abascal-palma-presento-vicepresidente-ganar-elecciones-20261024135525-nt.html",
+     "seccion": "",
+     "resumen": "Abascal aspira a la Presidencia del Gobierno y no a la Vicepresidencia en un eventual gobierno de coalición."
+    },
+    {
+     "titular": "Feijóo promete una amplia rebaja fiscal a jóvenes, familias y autónomos",
+     "url": "https://www.abc.es/espana/galicia/feijoo-promete-amplia-rebaja-fiscal-merece-jovenes-20261024133011-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo anuncia una amplia rebaja fiscal para jóvenes, familias y autónomos."
+    },
+    {
+     "titular": "Sólo 91 de los 31.390 expedientes revisados cumplen los requisitos de la 'ley de nietos'",
+     "url": "https://www.abc.es/espana/solo-31000-expedientes-nietos-bien-tramitados-20261024231709-nt.html",
+     "seccion": "",
+     "resumen": "Solo 91 de los 31.390 expedientes revisados cumplen los requisitos de la 'ley de nietos', según informes aportados al Supremo."
+    },
+    {
+     "titular": "Albares y Bolaños se enfrentan a inhabilitación y multa por posible desobediencia",
+     "url": "https://www.abc.es/espana/sala-tercera-amenaza-pasar-segunda-posible-desobediencia-20261024022139-nt.html",
+     "seccion": "",
+     "resumen": "El Supremo amenaza a Albares y Bolaños con multa y abre la puerta a una posible imputación por desobediencia."
+    },
+    {
+     "titular": "Cientos de miles de franceses vuelven a tomar la calle bajo una fuerte vigilancia policial",
+     "url": "https://www.abc.es/internacional/cientos-miles-personas-vuelven-tomar-calles-francia-20261024184753-nt.html",
+     "seccion": "",
+     "resumen": "Cientos de miles de franceses protestan en el 'Acto 2' bajo fuerte vigilancia policial."
+    },
+    {
+     "titular": "El Gobierno avisa a la Policía minutos antes de las manifestaciones",
+     "url": "https://www.abc.es/espana/gobierno-informa-policia-manifestaciones-solo-minutos-antelacion-20261024020659-nt.html",
+     "seccion": "",
+     "resumen": "Los agentes de la UIP fueron avisados con 15 minutos de antelación de una protesta en Madrid, según denuncian."
+    },
+    {
+     "titular": "Lula y Bolsonaro llegan técnicamente empatados a la segunda vuelta de las elecciones en Brasil",
+     "url": "https://www.abc.es/internacional/lula-bolsonaro-llegan-tecnicamente-empatados-segunda-vuelta-20261024172132-nt.html",
+     "seccion": "",
+     "resumen": "Lula y Flávio Bolsonaro llegan técnicamente empatados a la segunda vuelta, la más reñida de la historia de Brasil."
+    },
+    {
+     "titular": "Denuncian a Tesh Sidi, número dos del Frente Amplio en Madrid, por acoso laboral",
+     "url": "https://www.abc.es/espana/denuncian-tesh-sidi-numero-dos-frente-amplio-20261024195734-nt.html",
+     "seccion": "",
+     "resumen": "Denuncia anónima por acoso laboral contra Tesh Sidi, número dos del Frente Amplio por Madrid."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza la situación en Francia, con el foco en la violencia y la ultraderecha, y la política catalana y la campaña del 29-N. Incluye además sucesos en Barcelona y en l'Hospitalet.",
+   "noticias": [
+    {
+     "titular": "La policía francesa logra controlar la protesta",
+     "url": "https://www.lavanguardia.com/internacional/20261024/11667249/policia-francesa-logra-controlar-protesta.html",
+     "seccion": "Internacional",
+     "resumen": "La policía francesa controla la protesta, con incidentes limitados y medidas de seguridad excepcionales."
+    },
+    {
+     "titular": "Un atentado mortal de signo racista sacude Francia en plena ola de protestas",
+     "url": "https://www.lavanguardia.com/internacional/20261024/11666807/atentado-mortal-signo-racista-sacude-francia-plena-ola-protestas.html",
+     "seccion": "Internacional",
+     "resumen": "Un atentado mortal de signo racista en Trappes añade tensión a la jornada de protestas."
+    },
+    {
+     "titular": "Francia: la izquierda en las calles, la ultraderecha en las urnas",
+     "url": "https://www.lavanguardia.com/internacional/20261024/11666799/francia-izquierda-calles-ultraderecha-urnas.html",
+     "seccion": "Internacional",
+     "resumen": "La violencia del movimiento estudiantil podría alimentar el voto a la ultraderecha, como ocurrió en mayo del 68."
+    },
+    {
+     "titular": "Detenido en Milán el presunto cerebro de las protestas juveniles en Italia",
+     "url": "https://www.lavanguardia.com/internacional/20261024/11667247/detenido-milan-presunto-cerebro-protestas-juveniles-italia.html",
+     "seccion": "Internacional",
+     "resumen": "Detenido en Milán el presunto cerebro de las protestas juveniles, investigado por incitación a delinquir."
+    },
+    {
+     "titular": "Sánchez alinea a Feijóo y Abascal con Trump, Milei y Le Pen en “el club de los tijeretazos”",
+     "url": "https://www.lavanguardia.com/politica/20261024/11667195/sanchez-alinea-feijoo-abascal-trump-milei-le-pen-club-tijeretazos.html",
+     "seccion": "Política",
+     "resumen": "Sánchez compara a Feijóo y Abascal con Trump, Milei y Le Pen en el 'club de los tijeretazos'."
+    },
+    {
+     "titular": "Mossos y Guàrdia Urbana dispersan una concentración “contra el sistema” en Plaça Catalunya",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html",
+     "seccion": "Barcelona",
+     "resumen": "Mossos y Guàrdia Urbana dispersan una concentración en Plaça Catalunya, con comercios cerrados y piedras lanzadas."
+    },
+    {
+     "titular": "Un incendio, probablemente provocado, arrasa el ‘Nido del Águila’ de Hitler",
+     "url": "https://www.lavanguardia.com/internacional/20261024/11667088/detenido-alemania-sospechoso-incendiar-nido-aguila-hitler.html",
+     "seccion": "Internacional",
+     "resumen": "Un incendio, probablemente provocado, arrasa el Nido del Águila de Hitler en los Alpes."
+    },
+    {
+     "titular": "La lucha sin salida de Olga, la mujer que se quitó la vida tras su desahucio en l'Hospitalet",
+     "url": "https://www.lavanguardia.com/local/baix-llobregat/20261024/11666706/lucha-salida-olga-l-hospitalet.html",
+     "seccion": "L'H y Baix Llobregat",
+     "resumen": "Vecinos de l'Hospitalet homenajean a Olga, que se quitó la vida tras su desahucio."
+    }
+   ]
+  }
+ ]
+}
