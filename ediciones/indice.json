@@ -1,5 +1,10 @@
 [
  {
+  "archivo": "ediciones/2026-10-25-tarde.json",
+  "fecha": "2026-10-25",
+  "franja": "tarde"
+ },
+ {
   "archivo": "ediciones/2026-10-25-manana.json",
   "fecha": "2026-10-25",
   "franja": "mañana"
