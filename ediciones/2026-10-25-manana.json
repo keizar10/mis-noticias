@@ -1,0 +1,452 @@
+{
+ "fecha": "2026-10-25",
+ "franja": "mañana",
+ "generada": "2026-10-25T11:15+01:00",
+ "con_ia": true,
+ "resumen_dia": "Las elecciones generales del 29-N dominan la portada en los cuatro diarios, con la campaña del PSOE y del PP y las elecciones de Brasil como ejes. Los disturbios juveniles en Barcelona, que se inspiran en las protestas de Francia, con más de un centenar de detenidos, aparecen en casi todos. También destacan la situación política en Serbia e Israel y las elecciones de medio mandato en Estados Unidos.",
+ "temas_comunes": [
+  {
+   "titulo": "Campaña de las elecciones generales del 29-N",
+   "resumen": "Las elecciones generales se celebrarán el 29 de noviembre. Pedro Sánchez y Feijóo, con Vox en el centro del debate, marcan la campaña con entrevistas, anuncios y recursos de comunicación.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca las declaraciones de Sánchez sobre el PP con Vox y sobre el caso Ábalos, y la diferencia de estrategias de comunicación de PSOE y PP.",
+     "noticias": [
+      {
+       "titular": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Sánchez y Feijóo, por carriles paralelos",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/sanchez-y-feijoo-por-carriles-paralelos.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge las palabras de Cayetana Álvarez de Toledo contra Sánchez y la estrategia del PSOE de humanizar al presidente en programas de entretenimiento.",
+     "noticias": [
+      {
+       "titular": "Cayetana Álvarez de Toledo: \"Sánchez quiere división, que suba Vox para que pierda el PP\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adcd6d0e9cf4a2e028b45a4.html",
+       "seccion": "Cayetana Álvarez de Toledo"
+      },
+      {
+       "titular": "La otra campaña para \"humanizar\" a Sánchez: \"Tiene sentido del humor y ese deje chulo madrileño\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/25/6adcd6dfe9cf4a523f8b456d.html",
+       "seccion": "PSOE"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Subraya el paquete de medidas sociales anunciado por el Gobierno en el BOE en plena campaña.",
+     "noticias": [
+      {
+       "titular": "Sánchez se inventa una treintena de medidas sociales en su búsqueda desesperada del voto",
+       "url": "https://www.abc.es/espana/sanchez-inventa-treintena-medidas-sociales-busqueda-desesperada-20261023024126-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Entrevista a Abascal sobre identidad catalana e inmigración, y reflexiona sobre el papel de la IA en estas elecciones.",
+     "noticias": [
+      {
+       "titular": "Santiago Abascal: “Defiendo la identidad catalana, amenazada por el califato”",
+       "url": "https://www.lavanguardia.com/politica/20261025/11667297/santiago-abascal-expulsion-inmigrantes-hacerse-caso-caso.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "¿Quién ganará el 29-N?",
+       "url": "https://www.lavanguardia.com/opinion/20261025/11667374/ganara-29-n.html",
+       "seccion": "Opinión"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Disturbios juveniles en Barcelona",
+   "resumen": "Una convocatoria en redes sociales derivó en disturbios en el centro de Barcelona, con saqueos, barricadas y más de un centenar de detenidos, la mayoría menores. Los hechos se producen tras las protestas juveniles de Francia.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Describe los disturbios, los saqueos y la proporción de menores entre los detenidos.",
+     "noticias": [
+      {
+       "titular": "Disturbios, saqueos, quema de contenedores y destrozos en el centro de Barcelona tras una protesta juvenil violenta con más de un centenar de detenidos",
+       "url": "https://www.elmundo.es/cataluna/2026/10/24/6adcf26cfdddff1e2a8b4599.html",
+       "seccion": "Artículos Cristina Rubio"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la escena de campo de batalla, las barricadas y los casi 130 detenidos, con más de la mitad menores.",
+     "noticias": [
+      {
+       "titular": "Más de un centenar de detenidos, la mitad de ellos menores, por la protesta antisistema en Barcelona",
+       "url": "https://www.abc.es/espana/cataluna/disturbios-centro-barcelona-marcha-sistema-20261024202028-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Cubre el suceso desde varios ángulos: cifras de detenidos, origen de la convocatoria por redes, testimonios de jóvenes y la queja del Gremi de Restauració por la falta de policía.",
+     "noticias": [
+      {
+       "titular": "Al menos 128 detenidos, más de la mitad de ellos menores, tras los graves disturbios en Barcelona",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "Quiénes eran y cómo se organizaron los alborotadores",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261025/11667600/quienes-como-organizaron-alborotadores-ayer-barcelona.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "Jóvenes de los disturbios en Barcelona: “Nos aburríamos en casa”",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261024/11667352/aburriamos-casa.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "El Gremi de Restauració atribuye los disturbios a una evaluación incorrecta y a la falta de policía",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261025/11667609/gremi-restauracio-atribuye-disturbios-evaluacion-incorrecta-riesgo-falta-policia.html",
+       "seccion": "Barcelona"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones en Brasil entre Lula y Flávio Bolsonaro",
+   "resumen": "Brasil celebra unas elecciones presidenciales muy disputadas entre Lula da Silva, que busca un cuarto mandato, y Flávio Bolsonaro, senador de la familia Bolsonaro.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Presenta la disputa como una elección decisiva y se fija en la trayectoria de Lula y en la investigación por corrupción de Flávio Bolsonaro.",
+     "noticias": [
+      {
+       "titular": "Brasil decide entregar todo el poder a los Bolsonaro o dar una última oportunidad a Lula",
+       "url": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html",
+       "seccion": "Elecciones Brasil"
+      },
+      {
+       "titular": "Lula se asoma a otro triunfo épico o al abismo",
+       "url": "https://elpais.com/america/2026-10-24/lula-se-asoma-al-abismo-o-a-otro-triunfo-epico.html",
+       "seccion": "Elecciones Brasil"
+      },
+      {
+       "titular": "Flávio Bolsonaro, el heredero que acaricia la vuelta al poder del clan ultra",
+       "url": "https://elpais.com/america/2026-10-24/flavio-bolsonaro-el-heredero-que-acaricia-la-vuelta-al-poder-del-clan.html",
+       "seccion": "Elecciones Brasil"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Compara las propuestas de ambos candidatos, con la 'mano dura' contra la delincuencia de Flávio Bolsonaro frente a las políticas sociales de Lula.",
+     "noticias": [
+      {
+       "titular": "Elecciones en Brasil: dos ideas de país para la gran potencia de América Latina",
+       "url": "https://www.elmundo.es/internacional/2026/10/25/6adcd212e9cf4a41288b456f.html",
+       "seccion": "Lula da silva"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Repasa el origen familiar de los Bolsonaro, desde su llegada a Brasil desde Italia.",
+     "noticias": [
+      {
+       "titular": "La cuna del clan Bolsonaro: de la pobreza en Italia al poder en Brasil",
+       "url": "https://www.abc.es/internacional/cuna-clan-bolsonaro-pobreza-italia-crear-saga-20261016023422-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Protestas juveniles en Francia",
+   "resumen": "Las protestas estudiantiles en Francia continúan con grandes movilizaciones y episodios de violencia, y sirven de referencia para los disturbios de Barcelona.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Viaja al departamento de Seine-Saint-Denis, la provincia más pobre y con más inmigrantes, para explicar el origen de la protesta.",
+     "noticias": [
+      {
+       "titular": "Viaje a la zona cero de la revuelta en Francia",
+       "url": "https://elpais.com/internacional/2026-10-25/viaje-a-la-zona-cero-de-la-revuelta-en-francia.html",
+       "seccion": "Protestas sociales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la cifra de más de 400.000 manifestantes y las cargas policiales.",
+     "noticias": [
+      {
+       "titular": "La violencia política desborda el blindaje de seguridad en Francia",
+       "url": "https://www.elmundo.es/internacional/2026/10/24/6adcf5e4fc6c8337488b4580.html",
+       "seccion": "Francia"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enmarca la situación en una Europa con ola de nihilismo violento y ofrece una guía de análisis sobre Francia.",
+     "noticias": [
+      {
+       "titular": "Siete argumentos para entender (o no) Francia",
+       "url": "https://www.lavanguardia.com/internacional/20261025/11667230/protestas-francia.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "España mantiene una calma tensa en una Europa en estado de alarma",
+       "url": "https://www.lavanguardia.com/politica/20261025/11667563/espana-mantiene-calma-tensa-europa-alarma.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones de medio mandato en Estados Unidos",
+   "resumen": "Las elecciones legislativas de Estados Unidos, previstas para el 3 de noviembre, centran la atención en la impopularidad de Trump y en el ataque de Obama a su gestión.",
+   "medios": [
+    {
+     "medio": "abc",
+     "enfoque": "Recoge el primer mitin de Obama en la campaña y sus duras críticas a Trump.",
+     "noticias": [
+      {
+       "titular": "Obama desembarca en las 'midterms' con un ataque feroz a Trump por su «caos, crueldad y corrupción»",
+       "url": "https://www.abc.es/internacional/obama-desembarca-midterms-ataque-feroz-trump-caos-20261025091308-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Explica qué son las midterms y pone el foco en un país dividido ante la cita electoral.",
+     "noticias": [
+      {
+       "titular": "¿Qué son las 'midterms' y por qué Trump se juega el margen para gobernar?",
+       "url": "https://www.lavanguardia.com/internacional/20261025/11667264/que-son-midterms-trump-juega-margen-gobernar.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Nostalgia de un Estados Unidos feliz",
+       "url": "https://www.lavanguardia.com/internacional/20261025/11667256/nostalgia-estados-unidos-feliz.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña electoral española, con la entrevista a Sánchez y el análisis de las estrategias de PSOE y PP, y las elecciones de Brasil. Dedica también varias piezas a la protesta en Francia y a la política internacional, como Serbia e Israel.",
+   "noticias": [
+    {
+     "titular": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Sánchez descarta que un Gobierno del PP con Vox sea alternancia y reconoce como error no haber detectado la corrupción de Ábalos."
+    },
+    {
+     "titular": "Brasil decide entregar todo el poder a los Bolsonaro o dar una última oportunidad a Lula",
+     "url": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "Brasil elige entre Flávio Bolsonaro y Lula en una contienda muy ajustada."
+    },
+    {
+     "titular": "Sánchez y Feijóo, por carriles paralelos",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/sanchez-y-feijoo-por-carriles-paralelos.html",
+     "seccion": "España",
+     "resumen": "PP y Vox usan vídeos generados con IA, mientras el PSOE recurre a programas de entretenimiento para mejorar su imagen."
+    },
+    {
+     "titular": "Viaje a la zona cero de la revuelta en Francia",
+     "url": "https://elpais.com/internacional/2026-10-25/viaje-a-la-zona-cero-de-la-revuelta-en-francia.html",
+     "seccion": "Protestas sociales",
+     "resumen": "Reportaje desde Seine-Saint-Denis, el departamento más pobre de Francia, donde nace buena parte de la protesta estudiantil."
+    },
+    {
+     "titular": "Los estudiantes de Serbia disputan el poder a Vucic en las urnas tras casi dos años de protestas",
+     "url": "https://elpais.com/internacional/2026-10-25/los-estudiantes-de-serbia-disputan-el-poder-a-vucic-en-las-urnas-tras-casi-dos-anos-de-protestas.html",
+     "seccion": "Serbia",
+     "resumen": "En Serbia, los estudiantes compiten con Vucic en las urnas tras casi dos años de protestas; él dimitió para presentarse a primer ministro."
+    },
+    {
+     "titular": "Benjamín Netanyahu, un superviviente político aferrado a las guerras para ganar una vez más",
+     "url": "https://elpais.com/internacional/2026-10-25/benjamin-netanyahu-un-superviviente-politico-aferrado-a-las-guerras-para-ganar-una-vez-mas.html",
+     "seccion": "Benjamin Netanyahu",
+     "resumen": "Netanyahu llega a las elecciones israelíes en segunda posición, con una orden de arresto internacional en su contra y 19 años en el poder."
+    },
+    {
+     "titular": "Vox mete la “motosierra” en la cultura",
+     "url": "https://elpais.com/cultura/2026-10-25/vox-mete-la-motosierra-en-la-cultura.html",
+     "seccion": "España",
+     "resumen": "Vox y PP impulsan una visión restrictiva de la cultura ligada a la tradición y el patriotismo, según el análisis del diario."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la campaña del 29-N, con declaraciones de Cayetana Álvarez de Toledo y la estrategia del PSOE en televisión. También incluye los disturbios de Barcelona, la violencia en Francia y el caso del hermano de Sánchez.",
+   "noticias": [
+    {
+     "titular": "Cayetana Álvarez de Toledo: \"Sánchez quiere división, que suba Vox para que pierda el PP\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adcd6d0e9cf4a2e028b45a4.html",
+     "seccion": "Cayetana Álvarez de Toledo",
+     "resumen": "Álvarez de Toledo acusa a Sánchez de buscar división y de alentar el enfrentamiento si pierde el Gobierno, y será número dos del PP por Madrid."
+    },
+    {
+     "titular": "Disturbios, saqueos, quema de contenedores y destrozos en el centro de Barcelona tras una protesta juvenil violenta con más de un centenar de detenidos",
+     "url": "https://www.elmundo.es/cataluna/2026/10/24/6adcf26cfdddff1e2a8b4599.html",
+     "seccion": "Artículos Cristina Rubio",
+     "resumen": "Disturbios y saqueos en Barcelona tras una protesta juvenil, con más de cien detenidos, más de la mitad menores."
+    },
+    {
+     "titular": "La violencia política desborda el blindaje de seguridad en Francia",
+     "url": "https://www.elmundo.es/internacional/2026/10/24/6adcf5e4fc6c8337488b4580.html",
+     "seccion": "Francia",
+     "resumen": "Más de 400.000 personas se manifiestan en Francia pese a las prohibiciones y a las cargas policiales."
+    },
+    {
+     "titular": "El Tribunal de Cuentas abre diligencias para la recuperación de 400.000 euros pagados irregularmente al hermano de Sánchez y su amigo en Badajoz",
+     "url": "https://www.elmundo.es/espana/2026/10/25/6adcd78fe9cf4a40228b4575.html",
+     "seccion": "PP",
+     "resumen": "El Tribunal de Cuentas inicia diligencias para recuperar 400.000 euros pagados al hermano de Sánchez y a un amigo en Badajoz."
+    },
+    {
+     "titular": "La otra campaña para \"humanizar\" a Sánchez: \"Tiene sentido del humor y ese deje chulo madrileño\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/25/6adcd6dfe9cf4a523f8b456d.html",
+     "seccion": "PSOE",
+     "resumen": "El PSOE busca humanizar a Sánchez en programas de entretenimiento y considera que la respuesta de la audiencia ha sido positiva."
+    },
+    {
+     "titular": "Entramos en el temible barrio de El Príncipe: \"Hay gente sacando tajada\" del asalto masivo a Ceuta",
+     "url": "https://www.elmundo.es/cronica/2026/10/25/6add19aee9cf4a3f358b4572.html",
+     "seccion": "Crónica",
+     "resumen": "Crónica visita El Príncipe en Ceuta, tres meses después del asalto a la frontera, y describe la explotación de inmigrantes en el barrio."
+    },
+    {
+     "titular": "Elecciones en Brasil: dos ideas de país para la gran potencia de América Latina",
+     "url": "https://www.elmundo.es/internacional/2026/10/25/6adcd212e9cf4a41288b456f.html",
+     "seccion": "Lula da silva",
+     "resumen": "Comparativa de las propuestas de Flávio Bolsonaro, con mano dura contra la delincuencia, y de Lula, centrado en los sectores más desfavorecidos."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Destaca la campaña electoral con el paquete de medidas sociales del Gobierno y el uso de aviones oficiales por parte de Robles. Da también espacio a los disturbios de Barcelona y a la política de Estados Unidos y Brasil.",
+   "noticias": [
+    {
+     "titular": "Más de un centenar de detenidos, la mitad de ellos menores, por la protesta antisistema en Barcelona",
+     "url": "https://www.abc.es/espana/cataluna/disturbios-centro-barcelona-marcha-sistema-20261024202028-nt.html",
+     "seccion": "",
+     "resumen": "Casi 130 detenidos, más de la mitad menores, tras los disturbios en el centro de Barcelona con saqueos y barricadas."
+    },
+    {
+     "titular": "Sánchez se inventa una treintena de medidas sociales en su búsqueda desesperada del voto",
+     "url": "https://www.abc.es/espana/sanchez-inventa-treintena-medidas-sociales-busqueda-desesperada-20261023024126-nt.html",
+     "seccion": "",
+     "resumen": "El Gobierno ha publicado en el BOE decenas de medidas sociales a pocas semanas de las elecciones generales del 29 de noviembre."
+    },
+    {
+     "titular": "Robles es la ministra que más usó los aviones oficiales en 2025 con 121 vuelos",
+     "url": "https://www.abc.es/espana/robles-ministra-abuso-aviones-oficiales-2025-121-20260716024132-nt.html",
+     "seccion": "",
+     "resumen": "Margarita Robles es la ministra que más vuelos oficiales en solitario realizó en 2025, con 121, solo por detrás de Sánchez."
+    },
+    {
+     "titular": "Obama desembarca en las 'midterms' con un ataque feroz a Trump por su «caos, crueldad y corrupción»",
+     "url": "https://www.abc.es/internacional/obama-desembarca-midterms-ataque-feroz-trump-caos-20261025091308-nt.html",
+     "seccion": "",
+     "resumen": "Obama inicia su campaña para las midterms con críticas a Trump en Ohio y Míchigan."
+    },
+    {
+     "titular": "La cuna del clan Bolsonaro: de la pobreza en Italia al poder en Brasil",
+     "url": "https://www.abc.es/internacional/cuna-clan-bolsonaro-pobreza-italia-crear-saga-20261016023422-nt.html",
+     "seccion": "",
+     "resumen": "Recorrido del origen de la familia Bolsonaro, desde la emigración de su bisabuelo desde Italia hasta el poder en Brasil."
+    },
+    {
+     "titular": "El vuelco demográfico de Barcelona: los inmigrantes o hijos de inmigrantes son mayoría en todas las edades por debajo de 45 años",
+     "url": "https://www.abc.es/espana/cataluna/vuelco-demografico-barcelona-inmigrantes-hijos-inmigrantes-mayoria-20261025050000-nt.html",
+     "seccion": "",
+     "resumen": "En Barcelona, los hijos de inmigrantes o inmigrantes son ya mayoría en todas las edades por debajo de 45 años."
+    },
+    {
+     "titular": "Muere el director José Luis García Sánchez, coguionista de 'Belle Èpoque' y autor de obras como 'Las truchas'",
+     "url": "https://www.abc.es/play/cine/noticias/muere-jose-luis-garcia-sanchez-coguionista-belle-20261025105147-nt.html",
+     "seccion": "",
+     "resumen": "Fallece el director José Luis García Sánchez, coguionista de 'Belle Époque', a los 85 años."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza la cobertura de los disturbios de Barcelona, con enfoque en la organización de la convocatoria y en sus consecuencias. Dedica también espacio a la política catalana y española y a la situación en Estados Unidos y Francia.",
+   "noticias": [
+    {
+     "titular": "Al menos 128 detenidos, más de la mitad de ellos menores, tras los graves disturbios en Barcelona",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html",
+     "seccion": "Barcelona",
+     "resumen": "Al menos 128 detenidos, más de la mitad menores, tras los disturbios de entre 500 y 600 jóvenes en Barcelona."
+    },
+    {
+     "titular": "Quiénes eran y cómo se organizaron los alborotadores",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261025/11667600/quienes-como-organizaron-alborotadores-ayer-barcelona.html",
+     "seccion": "Barcelona",
+     "resumen": "La convocatoria se difundió por TikTok y se organizó después mediante grupos de Telegram y WhatsApp."
+    },
+    {
+     "titular": "Toldos quemados, cristales rotos y tiendas desvalijadas, Barcelona amanece tras el caos",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261025/11667605/olman-empezamos-proteger-tiendas-7-manana-habia-disturbios.html",
+     "seccion": "Barcelona",
+     "resumen": "Comercios destrozados y saqueados en el centro de Barcelona; los jóvenes buscaban sobre todo productos tecnológicos y de marca."
+    },
+    {
+     "titular": "El Gremi de Restauració atribuye los disturbios a una evaluación incorrecta y a la falta de policía",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261025/11667609/gremi-restauracio-atribuye-disturbios-evaluacion-incorrecta-riesgo-falta-policia.html",
+     "seccion": "Barcelona",
+     "resumen": "El Gremi de Restauració atribuye los disturbios a una mala evaluación del riesgo y a la falta de presencia policial."
+    },
+    {
+     "titular": "España mantiene una calma tensa en una Europa en estado de alarma",
+     "url": "https://www.lavanguardia.com/politica/20261025/11667563/espana-mantiene-calma-tensa-europa-alarma.html",
+     "seccion": "Política",
+     "resumen": "España vive una calma tensa en una Europa en alerta, y los incidentes de Barcelona se leen como parte de una ola de violencia que no conoce fronteras."
+    },
+    {
+     "titular": "Santiago Abascal: “Defiendo la identidad catalana, amenazada por el califato”",
+     "url": "https://www.lavanguardia.com/politica/20261025/11667297/santiago-abascal-expulsion-inmigrantes-hacerse-caso-caso.html",
+     "seccion": "Política",
+     "resumen": "Abascal defiende la identidad catalana frente a lo que considera una amenaza y propone expulsar inmigrantes caso a caso."
+    },
+    {
+     "titular": "Nostalgia de un Estados Unidos feliz",
+     "url": "https://www.lavanguardia.com/internacional/20261025/11667256/nostalgia-estados-unidos-feliz.html",
+     "seccion": "Internacional",
+     "resumen": "Estados Unidos encara las elecciones de medio mandato dividido y con nostalgia de otra época."
+    }
+   ]
+  }
+ ]
+}
