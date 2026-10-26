@@ -1,0 +1,495 @@
+{
+ "fecha": "2026-10-26",
+ "franja": "tarde",
+ "generada": "2026-10-26T22:15+01:00",
+ "con_ia": true,
+ "resumen_dia": "La derecha cerró un acuerdo para repartirse candidaturas al Senado: PP y Vox se retiran mutuamente en varias provincias. En Brasil, Lula ganó las presidenciales por unos cuatro puntos y Trump puso en duda el resultado sin aportar pruebas, mientras Flávio Bolsonaro denuncia que le han retirado el pasaporte. En Barcelona, los disturbios vinculados a la etiqueta Blocus dejaron daños en comercios y 76 menores detenidos, y en Bilbao la cancelación de un acto de Vito Quiles terminó con altercados y detenidos. Anthropic avanza hacia su salida a Bolsa con advertencias sobre riesgos de la IA.",
+ "temas_comunes": [
+  {
+   "titulo": "Pacto PP-Vox para las listas al Senado",
+   "resumen": "PP y Vox acordaron retirar candidaturas en determinadas provincias y presentar independientes en las listas del otro. El acuerdo afecta a 23 provincias según El País.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Detalla las provincias donde se retira cada partido y explica las 'claves' del pacto, con foco en cesiones de Abascal y Feijóo.",
+     "noticias": [
+      {
+       "titular": "La derecha pacta sus candidaturas en el Senado: el PP se retira en Gipuzkoa, Girona y Tarragona y Vox en otras seis provincias",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-derecha-pacta-sus-candidaturas-en-el-senado-pp-se-retira-en-gipuzkoa-girona-y-tarragona-y-vox-en-otras-seis-provincias.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Claves del acuerdo entre el PP y Vox para las listas del Senado: ¿dónde cede Abascal?, ¿en qué provincias se retira Feijóo?",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/claves-del-acuerdo-entre-el-pp-y-vox-para-las-listas-del-senado-donde-cede-abascalen-que-provincias-se-retira-feijoo.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya el número de provincias de cada fuerza y la figura del candidato 'independiente' que Vox incluirá en las listas del PP.",
+     "noticias": [
+      {
+       "titular": "Acuerdo en la derecha para las elecciones al Senado: Vox renuncia a presentarse en seis provincias y el PP en otras tres",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adf2e83e4d4d8c8258b45a8.html",
+       "seccion": "PP"
+      },
+      {
+       "titular": "Guía rápida de las candidaturas para las elecciones al Senado: cinco provincias con dos grandes papeletas y solo dos sitios con división total",
+       "url": "https://www.elmundo.es/elecciones/2026/10/26/6adf5a25e9cf4acc778b4597.html",
+       "seccion": "Santiago Abascal Conde"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Presenta el acuerdo como una forma de retener el Senado, con cifras de provincias renunciadas por cada partido.",
+     "noticias": [
+      {
+       "titular": "Acuerdo de PP y Vox para retener el Senado: Feijóo renuncia a tres provincias y Abascal a seis",
+       "url": "https://www.lavanguardia.com/politica/20261026/11668465/vox-renuncia-seis-provincias-espana-elecciones-29-n-senado.html",
+       "seccion": "Política"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "No recoge el pacto en su portada de hoy.",
+     "noticias": []
+    }
+   ]
+  },
+  {
+   "titulo": "Lula gana las elecciones y Trump cuestiona el resultado",
+   "resumen": "Lula se impuso a Flávio Bolsonaro por unos cuatro puntos. Trump afirmó, sin aportar pruebas, que los comicios parecían amañados.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en el giro de la elección gracias a las capitales y al voto de los candidatos eliminados, y en la crítica de Trump.",
+     "noticias": [
+      {
+       "titular": "Trump, sobre el triunfo de Lula: “Me pareció otra elección amañada”",
+       "url": "https://elpais.com/america/2026-10-26/trump-sobre-el-triunfo-de-lula-me-parecio-otra-eleccion-amanada.html",
+       "seccion": "Elecciones Brasil"
+      },
+      {
+       "titular": "Así votó cada municipio de Brasil: las grandes ciudades y el voto de terceros dieron la vuelta a la elección",
+       "url": "https://elpais.com/america/2026-10-26/asi-voto-cada-municipio-de-brasil-las-grandes-ciudades-y-el-voto-de-terceros-dieron-la-vuelta-a-la-eleccion.html",
+       "seccion": "Elecciones Brasil"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca las declaraciones de Trump sobre un supuesto fraude y la situación judicial de Flávio Bolsonaro.",
+     "noticias": [
+      {
+       "titular": "Trump cree que hubo un \"fraude\" en la victoria electoral de Lula en Brasil",
+       "url": "https://www.elmundo.es/internacional/2026/10/26/6adfb680fc6c830c518b4599.html",
+       "seccion": "Lula da silva"
+      },
+      {
+       "titular": "Flávio Bolsonaro dice que un juez le ha pedido entregar su pasaporte",
+       "url": "https://www.elmundo.es/internacional/2026/10/26/6adfb953e4d4d8bf5d8b45c1.html",
+       "seccion": "Brasil"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Enmarca la victoria de Lula con el relato de Trump sobre la elección 'amañada' y el pasaporte retirado a Flávio Bolsonaro.",
+     "noticias": [
+      {
+       "titular": "Trump apoya la tesis de Bolsonaro y califica la victoria de Lula como «amañada» y «corrupta»",
+       "url": "https://www.abc.es/internacional/trump-aplaza-reconocimiento-victoria-lula-tras-acusaciones-20261026180200-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Flávio Bolsonaro denuncia que el Supremo le ha retirado el pasaporte",
+       "url": "https://www.abc.es/internacional/flavio-bolsonaro-asegura-supremo-retirado-pasaporte-20261026212116-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya la victoria de Lula por cuatro puntos y su estrategia de movilización en redes sociales.",
+     "noticias": [
+      {
+       "titular": "Victoria histórica para Lula en las elecciones presidenciales de Brasil",
+       "url": "https://www.lavanguardia.com/internacional/20261026/11667806/fuerte-recelo-recuento-brasileno.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Lula creó un ejército de diez millones de fieles en redes sociales para dar el vuelco a las elecciones",
+       "url": "https://www.lavanguardia.com/internacional/20261026/11668190/lula-creo-ejercito-diez-millones-fieles-redes-sociales-dar-vuelco-elecciones.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Trump dice, sin aportar pruebas, que las elecciones en Brasil parecen “amañadas”",
+       "url": "https://www.lavanguardia.com/internacional/20261026/11668784/trump-dice-aportar-pruebas-elecciones-brasil-parecen-amanadas.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Disturbios en Barcelona y Bilbao",
+   "resumen": "Los disturbios en Barcelona, vinculados a la etiqueta Blocus, provocaron daños en comercios y la detención de menores. En Bilbao, la cancelación de un acto de Vito Quiles acabó con quema de vehículos y detenidos.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Explica qué es Blocus y cómo se usan perfiles de TikTok para convocar a jóvenes, inspirándose en protestas en Francia.",
+     "noticias": [
+      {
+       "titular": "¿Qué es Blocus? La etiqueta en redes que desató los disturbios en Barcelona",
+       "url": "https://elpais.com/espana/catalunya/2026-10-26/que-es-blocus-la-etiqueta-en-redes-que-desato-los-disturbios-en-barcelona.html",
+       "seccion": "Cataluña"
+      },
+      {
+       "titular": "Vito Quiles suspende su acto en Bilbao en una jornada que termina con quemas de coches y 14 detenidos",
+       "url": "https://elpais.com/espana/2026-10-26/la-universidad-de-deusto-suspende-su-actividad-en-bilbao-por-temor-a-incidentes-en-el-acto-de-vito-quiles.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Describe los incidentes de Bilbao con encapuchados, vehículos incendiados y detenidos por la Ertzaintza.",
+     "noticias": [
+      {
+       "titular": "Encapuchados que protestaban contra Vito Quiles incendian una moto policial, varios coches e intentan atacar con piedras una comisaría en Bilbao",
+       "url": "https://www.elmundo.es/pais-vasco/2026/10/26/6adfa586e85ece80418b45bc.html",
+       "seccion": "Artículos Josean Izarra"
+      },
+      {
+       "titular": "El juez ordena detener a Vito Quiles en la causa por denigrar a una mujer con discapacidad",
+       "url": "https://www.elmundo.es/espana/2026/10/26/6adf95e5e9cf4a1a538b4576.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Anticipa que el movimiento Blocus pretende replicarse en Madrid el día de Halloween.",
+     "noticias": [
+      {
+       "titular": "Blocus organiza otra revuelta y saqueos como los de Barcelona en Madrid en Halloween",
+       "url": "https://www.abc.es/espana/madrid/blocus-organiza-revuelta-saqueos-barcelona-madrid-halloween-20261026131709-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Catorce radicales detenidos en los disturbios que incendian Bilbao tras cancelarse el acto de Vito Quiles",
+       "url": "https://www.abc.es/espana/pais-vasco/nueve-personas-detenidas-incidentes-bilbao-tras-manifestacion-20261026204118-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Se centra en la Fiscalía pidiendo internamiento para menores detenidos, las ayudas municipales y la respuesta de TikTok.",
+     "noticias": [
+      {
+       "titular": "La Fiscalía pide el internamiento de seis de los 76 menores detenidos",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261026/11668412/fiscalia-pide-internamiento-6-menores-detenidos-altercados-barcelona.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "El Ayuntamiento activa ayudas a damnificados de los disturbios en el centro de Barcelona",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261026/11668582/ayuntamiento-activa-ayudas-damnificados-disturbios-centro-barcelona.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "TikTok activa un grupo de trabajo especializado tras los disturbios de Barcelona",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261026/11668764/tiktok-activa-grupo-trabajo-especializado-disturbios-barcelona.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "El Gobierno culpa a la extrema derecha de los disturbios en Barcelona",
+       "url": "https://www.lavanguardia.com/politica/20261026/11668692/gobierno-culpa-extrema-derecha-disturbios-barcelona.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Sánchez y el PSOE: Senado, pensiones y dimisión del delegado",
+   "resumen": "El PSOE pactó una candidatura única para el Senado con Frente Amplio y Sánchez propuso blindar las pensiones en la Constitución. La dimisión del delegado del Gobierno en Madrid, Francisco Martín, generó reproches en el partido.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la dimisión de Francisco Martín y el malestar de la dirección del PSOE ante su renuncia.",
+     "noticias": [
+      {
+       "titular": "La dimisión del delegado del Gobierno enfada a la dirección del PSOE: “No le beneficia ni a él ni a la organización”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-dimision-del-delegado-del-gobierno-enfada-a-la-direccion-del-psoe-no-le-beneficia-ni-a-el-ni-a-la-organizacion.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Analiza el voto por clase social en las elecciones, con foco en el voto obrero y de rentas altas.",
+     "noticias": [
+      {
+       "titular": "Vuelco en el voto por clase social: 'derechización' obrera y ricos cada vez más progresistas",
+       "url": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf910fdddff021c8b4573.html",
+       "seccion": "PSOE"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Señala el malestar del PSOE madrileño por la dimisión, que atribuye a la falta de inclusión en las listas.",
+     "noticias": [
+      {
+       "titular": "El PSOE de Madrid reconoce que la dimisión del delegado les hace un «roto»",
+       "url": "https://www.abc.es/espana/madrid/psoe-madrid-reconoce-dimision-delegado-roto-deja-20261026114336-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca la candidatura única del PSOE y Frente Amplio para el Senado y la propuesta de Sánchez sobre las pensiones.",
+     "noticias": [
+      {
+       "titular": "El PSOE y el Frente Amplio pactan una candidatura única para el Senado",
+       "url": "https://www.lavanguardia.com/politica/20261017/11661132/psoe-frente-amplio-pactan-acuerdo-listas-conjuntas-senado.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Sánchez se compromete a blindar en la Constitución la subida de las pensiones",
+       "url": "https://www.lavanguardia.com/politica/20261026/11668749/sanchez-anuncia-compromiso-blindar-constitucion-revalorizacion-pensiones.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la política electoral, con el pacto del Senado y las listas del PP por Madrid, y sigue de cerca la crisis en Brasil. Dedica también espacio a la migración en Ceuta y a la sentencia del Constitucional sobre la ley de nietos.",
+   "noticias": [
+    {
+     "titular": "La derecha pacta sus candidaturas en el Senado: el PP se retira en Gipuzkoa, Girona y Tarragona y Vox en otras seis provincias",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-derecha-pacta-sus-candidaturas-en-el-senado-pp-se-retira-en-gipuzkoa-girona-y-tarragona-y-vox-en-otras-seis-provincias.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "PP y Vox reparten candidaturas al Senado: el PP se retira en tres provincias y Vox en seis, y Vox incluirá a candidatos como independientes en listas del PP."
+    },
+    {
+     "titular": "Trump, sobre el triunfo de Lula: “Me pareció otra elección amañada”",
+     "url": "https://elpais.com/america/2026-10-26/trump-sobre-el-triunfo-de-lula-me-parecio-otra-eleccion-amanada.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "Trump afirma que la victoria de Lula fue otra elección amañada, aunque reconoce haber evitado tomar partido en la campaña."
+    },
+    {
+     "titular": "Así votó cada municipio de Brasil: las grandes ciudades y el voto de terceros dieron la vuelta a la elección",
+     "url": "https://elpais.com/america/2026-10-26/asi-voto-cada-municipio-de-brasil-las-grandes-ciudades-y-el-voto-de-terceros-dieron-la-vuelta-a-la-eleccion.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "El análisis municipal muestra que Lula ganó gracias a las capitales y al voto de los candidatos eliminados, pese a que la mayoría de municipios se inclinó por el bolsonarismo."
+    },
+    {
+     "titular": "El Gobierno retorna a Marruecos a migrantes de la entrada masiva de Ceuta tras denegarles la protección internacional",
+     "url": "https://elpais.com/espana/2026-10-26/el-gobierno-empieza-a-devolver-migrantes-de-ceuta-con-expedientes-judiciales.html",
+     "seccion": "España",
+     "resumen": "El Gobierno devolvió a Marruecos a 16 migrantes subsaharianos que llegaron en la entrada masiva a Ceuta, tras denegarles la protección internacional."
+    },
+    {
+     "titular": "Vito Quiles suspende su acto en Bilbao en una jornada que termina con quemas de coches y 14 detenidos",
+     "url": "https://elpais.com/espana/2026-10-26/la-universidad-de-deusto-suspende-su-actividad-en-bilbao-por-temor-a-incidentes-en-el-acto-de-vito-quiles.html",
+     "seccion": "España",
+     "resumen": "Vito Quiles suspendió su acto en Bilbao tras disturbios con quema de coches y 14 detenidos; la Universidad de Deusto suspendió su actividad."
+    },
+    {
+     "titular": "Los magistrados del Constitucional que estaban a favor de admitir el recurso por la ‘ley de nietos’ ven “intolerable” la conclusión de la mayoría",
+     "url": "https://elpais.com/espana/2026-10-26/los-magistrados-del-constitucional-que-estaban-a-favor-de-admitir-el-recurso-por-la-ley-de-nietos-ven-intolerable-la-conclusion-de-la-mayoria.html",
+     "seccion": "España",
+     "resumen": "Dos magistrados discrepantes del Constitucional consideran que la mayoría rechazó el recurso sobre la ley de nietos mediante un formalismo."
+    },
+    {
+     "titular": "La dimisión del delegado del Gobierno enfada a la dirección del PSOE: “No le beneficia ni a él ni a la organización”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-dimision-del-delegado-del-gobierno-enfada-a-la-direccion-del-psoe-no-le-beneficia-ni-a-el-ni-a-la-organizacion.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "La dimisión del delegado del Gobierno, Francisco Martín, molesta a la dirección del PSOE a las puertas de las generales del 29 de noviembre."
+    },
+    {
+     "titular": "El Ayuntamiento recalifica la ciudad del Real Madrid con un informe que calcula mal el beneficio: sube de 1,46 a 98,6 millones",
+     "url": "https://elpais.com/espana/madrid/2026-10-26/el-ayuntamiento-recalifica-la-ciudad-del-real-madrid-con-un-informe-que-calcula-mal-el-beneficio-para-la-capital-aumenta-de-146-a-986-millones.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "Un informe municipal sobre la recalificación de la ciudad del Real Madrid contiene un error de multiplicación que eleva el beneficio de 1,46 a 98,6 millones."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la política nacional, con el pacto del Senado y la situación judicial de Flávio Bolsonaro en Brasil. Dedica espacio a los incidentes de Bilbao y a las investigaciones sobre Ceuta y Badajoz.",
+   "noticias": [
+    {
+     "titular": "Acuerdo en la derecha para las elecciones al Senado: Vox renuncia a presentarse en seis provincias y el PP en otras tres",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adf2e83e4d4d8c8258b45a8.html",
+     "seccion": "PP",
+     "resumen": "Acuerdo PP-Vox para el Senado: Vox se retira en seis provincias y el PP en tres, y Abascal presentará un solo candidato en 14 sitios."
+    },
+    {
+     "titular": "Feijóo 'ficha' al consejero de Emergencias de Ayuso y revoluciona Sol: el titular de Transportes asumirá su cartera y dejará paso a su mano derecha",
+     "url": "https://www.elmundo.es/madrid/2026/10/26/6adf4114fc6c83f0128b4581.html",
+     "seccion": "Artículos Vicente Coll",
+     "resumen": "Génova incluye en sus listas al consejero de Emergencias de Ayuso y a otro cargo de la Presidencia madrileña."
+    },
+    {
+     "titular": "Vuelco en el voto por clase social: 'derechización' obrera y ricos cada vez más progresistas",
+     "url": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf910fdddff021c8b4573.html",
+     "seccion": "PSOE",
+     "resumen": "Un análisis del voto por clase social señala que Vox obtiene su mejor resultado en la clase baja y que el voto de rentas altas se inclina más a la izquierda."
+    },
+    {
+     "titular": "Encapuchados que protestaban contra Vito Quiles incendian una moto policial, varios coches e intentan atacar con piedras una comisaría en Bilbao",
+     "url": "https://www.elmundo.es/pais-vasco/2026/10/26/6adfa586e85ece80418b45bc.html",
+     "seccion": "Artículos Josean Izarra",
+     "resumen": "En Bilbao, la Ertzaintza detuvo al menos a 20 personas tras incidentes con vehículos incendiados y ataques a una comisaría."
+    },
+    {
+     "titular": "Mandos de la Guardia Civil y la Policía declaran a la juez que vieron \"seis barcos militares\" marroquíes próximos a Ceuta la noche anterior a la oleada",
+     "url": "https://www.elmundo.es/espana/2026/10/26/6adf52ace9cf4acc778b458e.html",
+     "seccion": "Ceuta",
+     "resumen": "Mandos de la Guardia Civil declaran ante la jueza que vieron seis barcos militares marroquíes cerca de Ceuta la noche de la oleada."
+    },
+    {
+     "titular": "Flávio Bolsonaro dice que un juez le ha pedido entregar su pasaporte",
+     "url": "https://www.elmundo.es/internacional/2026/10/26/6adfb953e4d4d8bf5d8b45c1.html",
+     "seccion": "Brasil",
+     "resumen": "Flávio Bolsonaro dice que un juez le ha pedido entregar el pasaporte, y figura investigado en una segunda causa por blanqueo."
+    },
+    {
+     "titular": "Trump cree que hubo un \"fraude\" en la victoria electoral de Lula en Brasil",
+     "url": "https://www.elmundo.es/internacional/2026/10/26/6adfb680fc6c830c518b4599.html",
+     "seccion": "Lula da silva",
+     "resumen": "Trump sostiene que hubo fraude en la victoria de Lula, sin pruebas, y dice que no tomó partido."
+    },
+    {
+     "titular": "El juez ordena detener a Vito Quiles en la causa por denigrar a una mujer con discapacidad",
+     "url": "https://www.elmundo.es/espana/2026/10/26/6adf95e5e9cf4a1a538b4576.html",
+     "seccion": "",
+     "resumen": "Un juez ordena detener a Vito Quiles en una causa por denigrar a una mujer con discapacidad, al no ser localizado para notificarle el juicio oral."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Destaca la situación en Brasil, con la denuncia de Flávio Bolsonaro y el relato de Trump sobre la elección. Aborda también los disturbios de Bilbao y Barcelona y la convocatoria de Blocus en Madrid.",
+   "noticias": [
+    {
+     "titular": "Flávio Bolsonaro denuncia que el Supremo le ha retirado el pasaporte",
+     "url": "https://www.abc.es/internacional/flavio-bolsonaro-asegura-supremo-retirado-pasaporte-20261026212116-nt.html",
+     "seccion": "",
+     "resumen": "Flávio Bolsonaro denuncia que el Supremo le ha retirado el pasaporte tras perder unas elecciones ajustadas."
+    },
+    {
+     "titular": "Blocus organiza otra revuelta y saqueos como los de Barcelona en Madrid en Halloween",
+     "url": "https://www.abc.es/espana/madrid/blocus-organiza-revuelta-saqueos-barcelona-madrid-halloween-20261026131709-nt.html",
+     "seccion": "",
+     "resumen": "Fuentes policiales advierten de dos convocatorias de Blocus en Madrid para el 31 de octubre, siguiendo el modelo de Barcelona."
+    },
+    {
+     "titular": "Catorce radicales detenidos en los disturbios que incendian Bilbao tras cancelarse el acto de Vito Quiles",
+     "url": "https://www.abc.es/espana/pais-vasco/nueve-personas-detenidas-incidentes-bilbao-tras-manifestacion-20261026204118-nt.html",
+     "seccion": "",
+     "resumen": "Catorce radicales detenidos en Bilbao tras cancelarse el acto de Vito Quiles en la Universidad de Deusto."
+    },
+    {
+     "titular": "Abascal pide una «movilización masiva» el 29N para responder a la violencia contra Vox",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/abascal-pide-movilizacion-masiva-29n-responder-violencia-20261026204341-nt.html",
+     "seccion": "",
+     "resumen": "Abascal pide una movilización masiva el 29N como respuesta a la violencia contra Vox."
+    },
+    {
+     "titular": "Trump apoya la tesis de Bolsonaro y califica la victoria de Lula como «amañada» y «corrupta»",
+     "url": "https://www.abc.es/internacional/trump-aplaza-reconocimiento-victoria-lula-tras-acusaciones-20261026180200-nt.html",
+     "seccion": "",
+     "resumen": "Trump califica la victoria de Lula de amañada y corrupta, y la Administración paraliza el comunicado de reconocimiento."
+    },
+    {
+     "titular": "El núcleo duro de Feijóo, Jaime de los Santos, Alberto Nadal y alcaldesas: la lista del PP por Madrid",
+     "url": "https://www.abc.es/espana/nucleo-duro-feijoo-jaime-santos-alberto-nadal-20261026214002-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo incluye en la lista del PP por Madrid a Cayetana Álvarez de Toledo, Borja Sémper y alcaldesas, con un perfil moderado en el número tres."
+    },
+    {
+     "titular": "El PSOE de Madrid reconoce que la dimisión del delegado les hace un «roto»",
+     "url": "https://www.abc.es/espana/madrid/psoe-madrid-reconoce-dimision-delegado-roto-deja-20261026114336-nt.html",
+     "seccion": "",
+     "resumen": "El PSOE madrileño admite que la dimisión de Francisco Martín les perjudica, al considerarla personal tras no ir en sus listas."
+    },
+    {
+     "titular": "Liberación de presos, alianzas con opositoras y elecciones en 2027: la hoja de ruta de María Corina",
+     "url": "https://www.abc.es/internacional/liberacion-presos-alianzas-fuerzas-opositoras-elecciones-hoja-20261026193419-nt.html",
+     "seccion": "",
+     "resumen": "María Corina Machado regresa a Venezuela y presenta su hoja de ruta con liberación de presos y elecciones en 2027."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza la política nacional y los disturbios de Barcelona, con datos sobre menores detenidos y medidas municipales. Sigue también la victoria de Lula y la campaña de Israel.",
+   "noticias": [
+    {
+     "titular": "Acuerdo de PP y Vox para retener el Senado: Feijóo renuncia a tres provincias y Abascal a seis",
+     "url": "https://www.lavanguardia.com/politica/20261026/11668465/vox-renuncia-seis-provincias-espana-elecciones-29-n-senado.html",
+     "seccion": "Política",
+     "resumen": "PP y Vox pactan para retener el Senado: Feijóo renuncia a tres provincias y Abascal a seis, y Vox presentará candidato en 14 circunscripciones."
+    },
+    {
+     "titular": "El PSOE y el Frente Amplio pactan una candidatura única para el Senado",
+     "url": "https://www.lavanguardia.com/politica/20261017/11661132/psoe-frente-amplio-pactan-acuerdo-listas-conjuntas-senado.html",
+     "seccion": "Política",
+     "resumen": "PSOE y Frente Amplio acuerdan una candidatura única al Senado que agrupa también a IU, Sumar, Compromís, Más Madrid y otras fuerzas."
+    },
+    {
+     "titular": "Sánchez se compromete a blindar en la Constitución la subida de las pensiones",
+     "url": "https://www.lavanguardia.com/politica/20261026/11668749/sanchez-anuncia-compromiso-blindar-constitucion-revalorizacion-pensiones.html",
+     "seccion": "Política",
+     "resumen": "Sánchez propone blindar en la Constitución la subida de las pensiones y pide una mayoría absoluta de 176 escaños."
+    },
+    {
+     "titular": "La Fiscalía pide el internamiento de seis de los 76 menores detenidos",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261026/11668412/fiscalia-pide-internamiento-6-menores-detenidos-altercados-barcelona.html",
+     "seccion": "Barcelona",
+     "resumen": "La Fiscalía pide el internamiento de seis de los 76 menores detenidos por los disturbios de Barcelona y alejamientos de manifestaciones."
+    },
+    {
+     "titular": "El Gobierno culpa a la extrema derecha de los disturbios en Barcelona",
+     "url": "https://www.lavanguardia.com/politica/20261026/11668692/gobierno-culpa-extrema-derecha-disturbios-barcelona.html",
+     "seccion": "Política",
+     "resumen": "El Gobierno atribuye los disturbios de Barcelona a la extrema derecha, mientras el PP acusa a Sánchez de pasividad."
+    },
+    {
+     "titular": "El Ayuntamiento activa ayudas a damnificados de los disturbios en el centro de Barcelona",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261026/11668582/ayuntamiento-activa-ayudas-damnificados-disturbios-centro-barcelona.html",
+     "seccion": "Barcelona",
+     "resumen": "El Ayuntamiento de Barcelona destina medio millón de euros en ayudas urgentes a comercios dañados por los altercados."
+    },
+    {
+     "titular": "Victoria histórica para Lula en las elecciones presidenciales de Brasil",
+     "url": "https://www.lavanguardia.com/internacional/20261026/11667806/fuerte-recelo-recuento-brasileno.html",
+     "seccion": "Internacional",
+     "resumen": "Lula gana las presidenciales brasileñas por cuatro puntos sobre Flávio Bolsonaro."
+    },
+    {
+     "titular": "Tambores de guerra en la víspera de las elecciones en Israel",
+     "url": "https://www.lavanguardia.com/internacional/20261026/11668508/tambores-guerra-vispera-elecciones-israel.html",
+     "seccion": "Internacional",
+     "resumen": "Netanyahu choca con el jefe del ejército por una orden que podría reabrir el frente iraní, en la víspera de las elecciones en Israel."
+    }
+   ]
+  }
+ ]
+}
