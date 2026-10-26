@@ -1,0 +1,502 @@
+{
+ "fecha": "2026-10-26",
+ "franja": "mañana",
+ "generada": "2026-10-26T12:40+01:00",
+ "con_ia": true,
+ "resumen_dia": "Lula gana las elecciones de Brasil con un 51,7% frente a Flávio Bolsonaro y la UE y el Gobierno español celebran el resultado, mientras el candidato derrotado no reconoce la victoria y pide anular los comicios. En España, la campaña de las generales del 29-N centra gran parte de la atención, con el delegado del Gobierno en Madrid fuera de las listas del PSOE. En Venezuela, el regreso de María Corina Machado reabre el debate sobre la transición, y en Serbia la Lista Estudiantil derrota a Vucic. En Barcelona, los Mossos investigan los disturbios convocados en redes sociales.",
+ "temas_comunes": [
+  {
+   "titulo": "Victoria de Lula y reacción de Bolsonaro",
+   "resumen": "Lula es reelegido presidente de Brasil con el 51,7% de los votos frente al 48,2% de Flávio Bolsonaro. Bolsonaro no reconoce el resultado y pide la anulación de las elecciones, y sus seguidores anuncian acciones legales.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya la remontada de Lula y lo presenta como freno a la ultraderecha y como referencia de la izquierda mundial, con la reacción de la UE y de Sánchez.",
+     "noticias": [
+      {
+       "titular": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
+       "url": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html",
+       "seccion": "Elecciones Brasil"
+      },
+      {
+       "titular": "Resultados de las elecciones en Brasil, en vivo | La UE celebra la victoria de Lula: “La democracia ha ganado en Brasil”",
+       "url": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html",
+       "seccion": "Elecciones Brasil"
+      },
+      {
+       "titular": "Bolsonaro no reconoce el triunfo de Lula y pide la anulación de las elecciones",
+       "url": "https://elpais.com/america/2026-10-26/bolsonaro-no-reconoce-el-triunfo-de-lula-y-pide-la-anulacion-de-las-elecciones.html",
+       "seccion": "Elecciones Brasil"
+      },
+      {
+       "titular": "Lula, la épica de la izquierda mundial",
+       "url": "https://elpais.com/america/2026-10-26/lula-la-epica-de-la-izquierda-mundial.html",
+       "seccion": "Elecciones Brasil"
+      },
+      {
+       "titular": "Sánchez felicita a Lula por su victoria en las elecciones: “Lo que ha pasado en Brasil, pasará en España”",
+       "url": "https://elpais.com/espana/2026-10-26/sanchez-felicita-a-lula-por-su-victoria-en-las-elecciones-lo-que-ha-pasado-en-brasil-pasara-en-espana.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la victoria inédita de Lula y la polémica por la decisión judicial de alargar la jornada electoral.",
+     "noticias": [
+      {
+       "titular": "Lula logra una victoria inédita en las elecciones de Brasil y derrota al bolsonarismo",
+       "url": "https://www.elmundo.es/internacional/2026/10/26/6ade9b3be4d4d8d04c8b458a.html",
+       "seccion": "Brasil"
+      },
+      {
+       "titular": "Bolsonaro cuestiona el resultado: \"Es imposible reconocer estas elecciones, vamos a pedir la anulación\"",
+       "url": "https://www.elmundo.es/internacional/2026/10/26/6adeb20fe4d4d868108b4590.html",
+       "seccion": "Brasil"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Se centra en los retos que afronta Lula en el mandato: deuda, endeudamiento de las familias, crisis climática y El Niño.",
+     "noticias": [
+      {
+       "titular": "Deuda disparada, familias ahogadas, efectos de El Niño y violencia: los retos de Lula",
+       "url": "https://www.abc.es/internacional/deuda-disparada-familias-ahogadas-efectos-nino-violencia-20261024020200-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Presenta la victoria como histórica por cuatro puntos de diferencia y recoge el papel de André Janones en las redes.",
+     "noticias": [
+      {
+       "titular": "Victoria histórica de Lula en Brasil",
+       "url": "https://www.lavanguardia.com/internacional/20261026/11667806/fuerte-recelo-recuento-brasileno.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Bolsonaro no reconoce su derrota ante Lula y pide anular las elecciones",
+       "url": "https://www.lavanguardia.com/internacional/20261026/11668002/bolsonaro-reconoce-derrota-lula-pide-anular-elecciones.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Quién es André Janones, el gurú de la izquierda en las redes sociales clave en la reelección de Lula en Brasil",
+       "url": "https://www.lavanguardia.com/internacional/20261026/11668015/andre-janones-guru-izquierda-redes-sociales-clave-reeleccion-lula.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Campaña electoral del 29-N",
+   "resumen": "Las elecciones generales del 29 de noviembre marcan la actualidad política. Se debate la distancia entre PSOE y PP y el futuro de un posible Gobierno PP-Vox, mientras el 'podcast' de Jordi Wild entrevista a los principales candidatos.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca la entrevista de Jordi Wild con Sánchez, Feijóo, Abascal y Colau como hito de la comunicación política.",
+     "noticias": [
+      {
+       "titular": "“Para nosotros es histórico”: cómo Jordi Wild logró el sí de Sánchez, Feijóo, Abascal y Colau para ir a su casa",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/para-nosotros-es-historico-como-jordi-wild-logro-el-si-de-sanchez-feijoo-abascal-y-colau-para-ir-a-su-casa.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge el acercamiento del PSOE a la derecha en las encuestas y la salida del delegado del Gobierno en Madrid de las listas.",
+     "noticias": [
+      {
+       "titular": "Sánchez recorta distancia a Feijóo pero la suma de la derecha sigue muy cerca de los 200 escaños",
+       "url": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf8c4fdddfff23d8b4581.html",
+       "seccion": "PP"
+      },
+      {
+       "titular": "La inesperada renuncia del delegado Martín, el \"ariete\" de Sánchez en Madrid contra Ayuso y Almeida \"castigado\" sin listas para el 29-N",
+       "url": "https://www.elmundo.es/madrid/2026/10/26/6ade5e52fdddffb1248b4581.html",
+       "seccion": "Artículos Esteban Urreiztieta"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Pone el foco en un posible Gobierno PP-Vox y en su efecto sobre Redeia, y en el plazo de candidaturas al Senado.",
+     "noticias": [
+      {
+       "titular": "Un Gobierno PP-Vox reformará en su totalidad la Red Eléctrica 'intervenida' que acabará en fusión con Enagás",
+       "url": "https://www.abc.es/economia/gobierno-ppvox-reformara-totalidad-red-electrica-intervenida-20261026015013-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Carlos Herrera alerta sobre el resultado de las elecciones: «Si no hay acuerdo entre PP y Vox, será imposible que la derecha alcance los tres quintos del Senado»",
+       "url": "https://www.abc.es/recreo/carlos-herrera-alerta-sobre-resultado-elecciones-generales-20261026111337-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Quién es Jordi Wild, el 'youtuber' que va a entrevistar en su pódcast a Sánchez, Feijóo, Abascal y Colau de cara a las elecciones del 29-N",
+       "url": "https://www.abc.es/espana/jordi-wild-claves-trayectoria-youtuber-entrevistar-podcast-20261026113311-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Susana Díaz, sobre una posible remontada de Pedro Sánchez en las elecciones: «Hay miedo en el cuerpo del PP»",
+       "url": "https://www.abc.es/play/television/noticias/susana-diaz-convencida-sobre-pedro-sanchez-remontara-20261026103056-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya el pulso entre Sánchez y Abascal en Catalunya como elemento decisivo.",
+     "noticias": [
+      {
+       "titular": "Catalunya desempata: Sánchez o Abascal",
+       "url": "https://www.lavanguardia.com/politica/20261026/11667771/catalunya-desempata-sanchez-abascal.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Regreso de María Corina Machado a Venezuela",
+   "resumen": "María Corina Machado regresa a Venezuela tras años fuera, en un contexto marcado por la detención de Nicolás Maduro y la influencia de Washington. Su vuelta se interpreta como un impulso a la transición política.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la multitud que la recibe y la expectativa de acelerar la transición.",
+     "noticias": [
+      {
+       "titular": "Miles de personas salen a las calles a recibir a Machado: “Viene a apretar el acelerador”",
+       "url": "https://elpais.com/america/2026-10-26/la-oposicion-vuelve-a-tomar-las-calles-en-venezuela-tras-el-regreso-de-machado-viene-a-apretar-el-acelerador.html",
+       "seccion": "América"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Presenta su regreso como el liderazgo de la transición y la vuelta de la voz más poderosa de la oposición.",
+     "noticias": [
+      {
+       "titular": "María Corina regresa para liderar la Transición de Venezuela",
+       "url": "https://www.elmundo.es/internacional/2026/10/26/6ade7f67fc6c835d488b4570.html",
+       "seccion": "María Corina Machado"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Lo analiza en clave de la campaña de EE.UU., como posible apoyo a los republicanos y a Trump.",
+     "noticias": [
+      {
+       "titular": "Su regreso, un balón de oxígeno para Trump y los republicanos con el voto hispano",
+       "url": "https://www.abc.es/internacional/regreso-maria-corina-balon-oxigeno-trump-republicanos-20261026072208-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Derrota de Vucic en Serbia",
+   "resumen": "La Lista Estudiantil gana las elecciones en Serbia y Vucic reconoce la derrota tras 12 años en el Gobierno. La UE valora el resultado y se abre a un acercamiento con Belgrado.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la victoria aplastante frente al Estado clientelar y la lectura de que es otro gobernante autoritario derrotado en Europa.",
+     "noticias": [
+      {
+       "titular": "Serbia fulmina el modelo de Aleksandar Vucic con el triunfo aplastante de la Lista Estudiantil frente al Estado clientelar",
+       "url": "https://www.elmundo.es/internacional/2026/10/26/6adf136fe9cf4ad2528b4573.html",
+       "seccion": "Serbia"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Subraya el paso de las calles a la mayoría absoluta y el fin de la hegemonía del SNS.",
+     "noticias": [
+      {
+       "titular": "De las calles a la mayoría absoluta: cómo el movimiento Lista Estudiantil logró romper la hegemonía de Vucic",
+       "url": "https://www.abc.es/internacional/calles-mayoria-absoluta-movimiento-lista-estudiantil-logro-20261026102051-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enfoca la reacción de la UE y la posibilidad de acercamiento de Belgrado a Bruselas.",
+     "noticias": [
+      {
+       "titular": "La UE, aliviada por la victoria de la Lista Estudiantil en Serbia y de Lula en Brasil",
+       "url": "https://www.lavanguardia.com/internacional/20261026/11668191/ue-aliviada-victoria-lista-estudiantil-serbia-lula-brasil.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "El movimiento estudiantil derrota a Vucic en las elecciones generales de Serbia",
+       "url": "https://www.lavanguardia.com/internacional/20261025/11667785/movimiento-estudiantil-derrota-vucic-elecciones-generales-serbia.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Disturbios y detenidos en Barcelona",
+   "resumen": "La Policía catalana investiga los altercados de Barcelona convocados a través de redes sociales, con 128 personas arrestadas, 72 de ellas menores. La consellera de Interior pide información a las plataformas.",
+   "medios": [
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la investigación de los Mossos sobre la red social y la hipótesis de un ataque híbrido, descartada de momento por Albares.",
+     "noticias": [
+      {
+       "titular": "Los Mossos piden autorización judicial para rastrear la red y llegar al origen de Blocus",
+       "url": "https://www.abc.es/espana/cataluna/mossos-piden-autorizacion-judicial-rastrear-red-llegar-20261026112200-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya el número de arrestados, la presencia de menores y la petición de datos a las plataformas.",
+     "noticias": [
+      {
+       "titular": "Los Mossos investigan quién está detrás de los altercados en Barcelona",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261026/11667794/mossos-investigan-esta-detras-altercados-barcelona.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "Parlon ve voluntad de desestabilización y caos de los organizadores de los disturbios",
+       "url": "https://www.lavanguardia.com/politica/20261026/11668067/parlon-ve-voluntad-desestabilizacion-caos-organizadores-disturbios-barcelona.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la victoria de Lula y su lectura como freno a la ultraderecha y referencia de la izquierda global. También recoge temas de sociedad, cultura y opinión sobre política y manifestaciones.",
+   "noticias": [
+    {
+     "titular": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
+     "url": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "Lula vence a Flávio Bolsonaro con cuatro millones de votos más y será presidente por cuarta vez."
+    },
+    {
+     "titular": "Resultados de las elecciones en Brasil, en vivo | La UE celebra la victoria de Lula: “La democracia ha ganado en Brasil”",
+     "url": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "Resultados en vivo con un 51,7% para Lula frente al 48,2% de Flávio Bolsonaro; la UE celebra el triunfo."
+    },
+    {
+     "titular": "Bolsonaro no reconoce el triunfo de Lula y pide la anulación de las elecciones",
+     "url": "https://elpais.com/america/2026-10-26/bolsonaro-no-reconoce-el-triunfo-de-lula-y-pide-la-anulacion-de-las-elecciones.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "Bolsonaro no reconoce la victoria, pide anular las elecciones y los suyos preparan una batalla legal."
+    },
+    {
+     "titular": "Sánchez felicita a Lula por su victoria en las elecciones: “Lo que ha pasado en Brasil, pasará en España”",
+     "url": "https://elpais.com/espana/2026-10-26/sanchez-felicita-a-lula-por-su-victoria-en-las-elecciones-lo-que-ha-pasado-en-brasil-pasara-en-espana.html",
+     "seccion": "España",
+     "resumen": "Sánchez felicita a Lula y asegura que lo ocurrido en Brasil pasará en España; la izquierda española celebra el resultado."
+    },
+    {
+     "titular": "Los buques de guerra marroquíes que irrumpieron en aguas de Ceuta se saltaron las normas de seguridad marítima",
+     "url": "https://elpais.com/espana/2026-10-26/los-buques-de-guerra-marroquies-que-irrumpieron-en-aguas-de-ceuta-se-saltaron-las-normas-de-seguridad-maritima.html",
+     "seccion": "España",
+     "resumen": "Buques de guerra marroquíes entraron en aguas de Ceuta sin cumplir normas de seguridad marítima; una patrullera española casi colisiona con uno de ellos."
+    },
+    {
+     "titular": "Miles de personas salen a las calles a recibir a Machado: “Viene a apretar el acelerador”",
+     "url": "https://elpais.com/america/2026-10-26/la-oposicion-vuelve-a-tomar-las-calles-en-venezuela-tras-el-regreso-de-machado-viene-a-apretar-el-acelerador.html",
+     "seccion": "América",
+     "resumen": "Miles de personas reciben a María Corina Machado en Venezuela, lo que reabre la esperanza de acelerar la transición tras la detención de Maduro."
+    },
+    {
+     "titular": "“Para nosotros es histórico”: cómo Jordi Wild logró el sí de Sánchez, Feijóo, Abascal y Colau para ir a su casa",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/para-nosotros-es-historico-como-jordi-wild-logro-el-si-de-sanchez-feijoo-abascal-y-colau-para-ir-a-su-casa.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El podcast de Jordi Wild logra entrevistar a Sánchez, Feijóo, Abascal y Colau, un hito en la comunicación española."
+    },
+    {
+     "titular": "El Ayuntamiento recalifica la ciudad del Real Madrid con un informe que calcula mal el beneficio: sube de 1,46 a 98,6 millones",
+     "url": "https://elpais.com/espana/madrid/2026-10-26/el-ayuntamiento-recalifica-la-ciudad-del-real-madrid-con-un-informe-que-calcula-mal-el-beneficio-para-la-capital-aumenta-de-146-a-986-millones.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "Un informe municipal sobre la recalificación de la ciudad del Real Madrid contiene un error de cálculo que eleva el beneficio de 1,46 a 98,6 millones."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la política nacional, con encuestas electorales, la ley de nietos y las consecuencias judiciales y políticas para el PSOE. También destaca la victoria de Lula y su impacto en la bolsa.",
+   "noticias": [
+    {
+     "titular": "Sánchez recorta distancia a Feijóo pero la suma de la derecha sigue muy cerca de los 200 escaños",
+     "url": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf8c4fdddfff23d8b4581.html",
+     "seccion": "PP",
+     "resumen": "Las encuestas dan a Sánchez un leve acercamiento a Feijóo, aunque la derecha sigue cerca de los 200 escaños."
+    },
+    {
+     "titular": "Otro agujero negro en la 'ley de nietos': los hijos de los votantes suspendidos por el Supremo sí podrán votar",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/25/6ade3a6dfc6c8316208b4585.html",
+     "seccion": "Tribunal Supremo",
+     "resumen": "Los hijos de votantes suspendidos por el Supremo podrán votar, porque los recursos no paran la votación; Vox pide ampliar la medida."
+    },
+    {
+     "titular": "Lula logra una victoria inédita en las elecciones de Brasil y derrota al bolsonarismo",
+     "url": "https://www.elmundo.es/internacional/2026/10/26/6ade9b3be4d4d8d04c8b458a.html",
+     "seccion": "Brasil",
+     "resumen": "Lula gana con una victoria inédita y la decisión judicial de alargar la jornada electoral genera polémica."
+    },
+    {
+     "titular": "Bolsonaro cuestiona el resultado: \"Es imposible reconocer estas elecciones, vamos a pedir la anulación\"",
+     "url": "https://www.elmundo.es/internacional/2026/10/26/6adeb20fe4d4d868108b4590.html",
+     "seccion": "Brasil",
+     "resumen": "Bolsonaro dice que no puede reconocer el resultado y pedirá anular las elecciones."
+    },
+    {
+     "titular": "Telefónica se desploma un 7% en la bolsa tras la victoria de Lula en Brasil y Santander pierde un 4%",
+     "url": "https://www.elmundo.es/economia/dinero-inversion/2026/10/26/6adf0b5bfdddff98418b458f.html",
+     "seccion": "Brasil",
+     "resumen": "Telefónica cae un 7% y Santander un 4% en bolsa tras la victoria de Lula."
+    },
+    {
+     "titular": "La inesperada renuncia del delegado Martín, el \"ariete\" de Sánchez en Madrid contra Ayuso y Almeida \"castigado\" sin listas para el 29-N",
+     "url": "https://www.elmundo.es/madrid/2026/10/26/6ade5e52fdddffb1248b4581.html",
+     "seccion": "Artículos Esteban Urreiztieta",
+     "resumen": "El delegado del Gobierno en Madrid, Francisco Martín, renuncia a su candidatura tras quedar fuera de las listas del PSOE."
+    },
+    {
+     "titular": "Zapatero, en un callejón sin salida con las joyas: o admite la malversación o que mintió al juez sobre su origen",
+     "url": "https://www.elmundo.es/espana/2026/10/26/6addf976fdddff05668b45a9.html",
+     "seccion": "José Luis Rodríguez Zapatero",
+     "resumen": "Zapatero se enfrenta a la sospecha de que las joyas fueran una comisión ilegal y no un regalo, según el juez y Anticorrupción."
+    },
+    {
+     "titular": "María Corina regresa para liderar la Transición de Venezuela",
+     "url": "https://www.elmundo.es/internacional/2026/10/26/6ade7f67fc6c835d488b4570.html",
+     "seccion": "María Corina Machado",
+     "resumen": "María Corina Machado regresa a Venezuela para liderar la transición tras siete intentos fallidos."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la campaña electoral española con noticias internacionales y de sociedad. Destaca también el análisis de los retos de Lula y el debate sobre un posible Gobierno PP-Vox.",
+   "noticias": [
+    {
+     "titular": "Deuda disparada, familias ahogadas, efectos de El Niño y violencia: los retos de Lula",
+     "url": "https://www.abc.es/internacional/deuda-disparada-familias-ahogadas-efectos-nino-violencia-20261024020200-nt.html",
+     "seccion": "",
+     "resumen": "Lula asumirá el cargo con deuda pública al alza, mayor endeudamiento de las familias y riesgos climáticos como El Niño."
+    },
+    {
+     "titular": "Un Gobierno PP-Vox reformará en su totalidad la Red Eléctrica 'intervenida' que acabará en fusión con Enagás",
+     "url": "https://www.abc.es/economia/gobierno-ppvox-reformara-totalidad-red-electrica-intervenida-20261026015013-nt.html",
+     "seccion": "",
+     "resumen": "Un eventual Gobierno PP-Vox reformaría Redeia y la integraría con Enagás, según fuentes políticas."
+    },
+    {
+     "titular": "Los Mossos piden autorización judicial para rastrear la red y llegar al origen de Blocus",
+     "url": "https://www.abc.es/espana/cataluna/mossos-piden-autorizacion-judicial-rastrear-red-llegar-20261026112200-nt.html",
+     "seccion": "",
+     "resumen": "Los Mossos piden autorización judicial para rastrear la red de convocatorias de los disturbios de Barcelona."
+    },
+    {
+     "titular": "De las calles a la mayoría absoluta: cómo el movimiento Lista Estudiantil logró romper la hegemonía de Vucic",
+     "url": "https://www.abc.es/internacional/calles-mayoria-absoluta-movimiento-lista-estudiantil-logro-20261026102051-nt.html",
+     "seccion": "",
+     "resumen": "La Lista Estudiantil derrota a Vucic tras 12 años de Gobierno y busca una democratización proeuropea."
+    },
+    {
+     "titular": "Su regreso, un balón de oxígeno para Trump y los republicanos con el voto hispano",
+     "url": "https://www.abc.es/internacional/regreso-maria-corina-balon-oxigeno-trump-republicanos-20261026072208-nt.html",
+     "seccion": "",
+     "resumen": "El regreso de Machado a Venezuela puede favorecer a los republicanos con voto hispano en las legislativas de EE.UU."
+    },
+    {
+     "titular": "Carlos Herrera alerta sobre el resultado de las elecciones: «Si no hay acuerdo entre PP y Vox, será imposible que la derecha alcance los tres quintos del Senado»",
+     "url": "https://www.abc.es/recreo/carlos-herrera-alerta-sobre-resultado-elecciones-generales-20261026111337-nt.html",
+     "seccion": "",
+     "resumen": "Carlos Herrera advierte de que sin acuerdo PP-Vox será difícil que la derecha alcance tres quintos del Senado."
+    },
+    {
+     "titular": "Ochenta y siete heridos, siete de ellos graves, tras caer un autobús por un terraplén de 20 metros en Cataluña",
+     "url": "https://www.abc.es/espana/cataluna/heridos-graves-tras-caer-autobus-barranco-metros-20261025181253-nt.html",
+     "seccion": "",
+     "resumen": "Un autobús cae por un terraplén en el Montseny con 87 heridos, siete de ellos graves."
+    },
+    {
+     "titular": "Muere Alfredo Sánchez Monteseirín, el alcalde de la última gran transformación de Sevilla",
+     "url": "https://www.abc.es/sevilla/ciudad/muere-alfredo-sanchez-monteseirin-exalcalde-sevilla-20261026103800-nts.html",
+     "seccion": "",
+     "resumen": "Muere a los 69 años Alfredo Sánchez Monteseirín, alcalde de Sevilla entre 1999 y 2011."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza la victoria de Lula y la situación en Serbia, junto con los disturbios de Barcelona y la campaña catalana. Incluye también el resultado del clásico en la sección de deportes.",
+   "noticias": [
+    {
+     "titular": "Victoria histórica de Lula en Brasil",
+     "url": "https://www.lavanguardia.com/internacional/20261026/11667806/fuerte-recelo-recuento-brasileno.html",
+     "seccion": "Internacional",
+     "resumen": "Lula se impone por cuatro puntos a Flávio Bolsonaro en una victoria que describe como histórica."
+    },
+    {
+     "titular": "Bolsonaro no reconoce su derrota ante Lula y pide anular las elecciones",
+     "url": "https://www.lavanguardia.com/internacional/20261026/11668002/bolsonaro-reconoce-derrota-lula-pide-anular-elecciones.html",
+     "seccion": "Internacional",
+     "resumen": "Bolsonaro no reconoce la derrota y pide anular las elecciones, acusando al Supremo de cambiar las reglas."
+    },
+    {
+     "titular": "El movimiento estudiantil derrota a Vucic en las elecciones generales de Serbia",
+     "url": "https://www.lavanguardia.com/internacional/20261025/11667785/movimiento-estudiantil-derrota-vucic-elecciones-generales-serbia.html",
+     "seccion": "Internacional",
+     "resumen": "El movimiento estudiantil gana a Vucic en Serbia, que reconoce la derrota en unos comicios con alta participación."
+    },
+    {
+     "titular": "La UE, aliviada por la victoria de la Lista Estudiantil en Serbia y de Lula en Brasil",
+     "url": "https://www.lavanguardia.com/internacional/20261026/11668191/ue-aliviada-victoria-lista-estudiantil-serbia-lula-brasil.html",
+     "seccion": "Internacional",
+     "resumen": "La UE se alivia con las victorias en Serbia y Brasil, y abre la puerta a un acercamiento de Belgrado."
+    },
+    {
+     "titular": "Los Mossos investigan quién está detrás de los altercados en Barcelona",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261026/11667794/mossos-investigan-esta-detras-altercados-barcelona.html",
+     "seccion": "Barcelona",
+     "resumen": "Los Mossos investigan los altercados en Barcelona; hay 128 detenidos, 72 de ellos menores."
+    },
+    {
+     "titular": "Parlon ve voluntad de desestabilización y caos de los organizadores de los disturbios",
+     "url": "https://www.lavanguardia.com/politica/20261026/11668067/parlon-ve-voluntad-desestabilizacion-caos-organizadores-disturbios-barcelona.html",
+     "seccion": "Política",
+     "resumen": "La consellera de Interior pide a las plataformas que convocaron la protesta información sobre sus cuentas."
+    },
+    {
+     "titular": "El conductor del autocar accidentado en el Montseny da negativo en alcohol y drogas",
+     "url": "https://www.lavanguardia.com/local/catalunya/20261026/11668196/conductor-autocar-accidentado-montseny-da-negativo-alcohol-drogas.html",
+     "seccion": "Catalunya",
+     "resumen": "El conductor del autocar accidentado en el Montseny da negativo en alcohol y drogas; se prepara la retirada del vehículo."
+    },
+    {
+     "titular": "Catalunya desempata: Sánchez o Abascal",
+     "url": "https://www.lavanguardia.com/politica/20261026/11667771/catalunya-desempata-sanchez-abascal.html",
+     "seccion": "Política",
+     "resumen": "En Catalunya, la elección entre Sánchez y Abascal aparece como factor decisivo para el resultado nacional."
+    }
+   ]
+  }
+ ]
+}
