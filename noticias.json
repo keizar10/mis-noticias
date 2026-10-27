@@ -1,156 +1,68 @@
 {
  "fecha": "2026-10-27",
- "franja": "mañana",
- "generada": "2026-10-27T12:09+01:00",
+ "franja": "tarde",
+ "generada": "2026-10-27T22:02+01:00",
  "con_ia": true,
- "resumen_dia": "Vox y PP cierran un pacto para las elecciones generales del 29-N que incluye renunciar a listas al Senado en 14 circunscripciones a cambio de candidatos \"independientes\" del partido de Abascal. Los disturbios de Barcelona, organizados a través de redes sociales según la investigación policial, centran otra parte de la agenda, junto con la UCO y el caso Aldama. En internacional, las elecciones israelíes con la mayor participación desde 1981 y la victoria de Lula en Brasil ocupan buena parte de la cobertura. En deportes, el Balón de Oro para Harry Kane y el de Alexia Putellas, con el fútbol español destacado, y el veto chino a LaLiga tras el caso Mbappé.",
+ "resumen_dia": "Las elecciones en Israel dominan la jornada: los sondeos a pie de urna dan un resultado muy ajustado entre el bloque de Netanyahu y la oposición, con participación récord. En Brasil, Flávio Bolsonaro abandona el país tras perder frente a Lula. En España, los disturbios de Barcelona y el caso Ceuta marcan la agenda política, junto con la precampaña de las generales del 29N.",
  "temas_comunes": [
   {
-   "titulo": "Pacto PP-Vox para el Senado",
-   "resumen": "PP y Vox acuerdan que el primero no presente listas en varias provincias al Senado y que Vox proponga candidatos independientes. Feijóo defiende la fórmula y se analiza si la suma de escaños permitiría mayorías clave.",
+   "titulo": "Elecciones en Israel: resultado ajustado",
+   "resumen": "Los sondeos a pie de urna sitúan en empate técnico al bloque de Netanyahu y a la oposición, liderada por Eisenkot. La participación alcanza un máximo en esta fase de votación desde 1988, y los partidos árabes aparecen como clave para formar Gobierno.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Subraya que Vox impone candidatos vinculados a los ultras y cita a exresponsables de su entorno, con la cita de Feijóo sobre la renuncia.",
+     "enfoque": "Destaca el castigo al Gobierno reflejado en los sondeos y el papel de los partidos árabes como llave del próximo Ejecutivo.",
      "noticias": [
       {
-       "titular": "Vox impone al PP candidatos “independientes” al Senado muy vinculados a los ultras: de la exjefa de prensa de Ortega-Smith a un ‘exconseller’ de Mazón",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/vox-impone-al-pp-candidatos-independientes-al-senado-muy-vinculados-al-partido-de-la-exjefa-de-prensa-de-ortega-smith-a-un-exconseller-de-mazon.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Feijóo, tras pactar con Vox no presentarse en algunas provincias al Senado: “Nadie puede renunciar a lo que no tiene”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-sobre-su-pacto-con-vox-al-senado-el-pp-ya-no-es-una-referencia-por-renunciar-a-lo-que-no-tiene.html",
-       "seccion": "Elecciones Generales"
+       "titular": "Elecciones en Israel 2026, en directo | Los sondeos a pie de urna dan un resultado muy ajustado entre Netanyahu y la oposición con un castigo al Gobierno",
+       "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
+       "seccion": "Israel"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Se centra en el alcance del acuerdo para el control del Senado y en su posible efecto sobre la renovación del Constitucional.",
+     "enfoque": "Subraya la victoria del bloque de Eisenkot según los primeros sondeos y reconstruye el perfil del líder opositor.",
      "noticias": [
       {
-       "titular": "El pacto de PP y Vox acerca a la derecha al control total del Senado: la fórmula elegida puede ser decisiva en 13 provincias",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adfc1a4fdddff58628b4571.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Destaca la lectura de Vox como socio necesario para la mayoría y la posibilidad de tres quintos en el Senado.",
-     "noticias": [
-      {
-       "titular": "Vox ya no da miedo al PP",
-       "url": "https://www.lavanguardia.com/opinion/20261027/11668808/vox-da-miedo-pp.html",
-       "seccion": "Opinión"
+       "titular": "El bloque de Eisenkot vence al de Netanyahu, según los primeros sondeos: \"Indica la desconfianza total en el Gobierno del 7-O\"",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
+       "seccion": "Israel"
       },
       {
-       "titular": "Feijóo ve “posibilidad” de obtener una mayoría de tres quintos en el Senado tras el acuerdo con Vox",
-       "url": "https://www.lavanguardia.com/politica/20261027/11669130/feijoo-ve-posibilidad-obtener-mayoria-tres-quintos-senado-acuerdo-vox.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Disturbios juveniles en Barcelona",
-   "resumen": "Los disturbios y el saqueo del sábado en Barcelona se convocaron por redes sociales y la policía investiga quién los organizó. Se anuncian nuevas concentraciones para el fin de semana.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge lo que se sabe y lo que se investiga, con el papel de los Mossos y la alerta por otra convocatoria.",
-     "noticias": [
-      {
-       "titular": "Lo que se sabe y lo que se investiga de los disturbios en Barcelona",
-       "url": "https://elpais.com/videos/2026-10-27/lo-que-se-sabe-y-lo-que-se-investiga-de-los-disturbios-en-barcelona.html",
-       "seccion": "Disturbios"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Pone el foco en mensajes internos de los Mossos que alertan de nuevos saqueos y en bandas latinoamericanas.",
-     "noticias": [
-      {
-       "titular": "Los mensajes internos de los Mossos que advierten de otro saqueo masivo de Blocus: \"Quieren repetirlo. Hay bandas latinoamericanas\"",
-       "url": "https://www.elmundo.es/cataluna/2026/10/27/6adfaaeb21efa022498b4581.html",
-       "seccion": "Artículos Víctor Mondelo"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Atiende a la figura de un mando que dirigía a los jóvenes, a los grupos de Telegram y a la responsabilidad de los padres.",
-     "noticias": [
-      {
-       "titular": "La jueza de menores riñe a los padres por los disturbios de Barcelona",
-       "url": "https://www.lavanguardia.com/local/barcelona/20261027/11668735/jueza-menores-rine-padres-violencia-hijos.html",
-       "seccion": "Barcelona"
+       "titular": "Gadi Eisenkot, el líder tranquilo que perdió a su hijo en la ofensiva contra Hamas",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6adf8e00e85ece80418b45a9.html",
+       "seccion": "Israel"
       },
       {
-       "titular": "Un mando dirige y da instrucciones a los vándalos para sembrar el caos en Barcelona",
-       "url": "https://www.lavanguardia.com/sucesos/20261027/11668493/mando-dirige-da-instrucciones-vandalos-sembrar-caos-barcelona.html",
-       "seccion": "Sucesos"
-      },
-      {
-       "titular": "Lo que sabemos y las incógnitas detrás de los altercados en Barcelona",
-       "url": "https://www.lavanguardia.com/local/barcelona/20261027/11669132/incognitas-detras-altercados-barcelona.html",
-       "seccion": "Barcelona"
+       "titular": "Benjamin Netanyahu ante la prueba que quizá no pueda sobrevivir",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6adf91bae9cf4af8588b4597.html",
+       "seccion": "Benjamín Netanyahu"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Relaciona los disturbios con Blocus y su desconvocatoria de la revuelta prevista en Madrid.",
+     "enfoque": "Presenta el seguimiento en directo y señala que la oposición supera por estrecho margen al bloque de Netanyahu.",
      "noticias": [
       {
-       "titular": "Blocus dice que desconvoca la revuelta en Madrid en Halloween por la presión policial",
-       "url": "https://www.abc.es/espana/madrid/blocus-dice-desconvoca-revuelta-madrid-halloween-presion-20261027103708-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Elecciones en Israel",
-   "resumen": "Israel celebra sus primeras elecciones desde el ataque de Hamás de 2023 con una participación récord desde 1981. Los sondeos dan ventaja a la oposición, pero ningún bloque parece lograr mayoría.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Destaca la figura de Netanyahu y la ausencia de un plan para Gaza en los candidatos, con cifra de muertos.",
-     "noticias": [
-      {
-       "titular": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
-       "url": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html",
-       "seccion": "Israel"
-      },
-      {
-       "titular": "75.000 muertos después, Gaza es la gran ausente en las elecciones israelíes",
-       "url": "https://elpais.com/internacional/2026-10-27/75000-muertos-despues-gaza-es-la-gran-ausente-en-las-elecciones-israelies.html",
-       "seccion": "Elecciones Israel"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Subraya la participación más alta desde 1981 y la división de los sondeos.",
-     "noticias": [
-      {
-       "titular": "Israel vota bajo la sombra del 7-O: la participación es la más alta desde 1981",
-       "url": "https://www.elmundo.es/internacional/2026/10/27/6adfb67ae4d4d8bf5d8b45b9.html",
+       "titular": "El bloque de la oposición supera por estrecho margen al de Netanyahu en las elecciones",
+       "url": "https://www.abc.es/internacional/elecciones-israel-directo-votaciones-participacion-resultado-netanyahu-20261027182010-di.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Resalta la participación récord y las advertencias de los socios de Netanyahu sobre un cambio de poder.",
+     "enfoque": "Recoge que ninguno de los dos bloques tiene mayoría clara y la denuncia de Netanyahu sobre el robo de elecciones con participación récord.",
      "noticias": [
       {
-       "titular": "La participación en las elecciones israelíes es la mayor desde 1981",
+       "titular": "Ninguno de los dos bloques tiene una clara mayoría en Israel, según sondeos a pie de urna",
+       "url": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Netanyahu denuncia que le quieren “robar las elecciones” entre una participación récord",
        "url": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
        "seccion": "Internacional"
       }
@@ -159,43 +71,49 @@
    ]
   },
   {
-   "titulo": "Victoria de Lula en Brasil",
-   "resumen": "La victoria de Lula en Brasil tiene efectos en la política regional y en la oposición de Bolsonaro, que pide anular la candidatura de Lula.",
+   "titulo": "Flávio Bolsonaro sale de Brasil tras la derrota",
+   "resumen": "Flávio Bolsonaro abandona Brasil rumbo a Estados Unidos tras perder las elecciones ante Lula, con investigaciones judiciales abiertas en su contra. Fuentes estadounidenses confirman su salida.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Pone el foco en la movilización por WhatsApp que impulsó el diputado Janones a favor de Lula.",
+     "enfoque": "Subraya que el viaje se produce tras negarse a entregar el pasaporte al juez que lo investiga.",
      "noticias": [
       {
-       "titular": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula",
-       "url": "https://elpais.com/america/2026-10-27/andre-janones-el-general-de-whatsapp-que-le-dio-la-vuelta-a-la-eleccion-de-lula.html",
+       "titular": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
+       "url": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
        "seccion": "Elecciones Brasil"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Señala el freno al plan de Trump en las Américas y el papel de Brasil y Uruguay.",
+     "enfoque": "Destaca la dos investigaciones abiertas en el Supremo y el pasaporte italiano que le habría permitido el viaje.",
      "noticias": [
       {
-       "titular": "La victoria de Lula en Brasil frena en seco el Escudo de las Américas de Donald Trump",
-       "url": "https://www.elmundo.es/internacional/2026/10/27/6adf8440e85eceaf758b458b.html",
+       "titular": "Flávio Bolsonaro huye de Brasil a Florida tras su derrota ante Lula y con dos investigaciones abiertas en el Supremo",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0ba33e85ece75248b457a.html",
        "seccion": "Brasil"
       }
      ]
     },
     {
-     "medio": "lavanguardia",
-     "enfoque": "Relaciona la victoria con el rechazo al modelo de Milei y recoge el giro de Bolsonaro.",
+     "medio": "abc",
+     "enfoque": "Señala la confirmación de un funcionario estadounidense a Reuters y la posible reunión con su hermano Eduardo en Florida.",
      "noticias": [
       {
-       "titular": "Bolsonaro rectifica y se proclama líder de la oposición en Brasil",
-       "url": "https://www.lavanguardia.com/internacional/20261026/11668787/bolsonaro-sigue-reconocer-historica-victoria-lula-presidenciales.html",
-       "seccion": "Internacional"
-      },
+       "titular": "Flávio Bolsonaro huye de Brasil y se dirige a EE.UU.",
+       "url": "https://www.abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enmarca la caída en un cambio de situación procesal, de candidato favorito a investigado, en 48 horas.",
+     "noticias": [
       {
-       "titular": "La motosierra pierde dientes",
-       "url": "https://www.lavanguardia.com/internacional/20261027/11668928/motosierra-pierde-dientes.html",
+       "titular": "Flávio Bolsonaro huye a Estados Unidos tras perder el fuero en Brasil",
+       "url": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
        "seccion": "Internacional"
       }
      ]
@@ -203,126 +121,169 @@
    ]
   },
   {
-   "titulo": "Balón de Oro y fútbol español",
-   "resumen": "Harry Kane gana el Balón de Oro y Alexia Putellas consigue su tercer galardón. España suma numerosos premios, incluido el de mejor entrenador para Luis de la Fuente.",
+   "titulo": "Disturbios en Barcelona y convocatorias por redes",
+   "resumen": "Los disturbios de la semana pasada en Barcelona se atribuyen a convocatorias organizadas en redes sociales y Telegram. Los Mossos recurren al Centro de Inteligencia contra el Terrorismo y la red se extiende a otras comunidades.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Subraya la figura de Luis de la Fuente y la popularidad del seleccionador tras el Mundial.",
+     "enfoque": "Sitúa el origen en Madrid el 8 de octubre y sostiene que la red tiene ramificaciones en 11 comunidades.",
      "noticias": [
       {
-       "titular": "Kane y el Balón de Oro más español",
-       "url": "https://elpais.com/deportes/futbol/2026-10-26/kane-y-el-balon-de-oro-mas-espanol.html",
-       "seccion": "Fútbol"
-      },
-      {
-       "titular": "Alexia Putellas y el consejo de Luis Suárez",
-       "url": "https://elpais.com/deportes/futbol/2026-10-26/alexia-putellas-y-el-consejo-de-luis-suarez.html",
-       "seccion": "Fútbol"
-      },
-      {
-       "titular": "Luis de la Fuente ‘superstar’: así transformó el Mundial la vida del seleccionador español",
-       "url": "https://elpais.com/deportes/futbol/2026-10-28/luis-de-la-fuente-superstar-asi-transformo-el-mundial-la-vida-del-seleccionador-espanol.html",
-       "seccion": "Fútbol"
+       "titular": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
+       "url": "https://elpais.com/espana/2026-10-27/la-red-que-convoco-los-disturbios-de-barcelona-tiene-ramificaciones-en-11-comunidades-autonomas.html",
+       "seccion": "España"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Destaca el reparto de ocho de doce premios para el fútbol español y el caos organizativo de la gala.",
+     "enfoque": "Recoge que los Mossos recurren al Centro de Inteligencia contra el Terrorismo y la nueva convocatoria para el sábado 31.",
      "noticias": [
       {
-       "titular": "Un caos organizativo, el \"mal trago\" de Lamine y otras intrahistorias del Balón de Oro más ajustado: \"Entre los españoles se han quitado votos\"",
-       "url": "https://www.elmundo.es/deportes/futbol/2026/10/27/6ae0049ee4d4d8f7358b459c.html",
-       "seccion": "FC Barcelona"
-      },
-      {
-       "titular": "España se baña en oro: Alexia Putellas, Balón de Oro en una edición que premia a De la Fuente, Lamine Yamal, Unai Simón y al Barça femenino",
-       "url": "https://www.elmundo.es/deportes/futbol/2026/10/26/6adfd73afdddffea718b456d.html",
-       "seccion": "Balón de Oro"
+       "titular": "Los Mossos recurren al Centro de Inteligencia contra el Terrorismo para cerrar los grupos que alientan una nueva oleada de disturbios: \"Poneros ropa negra y máscaras de Halloween\"",
+       "url": "https://www.elmundo.es/cataluna/2026/10/27/6ae0ede9fdddff586b8b45a4.html",
+       "seccion": "Artículos Cristina Rubio"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Se fija en la gala, con el gesto de Unai Simón y el estilo de Lamine Yamal en la alfombra roja.",
-     "noticias": [
-      {
-       "titular": "Lamine Yamal triunfa en el Balón de Oro con un broche XL y un reloj de oro rosa",
-       "url": "https://www.abc.es/summum/estilo/moda/lamine-yamal-triunfa-balon-oro-broche-reloj-20261027075726-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Unai Simón, a su novia en el discurso en la gala del Balón de Oro: «Eres un oasis de tranquilidad en este mundo tan caótico»",
-       "url": "https://www.abc.es/gente/unai-simon-habla-nunca-novia-carmen-discurso-20261027100513-nt.html",
-       "seccion": ""
-      }
-     ]
+     "enfoque": "No recoge esta información en la portada resumida.",
+     "noticias": []
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Hace hincapié en el protagonismo del fútbol femenino del Barça y en el tercer puesto de Lamine Yamal.",
+     "enfoque": "Detalla que los disturbios fueron organizados por un mando, que la Generalitat se persona como acusación y que una jueza de menores reprende a los padres.",
      "noticias": [
       {
-       "titular": "Harry Kane se lleva el Balón de Oro al mejor futbolista por delante de Mbappé y Lamine Yamal",
-       "url": "https://www.lavanguardia.com/deportes/20261026/11668794/balon-oro-harry-kane-mejor-futbolista-por-delante-lamine-yamal-mbappe-londres.html",
-       "seccion": "Deportes"
+       "titular": "Los Mossos recurren a la vía antiterrorista para cerrar tres canales de Blocus en Telegram",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261027/11669511/mossos-recurren-mecanismos-antiterroristas-bloquear-chats-disturbios-barcelona.html",
+       "seccion": "Barcelona"
       },
       {
-       "titular": "Las mujeres del femenino vuelven a reinar",
-       "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261027/11668837/barca-balon-de-oro-mujeres-vuelven-reinar-pere-romeu.html",
-       "seccion": "Barça"
+       "titular": "Un mando dirige y da instrucciones a los vándalos para sembrar el caos en Barcelona",
+       "url": "https://www.lavanguardia.com/sucesos/20261027/11668493/mando-dirige-da-instrucciones-vandalos-sembrar-caos-barcelona.html",
+       "seccion": "Sucesos"
       },
       {
-       "titular": "Lamine Yamal, mejor talento joven del 2026, se queda sin Balón de Oro y termina tercero",
-       "url": "https://www.lavanguardia.com/deportes/futbol/20261026/11668694/primer-premio-lamine-yamal-mejor-talento-joven-2026-balon-de-oro-londres.html",
-       "seccion": "Fútbol"
+       "titular": "La Generalitat se persona como acusación particular contra los vándalos de Barcelona",
+       "url": "https://www.lavanguardia.com/politica/20261027/11669348/generalitat-persona-acusacion-particular-responsables-vandalos-barcelona.html",
+       "seccion": "Política"
       },
       {
-       "titular": "El último baile blaugrana de Alexia vale su tercer Balón de Oro",
-       "url": "https://www.lavanguardia.com/deportes/futbol-femenino/20261026/11668695/ultimo-baile-blaugrana-alexia-vale-tercer-balon-oro.html",
-       "seccion": "Fútbol femenino"
+       "titular": "La jueza de menores riñe a los padres por la violencia de sus hijos detenidos",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261027/11668735/jueza-menores-rine-padres-violencia-hijos.html",
+       "seccion": "Barcelona"
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Veto chino a LaLiga y Mbappé",
-   "resumen": "China suspende las emisiones de LaLiga y las empresas rompen acuerdos con Mbappé tras un meme en el que el jugador llamó dictador a Mao.",
+   "titulo": "Feijóo y Gobierno cruzan acusaciones por los disturbios",
+   "resumen": "El PP acusa al Gobierno de tolerar la violencia y el Ejecutivo responde que el PP se aferra a una polémica. Feijóo anuncia endurecer las penas para los disturbios convocados por redes sociales.",
    "medios": [
     {
-     "medio": "elmundo",
-     "enfoque": "Lo presenta como otro episodio de sensibilidad patriótica, comparado con casos previos del Barça y la NBA.",
+     "medio": "elpais",
+     "enfoque": "Recoge las acusaciones de Feijóo, Álvarez de Toledo y Ayuso y la respuesta del Gobierno, que califica al líder del PP de irresponsable.",
      "noticias": [
       {
-       "titular": "La televisión estatal china suspende las emisiones de LaLiga tras la polémica con Mbappé",
-       "url": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/27/6ae046c9fc6c839e088b45aa.html",
-       "seccion": "fútbol"
+       "titular": "Feijóo redobla sus acusaciones al Gobierno por los disturbios: “Cuanto más pierden, más tensión crean”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-redobla-sus-acusaciones-al-gobierno-por-los-disturbios-cuanto-mas-pierden-mas-tension-crean.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "El Gobierno llama “irresponsable” a Feijóo y condena la violencia para evitar que la campaña se centre ahí",
+       "url": "https://elpais.com/espana/2026-10-27/el-gobierno-llama-irresponsable-a-feijoo-y-condena-la-violencia-para-evitar-que-la-campana-se-centre-ahi.html",
+       "seccion": "España"
       }
      ]
     },
     {
+     "medio": "elmundo",
+     "enfoque": "No recoge este asunto en su selección.",
+     "noticias": []
+    },
+    {
      "medio": "abc",
-     "enfoque": "Destaca el veto a los partidos de LaLiga y la ruptura de acuerdos comerciales con el jugador.",
+     "enfoque": "Centra el foco en el inicio oficial de la carrera electoral hacia el 29 de noviembre y el pacto con Vox para el Senado.",
      "noticias": [
       {
-       "titular": "China veta los partidos de LaLiga y rompe acuerdos con Mbappé por calificar de «dictador» a Mao",
-       "url": "https://www.abc.es/deportes/futbol/china-pie-guerra-mbappe-vetan-partidos-laliga-20261027092813-nt.html",
+       "titular": "Feijóo: «Esta vez pondremos fin a lo que nunca debió suceder»",
+       "url": "https://www.abc.es/espana/feijoo-conjura-ayuso-cayetana-vez-pondremos-fin-20261027140255-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Recoge la advertencia del Ministerio de Exteriores chino y la rescisión de contratos.",
+     "enfoque": "Destaca la visita de Feijóo a Barcelona para prometer penas más duras, con agravante por cara tapada y por convocatorias en redes.",
      "noticias": [
       {
-       "titular": "China veta los partidos de Mbappé en LaLiga tras la polémica por el 'meme' del dictador",
-       "url": "https://www.lavanguardia.com/deportes/futbol/20261027/11669052/china-veta-partidos-mbappe-laliga-polemica-meme-dictador.html",
-       "seccion": "Fútbol"
+       "titular": "Feijóo vuelve a Barcelona para prometer penas más duras por los disturbios",
+       "url": "https://www.lavanguardia.com/politica/20261027/11669359/feijoo-acude-manana-barcelona-prometiendo-reforma-penal-responder-mejor-disturbios.html",
+       "seccion": "Política"
       }
      ]
+    }
+   ]
+  },
+  {
+   "titulo": "Caso Ceuta y papel de autoridades marroquíes",
+   "resumen": "La jueza Tardón investiga la entrada masiva en Ceuta y ha citado a testigos que señalan a autoridades marroquíes. La Policía identifica a agentes marroquíes en vídeos enviados a la magistrada.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Señala que la Policía identifica a 24 agentes y que los vídeos muestran gendarmes pasivos o indicando el camino.",
+     "noticias": [
+      {
+       "titular": "La Policía identifica a 24 agentes “dinamizadores” en Ceuta a través de vídeos y fotografías analizadas",
+       "url": "https://elpais.com/espana/2026-10-27/la-policia-identifica-a-24-agentes-dinamizadores-en-ceuta-a-traves-de-videos-y-fotografias-analizadas.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Tres testigos que llegaron a nado a Ceuta identifican a varias autoridades marroquíes señaladas por la entrada masiva",
+       "url": "https://elpais.com/espana/2026-10-27/tres-testigos-que-llegaron-a-nado-a-ceuta-identifican-a-varias-autoridades-marroquies-senaladas-por-la-entrada-masiva.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya el vídeo generado con IA de los agentes y la versión de Interior de que no hubo aviso previo.",
+     "noticias": [
+      {
+       "titular": "Un ex gendarme que llegó a Ceuta a nado identifica en la frontera a altos mandos de Interior de Marruecos \"dando órdenes\"",
+       "url": "https://www.elmundo.es/espana/2026/10/27/6ae0e6d6e85ece69238b45ae.html",
+       "seccion": "Artículos Manuel Marraco"
+      },
+      {
+       "titular": "El vídeo con IA de los \"agentes dinamizadores\" marroquíes que la Policía ha enviado a la juez: así se pastoreó a la masa hacia Ceuta",
+       "url": "https://www.elmundo.es/espana/2026/10/27/6ae0fa9d21efa0d4458b4590.html",
+       "seccion": ""
+      },
+      {
+       "titular": "El Ministerio del Interior se reitera ante la Justicia: no hubo aviso previo al asalto de 90.000 inmigrantes a la frontera de Ceuta",
+       "url": "https://www.elmundo.es/espana/2026/10/27/6ae10444e85ece782c8b4580.html",
+       "seccion": "Ceuta"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca el testimonio de un excargo de la Gendarmería y dos inmigrantes que sitúan a altos mandos en la frontera.",
+     "noticias": [
+      {
+       "titular": "Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera durante la invasión a Ceuta",
+       "url": "https://www.abc.es/espana/excargo-gendarmeria-dos-inmigrantes-situan-altos-mandos-20261027201247-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "No recoge este asunto en su selección.",
+     "noticias": []
     }
    ]
   }
@@ -331,220 +292,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la política con el pacto de Vox y PP para el Senado, y da peso a las elecciones israelíes y al caso de Brasil. También incluye varias piezas de fútbol y de cultura y sociedad.",
+   "resumen": "Prioriza la política nacional, con la campaña, los disturbios y el caso Ceuta, y da peso a las elecciones israelíes. Incluye también asuntos judiciales como el caso Zapatero y la causa de Ceuta.",
    "noticias": [
     {
-     "titular": "Vox impone al PP candidatos “independientes” al Senado muy vinculados a los ultras: de la exjefa de prensa de Ortega-Smith a un ‘exconseller’ de Mazón",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/vox-impone-al-pp-candidatos-independientes-al-senado-muy-vinculados-al-partido-de-la-exjefa-de-prensa-de-ortega-smith-a-un-exconseller-de-mazon.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Vox logra que el PP acepte candidatos independientes ligados al ultraderechismo en 14 circunscripciones al Senado a cambio de no presentar listas propias allí."
-    },
-    {
-     "titular": "Feijóo, tras pactar con Vox no presentarse en algunas provincias al Senado: “Nadie puede renunciar a lo que no tiene”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-sobre-su-pacto-con-vox-al-senado-el-pp-ya-no-es-una-referencia-por-renunciar-a-lo-que-no-tiene.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Feijóo defiende el pacto con Vox y explica que integrar perfiles independientes es necesario para retener a votantes de Abascal."
-    },
-    {
-     "titular": "Lo que se sabe y lo que se investiga de los disturbios en Barcelona",
-     "url": "https://elpais.com/videos/2026-10-27/lo-que-se-sabe-y-lo-que-se-investiga-de-los-disturbios-en-barcelona.html",
-     "seccion": "Disturbios",
-     "resumen": "Los Mossos investigan quién convocó por redes sociales los disturbios de Barcelona y alertan de una nueva concentración el fin de semana."
-    },
-    {
-     "titular": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
-     "url": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html",
+     "titular": "Elecciones en Israel 2026, en directo | Los sondeos a pie de urna dan un resultado muy ajustado entre Netanyahu y la oposición con un castigo al Gobierno",
+     "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
      "seccion": "Israel",
-     "resumen": "Netanyahu afronta unos comicios decisivos; la oposición lidera los sondeos pero ningún bloque logrará mayoría."
+     "resumen": "Los sondeos a pie de urna muestran un resultado muy ajustado entre Netanyahu y la oposición, con un castigo al Gobierno."
     },
     {
-     "titular": "75.000 muertos después, Gaza es la gran ausente en las elecciones israelíes",
-     "url": "https://elpais.com/internacional/2026-10-27/75000-muertos-despues-gaza-es-la-gran-ausente-en-las-elecciones-israelies.html",
-     "seccion": "Elecciones Israel",
-     "resumen": "Los candidatos israelíes apenas abordan el futuro de Gaza tras tres años de guerra y más de 75.000 muertos."
+     "titular": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
+     "url": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "Flávio Bolsonaro sale de EE.UU. ... tras negarse a entregar su pasaporte al juez que lo investiga por el caso."
+    },
+    {
+     "titular": "Feijóo redobla sus acusaciones al Gobierno por los disturbios: “Cuanto más pierden, más tensión crean”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-redobla-sus-acusaciones-al-gobierno-por-los-disturbios-cuanto-mas-pierden-mas-tension-crean.html",
+     "seccion": "España",
+     "resumen": "Feijóo y Ayuso acusan al Gobierno de tolerar la violencia en los disturbios, y el Ejecutivo responde."
+    },
+    {
+     "titular": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
+     "url": "https://elpais.com/espana/2026-10-27/la-red-que-convoco-los-disturbios-de-barcelona-tiene-ramificaciones-en-11-comunidades-autonomas.html",
+     "seccion": "España",
+     "resumen": "Un análisis sitúa en Madrid el origen de las convocatorias de los disturbios de Barcelona, con ramificaciones en 11 comunidades."
+    },
+    {
+     "titular": "La Policía identifica a 24 agentes “dinamizadores” en Ceuta a través de vídeos y fotografías analizadas",
+     "url": "https://elpais.com/espana/2026-10-27/la-policia-identifica-a-24-agentes-dinamizadores-en-ceuta-a-traves-de-videos-y-fotografias-analizadas.html",
+     "seccion": "España",
+     "resumen": "La Policía identifica a 24 agentes marroquíes en vídeos enviados a la jueza Tardón sobre la entrada en Ceuta."
+    },
+    {
+     "titular": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí",
+     "url": "https://elpais.com/espana/2026-10-27/el-juez-rechaza-la-peticion-de-zapatero-de-preguntar-a-arabia-saudi-por-las-joyas-incautadas.html",
+     "seccion": "España",
+     "resumen": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí."
+    },
+    {
+     "titular": "Comuns acuerda con el PSC retirar sus candidaturas al Senado en Girona, Lleida y Tarragona",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/comuns-acuerda-con-el-psc-retirar-sus-candidaturas-al-senado-en-girona-lleida-y-tarragona.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Comuns y PSC pactan retirar candidaturas al Senado en Girona, Lleida y Tarragona a cambio de un senador designado."
     },
     {
      "titular": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula",
      "url": "https://elpais.com/america/2026-10-27/andre-janones-el-general-de-whatsapp-que-le-dio-la-vuelta-a-la-eleccion-de-lula.html",
      "seccion": "Elecciones Brasil",
-     "resumen": "El diputado André Janones movilizó a millones de brasileños por WhatsApp en la recta final y se ha consolidado como aliado de Lula."
-    },
-    {
-     "titular": "Kane y el Balón de Oro más español",
-     "url": "https://elpais.com/deportes/futbol/2026-10-26/kane-y-el-balon-de-oro-mas-espanol.html",
-     "seccion": "Fútbol",
-     "resumen": "Harry Kane gana el Balón de Oro por delante de Mbappé y Lamine Yamal, en una gala con protagonismo del Barça y de la selección."
-    },
-    {
-     "titular": "Luis de la Fuente ‘superstar’: así transformó el Mundial la vida del seleccionador español",
-     "url": "https://elpais.com/deportes/futbol/2026-10-28/luis-de-la-fuente-superstar-asi-transformo-el-mundial-la-vida-del-seleccionador-espanol.html",
-     "seccion": "Fútbol",
-     "resumen": "Luis de la Fuente vive una fuerte popularidad tras el Mundial y ha sido premiado como mejor entrenador del año."
+     "resumen": "André Janones moviliza a casi 11 millones de brasileños en tres semanas y se consolida como aliado de Lula."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Destaca la investigación judicial sobre financiación del PSOE y la gestión de Interior, junto con el pacto PP-Vox. Dedica también espacio a Israel, Brasil y al fútbol.",
+   "resumen": "Pone el foco en el caso Ceuta y en la investigación de la trama de las cloacas, además de las elecciones israelíes. Mantiene una selección amplia de temas judiciales y de economía.",
    "noticias": [
     {
-     "titular": "La UCO acredita los 300.000 euros que Aldama vincula a la financiación ilegal del PSOE",
-     "url": "https://www.elmundo.es/espana/2026/10/26/6ade3a9dfc6c8337488b4597.html",
-     "seccion": "UCO",
-     "resumen": "La UCO corrobora la entrada de 300.000 euros que el empresario Aldama vincula a la financiación irregular del PSOE."
-    },
-    {
-     "titular": "El pacto de PP y Vox acerca a la derecha al control total del Senado: la fórmula elegida puede ser decisiva en 13 provincias",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adfc1a4fdddff58628b4571.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "El pacto PP-Vox podría dar a la derecha el control del Senado, con suma de escaños que abriría la renovación del Constitucional."
-    },
-    {
-     "titular": "El juez investiga a otros 18 ex altos cargos de la etapa del PSOE en la Junta de Andalucía por la inyección de fondos millonarios a Santana Motor \"sin control alguno\"",
-     "url": "https://www.elmundo.es/andalucia/2026/10/27/6ae0709321efa0027e8b45a8.html",
-     "seccion": "Tribunales",
-     "resumen": "El juez amplía la investigación a otros 18 exaltos cargos de la Junta de Andalucía por fondos a Santana Motor."
-    },
-    {
-     "titular": "Los mensajes internos de los Mossos que advierten de otro saqueo masivo de Blocus: \"Quieren repetirlo. Hay bandas latinoamericanas\"",
-     "url": "https://www.elmundo.es/cataluna/2026/10/27/6adfaaeb21efa022498b4581.html",
-     "seccion": "Artículos Víctor Mondelo",
-     "resumen": "Mensajes internos de los Mossos advierten de posibles nuevos saqueos de Blocus y señalan a bandas latinoamericanas."
-    },
-    {
-     "titular": "\"Haz lo que te parezca\": el descontrol de Interior derivó en un choque Policía-Guardia Civil en pleno asalto en Ceuta",
-     "url": "https://www.elmundo.es/espana/2026/10/27/6adfa58521efa00b508b4594.html",
-     "seccion": "Ceuta",
-     "resumen": "Policías y guardias civiles chocaron durante el asalto a la frontera de Ceuta, según declaran ante la jueza por falta de instrucciones."
-    },
-    {
-     "titular": "Israel vota bajo la sombra del 7-O: la participación es la más alta desde 1981",
-     "url": "https://www.elmundo.es/internacional/2026/10/27/6adfb67ae4d4d8bf5d8b45b9.html",
+     "titular": "El vídeo con IA de los \"agentes dinamizadores\" marroquíes que la Policía ha enviado a la juez: así se pastoreó a la masa hacia Ceuta",
+     "url": "https://www.elmundo.es/espana/2026/10/27/6ae0fa9d21efa0d4458b4590.html",
      "seccion": "",
-     "resumen": "Israel vota con la participación más alta desde 1981 y sondeos divididos, sin mayoría clara para ningún bloque."
+     "resumen": "Imágenes generadas con IA de presuntos agentes marroquíes que habrían guiado a la multitud hacia Ceuta, enviadas a la jueza."
     },
     {
-     "titular": "La victoria de Lula en Brasil frena en seco el Escudo de las Américas de Donald Trump",
-     "url": "https://www.elmundo.es/internacional/2026/10/27/6adf8440e85eceaf758b458b.html",
+     "titular": "El Ministerio del Interior se reitera ante la Justicia: no hubo aviso previo al asalto de 90.000 inmigrantes a la frontera de Ceuta",
+     "url": "https://www.elmundo.es/espana/2026/10/27/6ae10444e85ece782c8b4580.html",
+     "seccion": "Ceuta",
+     "resumen": "Interior sostiene ante la Justicia que no hubo aviso previo del asalto a la frontera de Ceuta."
+    },
+    {
+     "titular": "El bloque de Eisenkot vence al de Netanyahu, según los primeros sondeos: \"Indica la desconfianza total en el Gobierno del 7-O\"",
+     "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
+     "seccion": "Israel",
+     "resumen": "Según primeros sondeos, el bloque de Eisenkot supera al de Netanyahu, aunque formar Gobierno no sería sencillo."
+    },
+    {
+     "titular": "Pedraz blinda la causa de las cloacas de Ferraz con la continuidad de Balas al frente del caso para evitar \"alteraciones\"",
+     "url": "https://www.elmundo.es/espana/2026/10/27/6ae0da0021efa03e308b457b.html",
+     "seccion": "Audiencia Nacional",
+     "resumen": "El juez Pedraz mantiene a Balas al frente de la causa de las cloacas de Ferraz con carácter permanente."
+    },
+    {
+     "titular": "Asisa y Adeslas plantan al Gobierno y abandonan la sanidad de los militares",
+     "url": "https://www.elmundo.es/salud/2026/10/27/6ae0dcd6e4d4d8a10f8b459b.html",
+     "seccion": "salud",
+     "resumen": "Asisa y Adeslas abandonan el concierto con la mutualidad militar Isfas por considerar insuficientes las condiciones."
+    },
+    {
+     "titular": "El Gobierno aprueba 2.200 millones para Navantia y anticipa una cascada de adjudicaciones militares durante la campaña",
+     "url": "https://www.elmundo.es/economia/2026/10/27/6ae10d75e4d4d8894a8b458a.html",
+     "seccion": "España",
+     "resumen": "El Gobierno aprueba 2.200 millones para Navantia y anticipa adjudicaciones militares durante la campaña."
+    },
+    {
+     "titular": "Flávio Bolsonaro huye de Brasil a Florida tras su derrota ante Lula y con dos investigaciones abiertas en el Supremo",
+     "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0ba33e85ece75248b457a.html",
      "seccion": "Brasil",
-     "resumen": "La victoria de Lula frena el plan de Trump de un Escudo de las Américas, con Brasil y Uruguay alejados de la propuesta."
+     "resumen": "Flávio Bolsonaro sale de Brasil hacia Florida con dos investigaciones abiertas en el Supremo."
     },
     {
-     "titular": "España se baña en oro: Alexia Putellas, Balón de Oro en una edición que premia a De la Fuente, Lamine Yamal, Unai Simón y al Barça femenino",
-     "url": "https://www.elmundo.es/deportes/futbol/2026/10/26/6adfd73afdddffea718b456d.html",
-     "seccion": "Balón de Oro",
-     "resumen": "El fútbol español gana ocho de los doce premios del Balón de Oro, con Putellas como ganadora y De la Fuente entre los reconocidos."
+     "titular": "Los líderes de Finlandia y Noruega hablan por teléfono con Putin y Frederiksen estalla: \"No sé qué creen que pueden conseguir\"",
+     "url": "https://www.elmundo.es/internacional/2026/10/27/6ae077c3fc6c83125a8b4586.html",
+     "seccion": "Rusia",
+     "resumen": "Finlandia y Noruega hablan con Putin, coordinados con Ucrania y EE.UU., lo que provoca la crítica de Dinamarca."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Mezcla la información política con un peso notable de contenidos de fútbol, cultura y servicio. Recoge también la respuesta de Blocus en Madrid y el conflicto con China por Mbappé.",
+   "resumen": "Prioriza la política y la justicia, con la investigación de obra pública y Ceuta, y dedica espacio a la carrera electoral. Incluye también deportes y cultura en su portada.",
    "noticias": [
     {
-     "titular": "El Reino Unido acusa a dos hombres de ayudar a Irán por el intento de atentado en la base de Fairford",
-     "url": "https://www.abc.es/internacional/dos-hombres-acusados-reino-unido-ayudar-iran-20261027105206-nt.html",
+     "titular": "La UCO ultima un informe sobre amaños de obra pública que deja a Acciona a las puertas de la imputación",
+     "url": "https://www.abc.es/noticias/uco-ultima-informe-sobre-amanos-obra-publica-20261023215527-nt.html",
      "seccion": "",
-     "resumen": "Reino Unido imputa a dos hombres por prestar ayuda a Irán en la preparación de un atentado contra la base de Fairford."
+     "resumen": "La UCO prepara un informe sobre amaños de obra pública que podría llevar a la imputación de Acciona."
     },
     {
-     "titular": "Los líderes de Noruega y Finlandia hablan directamente con Putin para buscar el fin de la guerra en Ucrania",
-     "url": "https://www.abc.es/internacional/lideres-noruega-finlandia-hablan-putin-persuadirle-sobre-20261027111023-nt.html",
+     "titular": "Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera durante la invasión a Ceuta",
+     "url": "https://www.abc.es/espana/excargo-gendarmeria-dos-inmigrantes-situan-altos-mandos-20261027201247-nt.html",
      "seccion": "",
-     "resumen": "Los líderes de Noruega y Finlandia hablan con Putin para pedir el fin de la guerra, tras un alto el fuego local en Jersón."
+     "resumen": "Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera de Ceuta."
     },
     {
-     "titular": "Países Bajos planea sustituir a uno de cada siete empleados públicos por la IA para ahorrar costes",
-     "url": "https://www.abc.es/economia/paises-bajos-planea-acabar-siete-empleos-publicos-20261027113050-nt.html",
+     "titular": "El bloque de la oposición supera por estrecho margen al de Netanyahu en las elecciones",
+     "url": "https://www.abc.es/internacional/elecciones-israel-directo-votaciones-participacion-resultado-netanyahu-20261027182010-di.html",
      "seccion": "",
-     "resumen": "Países Bajos prevé sustituir a uno de cada siete empleados públicos por IA hasta 2035, con un ahorro de 3.500 millones."
+     "resumen": "La oposición supera por estrecho margen al bloque de Netanyahu, según el seguimiento en directo de las elecciones."
     },
     {
-     "titular": "Blocus dice que desconvoca la revuelta en Madrid en Halloween por la presión policial",
-     "url": "https://www.abc.es/espana/madrid/blocus-dice-desconvoca-revuelta-madrid-halloween-presion-20261027103708-nt.html",
+     "titular": "Feijóo: «Esta vez pondremos fin a lo que nunca debió suceder»",
+     "url": "https://www.abc.es/espana/feijoo-conjura-ayuso-cayetana-vez-pondremos-fin-20261027140255-nt.html",
      "seccion": "",
-     "resumen": "Blocus anuncia que desconvoca la revuelta prevista en Madrid para Halloween tras la presión policial."
+     "resumen": "Feijóo da el pistoletazo de salida a la campaña del 29 de noviembre con el pacto con Vox para el Senado."
     },
     {
-     "titular": "Antonio Resines: «Quiero que el PP gane las elecciones generales y que gobierne con el PSOE para quitarnos de encima problemas tremendos»",
-     "url": "https://www.abc.es/recreo/antonio-resines-quiero-pp-gane-elecciones-generales-20261027102507-nt.html",
+     "titular": "Flávio Bolsonaro huye de Brasil y se dirige a EE.UU.",
+     "url": "https://www.abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html",
      "seccion": "",
-     "resumen": "Antonio Resines expresa su deseo de que PP y PSOE gobiernen juntos, en el marco del cierre de candidaturas para el 29-N."
+     "resumen": "Flávio Bolsonaro abandona Brasil rumbo a EE.UU. tras su derrota, según confirma un funcionario a Reuters."
     },
     {
-     "titular": "Altos funcionarios denuncian que cobran poco más de 1.000 euros a la espera de un destino",
-     "url": "https://www.abc.es/economia/descontrol-oposiciones-inspectores-trabajo-llevan-ano-cobrando-20261028012311-nt.html",
+     "titular": "EE.UU forzará a Delcy a dejar la presidencia de Venezuela el próximo año, pero no le impedirá presentarse a las elecciones",
+     "url": "https://www.abc.es/internacional/eeuu-forzara-delcy-dejar-presidencia-venezuela-proximo-20261027193806-nt.html",
      "seccion": "",
-     "resumen": "Inspectores de Trabajo y altos funcionarios denuncian que llevan meses sin destino pese a haber ganado sus plazas."
+     "resumen": "EE.UU. prevé que Delcy Rodríguez deje la presidencia de Venezuela el próximo año, aunque podrá presentarse a elecciones."
     },
     {
-     "titular": "China veta los partidos de LaLiga y rompe acuerdos con Mbappé por calificar de «dictador» a Mao",
-     "url": "https://www.abc.es/deportes/futbol/china-pie-guerra-mbappe-vetan-partidos-laliga-20261027092813-nt.html",
+     "titular": "Nuevo cisma entre los acampados de Sol, que valoran irse tras las elecciones del 29N",
+     "url": "https://www.abc.es/espana/madrid/nuevo-cisma-acampados-sol-valoran-irse-tras-20261026012225-nt.html",
      "seccion": "",
-     "resumen": "China veta los partidos de LaLiga y rompe acuerdos con Mbappé tras calificarle de dictador en referencia a Mao."
+     "resumen": "Los acampados de Sol empiezan a marcharse tras un cisma interno, con intención de irse tras las elecciones del 29N."
     },
     {
-     "titular": "Matthew Perry: los siete millones de dólares que gastó en desintoxicarse y la traición que destrozó a su familia",
-     "url": "https://www.abc.es/gente/matthew-perry-tres-anos-despues-muerte-siete-20261027103644-nt.html",
+     "titular": "Un abogado ligado al PP de Madrid denuncia un robo de documentación sobre disputas de afiliados",
+     "url": "https://www.abc.es/espana/abogado-ligado-pp-madrid-denuncia-robo-documentacion-20261027214016-nt.html",
      "seccion": "",
-     "resumen": "Repaso a los siete millones de dólares que Matthew Perry gastó en desintoxicarse, según la docuserie de Netflix."
+     "resumen": "Un despacho de un abogado vinculado al PP de Madrid sufre un robo de documentación sobre disputas de afiliados."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Prioriza los disturbios de Barcelona y la violencia en el País Vasco, junto con el Balón de Oro y la política de Vox y PP. Incluye también la economía con los datos del paro.",
+   "resumen": "Destaca la política catalana y el seguimiento de los disturbios de Barcelona, con la reacción de la Generalitat y la Justicia. Dedica también espacio a Israel, Brasil y la polémica de Mbappé en China.",
    "noticias": [
+    {
+     "titular": "Netanyahu denuncia que le quieren “robar las elecciones” entre una participación récord",
+     "url": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
+     "seccion": "Internacional",
+     "resumen": "Netanyahu denuncia que intentan robarle las elecciones en una jornada con participación récord desde 1988."
+    },
+    {
+     "titular": "Junts exigirá la salida de Pedro Sánchez tras las elecciones para volver a negociar con el PSOE",
+     "url": "https://www.lavanguardia.com/politica/20261027/11669324/junts-exigira-concierto-economico-elecciones-llave-investidura.html",
+     "seccion": "Política",
+     "resumen": "Junts condiciona su apoyo a una futura investidura a la salida de Pedro Sánchez y a un concierto económico."
+    },
+    {
+     "titular": "PSC y Comuns pactan para concentrar el voto en el Senado en Girona, Tarragona y Lleida",
+     "url": "https://www.lavanguardia.com/politica/20261027/11669211/acuerdo-psc-comuns-senado-girona-tarragona-lleida.html",
+     "seccion": "Política",
+     "resumen": "PSC y Comuns acuerdan concentrar su voto en el Senado en Girona, Tarragona y Lleida, con un senador designado por Comuns."
+    },
     {
      "titular": "Un mando dirige y da instrucciones a los vándalos para sembrar el caos en Barcelona",
      "url": "https://www.lavanguardia.com/sucesos/20261027/11668493/mando-dirige-da-instrucciones-vandalos-sembrar-caos-barcelona.html",
      "seccion": "Sucesos",
-     "resumen": "Un mando dirigía a menores para provocar disturbios en Barcelona, con un objetivo de pillaje sin motivación ideológica."
+     "resumen": "Un mando habría dirigido a los vándalos de Barcelona para provocar el caos, según la investigación."
     },
     {
-     "titular": "La protesta contra Vito Quiles en Bilbao deriva en asaltos a comercios y 19 detenidos",
-     "url": "https://www.lavanguardia.com/local/paisvasco/20261027/11669028/protesta-acto-vito-quiles-bilbao-acaba-altercados-quemas-coches-asaltos-comercios-19-detenidos.html",
-     "seccion": "País Vasco",
-     "resumen": "Una protesta contra Vito Quiles en Bilbao acaba en asaltos a comercios y 19 detenidos."
+     "titular": "Los Mossos recurren a la vía antiterrorista para cerrar tres canales de Blocus en Telegram",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261027/11669511/mossos-recurren-mecanismos-antiterroristas-bloquear-chats-disturbios-barcelona.html",
+     "seccion": "Barcelona",
+     "resumen": "Los Mossos piden ayuda a Interior para cerrar tres canales de Blocus en Telegram por la vía antiterrorista."
     },
     {
-     "titular": "Un flojo tercer trimestre registra un aumento del paro de 95.900 personas",
-     "url": "https://www.lavanguardia.com/economia/20261027/11669087/flojo-tercer-trimestre-registra-aumento-paro-95-900-personas.html",
-     "seccion": "Economía",
-     "resumen": "El paro sube en 95.900 personas en el tercer trimestre, mientras la creación de empleo queda por debajo de años anteriores."
-    },
-    {
-     "titular": "Feijóo ve “posibilidad” de obtener una mayoría de tres quintos en el Senado tras el acuerdo con Vox",
-     "url": "https://www.lavanguardia.com/politica/20261027/11669130/feijoo-ve-posibilidad-obtener-mayoria-tres-quintos-senado-acuerdo-vox.html",
+     "titular": "La Generalitat se persona como acusación particular contra los vándalos de Barcelona",
+     "url": "https://www.lavanguardia.com/politica/20261027/11669348/generalitat-persona-acusacion-particular-responsables-vandalos-barcelona.html",
      "seccion": "Política",
-     "resumen": "Feijóo considera posible una mayoría de tres quintos en el Senado tras el acuerdo con Vox."
+     "resumen": "La Generalitat se persona como acusación particular contra los responsables de los disturbios de Barcelona."
     },
     {
-     "titular": "La participación en las elecciones israelíes es la mayor desde 1981",
-     "url": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
+     "titular": "Flávio Bolsonaro huye a Estados Unidos tras perder el fuero en Brasil",
+     "url": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
      "seccion": "Internacional",
-     "resumen": "La participación en Israel es la mayor desde 1981 y los socios de Netanyahu advierten de un desastre si pierde el poder."
+     "resumen": "Flávio Bolsonaro huye a EE.UU. tras perder el fuero y reabrirse dos causas por corrupción y blanqueo."
     },
     {
-     "titular": "La motosierra pierde dientes",
-     "url": "https://www.lavanguardia.com/internacional/20261027/11668928/motosierra-pierde-dientes.html",
-     "seccion": "Internacional",
-     "resumen": "El miedo de los brasileños al modelo argentino explica en parte la victoria de Lula, según el análisis."
-    },
-    {
-     "titular": "Harry Kane se lleva el Balón de Oro al mejor futbolista por delante de Mbappé y Lamine Yamal",
-     "url": "https://www.lavanguardia.com/deportes/20261026/11668794/balon-oro-harry-kane-mejor-futbolista-por-delante-lamine-yamal-mbappe-londres.html",
-     "seccion": "Deportes",
-     "resumen": "Harry Kane gana el Balón de Oro, primer inglés desde Michael Owen en 25 años."
-    },
-    {
-     "titular": "China veta los partidos de Mbappé en LaLiga tras la polémica por el 'meme' del dictador",
-     "url": "https://www.lavanguardia.com/deportes/futbol/20261027/11669052/china-veta-partidos-mbappe-laliga-polemica-meme-dictador.html",
-     "seccion": "Fútbol",
-     "resumen": "China veta los partidos de Mbappé en LaLiga y empresas rescinden contratos tras el meme sobre Mao."
+     "titular": "Madrid se distancia de Catalunya en PIB per cápita por el empleo no residente",
+     "url": "https://www.lavanguardia.com/economia/20261027/11669258/madrid-ensancha-distancia-pib-per-capita-catalunya-trabajadores-residentes.html",
+     "seccion": "Economía",
+     "resumen": "La Cambra de Barcelona señala que el diferencial de PIB per cápita entre Madrid y Catalunya no se explica por productividad o paro."
     }
    ]
   }

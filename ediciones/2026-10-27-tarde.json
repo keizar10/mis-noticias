@@ -1,0 +1,513 @@
+{
+ "fecha": "2026-10-27",
+ "franja": "tarde",
+ "generada": "2026-10-27T22:02+01:00",
+ "con_ia": true,
+ "resumen_dia": "Las elecciones en Israel dominan la jornada: los sondeos a pie de urna dan un resultado muy ajustado entre el bloque de Netanyahu y la oposición, con participación récord. En Brasil, Flávio Bolsonaro abandona el país tras perder frente a Lula. En España, los disturbios de Barcelona y el caso Ceuta marcan la agenda política, junto con la precampaña de las generales del 29N.",
+ "temas_comunes": [
+  {
+   "titulo": "Elecciones en Israel: resultado ajustado",
+   "resumen": "Los sondeos a pie de urna sitúan en empate técnico al bloque de Netanyahu y a la oposición, liderada por Eisenkot. La participación alcanza un máximo en esta fase de votación desde 1988, y los partidos árabes aparecen como clave para formar Gobierno.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el castigo al Gobierno reflejado en los sondeos y el papel de los partidos árabes como llave del próximo Ejecutivo.",
+     "noticias": [
+      {
+       "titular": "Elecciones en Israel 2026, en directo | Los sondeos a pie de urna dan un resultado muy ajustado entre Netanyahu y la oposición con un castigo al Gobierno",
+       "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
+       "seccion": "Israel"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la victoria del bloque de Eisenkot según los primeros sondeos y reconstruye el perfil del líder opositor.",
+     "noticias": [
+      {
+       "titular": "El bloque de Eisenkot vence al de Netanyahu, según los primeros sondeos: \"Indica la desconfianza total en el Gobierno del 7-O\"",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
+       "seccion": "Israel"
+      },
+      {
+       "titular": "Gadi Eisenkot, el líder tranquilo que perdió a su hijo en la ofensiva contra Hamas",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6adf8e00e85ece80418b45a9.html",
+       "seccion": "Israel"
+      },
+      {
+       "titular": "Benjamin Netanyahu ante la prueba que quizá no pueda sobrevivir",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6adf91bae9cf4af8588b4597.html",
+       "seccion": "Benjamín Netanyahu"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Presenta el seguimiento en directo y señala que la oposición supera por estrecho margen al bloque de Netanyahu.",
+     "noticias": [
+      {
+       "titular": "El bloque de la oposición supera por estrecho margen al de Netanyahu en las elecciones",
+       "url": "https://www.abc.es/internacional/elecciones-israel-directo-votaciones-participacion-resultado-netanyahu-20261027182010-di.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge que ninguno de los dos bloques tiene mayoría clara y la denuncia de Netanyahu sobre el robo de elecciones con participación récord.",
+     "noticias": [
+      {
+       "titular": "Ninguno de los dos bloques tiene una clara mayoría en Israel, según sondeos a pie de urna",
+       "url": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Netanyahu denuncia que le quieren “robar las elecciones” entre una participación récord",
+       "url": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Flávio Bolsonaro sale de Brasil tras la derrota",
+   "resumen": "Flávio Bolsonaro abandona Brasil rumbo a Estados Unidos tras perder las elecciones ante Lula, con investigaciones judiciales abiertas en su contra. Fuentes estadounidenses confirman su salida.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya que el viaje se produce tras negarse a entregar el pasaporte al juez que lo investiga.",
+     "noticias": [
+      {
+       "titular": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
+       "url": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
+       "seccion": "Elecciones Brasil"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la dos investigaciones abiertas en el Supremo y el pasaporte italiano que le habría permitido el viaje.",
+     "noticias": [
+      {
+       "titular": "Flávio Bolsonaro huye de Brasil a Florida tras su derrota ante Lula y con dos investigaciones abiertas en el Supremo",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0ba33e85ece75248b457a.html",
+       "seccion": "Brasil"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Señala la confirmación de un funcionario estadounidense a Reuters y la posible reunión con su hermano Eduardo en Florida.",
+     "noticias": [
+      {
+       "titular": "Flávio Bolsonaro huye de Brasil y se dirige a EE.UU.",
+       "url": "https://www.abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enmarca la caída en un cambio de situación procesal, de candidato favorito a investigado, en 48 horas.",
+     "noticias": [
+      {
+       "titular": "Flávio Bolsonaro huye a Estados Unidos tras perder el fuero en Brasil",
+       "url": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Disturbios en Barcelona y convocatorias por redes",
+   "resumen": "Los disturbios de la semana pasada en Barcelona se atribuyen a convocatorias organizadas en redes sociales y Telegram. Los Mossos recurren al Centro de Inteligencia contra el Terrorismo y la red se extiende a otras comunidades.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Sitúa el origen en Madrid el 8 de octubre y sostiene que la red tiene ramificaciones en 11 comunidades.",
+     "noticias": [
+      {
+       "titular": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
+       "url": "https://elpais.com/espana/2026-10-27/la-red-que-convoco-los-disturbios-de-barcelona-tiene-ramificaciones-en-11-comunidades-autonomas.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge que los Mossos recurren al Centro de Inteligencia contra el Terrorismo y la nueva convocatoria para el sábado 31.",
+     "noticias": [
+      {
+       "titular": "Los Mossos recurren al Centro de Inteligencia contra el Terrorismo para cerrar los grupos que alientan una nueva oleada de disturbios: \"Poneros ropa negra y máscaras de Halloween\"",
+       "url": "https://www.elmundo.es/cataluna/2026/10/27/6ae0ede9fdddff586b8b45a4.html",
+       "seccion": "Artículos Cristina Rubio"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "No recoge esta información en la portada resumida.",
+     "noticias": []
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Detalla que los disturbios fueron organizados por un mando, que la Generalitat se persona como acusación y que una jueza de menores reprende a los padres.",
+     "noticias": [
+      {
+       "titular": "Los Mossos recurren a la vía antiterrorista para cerrar tres canales de Blocus en Telegram",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261027/11669511/mossos-recurren-mecanismos-antiterroristas-bloquear-chats-disturbios-barcelona.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "Un mando dirige y da instrucciones a los vándalos para sembrar el caos en Barcelona",
+       "url": "https://www.lavanguardia.com/sucesos/20261027/11668493/mando-dirige-da-instrucciones-vandalos-sembrar-caos-barcelona.html",
+       "seccion": "Sucesos"
+      },
+      {
+       "titular": "La Generalitat se persona como acusación particular contra los vándalos de Barcelona",
+       "url": "https://www.lavanguardia.com/politica/20261027/11669348/generalitat-persona-acusacion-particular-responsables-vandalos-barcelona.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "La jueza de menores riñe a los padres por la violencia de sus hijos detenidos",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261027/11668735/jueza-menores-rine-padres-violencia-hijos.html",
+       "seccion": "Barcelona"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Feijóo y Gobierno cruzan acusaciones por los disturbios",
+   "resumen": "El PP acusa al Gobierno de tolerar la violencia y el Ejecutivo responde que el PP se aferra a una polémica. Feijóo anuncia endurecer las penas para los disturbios convocados por redes sociales.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge las acusaciones de Feijóo, Álvarez de Toledo y Ayuso y la respuesta del Gobierno, que califica al líder del PP de irresponsable.",
+     "noticias": [
+      {
+       "titular": "Feijóo redobla sus acusaciones al Gobierno por los disturbios: “Cuanto más pierden, más tensión crean”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-redobla-sus-acusaciones-al-gobierno-por-los-disturbios-cuanto-mas-pierden-mas-tension-crean.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "El Gobierno llama “irresponsable” a Feijóo y condena la violencia para evitar que la campaña se centre ahí",
+       "url": "https://elpais.com/espana/2026-10-27/el-gobierno-llama-irresponsable-a-feijoo-y-condena-la-violencia-para-evitar-que-la-campana-se-centre-ahi.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "No recoge este asunto en su selección.",
+     "noticias": []
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Centra el foco en el inicio oficial de la carrera electoral hacia el 29 de noviembre y el pacto con Vox para el Senado.",
+     "noticias": [
+      {
+       "titular": "Feijóo: «Esta vez pondremos fin a lo que nunca debió suceder»",
+       "url": "https://www.abc.es/espana/feijoo-conjura-ayuso-cayetana-vez-pondremos-fin-20261027140255-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca la visita de Feijóo a Barcelona para prometer penas más duras, con agravante por cara tapada y por convocatorias en redes.",
+     "noticias": [
+      {
+       "titular": "Feijóo vuelve a Barcelona para prometer penas más duras por los disturbios",
+       "url": "https://www.lavanguardia.com/politica/20261027/11669359/feijoo-acude-manana-barcelona-prometiendo-reforma-penal-responder-mejor-disturbios.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Caso Ceuta y papel de autoridades marroquíes",
+   "resumen": "La jueza Tardón investiga la entrada masiva en Ceuta y ha citado a testigos que señalan a autoridades marroquíes. La Policía identifica a agentes marroquíes en vídeos enviados a la magistrada.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Señala que la Policía identifica a 24 agentes y que los vídeos muestran gendarmes pasivos o indicando el camino.",
+     "noticias": [
+      {
+       "titular": "La Policía identifica a 24 agentes “dinamizadores” en Ceuta a través de vídeos y fotografías analizadas",
+       "url": "https://elpais.com/espana/2026-10-27/la-policia-identifica-a-24-agentes-dinamizadores-en-ceuta-a-traves-de-videos-y-fotografias-analizadas.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Tres testigos que llegaron a nado a Ceuta identifican a varias autoridades marroquíes señaladas por la entrada masiva",
+       "url": "https://elpais.com/espana/2026-10-27/tres-testigos-que-llegaron-a-nado-a-ceuta-identifican-a-varias-autoridades-marroquies-senaladas-por-la-entrada-masiva.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya el vídeo generado con IA de los agentes y la versión de Interior de que no hubo aviso previo.",
+     "noticias": [
+      {
+       "titular": "Un ex gendarme que llegó a Ceuta a nado identifica en la frontera a altos mandos de Interior de Marruecos \"dando órdenes\"",
+       "url": "https://www.elmundo.es/espana/2026/10/27/6ae0e6d6e85ece69238b45ae.html",
+       "seccion": "Artículos Manuel Marraco"
+      },
+      {
+       "titular": "El vídeo con IA de los \"agentes dinamizadores\" marroquíes que la Policía ha enviado a la juez: así se pastoreó a la masa hacia Ceuta",
+       "url": "https://www.elmundo.es/espana/2026/10/27/6ae0fa9d21efa0d4458b4590.html",
+       "seccion": ""
+      },
+      {
+       "titular": "El Ministerio del Interior se reitera ante la Justicia: no hubo aviso previo al asalto de 90.000 inmigrantes a la frontera de Ceuta",
+       "url": "https://www.elmundo.es/espana/2026/10/27/6ae10444e85ece782c8b4580.html",
+       "seccion": "Ceuta"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca el testimonio de un excargo de la Gendarmería y dos inmigrantes que sitúan a altos mandos en la frontera.",
+     "noticias": [
+      {
+       "titular": "Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera durante la invasión a Ceuta",
+       "url": "https://www.abc.es/espana/excargo-gendarmeria-dos-inmigrantes-situan-altos-mandos-20261027201247-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "No recoge este asunto en su selección.",
+     "noticias": []
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la política nacional, con la campaña, los disturbios y el caso Ceuta, y da peso a las elecciones israelíes. Incluye también asuntos judiciales como el caso Zapatero y la causa de Ceuta.",
+   "noticias": [
+    {
+     "titular": "Elecciones en Israel 2026, en directo | Los sondeos a pie de urna dan un resultado muy ajustado entre Netanyahu y la oposición con un castigo al Gobierno",
+     "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
+     "seccion": "Israel",
+     "resumen": "Los sondeos a pie de urna muestran un resultado muy ajustado entre Netanyahu y la oposición, con un castigo al Gobierno."
+    },
+    {
+     "titular": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
+     "url": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "Flávio Bolsonaro sale de EE.UU. ... tras negarse a entregar su pasaporte al juez que lo investiga por el caso."
+    },
+    {
+     "titular": "Feijóo redobla sus acusaciones al Gobierno por los disturbios: “Cuanto más pierden, más tensión crean”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-redobla-sus-acusaciones-al-gobierno-por-los-disturbios-cuanto-mas-pierden-mas-tension-crean.html",
+     "seccion": "España",
+     "resumen": "Feijóo y Ayuso acusan al Gobierno de tolerar la violencia en los disturbios, y el Ejecutivo responde."
+    },
+    {
+     "titular": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
+     "url": "https://elpais.com/espana/2026-10-27/la-red-que-convoco-los-disturbios-de-barcelona-tiene-ramificaciones-en-11-comunidades-autonomas.html",
+     "seccion": "España",
+     "resumen": "Un análisis sitúa en Madrid el origen de las convocatorias de los disturbios de Barcelona, con ramificaciones en 11 comunidades."
+    },
+    {
+     "titular": "La Policía identifica a 24 agentes “dinamizadores” en Ceuta a través de vídeos y fotografías analizadas",
+     "url": "https://elpais.com/espana/2026-10-27/la-policia-identifica-a-24-agentes-dinamizadores-en-ceuta-a-traves-de-videos-y-fotografias-analizadas.html",
+     "seccion": "España",
+     "resumen": "La Policía identifica a 24 agentes marroquíes en vídeos enviados a la jueza Tardón sobre la entrada en Ceuta."
+    },
+    {
+     "titular": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí",
+     "url": "https://elpais.com/espana/2026-10-27/el-juez-rechaza-la-peticion-de-zapatero-de-preguntar-a-arabia-saudi-por-las-joyas-incautadas.html",
+     "seccion": "España",
+     "resumen": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí."
+    },
+    {
+     "titular": "Comuns acuerda con el PSC retirar sus candidaturas al Senado en Girona, Lleida y Tarragona",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/comuns-acuerda-con-el-psc-retirar-sus-candidaturas-al-senado-en-girona-lleida-y-tarragona.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Comuns y PSC pactan retirar candidaturas al Senado en Girona, Lleida y Tarragona a cambio de un senador designado."
+    },
+    {
+     "titular": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula",
+     "url": "https://elpais.com/america/2026-10-27/andre-janones-el-general-de-whatsapp-que-le-dio-la-vuelta-a-la-eleccion-de-lula.html",
+     "seccion": "Elecciones Brasil",
+     "resumen": "André Janones moviliza a casi 11 millones de brasileños en tres semanas y se consolida como aliado de Lula."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en el caso Ceuta y en la investigación de la trama de las cloacas, además de las elecciones israelíes. Mantiene una selección amplia de temas judiciales y de economía.",
+   "noticias": [
+    {
+     "titular": "El vídeo con IA de los \"agentes dinamizadores\" marroquíes que la Policía ha enviado a la juez: así se pastoreó a la masa hacia Ceuta",
+     "url": "https://www.elmundo.es/espana/2026/10/27/6ae0fa9d21efa0d4458b4590.html",
+     "seccion": "",
+     "resumen": "Imágenes generadas con IA de presuntos agentes marroquíes que habrían guiado a la multitud hacia Ceuta, enviadas a la jueza."
+    },
+    {
+     "titular": "El Ministerio del Interior se reitera ante la Justicia: no hubo aviso previo al asalto de 90.000 inmigrantes a la frontera de Ceuta",
+     "url": "https://www.elmundo.es/espana/2026/10/27/6ae10444e85ece782c8b4580.html",
+     "seccion": "Ceuta",
+     "resumen": "Interior sostiene ante la Justicia que no hubo aviso previo del asalto a la frontera de Ceuta."
+    },
+    {
+     "titular": "El bloque de Eisenkot vence al de Netanyahu, según los primeros sondeos: \"Indica la desconfianza total en el Gobierno del 7-O\"",
+     "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
+     "seccion": "Israel",
+     "resumen": "Según primeros sondeos, el bloque de Eisenkot supera al de Netanyahu, aunque formar Gobierno no sería sencillo."
+    },
+    {
+     "titular": "Pedraz blinda la causa de las cloacas de Ferraz con la continuidad de Balas al frente del caso para evitar \"alteraciones\"",
+     "url": "https://www.elmundo.es/espana/2026/10/27/6ae0da0021efa03e308b457b.html",
+     "seccion": "Audiencia Nacional",
+     "resumen": "El juez Pedraz mantiene a Balas al frente de la causa de las cloacas de Ferraz con carácter permanente."
+    },
+    {
+     "titular": "Asisa y Adeslas plantan al Gobierno y abandonan la sanidad de los militares",
+     "url": "https://www.elmundo.es/salud/2026/10/27/6ae0dcd6e4d4d8a10f8b459b.html",
+     "seccion": "salud",
+     "resumen": "Asisa y Adeslas abandonan el concierto con la mutualidad militar Isfas por considerar insuficientes las condiciones."
+    },
+    {
+     "titular": "El Gobierno aprueba 2.200 millones para Navantia y anticipa una cascada de adjudicaciones militares durante la campaña",
+     "url": "https://www.elmundo.es/economia/2026/10/27/6ae10d75e4d4d8894a8b458a.html",
+     "seccion": "España",
+     "resumen": "El Gobierno aprueba 2.200 millones para Navantia y anticipa adjudicaciones militares durante la campaña."
+    },
+    {
+     "titular": "Flávio Bolsonaro huye de Brasil a Florida tras su derrota ante Lula y con dos investigaciones abiertas en el Supremo",
+     "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0ba33e85ece75248b457a.html",
+     "seccion": "Brasil",
+     "resumen": "Flávio Bolsonaro sale de Brasil hacia Florida con dos investigaciones abiertas en el Supremo."
+    },
+    {
+     "titular": "Los líderes de Finlandia y Noruega hablan por teléfono con Putin y Frederiksen estalla: \"No sé qué creen que pueden conseguir\"",
+     "url": "https://www.elmundo.es/internacional/2026/10/27/6ae077c3fc6c83125a8b4586.html",
+     "seccion": "Rusia",
+     "resumen": "Finlandia y Noruega hablan con Putin, coordinados con Ucrania y EE.UU., lo que provoca la crítica de Dinamarca."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Prioriza la política y la justicia, con la investigación de obra pública y Ceuta, y dedica espacio a la carrera electoral. Incluye también deportes y cultura en su portada.",
+   "noticias": [
+    {
+     "titular": "La UCO ultima un informe sobre amaños de obra pública que deja a Acciona a las puertas de la imputación",
+     "url": "https://www.abc.es/noticias/uco-ultima-informe-sobre-amanos-obra-publica-20261023215527-nt.html",
+     "seccion": "",
+     "resumen": "La UCO prepara un informe sobre amaños de obra pública que podría llevar a la imputación de Acciona."
+    },
+    {
+     "titular": "Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera durante la invasión a Ceuta",
+     "url": "https://www.abc.es/espana/excargo-gendarmeria-dos-inmigrantes-situan-altos-mandos-20261027201247-nt.html",
+     "seccion": "",
+     "resumen": "Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera de Ceuta."
+    },
+    {
+     "titular": "El bloque de la oposición supera por estrecho margen al de Netanyahu en las elecciones",
+     "url": "https://www.abc.es/internacional/elecciones-israel-directo-votaciones-participacion-resultado-netanyahu-20261027182010-di.html",
+     "seccion": "",
+     "resumen": "La oposición supera por estrecho margen al bloque de Netanyahu, según el seguimiento en directo de las elecciones."
+    },
+    {
+     "titular": "Feijóo: «Esta vez pondremos fin a lo que nunca debió suceder»",
+     "url": "https://www.abc.es/espana/feijoo-conjura-ayuso-cayetana-vez-pondremos-fin-20261027140255-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo da el pistoletazo de salida a la campaña del 29 de noviembre con el pacto con Vox para el Senado."
+    },
+    {
+     "titular": "Flávio Bolsonaro huye de Brasil y se dirige a EE.UU.",
+     "url": "https://www.abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html",
+     "seccion": "",
+     "resumen": "Flávio Bolsonaro abandona Brasil rumbo a EE.UU. tras su derrota, según confirma un funcionario a Reuters."
+    },
+    {
+     "titular": "EE.UU forzará a Delcy a dejar la presidencia de Venezuela el próximo año, pero no le impedirá presentarse a las elecciones",
+     "url": "https://www.abc.es/internacional/eeuu-forzara-delcy-dejar-presidencia-venezuela-proximo-20261027193806-nt.html",
+     "seccion": "",
+     "resumen": "EE.UU. prevé que Delcy Rodríguez deje la presidencia de Venezuela el próximo año, aunque podrá presentarse a elecciones."
+    },
+    {
+     "titular": "Nuevo cisma entre los acampados de Sol, que valoran irse tras las elecciones del 29N",
+     "url": "https://www.abc.es/espana/madrid/nuevo-cisma-acampados-sol-valoran-irse-tras-20261026012225-nt.html",
+     "seccion": "",
+     "resumen": "Los acampados de Sol empiezan a marcharse tras un cisma interno, con intención de irse tras las elecciones del 29N."
+    },
+    {
+     "titular": "Un abogado ligado al PP de Madrid denuncia un robo de documentación sobre disputas de afiliados",
+     "url": "https://www.abc.es/espana/abogado-ligado-pp-madrid-denuncia-robo-documentacion-20261027214016-nt.html",
+     "seccion": "",
+     "resumen": "Un despacho de un abogado vinculado al PP de Madrid sufre un robo de documentación sobre disputas de afiliados."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Destaca la política catalana y el seguimiento de los disturbios de Barcelona, con la reacción de la Generalitat y la Justicia. Dedica también espacio a Israel, Brasil y la polémica de Mbappé en China.",
+   "noticias": [
+    {
+     "titular": "Netanyahu denuncia que le quieren “robar las elecciones” entre una participación récord",
+     "url": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
+     "seccion": "Internacional",
+     "resumen": "Netanyahu denuncia que intentan robarle las elecciones en una jornada con participación récord desde 1988."
+    },
+    {
+     "titular": "Junts exigirá la salida de Pedro Sánchez tras las elecciones para volver a negociar con el PSOE",
+     "url": "https://www.lavanguardia.com/politica/20261027/11669324/junts-exigira-concierto-economico-elecciones-llave-investidura.html",
+     "seccion": "Política",
+     "resumen": "Junts condiciona su apoyo a una futura investidura a la salida de Pedro Sánchez y a un concierto económico."
+    },
+    {
+     "titular": "PSC y Comuns pactan para concentrar el voto en el Senado en Girona, Tarragona y Lleida",
+     "url": "https://www.lavanguardia.com/politica/20261027/11669211/acuerdo-psc-comuns-senado-girona-tarragona-lleida.html",
+     "seccion": "Política",
+     "resumen": "PSC y Comuns acuerdan concentrar su voto en el Senado en Girona, Tarragona y Lleida, con un senador designado por Comuns."
+    },
+    {
+     "titular": "Un mando dirige y da instrucciones a los vándalos para sembrar el caos en Barcelona",
+     "url": "https://www.lavanguardia.com/sucesos/20261027/11668493/mando-dirige-da-instrucciones-vandalos-sembrar-caos-barcelona.html",
+     "seccion": "Sucesos",
+     "resumen": "Un mando habría dirigido a los vándalos de Barcelona para provocar el caos, según la investigación."
+    },
+    {
+     "titular": "Los Mossos recurren a la vía antiterrorista para cerrar tres canales de Blocus en Telegram",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261027/11669511/mossos-recurren-mecanismos-antiterroristas-bloquear-chats-disturbios-barcelona.html",
+     "seccion": "Barcelona",
+     "resumen": "Los Mossos piden ayuda a Interior para cerrar tres canales de Blocus en Telegram por la vía antiterrorista."
+    },
+    {
+     "titular": "La Generalitat se persona como acusación particular contra los vándalos de Barcelona",
+     "url": "https://www.lavanguardia.com/politica/20261027/11669348/generalitat-persona-acusacion-particular-responsables-vandalos-barcelona.html",
+     "seccion": "Política",
+     "resumen": "La Generalitat se persona como acusación particular contra los responsables de los disturbios de Barcelona."
+    },
+    {
+     "titular": "Flávio Bolsonaro huye a Estados Unidos tras perder el fuero en Brasil",
+     "url": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
+     "seccion": "Internacional",
+     "resumen": "Flávio Bolsonaro huye a EE.UU. tras perder el fuero y reabrirse dos causas por corrupción y blanqueo."
+    },
+    {
+     "titular": "Madrid se distancia de Catalunya en PIB per cápita por el empleo no residente",
+     "url": "https://www.lavanguardia.com/economia/20261027/11669258/madrid-ensancha-distancia-pib-per-capita-catalunya-trabajadores-residentes.html",
+     "seccion": "Economía",
+     "resumen": "La Cambra de Barcelona señala que el diferencial de PIB per cápita entre Madrid y Catalunya no se explica por productividad o paro."
+    }
+   ]
+  }
+ ]
+}
