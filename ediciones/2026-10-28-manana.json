@@ -1,0 +1,479 @@
+{
+ "fecha": "2026-10-28",
+ "franja": "mañana",
+ "generada": "2026-10-28T12:44+01:00",
+ "con_ia": true,
+ "resumen_dia": "Un choque entre un AVE de Renfe y un Iryo parado en la vía en Urda (Toledo) ha causado al menos 30 muertos según El País y La Vanguardia, cifra que ABC eleva a 50 y El Mundo sitúa en 10 en uno de sus titulares; la investigación apunta a un error humano de un operador de Adif. La política está marcada por las elecciones en Israel, donde el bloque de Netanyahu no alcanza la mayoría, y por la huida de Flávio Bolsonaro a EE UU. También destacan la denuncia de Begoña Gómez contra el PP por un vídeo generado con IA y las reacciones políticas al accidente.",
+ "temas_comunes": [
+  {
+   "titulo": "Choque de trenes AVE-Iryo en Urda",
+   "resumen": "Un AVE de Renfe embistió por detrás a un Iryo detenido en la línea Madrid-Andalucía, con descarrilamiento de varios vagones. Las cifras de fallecidos varían entre medios, con al menos 30 en las versiones más recientes, y la hipótesis principal apunta a un error humano en el centro de control.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en la hipótesis del error del controlador de Adif y en las cifras de víctimas, con una cobertura en directo y testimonios.",
+     "noticias": [
+      {
+       "titular": "Última hora del accidente de trenes en Toledo, en directo | Al menos 30 muertos en el choque de trenes de alta velocidad en Urda",
+       "url": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "¿Por qué chocaron los trenes? La investigación apunta a un error de un controlador que ordenó seguir al AVE",
+       "url": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
+       "seccion": "Accidente trenes Urda"
+      },
+      {
+       "titular": "Claves del accidente en Toledo | ¿Qué se sabe hasta el momento del choque de trenes?",
+       "url": "https://elpais.com/espana/2026-10-28/que-se-sabe-hasta-el-momento-del-accidente-de-trenes-en-toledo.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Al menos 31 muertos tras el choque entre un AVE de Renfe y un tren Iryo a la altura de Urda, en Toledo",
+       "url": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
+       "seccion": "Accidente trenes Urda"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Se centra en el fallo del sistema de señalización LZB y en los testimonios de supervivientes y allegados.",
+     "noticias": [
+      {
+       "titular": "Nueva tragedia en la Alta Velocidad española con al menos 30 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
+       "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
+       "seccion": "Artículos Clara Rojas"
+      },
+      {
+       "titular": "El tren Iryo alertó al centro de control que estaba detenido por un fallo del sistema LZB de señalización de la vía antes de ser embestido por el AVE",
+       "url": "https://www.elmundo.es/economia/2026/10/28/6ae1c9a1e9cf4a372d8b45ae.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Sebastián, pasajero del vagón 7 del Iryo accidentado: \"No paran de salir cadáveres, es como si hubieran puesto una bomba\"",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1c511fdddffeb558b4572.html",
+       "seccion": "Renfe"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge la cifra de 50 muertos y la hipótesis de error humano de un operario de Adif, junto a la reacción del ministro Óscar Puente.",
+     "noticias": [
+      {
+       "titular": "Al menos 50 muertos en un nuevo choque de trenes",
+       "url": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Transportes apunta a un error humano de un operador de Adif como la causa del accidente",
+       "url": "https://www.abc.es/espana/error-humano-operador-adif-causa-accidente-ferroviario-20261028103846-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Puente se ha enterado del accidente en el Foro Mundial de Infraestructuras",
+       "url": "https://www.abc.es/espana/llegada-oscar-puente-inauguracion-world-infraestructure-forum-20261028100359-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca el recuento de al menos 30 fallecidos y la versión de un sindicato ferroviario que considera extraño el accidente.",
+     "noticias": [
+      {
+       "titular": "Al menos 30 muertos al chocar dos trenes de alta velocidad en Toledo y caer dos vagones por un terraplén",
+       "url": "https://www.lavanguardia.com/vida/20261028/11669968/choque-de-trenes-urda-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Al menos 30 muertos tras el choque de dos trenes en Toledo",
+       "url": "https://www.lavanguardia.com/vida/20261028/11669949/mas-40-muertos-choque-dos-trenes-toledo.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "El portavoz del Sindicato Ferroviario ve “muy raro” el accidente de trenes en Toledo",
+       "url": "https://www.lavanguardia.com/vida/20261028/11670004/portavoz-sindicato-ferroviario-ve-raro-accidente-trenes-toledo.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Reacción política al accidente",
+   "resumen": "Los partidos suspendieron sus actos tras la tragedia, con la excepción de Vox, que mantuvo sus mítines y culpó al Gobierno. El Rey y otros dirigentes expresaron su pésame.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la crítica de Abascal al Gobierno por la tragedia y su uso del luto.",
+     "noticias": [
+      {
+       "titular": "Abascal, único líder que mantiene sus mítines electorales, culpa al Gobierno de la tragedia de Urda",
+       "url": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la consternación general y la suspensión de agendas de todos los partidos salvo Vox.",
+     "noticias": [
+      {
+       "titular": "La tragedia en Urda consterna a toda España y llega fuera de nuestras fronteras: \"Hoy Europa llora con vosotros\"",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d4e3e4d4d8d4588b45c9.html",
+       "seccion": "Accidente tren Toledo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Incluye las palabras del Rey y la conmoción en la zona del siniestro.",
+     "noticias": [
+      {
+       "titular": "El Rey: «Lo primero es transmitir a las familias nuestro pésame, nuestra tristeza, y cariño»",
+       "url": "https://www.abc.es/espana/casa-rey-conmovidos-acompanamos-tristeza-familias-seres-20261028113701-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "La Guardia Civil, tras llegar a la zona del siniestro: «Había cadáveres entre los hierros»",
+       "url": "https://www.abc.es/espana/castilla-la-mancha/guardia-civil-tras-llegar-zona-siniestro-urda-20261028105937-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Señala que PSOE, PP, Frente Amplio, Junts y ERC cancelaron sus actos, y que Vox ya culpa al Gobierno.",
+     "noticias": [
+      {
+       "titular": "Los partidos cancelan sus actos por el accidente salvo Vox, que ya culpa al Gobierno",
+       "url": "https://www.lavanguardia.com/politica/20261028/11669987/partidos-suspenden-agendas-accidente-ferroviario-toledo.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones en Israel sin mayoría clara",
+   "resumen": "El bloque de Netanyahu obtiene 54 de 120 escaños, sin mayoría, con más del 70% de los votos escrutados. Los partidos árabes emergen como clave para formar Gobierno.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca que Netanyahu gana pero no logra mayoría y que los partidos árabes serán decisivos.",
+     "noticias": [
+      {
+       "titular": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
+       "url": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+       "seccion": "Elecciones Israel"
+      },
+      {
+       "titular": "Claves para formar Gobierno en Israel tras las elecciones o regresar a las urnas: consulta del presidente, negociación y votación",
+       "url": "https://elpais.com/internacional/2026-10-28/claves-para-formar-gobierno-en-israel-tras-las-elecciones-o-regresar-a-las-urnas-consulta-del-presidente-negociacion-y-votacion.html",
+       "seccion": "Israel"
+      },
+      {
+       "titular": "Resultados de las elecciones en Israel 2026, en directo | Los partidos árabes alcanzan un resultado histórico y son claves para gobernar",
+       "url": "https://elpais.com/internacional/2026-10-28/resultados-y-reacciones-de-las-elecciones-en-israel-en-directo.html",
+       "seccion": "Elecciones Israel"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Habla de un revés para Netanyahu y de un Israel bloqueado, con el éxito de dos partidos árabes.",
+     "noticias": [
+      {
+       "titular": "Revés a Netanyahu en un Israel bloqueado para formar gobierno",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
+       "seccion": "Israel"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Describe unas elecciones sin claro ganador y plantea que los ciudadanos árabes pueden decidir el futuro del país.",
+     "noticias": [
+      {
+       "titular": "Netanyahu se adelanta en el recuento en unas elecciones sin un claro ganador en Israel",
+       "url": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Israel y Netanyahu, en manos de los palestinos",
+       "url": "https://www.lavanguardia.com/internacional/20261028/11669631/ee-uu-hecho-grande-netanyahu.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Bolsonaro sale de Brasil hacia EE UU",
+   "resumen": "El excandidato Flávio Bolsonaro, investigado por blanqueo y otros casos, ha salido de Brasil y viaja a EE UU sin entregar los pasaportes que le exigió un juez.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Señala el itinerario por Ecuador y Argentina y la investigación por blanqueo de capitales; Trump se muestra favorable a acogerlo.",
+     "noticias": [
+      {
+       "titular": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
+       "url": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
+       "seccion": "Brasil"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya que no entregó los pasaportes y que evita un posible ingreso en prisión.",
+     "noticias": [
+      {
+       "titular": "Flávio Bolsonaro huye con su familia a EEUU ante el temor de ser enviado a prisión: \"Marco Rubio, el cerebro detrás de la operación\"",
+       "url": "https://www.elmundo.es/internacional/2026/10/28/6ae11c6fe9cf4a4c578b4598.html",
+       "seccion": "Brasil"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enmarca la salida como una huida tras la derrota electoral, con el giro de candidato a fugitivo.",
+     "noticias": [
+      {
+       "titular": "Bolsonaro huye a EE.UU. tras su derrota electoral",
+       "url": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "De presidente a fugado",
+       "url": "https://www.lavanguardia.com/opinion/20261028/11669671/presidente-fugado.html",
+       "seccion": "Opinión"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza el accidente ferroviario de Urda, con seguimiento en directo, cifras de víctimas y la investigación sobre el controlador. También incluye la política israelí y la denuncia de Begoña Gómez.",
+   "noticias": [
+    {
+     "titular": "Última hora del accidente de trenes en Toledo, en directo | Al menos 30 muertos en el choque de trenes de alta velocidad en Urda",
+     "url": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
+     "seccion": "España",
+     "resumen": "Seguimiento en directo del choque en Urda, con al menos 30 muertos y 80 heridos según el president castellano-manchego, y un AVE que embistió a un Iryo detenido."
+    },
+    {
+     "titular": "¿Por qué chocaron los trenes? La investigación apunta a un error de un controlador que ordenó seguir al AVE",
+     "url": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
+     "seccion": "Accidente trenes Urda",
+     "resumen": "La investigación apunta a un error de un controlador de Adif que ordenó seguir la marcha al AVE, pese a tener delante el Iryo parado, y a un posible fallo informático."
+    },
+    {
+     "titular": "Al menos 31 muertos tras el choque entre un AVE de Renfe y un tren Iryo a la altura de Urda, en Toledo",
+     "url": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
+     "seccion": "Accidente trenes Urda",
+     "resumen": "El accidente, ocurrido pasadas las 9.00, se califica de muy grave por fuentes del Gobierno, que lo comparan con Adamuz."
+    },
+    {
+     "titular": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
+     "url": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+     "seccion": "Elecciones Israel",
+     "resumen": "Netanyahu gana las elecciones israelíes, pero su bloque se queda en 54 de 120 escaños, sin mayoría; los partidos árabes serán clave."
+    },
+    {
+     "titular": "Netanyahu llama a formar un Gobierno “fuerte” y “de derechas” y advierte contra los pactos con partidos árabes",
+     "url": "https://elpais.com/internacional/2026-10-28/netanyahu-llama-a-formar-un-gobierno-de-derechas-fuerte-y-advierte-contra-los-pactos-con-partidos-arabes.html",
+     "seccion": "Benjamin Netanyahu",
+     "resumen": "Netanyahu pide un Gobierno fuerte y de derechas y advierte contra pactos con partidos árabes; su Likud obtiene 27 escaños."
+    },
+    {
+     "titular": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
+     "url": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
+     "seccion": "Brasil",
+     "resumen": "Flávio Bolsonaro sale de Brasil hacia EE UU con escala en Ecuador y Argentina para evitar una investigación por blanqueo de capitales."
+    },
+    {
+     "titular": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
+     "url": "https://elpais.com/espana/2026-10-28/begona-gomez-presenta-una-denuncia-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
+     "seccion": "España",
+     "resumen": "Begoña Gómez denuncia al PP por un vídeo generado con IA que, según ella, suplanta su identidad."
+    },
+    {
+     "titular": "Abascal, único líder que mantiene sus mítines electorales, culpa al Gobierno de la tragedia de Urda",
+     "url": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
+     "seccion": "España",
+     "resumen": "Abascal, único líder que mantiene sus mítines, culpa al Gobierno de la tragedia de Urda."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Destaca el accidente de Urda con foco en el fallo del sistema de señalización y en los testimonios de supervivientes. Presta atención también a la comparación con Adamuz y a asuntos judiciales y de inmigración.",
+   "noticias": [
+    {
+     "titular": "Nueva tragedia en la Alta Velocidad española con al menos 30 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
+     "seccion": "Artículos Clara Rojas",
+     "resumen": "Un AVE de Renfe chocó contra un Iryo detenido a más de 100 km/h sin que se activaran los sistemas de emergencia; es el segundo siniestro mortal del año."
+    },
+    {
+     "titular": "El tren Iryo alertó al centro de control que estaba detenido por un fallo del sistema LZB de señalización de la vía antes de ser embestido por el AVE",
+     "url": "https://www.elmundo.es/economia/2026/10/28/6ae1c9a1e9cf4a372d8b45ae.html",
+     "seccion": "",
+     "resumen": "El Iryo avisó al centro de control de su parada por un fallo de señalización, pero el AVE no recibió esa información, según las primeras pesquisas."
+    },
+    {
+     "titular": "Los años negros del sistema ferroviario: un nuevo accidente nueve meses después de la tragedia de Adamuz",
+     "url": "https://www.elmundo.es/economia/2026/10/28/6ae1bfb2fc6c83f32d8b45a9.html",
+     "seccion": "Artículos Guillermo del Palacio",
+     "resumen": "El accidente de Urda, con al menos 10 víctimas en esta cifra del titular, ocurre 283 días después de la tragedia de Adamuz, que dejó 46 fallecidos."
+    },
+    {
+     "titular": "Sebastián, pasajero del vagón 7 del Iryo accidentado: \"No paran de salir cadáveres, es como si hubieran puesto una bomba\"",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae1c511fdddffeb558b4572.html",
+     "seccion": "Renfe",
+     "resumen": "Testimonios de supervivientes y allegados de pasajeros del Iryo que salió de Madrid a las 7.54 con destino a Sevilla."
+    },
+    {
+     "titular": "La tragedia en Urda consterna a toda España y llega fuera de nuestras fronteras: \"Hoy Europa llora con vosotros\"",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d4e3e4d4d8d4588b45c9.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "La tragedia consterna al país y a Europa; todos los partidos, salvo Vox, suspenden sus agendas."
+    },
+    {
+     "titular": "Revés a Netanyahu en un Israel bloqueado para formar gobierno",
+     "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
+     "seccion": "Israel",
+     "resumen": "Israel queda bloqueado para formar Gobierno: el bloque del cambio se aleja de la mayoría y los dos partidos árabes logran un éxito sin precedentes."
+    },
+    {
+     "titular": "Flávio Bolsonaro huye con su familia a EEUU ante el temor de ser enviado a prisión: \"Marco Rubio, el cerebro detrás de la operación\"",
+     "url": "https://www.elmundo.es/internacional/2026/10/28/6ae11c6fe9cf4a4c578b4598.html",
+     "seccion": "Brasil",
+     "resumen": "Flávio Bolsonaro huye a EE UU con su familia sin entregar los pasaportes que le exigió el juez, evitando un posible ingreso en prisión."
+    },
+    {
+     "titular": "La Comisión Europea abre expediente a España por la regularización de inmigrantes",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae104e8e4d4d859798b45a2.html",
+     "seccion": "inmigración",
+     "resumen": "La Comisión Europea abre expediente a España por la regularización de inmigrantes, tras una queja de Junts."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Sigue el accidente de Urda con la cifra de 50 muertos y la hipótesis de error humano de un operario de Adif. Incluye también la polémica sobre el ministro Óscar Puente y la denuncia de Begoña Gómez.",
+   "noticias": [
+    {
+     "titular": "Al menos 50 muertos en un nuevo choque de trenes",
+     "url": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
+     "seccion": "",
+     "resumen": "Un choque de dos trenes en la estación de Urda deja al menos 50 muertos; Transportes apunta a un error humano de un operador de Adif."
+    },
+    {
+     "titular": "Así ha sido el accidente: el AVE embistió al Iryo, que estaba parado",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/accidente-tren-urda-toledo-ave-embistio-iryo-20261028112725-nt.html",
+     "seccion": "",
+     "resumen": "Chocaron el AVE 2080, con 397 pasajeros, y el Iryo 6076, con 147, a las 9.00; Adif interrumpió la circulación poco después."
+    },
+    {
+     "titular": "Transportes apunta a un error humano de un operador de Adif como la causa del accidente",
+     "url": "https://www.abc.es/espana/error-humano-operador-adif-causa-accidente-ferroviario-20261028103846-nt.html",
+     "seccion": "",
+     "resumen": "Fuentes de Transportes atribuyen el accidente a un error humano de un operario que trabajaba en una avería del sistema principal de señalización."
+    },
+    {
+     "titular": "La Guardia Civil, tras llegar a la zona del siniestro: «Había cadáveres entre los hierros»",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/guardia-civil-tras-llegar-zona-siniestro-urda-20261028105937-nt.html",
+     "seccion": "",
+     "resumen": "La Guardia Civil describe la escena en la zona del siniestro, con cadáveres entre los hierros de los vagones."
+    },
+    {
+     "titular": "Puente se ha enterado del accidente en el Foro Mundial de Infraestructuras",
+     "url": "https://www.abc.es/espana/llegada-oscar-puente-inauguracion-world-infraestructure-forum-20261028100359-nt.html",
+     "seccion": "",
+     "resumen": "El ministro Óscar Puente se enteró del accidente en el Foro Mundial de Infraestructuras y se desplazó de inmediato al lugar."
+    },
+    {
+     "titular": "El Rey: «Lo primero es transmitir a las familias nuestro pésame, nuestra tristeza, y cariño»",
+     "url": "https://www.abc.es/espana/casa-rey-conmovidos-acompanamos-tristeza-familias-seres-20261028113701-nt.html",
+     "seccion": "",
+     "resumen": "El Rey traslada su pésame a las familias y su apoyo a los equipos de emergencia."
+    },
+    {
+     "titular": "Begoña Gómez denuncia al PP por suplantar su imagen con IA",
+     "url": "https://www.abc.es/espana/begona-denuncia-pp-suplantar-imagen-ia-20261028083843-nt.html",
+     "seccion": "",
+     "resumen": "Begoña Gómez denuncia al PP por difundir un vídeo con IA que simula reconocer los cargos que le imputa el juez Peinado."
+    },
+    {
+     "titular": "Los maquinistas de Renfe tenían ya convocada una huelga por la falta de seguridad ferroviaria",
+     "url": "https://www.abc.es/economia/maquinistas-renfe-convocada-huelga-jueves-falta-seguridad-20261028112243-nt.html",
+     "seccion": "",
+     "resumen": "Semaf había convocado una huelga de 24 horas de maquinistas de Renfe para el 29 de octubre por la falta de medidas de seguridad ferroviaria."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza el accidente de Toledo con la cifra de al menos 30 muertos y las reacciones políticas. En internacional, cubre las elecciones israelíes y la salida de Bolsonaro.",
+   "noticias": [
+    {
+     "titular": "Al menos 30 muertos al chocar dos trenes de alta velocidad en Toledo y caer dos vagones por un terraplén",
+     "url": "https://www.lavanguardia.com/vida/20261028/11669968/choque-de-trenes-urda-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html",
+     "seccion": "Sociedad",
+     "resumen": "Al menos 30 muertos tras chocar un AVE de Renfe con un Iryo y sacarlo de la vía cerca de Toledo, con dos vagones caídos por un terraplén."
+    },
+    {
+     "titular": "Qué sabemos hasta ahora del trágico choque de trenes en Toledo",
+     "url": "https://www.lavanguardia.com/vida/20261028/11670021/que-tragico-choque-trenes-toledo.html",
+     "seccion": "Sociedad",
+     "resumen": "Un AVE con 397 pasajeros alcanzó por la cola a un Iryo con 146 personas a bordo."
+    },
+    {
+     "titular": "El portavoz del Sindicato Ferroviario ve “muy raro” el accidente de trenes en Toledo",
+     "url": "https://www.lavanguardia.com/vida/20261028/11670004/portavoz-sindicato-ferroviario-ve-raro-accidente-trenes-toledo.html",
+     "seccion": "Sociedad",
+     "resumen": "Un portavoz sindical ferroviario considera extraño el accidente, ya que el maquinista dispone de información en tiempo real sobre la vía."
+    },
+    {
+     "titular": "Los partidos cancelan sus actos por el accidente salvo Vox, que ya culpa al Gobierno",
+     "url": "https://www.lavanguardia.com/politica/20261028/11669987/partidos-suspenden-agendas-accidente-ferroviario-toledo.html",
+     "seccion": "Política",
+     "resumen": "PSOE, PP, Frente Amplio, Junts y ERC suspenden sus actos, igual que el Gobierno; Vox mantiene los suyos y ya culpa al Gobierno."
+    },
+    {
+     "titular": "Netanyahu se adelanta en el recuento en unas elecciones sin un claro ganador en Israel",
+     "url": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html",
+     "seccion": "Internacional",
+     "resumen": "Netanyahu se adelanta en el recuento en unas elecciones israelíes sin un claro ganador."
+    },
+    {
+     "titular": "Bolsonaro huye a EE.UU. tras su derrota electoral",
+     "url": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
+     "seccion": "Internacional",
+     "resumen": "Bolsonaro huye a EE UU tras su derrota electoral y pasa a ser fugitivo de la justicia en 48 horas."
+    },
+    {
+     "titular": "El PP halla en los disturbios callejeros nueva munición pesada contra el PSOE",
+     "url": "https://www.lavanguardia.com/politica/20261028/11669640/pp-halla-disturbios-callejeros-nueva-municion-pesada-psoe.html",
+     "seccion": "Política",
+     "resumen": "El PP usa los disturbios callejeros como argumento contra el PSOE, que defiende el derecho a la protesta y condena el vandalismo."
+    },
+    {
+     "titular": "Análisis de las redes sociales sitúan el origen de los grupos donde se organizaron los saqueos de Barcelona en Madrid",
+     "url": "https://www.lavanguardia.com/vida/20261028/11670047/analisis-redes-sociales-blocus-saqueos-barcelona-madrid.html",
+     "seccion": "Sociedad",
+     "resumen": "Un análisis de redes sociales sitúa en Madrid el origen de los grupos que organizaron los saqueos de Barcelona."
+    }
+   ]
+  }
+ ]
+}

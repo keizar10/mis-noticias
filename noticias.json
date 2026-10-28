@@ -1,69 +1,208 @@
 {
- "fecha": "2026-10-27",
- "franja": "tarde",
- "generada": "2026-10-27T22:02+01:00",
+ "fecha": "2026-10-28",
+ "franja": "mañana",
+ "generada": "2026-10-28T12:44+01:00",
  "con_ia": true,
- "resumen_dia": "Las elecciones en Israel dominan la jornada: los sondeos a pie de urna dan un resultado muy ajustado entre el bloque de Netanyahu y la oposición, con participación récord. En Brasil, Flávio Bolsonaro abandona el país tras perder frente a Lula. En España, los disturbios de Barcelona y el caso Ceuta marcan la agenda política, junto con la precampaña de las generales del 29N.",
+ "resumen_dia": "Un choque entre un AVE de Renfe y un Iryo parado en la vía en Urda (Toledo) ha causado al menos 30 muertos según El País y La Vanguardia, cifra que ABC eleva a 50 y El Mundo sitúa en 10 en uno de sus titulares; la investigación apunta a un error humano de un operador de Adif. La política está marcada por las elecciones en Israel, donde el bloque de Netanyahu no alcanza la mayoría, y por la huida de Flávio Bolsonaro a EE UU. También destacan la denuncia de Begoña Gómez contra el PP por un vídeo generado con IA y las reacciones políticas al accidente.",
  "temas_comunes": [
   {
-   "titulo": "Elecciones en Israel: resultado ajustado",
-   "resumen": "Los sondeos a pie de urna sitúan en empate técnico al bloque de Netanyahu y a la oposición, liderada por Eisenkot. La participación alcanza un máximo en esta fase de votación desde 1988, y los partidos árabes aparecen como clave para formar Gobierno.",
+   "titulo": "Choque de trenes AVE-Iryo en Urda",
+   "resumen": "Un AVE de Renfe embistió por detrás a un Iryo detenido en la línea Madrid-Andalucía, con descarrilamiento de varios vagones. Las cifras de fallecidos varían entre medios, con al menos 30 en las versiones más recientes, y la hipótesis principal apunta a un error humano en el centro de control.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Destaca el castigo al Gobierno reflejado en los sondeos y el papel de los partidos árabes como llave del próximo Ejecutivo.",
+     "enfoque": "Pone el foco en la hipótesis del error del controlador de Adif y en las cifras de víctimas, con una cobertura en directo y testimonios.",
      "noticias": [
       {
-       "titular": "Elecciones en Israel 2026, en directo | Los sondeos a pie de urna dan un resultado muy ajustado entre Netanyahu y la oposición con un castigo al Gobierno",
-       "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
-       "seccion": "Israel"
+       "titular": "Última hora del accidente de trenes en Toledo, en directo | Al menos 30 muertos en el choque de trenes de alta velocidad en Urda",
+       "url": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "¿Por qué chocaron los trenes? La investigación apunta a un error de un controlador que ordenó seguir al AVE",
+       "url": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
+       "seccion": "Accidente trenes Urda"
+      },
+      {
+       "titular": "Claves del accidente en Toledo | ¿Qué se sabe hasta el momento del choque de trenes?",
+       "url": "https://elpais.com/espana/2026-10-28/que-se-sabe-hasta-el-momento-del-accidente-de-trenes-en-toledo.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Al menos 31 muertos tras el choque entre un AVE de Renfe y un tren Iryo a la altura de Urda, en Toledo",
+       "url": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
+       "seccion": "Accidente trenes Urda"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Subraya la victoria del bloque de Eisenkot según los primeros sondeos y reconstruye el perfil del líder opositor.",
+     "enfoque": "Se centra en el fallo del sistema de señalización LZB y en los testimonios de supervivientes y allegados.",
      "noticias": [
       {
-       "titular": "El bloque de Eisenkot vence al de Netanyahu, según los primeros sondeos: \"Indica la desconfianza total en el Gobierno del 7-O\"",
-       "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
-       "seccion": "Israel"
+       "titular": "Nueva tragedia en la Alta Velocidad española con al menos 30 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
+       "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
+       "seccion": "Artículos Clara Rojas"
       },
       {
-       "titular": "Gadi Eisenkot, el líder tranquilo que perdió a su hijo en la ofensiva contra Hamas",
-       "url": "https://www.elmundo.es/internacional/2026/10/27/6adf8e00e85ece80418b45a9.html",
-       "seccion": "Israel"
+       "titular": "El tren Iryo alertó al centro de control que estaba detenido por un fallo del sistema LZB de señalización de la vía antes de ser embestido por el AVE",
+       "url": "https://www.elmundo.es/economia/2026/10/28/6ae1c9a1e9cf4a372d8b45ae.html",
+       "seccion": ""
       },
       {
-       "titular": "Benjamin Netanyahu ante la prueba que quizá no pueda sobrevivir",
-       "url": "https://www.elmundo.es/internacional/2026/10/27/6adf91bae9cf4af8588b4597.html",
-       "seccion": "Benjamín Netanyahu"
+       "titular": "Sebastián, pasajero del vagón 7 del Iryo accidentado: \"No paran de salir cadáveres, es como si hubieran puesto una bomba\"",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1c511fdddffeb558b4572.html",
+       "seccion": "Renfe"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Presenta el seguimiento en directo y señala que la oposición supera por estrecho margen al bloque de Netanyahu.",
+     "enfoque": "Recoge la cifra de 50 muertos y la hipótesis de error humano de un operario de Adif, junto a la reacción del ministro Óscar Puente.",
      "noticias": [
       {
-       "titular": "El bloque de la oposición supera por estrecho margen al de Netanyahu en las elecciones",
-       "url": "https://www.abc.es/internacional/elecciones-israel-directo-votaciones-participacion-resultado-netanyahu-20261027182010-di.html",
+       "titular": "Al menos 50 muertos en un nuevo choque de trenes",
+       "url": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Transportes apunta a un error humano de un operador de Adif como la causa del accidente",
+       "url": "https://www.abc.es/espana/error-humano-operador-adif-causa-accidente-ferroviario-20261028103846-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Puente se ha enterado del accidente en el Foro Mundial de Infraestructuras",
+       "url": "https://www.abc.es/espana/llegada-oscar-puente-inauguracion-world-infraestructure-forum-20261028100359-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Recoge que ninguno de los dos bloques tiene mayoría clara y la denuncia de Netanyahu sobre el robo de elecciones con participación récord.",
+     "enfoque": "Destaca el recuento de al menos 30 fallecidos y la versión de un sindicato ferroviario que considera extraño el accidente.",
      "noticias": [
       {
-       "titular": "Ninguno de los dos bloques tiene una clara mayoría en Israel, según sondeos a pie de urna",
+       "titular": "Al menos 30 muertos al chocar dos trenes de alta velocidad en Toledo y caer dos vagones por un terraplén",
+       "url": "https://www.lavanguardia.com/vida/20261028/11669968/choque-de-trenes-urda-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Al menos 30 muertos tras el choque de dos trenes en Toledo",
+       "url": "https://www.lavanguardia.com/vida/20261028/11669949/mas-40-muertos-choque-dos-trenes-toledo.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "El portavoz del Sindicato Ferroviario ve “muy raro” el accidente de trenes en Toledo",
+       "url": "https://www.lavanguardia.com/vida/20261028/11670004/portavoz-sindicato-ferroviario-ve-raro-accidente-trenes-toledo.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Reacción política al accidente",
+   "resumen": "Los partidos suspendieron sus actos tras la tragedia, con la excepción de Vox, que mantuvo sus mítines y culpó al Gobierno. El Rey y otros dirigentes expresaron su pésame.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la crítica de Abascal al Gobierno por la tragedia y su uso del luto.",
+     "noticias": [
+      {
+       "titular": "Abascal, único líder que mantiene sus mítines electorales, culpa al Gobierno de la tragedia de Urda",
+       "url": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la consternación general y la suspensión de agendas de todos los partidos salvo Vox.",
+     "noticias": [
+      {
+       "titular": "La tragedia en Urda consterna a toda España y llega fuera de nuestras fronteras: \"Hoy Europa llora con vosotros\"",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d4e3e4d4d8d4588b45c9.html",
+       "seccion": "Accidente tren Toledo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Incluye las palabras del Rey y la conmoción en la zona del siniestro.",
+     "noticias": [
+      {
+       "titular": "El Rey: «Lo primero es transmitir a las familias nuestro pésame, nuestra tristeza, y cariño»",
+       "url": "https://www.abc.es/espana/casa-rey-conmovidos-acompanamos-tristeza-familias-seres-20261028113701-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "La Guardia Civil, tras llegar a la zona del siniestro: «Había cadáveres entre los hierros»",
+       "url": "https://www.abc.es/espana/castilla-la-mancha/guardia-civil-tras-llegar-zona-siniestro-urda-20261028105937-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Señala que PSOE, PP, Frente Amplio, Junts y ERC cancelaron sus actos, y que Vox ya culpa al Gobierno.",
+     "noticias": [
+      {
+       "titular": "Los partidos cancelan sus actos por el accidente salvo Vox, que ya culpa al Gobierno",
+       "url": "https://www.lavanguardia.com/politica/20261028/11669987/partidos-suspenden-agendas-accidente-ferroviario-toledo.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones en Israel sin mayoría clara",
+   "resumen": "El bloque de Netanyahu obtiene 54 de 120 escaños, sin mayoría, con más del 70% de los votos escrutados. Los partidos árabes emergen como clave para formar Gobierno.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca que Netanyahu gana pero no logra mayoría y que los partidos árabes serán decisivos.",
+     "noticias": [
+      {
+       "titular": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
+       "url": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+       "seccion": "Elecciones Israel"
+      },
+      {
+       "titular": "Claves para formar Gobierno en Israel tras las elecciones o regresar a las urnas: consulta del presidente, negociación y votación",
+       "url": "https://elpais.com/internacional/2026-10-28/claves-para-formar-gobierno-en-israel-tras-las-elecciones-o-regresar-a-las-urnas-consulta-del-presidente-negociacion-y-votacion.html",
+       "seccion": "Israel"
+      },
+      {
+       "titular": "Resultados de las elecciones en Israel 2026, en directo | Los partidos árabes alcanzan un resultado histórico y son claves para gobernar",
+       "url": "https://elpais.com/internacional/2026-10-28/resultados-y-reacciones-de-las-elecciones-en-israel-en-directo.html",
+       "seccion": "Elecciones Israel"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Habla de un revés para Netanyahu y de un Israel bloqueado, con el éxito de dos partidos árabes.",
+     "noticias": [
+      {
+       "titular": "Revés a Netanyahu en un Israel bloqueado para formar gobierno",
+       "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
+       "seccion": "Israel"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Describe unas elecciones sin claro ganador y plantea que los ciudadanos árabes pueden decidir el futuro del país.",
+     "noticias": [
+      {
+       "titular": "Netanyahu se adelanta en el recuento en unas elecciones sin un claro ganador en Israel",
        "url": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html",
        "seccion": "Internacional"
       },
       {
-       "titular": "Netanyahu denuncia que le quieren “robar las elecciones” entre una participación récord",
-       "url": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
+       "titular": "Israel y Netanyahu, en manos de los palestinos",
+       "url": "https://www.lavanguardia.com/internacional/20261028/11669631/ee-uu-hecho-grande-netanyahu.html",
        "seccion": "Internacional"
       }
      ]
@@ -71,219 +210,46 @@
    ]
   },
   {
-   "titulo": "Flávio Bolsonaro sale de Brasil tras la derrota",
-   "resumen": "Flávio Bolsonaro abandona Brasil rumbo a Estados Unidos tras perder las elecciones ante Lula, con investigaciones judiciales abiertas en su contra. Fuentes estadounidenses confirman su salida.",
+   "titulo": "Bolsonaro sale de Brasil hacia EE UU",
+   "resumen": "El excandidato Flávio Bolsonaro, investigado por blanqueo y otros casos, ha salido de Brasil y viaja a EE UU sin entregar los pasaportes que le exigió un juez.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Subraya que el viaje se produce tras negarse a entregar el pasaporte al juez que lo investiga.",
+     "enfoque": "Señala el itinerario por Ecuador y Argentina y la investigación por blanqueo de capitales; Trump se muestra favorable a acogerlo.",
      "noticias": [
       {
-       "titular": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
-       "url": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
-       "seccion": "Elecciones Brasil"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Destaca la dos investigaciones abiertas en el Supremo y el pasaporte italiano que le habría permitido el viaje.",
-     "noticias": [
-      {
-       "titular": "Flávio Bolsonaro huye de Brasil a Florida tras su derrota ante Lula y con dos investigaciones abiertas en el Supremo",
-       "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0ba33e85ece75248b457a.html",
+       "titular": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
+       "url": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
        "seccion": "Brasil"
       }
      ]
     },
     {
-     "medio": "abc",
-     "enfoque": "Señala la confirmación de un funcionario estadounidense a Reuters y la posible reunión con su hermano Eduardo en Florida.",
+     "medio": "elmundo",
+     "enfoque": "Subraya que no entregó los pasaportes y que evita un posible ingreso en prisión.",
      "noticias": [
       {
-       "titular": "Flávio Bolsonaro huye de Brasil y se dirige a EE.UU.",
-       "url": "https://www.abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html",
-       "seccion": ""
+       "titular": "Flávio Bolsonaro huye con su familia a EEUU ante el temor de ser enviado a prisión: \"Marco Rubio, el cerebro detrás de la operación\"",
+       "url": "https://www.elmundo.es/internacional/2026/10/28/6ae11c6fe9cf4a4c578b4598.html",
+       "seccion": "Brasil"
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Enmarca la caída en un cambio de situación procesal, de candidato favorito a investigado, en 48 horas.",
+     "enfoque": "Enmarca la salida como una huida tras la derrota electoral, con el giro de candidato a fugitivo.",
      "noticias": [
       {
-       "titular": "Flávio Bolsonaro huye a Estados Unidos tras perder el fuero en Brasil",
+       "titular": "Bolsonaro huye a EE.UU. tras su derrota electoral",
        "url": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
        "seccion": "Internacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Disturbios en Barcelona y convocatorias por redes",
-   "resumen": "Los disturbios de la semana pasada en Barcelona se atribuyen a convocatorias organizadas en redes sociales y Telegram. Los Mossos recurren al Centro de Inteligencia contra el Terrorismo y la red se extiende a otras comunidades.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Sitúa el origen en Madrid el 8 de octubre y sostiene que la red tiene ramificaciones en 11 comunidades.",
-     "noticias": [
-      {
-       "titular": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
-       "url": "https://elpais.com/espana/2026-10-27/la-red-que-convoco-los-disturbios-de-barcelona-tiene-ramificaciones-en-11-comunidades-autonomas.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge que los Mossos recurren al Centro de Inteligencia contra el Terrorismo y la nueva convocatoria para el sábado 31.",
-     "noticias": [
-      {
-       "titular": "Los Mossos recurren al Centro de Inteligencia contra el Terrorismo para cerrar los grupos que alientan una nueva oleada de disturbios: \"Poneros ropa negra y máscaras de Halloween\"",
-       "url": "https://www.elmundo.es/cataluna/2026/10/27/6ae0ede9fdddff586b8b45a4.html",
-       "seccion": "Artículos Cristina Rubio"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "No recoge esta información en la portada resumida.",
-     "noticias": []
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Detalla que los disturbios fueron organizados por un mando, que la Generalitat se persona como acusación y que una jueza de menores reprende a los padres.",
-     "noticias": [
-      {
-       "titular": "Los Mossos recurren a la vía antiterrorista para cerrar tres canales de Blocus en Telegram",
-       "url": "https://www.lavanguardia.com/local/barcelona/20261027/11669511/mossos-recurren-mecanismos-antiterroristas-bloquear-chats-disturbios-barcelona.html",
-       "seccion": "Barcelona"
       },
       {
-       "titular": "Un mando dirige y da instrucciones a los vándalos para sembrar el caos en Barcelona",
-       "url": "https://www.lavanguardia.com/sucesos/20261027/11668493/mando-dirige-da-instrucciones-vandalos-sembrar-caos-barcelona.html",
-       "seccion": "Sucesos"
-      },
-      {
-       "titular": "La Generalitat se persona como acusación particular contra los vándalos de Barcelona",
-       "url": "https://www.lavanguardia.com/politica/20261027/11669348/generalitat-persona-acusacion-particular-responsables-vandalos-barcelona.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "La jueza de menores riñe a los padres por la violencia de sus hijos detenidos",
-       "url": "https://www.lavanguardia.com/local/barcelona/20261027/11668735/jueza-menores-rine-padres-violencia-hijos.html",
-       "seccion": "Barcelona"
+       "titular": "De presidente a fugado",
+       "url": "https://www.lavanguardia.com/opinion/20261028/11669671/presidente-fugado.html",
+       "seccion": "Opinión"
       }
      ]
-    }
-   ]
-  },
-  {
-   "titulo": "Feijóo y Gobierno cruzan acusaciones por los disturbios",
-   "resumen": "El PP acusa al Gobierno de tolerar la violencia y el Ejecutivo responde que el PP se aferra a una polémica. Feijóo anuncia endurecer las penas para los disturbios convocados por redes sociales.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge las acusaciones de Feijóo, Álvarez de Toledo y Ayuso y la respuesta del Gobierno, que califica al líder del PP de irresponsable.",
-     "noticias": [
-      {
-       "titular": "Feijóo redobla sus acusaciones al Gobierno por los disturbios: “Cuanto más pierden, más tensión crean”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-redobla-sus-acusaciones-al-gobierno-por-los-disturbios-cuanto-mas-pierden-mas-tension-crean.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "El Gobierno llama “irresponsable” a Feijóo y condena la violencia para evitar que la campaña se centre ahí",
-       "url": "https://elpais.com/espana/2026-10-27/el-gobierno-llama-irresponsable-a-feijoo-y-condena-la-violencia-para-evitar-que-la-campana-se-centre-ahi.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "No recoge este asunto en su selección.",
-     "noticias": []
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Centra el foco en el inicio oficial de la carrera electoral hacia el 29 de noviembre y el pacto con Vox para el Senado.",
-     "noticias": [
-      {
-       "titular": "Feijóo: «Esta vez pondremos fin a lo que nunca debió suceder»",
-       "url": "https://www.abc.es/espana/feijoo-conjura-ayuso-cayetana-vez-pondremos-fin-20261027140255-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Destaca la visita de Feijóo a Barcelona para prometer penas más duras, con agravante por cara tapada y por convocatorias en redes.",
-     "noticias": [
-      {
-       "titular": "Feijóo vuelve a Barcelona para prometer penas más duras por los disturbios",
-       "url": "https://www.lavanguardia.com/politica/20261027/11669359/feijoo-acude-manana-barcelona-prometiendo-reforma-penal-responder-mejor-disturbios.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Caso Ceuta y papel de autoridades marroquíes",
-   "resumen": "La jueza Tardón investiga la entrada masiva en Ceuta y ha citado a testigos que señalan a autoridades marroquíes. La Policía identifica a agentes marroquíes en vídeos enviados a la magistrada.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Señala que la Policía identifica a 24 agentes y que los vídeos muestran gendarmes pasivos o indicando el camino.",
-     "noticias": [
-      {
-       "titular": "La Policía identifica a 24 agentes “dinamizadores” en Ceuta a través de vídeos y fotografías analizadas",
-       "url": "https://elpais.com/espana/2026-10-27/la-policia-identifica-a-24-agentes-dinamizadores-en-ceuta-a-traves-de-videos-y-fotografias-analizadas.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "Tres testigos que llegaron a nado a Ceuta identifican a varias autoridades marroquíes señaladas por la entrada masiva",
-       "url": "https://elpais.com/espana/2026-10-27/tres-testigos-que-llegaron-a-nado-a-ceuta-identifican-a-varias-autoridades-marroquies-senaladas-por-la-entrada-masiva.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Subraya el vídeo generado con IA de los agentes y la versión de Interior de que no hubo aviso previo.",
-     "noticias": [
-      {
-       "titular": "Un ex gendarme que llegó a Ceuta a nado identifica en la frontera a altos mandos de Interior de Marruecos \"dando órdenes\"",
-       "url": "https://www.elmundo.es/espana/2026/10/27/6ae0e6d6e85ece69238b45ae.html",
-       "seccion": "Artículos Manuel Marraco"
-      },
-      {
-       "titular": "El vídeo con IA de los \"agentes dinamizadores\" marroquíes que la Policía ha enviado a la juez: así se pastoreó a la masa hacia Ceuta",
-       "url": "https://www.elmundo.es/espana/2026/10/27/6ae0fa9d21efa0d4458b4590.html",
-       "seccion": ""
-      },
-      {
-       "titular": "El Ministerio del Interior se reitera ante la Justicia: no hubo aviso previo al asalto de 90.000 inmigrantes a la frontera de Ceuta",
-       "url": "https://www.elmundo.es/espana/2026/10/27/6ae10444e85ece782c8b4580.html",
-       "seccion": "Ceuta"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Destaca el testimonio de un excargo de la Gendarmería y dos inmigrantes que sitúan a altos mandos en la frontera.",
-     "noticias": [
-      {
-       "titular": "Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera durante la invasión a Ceuta",
-       "url": "https://www.abc.es/espana/excargo-gendarmeria-dos-inmigrantes-situan-altos-mandos-20261027201247-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "No recoge este asunto en su selección.",
-     "noticias": []
     }
    ]
   }
@@ -292,220 +258,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la política nacional, con la campaña, los disturbios y el caso Ceuta, y da peso a las elecciones israelíes. Incluye también asuntos judiciales como el caso Zapatero y la causa de Ceuta.",
+   "resumen": "Prioriza el accidente ferroviario de Urda, con seguimiento en directo, cifras de víctimas y la investigación sobre el controlador. También incluye la política israelí y la denuncia de Begoña Gómez.",
    "noticias": [
     {
-     "titular": "Elecciones en Israel 2026, en directo | Los sondeos a pie de urna dan un resultado muy ajustado entre Netanyahu y la oposición con un castigo al Gobierno",
-     "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
-     "seccion": "Israel",
-     "resumen": "Los sondeos a pie de urna muestran un resultado muy ajustado entre Netanyahu y la oposición, con un castigo al Gobierno."
-    },
-    {
-     "titular": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
-     "url": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
-     "seccion": "Elecciones Brasil",
-     "resumen": "Flávio Bolsonaro sale de EE.UU. ... tras negarse a entregar su pasaporte al juez que lo investiga por el caso."
-    },
-    {
-     "titular": "Feijóo redobla sus acusaciones al Gobierno por los disturbios: “Cuanto más pierden, más tensión crean”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-redobla-sus-acusaciones-al-gobierno-por-los-disturbios-cuanto-mas-pierden-mas-tension-crean.html",
+     "titular": "Última hora del accidente de trenes en Toledo, en directo | Al menos 30 muertos en el choque de trenes de alta velocidad en Urda",
+     "url": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
      "seccion": "España",
-     "resumen": "Feijóo y Ayuso acusan al Gobierno de tolerar la violencia en los disturbios, y el Ejecutivo responde."
+     "resumen": "Seguimiento en directo del choque en Urda, con al menos 30 muertos y 80 heridos según el president castellano-manchego, y un AVE que embistió a un Iryo detenido."
     },
     {
-     "titular": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
-     "url": "https://elpais.com/espana/2026-10-27/la-red-que-convoco-los-disturbios-de-barcelona-tiene-ramificaciones-en-11-comunidades-autonomas.html",
+     "titular": "¿Por qué chocaron los trenes? La investigación apunta a un error de un controlador que ordenó seguir al AVE",
+     "url": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
+     "seccion": "Accidente trenes Urda",
+     "resumen": "La investigación apunta a un error de un controlador de Adif que ordenó seguir la marcha al AVE, pese a tener delante el Iryo parado, y a un posible fallo informático."
+    },
+    {
+     "titular": "Al menos 31 muertos tras el choque entre un AVE de Renfe y un tren Iryo a la altura de Urda, en Toledo",
+     "url": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
+     "seccion": "Accidente trenes Urda",
+     "resumen": "El accidente, ocurrido pasadas las 9.00, se califica de muy grave por fuentes del Gobierno, que lo comparan con Adamuz."
+    },
+    {
+     "titular": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
+     "url": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+     "seccion": "Elecciones Israel",
+     "resumen": "Netanyahu gana las elecciones israelíes, pero su bloque se queda en 54 de 120 escaños, sin mayoría; los partidos árabes serán clave."
+    },
+    {
+     "titular": "Netanyahu llama a formar un Gobierno “fuerte” y “de derechas” y advierte contra los pactos con partidos árabes",
+     "url": "https://elpais.com/internacional/2026-10-28/netanyahu-llama-a-formar-un-gobierno-de-derechas-fuerte-y-advierte-contra-los-pactos-con-partidos-arabes.html",
+     "seccion": "Benjamin Netanyahu",
+     "resumen": "Netanyahu pide un Gobierno fuerte y de derechas y advierte contra pactos con partidos árabes; su Likud obtiene 27 escaños."
+    },
+    {
+     "titular": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
+     "url": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
+     "seccion": "Brasil",
+     "resumen": "Flávio Bolsonaro sale de Brasil hacia EE UU con escala en Ecuador y Argentina para evitar una investigación por blanqueo de capitales."
+    },
+    {
+     "titular": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
+     "url": "https://elpais.com/espana/2026-10-28/begona-gomez-presenta-una-denuncia-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
      "seccion": "España",
-     "resumen": "Un análisis sitúa en Madrid el origen de las convocatorias de los disturbios de Barcelona, con ramificaciones en 11 comunidades."
+     "resumen": "Begoña Gómez denuncia al PP por un vídeo generado con IA que, según ella, suplanta su identidad."
     },
     {
-     "titular": "La Policía identifica a 24 agentes “dinamizadores” en Ceuta a través de vídeos y fotografías analizadas",
-     "url": "https://elpais.com/espana/2026-10-27/la-policia-identifica-a-24-agentes-dinamizadores-en-ceuta-a-traves-de-videos-y-fotografias-analizadas.html",
+     "titular": "Abascal, único líder que mantiene sus mítines electorales, culpa al Gobierno de la tragedia de Urda",
+     "url": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
      "seccion": "España",
-     "resumen": "La Policía identifica a 24 agentes marroquíes en vídeos enviados a la jueza Tardón sobre la entrada en Ceuta."
-    },
-    {
-     "titular": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí",
-     "url": "https://elpais.com/espana/2026-10-27/el-juez-rechaza-la-peticion-de-zapatero-de-preguntar-a-arabia-saudi-por-las-joyas-incautadas.html",
-     "seccion": "España",
-     "resumen": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí."
-    },
-    {
-     "titular": "Comuns acuerda con el PSC retirar sus candidaturas al Senado en Girona, Lleida y Tarragona",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/comuns-acuerda-con-el-psc-retirar-sus-candidaturas-al-senado-en-girona-lleida-y-tarragona.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Comuns y PSC pactan retirar candidaturas al Senado en Girona, Lleida y Tarragona a cambio de un senador designado."
-    },
-    {
-     "titular": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula",
-     "url": "https://elpais.com/america/2026-10-27/andre-janones-el-general-de-whatsapp-que-le-dio-la-vuelta-a-la-eleccion-de-lula.html",
-     "seccion": "Elecciones Brasil",
-     "resumen": "André Janones moviliza a casi 11 millones de brasileños en tres semanas y se consolida como aliado de Lula."
+     "resumen": "Abascal, único líder que mantiene sus mítines, culpa al Gobierno de la tragedia de Urda."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en el caso Ceuta y en la investigación de la trama de las cloacas, además de las elecciones israelíes. Mantiene una selección amplia de temas judiciales y de economía.",
+   "resumen": "Destaca el accidente de Urda con foco en el fallo del sistema de señalización y en los testimonios de supervivientes. Presta atención también a la comparación con Adamuz y a asuntos judiciales y de inmigración.",
    "noticias": [
     {
-     "titular": "El vídeo con IA de los \"agentes dinamizadores\" marroquíes que la Policía ha enviado a la juez: así se pastoreó a la masa hacia Ceuta",
-     "url": "https://www.elmundo.es/espana/2026/10/27/6ae0fa9d21efa0d4458b4590.html",
+     "titular": "Nueva tragedia en la Alta Velocidad española con al menos 30 muertos: un AVE de Renfe embiste a un Iryo en Urda a más de 100 km por hora",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1b066e85ece7a448b45a3.html",
+     "seccion": "Artículos Clara Rojas",
+     "resumen": "Un AVE de Renfe chocó contra un Iryo detenido a más de 100 km/h sin que se activaran los sistemas de emergencia; es el segundo siniestro mortal del año."
+    },
+    {
+     "titular": "El tren Iryo alertó al centro de control que estaba detenido por un fallo del sistema LZB de señalización de la vía antes de ser embestido por el AVE",
+     "url": "https://www.elmundo.es/economia/2026/10/28/6ae1c9a1e9cf4a372d8b45ae.html",
      "seccion": "",
-     "resumen": "Imágenes generadas con IA de presuntos agentes marroquíes que habrían guiado a la multitud hacia Ceuta, enviadas a la jueza."
+     "resumen": "El Iryo avisó al centro de control de su parada por un fallo de señalización, pero el AVE no recibió esa información, según las primeras pesquisas."
     },
     {
-     "titular": "El Ministerio del Interior se reitera ante la Justicia: no hubo aviso previo al asalto de 90.000 inmigrantes a la frontera de Ceuta",
-     "url": "https://www.elmundo.es/espana/2026/10/27/6ae10444e85ece782c8b4580.html",
-     "seccion": "Ceuta",
-     "resumen": "Interior sostiene ante la Justicia que no hubo aviso previo del asalto a la frontera de Ceuta."
+     "titular": "Los años negros del sistema ferroviario: un nuevo accidente nueve meses después de la tragedia de Adamuz",
+     "url": "https://www.elmundo.es/economia/2026/10/28/6ae1bfb2fc6c83f32d8b45a9.html",
+     "seccion": "Artículos Guillermo del Palacio",
+     "resumen": "El accidente de Urda, con al menos 10 víctimas en esta cifra del titular, ocurre 283 días después de la tragedia de Adamuz, que dejó 46 fallecidos."
     },
     {
-     "titular": "El bloque de Eisenkot vence al de Netanyahu, según los primeros sondeos: \"Indica la desconfianza total en el Gobierno del 7-O\"",
+     "titular": "Sebastián, pasajero del vagón 7 del Iryo accidentado: \"No paran de salir cadáveres, es como si hubieran puesto una bomba\"",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae1c511fdddffeb558b4572.html",
+     "seccion": "Renfe",
+     "resumen": "Testimonios de supervivientes y allegados de pasajeros del Iryo que salió de Madrid a las 7.54 con destino a Sevilla."
+    },
+    {
+     "titular": "La tragedia en Urda consterna a toda España y llega fuera de nuestras fronteras: \"Hoy Europa llora con vosotros\"",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d4e3e4d4d8d4588b45c9.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "La tragedia consterna al país y a Europa; todos los partidos, salvo Vox, suspenden sus agendas."
+    },
+    {
+     "titular": "Revés a Netanyahu en un Israel bloqueado para formar gobierno",
      "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html",
      "seccion": "Israel",
-     "resumen": "Según primeros sondeos, el bloque de Eisenkot supera al de Netanyahu, aunque formar Gobierno no sería sencillo."
+     "resumen": "Israel queda bloqueado para formar Gobierno: el bloque del cambio se aleja de la mayoría y los dos partidos árabes logran un éxito sin precedentes."
     },
     {
-     "titular": "Pedraz blinda la causa de las cloacas de Ferraz con la continuidad de Balas al frente del caso para evitar \"alteraciones\"",
-     "url": "https://www.elmundo.es/espana/2026/10/27/6ae0da0021efa03e308b457b.html",
-     "seccion": "Audiencia Nacional",
-     "resumen": "El juez Pedraz mantiene a Balas al frente de la causa de las cloacas de Ferraz con carácter permanente."
-    },
-    {
-     "titular": "Asisa y Adeslas plantan al Gobierno y abandonan la sanidad de los militares",
-     "url": "https://www.elmundo.es/salud/2026/10/27/6ae0dcd6e4d4d8a10f8b459b.html",
-     "seccion": "salud",
-     "resumen": "Asisa y Adeslas abandonan el concierto con la mutualidad militar Isfas por considerar insuficientes las condiciones."
-    },
-    {
-     "titular": "El Gobierno aprueba 2.200 millones para Navantia y anticipa una cascada de adjudicaciones militares durante la campaña",
-     "url": "https://www.elmundo.es/economia/2026/10/27/6ae10d75e4d4d8894a8b458a.html",
-     "seccion": "España",
-     "resumen": "El Gobierno aprueba 2.200 millones para Navantia y anticipa adjudicaciones militares durante la campaña."
-    },
-    {
-     "titular": "Flávio Bolsonaro huye de Brasil a Florida tras su derrota ante Lula y con dos investigaciones abiertas en el Supremo",
-     "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0ba33e85ece75248b457a.html",
+     "titular": "Flávio Bolsonaro huye con su familia a EEUU ante el temor de ser enviado a prisión: \"Marco Rubio, el cerebro detrás de la operación\"",
+     "url": "https://www.elmundo.es/internacional/2026/10/28/6ae11c6fe9cf4a4c578b4598.html",
      "seccion": "Brasil",
-     "resumen": "Flávio Bolsonaro sale de Brasil hacia Florida con dos investigaciones abiertas en el Supremo."
+     "resumen": "Flávio Bolsonaro huye a EE UU con su familia sin entregar los pasaportes que le exigió el juez, evitando un posible ingreso en prisión."
     },
     {
-     "titular": "Los líderes de Finlandia y Noruega hablan por teléfono con Putin y Frederiksen estalla: \"No sé qué creen que pueden conseguir\"",
-     "url": "https://www.elmundo.es/internacional/2026/10/27/6ae077c3fc6c83125a8b4586.html",
-     "seccion": "Rusia",
-     "resumen": "Finlandia y Noruega hablan con Putin, coordinados con Ucrania y EE.UU., lo que provoca la crítica de Dinamarca."
+     "titular": "La Comisión Europea abre expediente a España por la regularización de inmigrantes",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae104e8e4d4d859798b45a2.html",
+     "seccion": "inmigración",
+     "resumen": "La Comisión Europea abre expediente a España por la regularización de inmigrantes, tras una queja de Junts."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Prioriza la política y la justicia, con la investigación de obra pública y Ceuta, y dedica espacio a la carrera electoral. Incluye también deportes y cultura en su portada.",
+   "resumen": "Sigue el accidente de Urda con la cifra de 50 muertos y la hipótesis de error humano de un operario de Adif. Incluye también la polémica sobre el ministro Óscar Puente y la denuncia de Begoña Gómez.",
    "noticias": [
     {
-     "titular": "La UCO ultima un informe sobre amaños de obra pública que deja a Acciona a las puertas de la imputación",
-     "url": "https://www.abc.es/noticias/uco-ultima-informe-sobre-amanos-obra-publica-20261023215527-nt.html",
+     "titular": "Al menos 50 muertos en un nuevo choque de trenes",
+     "url": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
      "seccion": "",
-     "resumen": "La UCO prepara un informe sobre amaños de obra pública que podría llevar a la imputación de Acciona."
+     "resumen": "Un choque de dos trenes en la estación de Urda deja al menos 50 muertos; Transportes apunta a un error humano de un operador de Adif."
     },
     {
-     "titular": "Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera durante la invasión a Ceuta",
-     "url": "https://www.abc.es/espana/excargo-gendarmeria-dos-inmigrantes-situan-altos-mandos-20261027201247-nt.html",
+     "titular": "Así ha sido el accidente: el AVE embistió al Iryo, que estaba parado",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/accidente-tren-urda-toledo-ave-embistio-iryo-20261028112725-nt.html",
      "seccion": "",
-     "resumen": "Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera de Ceuta."
+     "resumen": "Chocaron el AVE 2080, con 397 pasajeros, y el Iryo 6076, con 147, a las 9.00; Adif interrumpió la circulación poco después."
     },
     {
-     "titular": "El bloque de la oposición supera por estrecho margen al de Netanyahu en las elecciones",
-     "url": "https://www.abc.es/internacional/elecciones-israel-directo-votaciones-participacion-resultado-netanyahu-20261027182010-di.html",
+     "titular": "Transportes apunta a un error humano de un operador de Adif como la causa del accidente",
+     "url": "https://www.abc.es/espana/error-humano-operador-adif-causa-accidente-ferroviario-20261028103846-nt.html",
      "seccion": "",
-     "resumen": "La oposición supera por estrecho margen al bloque de Netanyahu, según el seguimiento en directo de las elecciones."
+     "resumen": "Fuentes de Transportes atribuyen el accidente a un error humano de un operario que trabajaba en una avería del sistema principal de señalización."
     },
     {
-     "titular": "Feijóo: «Esta vez pondremos fin a lo que nunca debió suceder»",
-     "url": "https://www.abc.es/espana/feijoo-conjura-ayuso-cayetana-vez-pondremos-fin-20261027140255-nt.html",
+     "titular": "La Guardia Civil, tras llegar a la zona del siniestro: «Había cadáveres entre los hierros»",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/guardia-civil-tras-llegar-zona-siniestro-urda-20261028105937-nt.html",
      "seccion": "",
-     "resumen": "Feijóo da el pistoletazo de salida a la campaña del 29 de noviembre con el pacto con Vox para el Senado."
+     "resumen": "La Guardia Civil describe la escena en la zona del siniestro, con cadáveres entre los hierros de los vagones."
     },
     {
-     "titular": "Flávio Bolsonaro huye de Brasil y se dirige a EE.UU.",
-     "url": "https://www.abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html",
+     "titular": "Puente se ha enterado del accidente en el Foro Mundial de Infraestructuras",
+     "url": "https://www.abc.es/espana/llegada-oscar-puente-inauguracion-world-infraestructure-forum-20261028100359-nt.html",
      "seccion": "",
-     "resumen": "Flávio Bolsonaro abandona Brasil rumbo a EE.UU. tras su derrota, según confirma un funcionario a Reuters."
+     "resumen": "El ministro Óscar Puente se enteró del accidente en el Foro Mundial de Infraestructuras y se desplazó de inmediato al lugar."
     },
     {
-     "titular": "EE.UU forzará a Delcy a dejar la presidencia de Venezuela el próximo año, pero no le impedirá presentarse a las elecciones",
-     "url": "https://www.abc.es/internacional/eeuu-forzara-delcy-dejar-presidencia-venezuela-proximo-20261027193806-nt.html",
+     "titular": "El Rey: «Lo primero es transmitir a las familias nuestro pésame, nuestra tristeza, y cariño»",
+     "url": "https://www.abc.es/espana/casa-rey-conmovidos-acompanamos-tristeza-familias-seres-20261028113701-nt.html",
      "seccion": "",
-     "resumen": "EE.UU. prevé que Delcy Rodríguez deje la presidencia de Venezuela el próximo año, aunque podrá presentarse a elecciones."
+     "resumen": "El Rey traslada su pésame a las familias y su apoyo a los equipos de emergencia."
     },
     {
-     "titular": "Nuevo cisma entre los acampados de Sol, que valoran irse tras las elecciones del 29N",
-     "url": "https://www.abc.es/espana/madrid/nuevo-cisma-acampados-sol-valoran-irse-tras-20261026012225-nt.html",
+     "titular": "Begoña Gómez denuncia al PP por suplantar su imagen con IA",
+     "url": "https://www.abc.es/espana/begona-denuncia-pp-suplantar-imagen-ia-20261028083843-nt.html",
      "seccion": "",
-     "resumen": "Los acampados de Sol empiezan a marcharse tras un cisma interno, con intención de irse tras las elecciones del 29N."
+     "resumen": "Begoña Gómez denuncia al PP por difundir un vídeo con IA que simula reconocer los cargos que le imputa el juez Peinado."
     },
     {
-     "titular": "Un abogado ligado al PP de Madrid denuncia un robo de documentación sobre disputas de afiliados",
-     "url": "https://www.abc.es/espana/abogado-ligado-pp-madrid-denuncia-robo-documentacion-20261027214016-nt.html",
+     "titular": "Los maquinistas de Renfe tenían ya convocada una huelga por la falta de seguridad ferroviaria",
+     "url": "https://www.abc.es/economia/maquinistas-renfe-convocada-huelga-jueves-falta-seguridad-20261028112243-nt.html",
      "seccion": "",
-     "resumen": "Un despacho de un abogado vinculado al PP de Madrid sufre un robo de documentación sobre disputas de afiliados."
+     "resumen": "Semaf había convocado una huelga de 24 horas de maquinistas de Renfe para el 29 de octubre por la falta de medidas de seguridad ferroviaria."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Destaca la política catalana y el seguimiento de los disturbios de Barcelona, con la reacción de la Generalitat y la Justicia. Dedica también espacio a Israel, Brasil y la polémica de Mbappé en China.",
+   "resumen": "Prioriza el accidente de Toledo con la cifra de al menos 30 muertos y las reacciones políticas. En internacional, cubre las elecciones israelíes y la salida de Bolsonaro.",
    "noticias": [
     {
-     "titular": "Netanyahu denuncia que le quieren “robar las elecciones” entre una participación récord",
-     "url": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
+     "titular": "Al menos 30 muertos al chocar dos trenes de alta velocidad en Toledo y caer dos vagones por un terraplén",
+     "url": "https://www.lavanguardia.com/vida/20261028/11669968/choque-de-trenes-urda-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html",
+     "seccion": "Sociedad",
+     "resumen": "Al menos 30 muertos tras chocar un AVE de Renfe con un Iryo y sacarlo de la vía cerca de Toledo, con dos vagones caídos por un terraplén."
+    },
+    {
+     "titular": "Qué sabemos hasta ahora del trágico choque de trenes en Toledo",
+     "url": "https://www.lavanguardia.com/vida/20261028/11670021/que-tragico-choque-trenes-toledo.html",
+     "seccion": "Sociedad",
+     "resumen": "Un AVE con 397 pasajeros alcanzó por la cola a un Iryo con 146 personas a bordo."
+    },
+    {
+     "titular": "El portavoz del Sindicato Ferroviario ve “muy raro” el accidente de trenes en Toledo",
+     "url": "https://www.lavanguardia.com/vida/20261028/11670004/portavoz-sindicato-ferroviario-ve-raro-accidente-trenes-toledo.html",
+     "seccion": "Sociedad",
+     "resumen": "Un portavoz sindical ferroviario considera extraño el accidente, ya que el maquinista dispone de información en tiempo real sobre la vía."
+    },
+    {
+     "titular": "Los partidos cancelan sus actos por el accidente salvo Vox, que ya culpa al Gobierno",
+     "url": "https://www.lavanguardia.com/politica/20261028/11669987/partidos-suspenden-agendas-accidente-ferroviario-toledo.html",
+     "seccion": "Política",
+     "resumen": "PSOE, PP, Frente Amplio, Junts y ERC suspenden sus actos, igual que el Gobierno; Vox mantiene los suyos y ya culpa al Gobierno."
+    },
+    {
+     "titular": "Netanyahu se adelanta en el recuento en unas elecciones sin un claro ganador en Israel",
+     "url": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html",
      "seccion": "Internacional",
-     "resumen": "Netanyahu denuncia que intentan robarle las elecciones en una jornada con participación récord desde 1988."
+     "resumen": "Netanyahu se adelanta en el recuento en unas elecciones israelíes sin un claro ganador."
     },
     {
-     "titular": "Junts exigirá la salida de Pedro Sánchez tras las elecciones para volver a negociar con el PSOE",
-     "url": "https://www.lavanguardia.com/politica/20261027/11669324/junts-exigira-concierto-economico-elecciones-llave-investidura.html",
-     "seccion": "Política",
-     "resumen": "Junts condiciona su apoyo a una futura investidura a la salida de Pedro Sánchez y a un concierto económico."
-    },
-    {
-     "titular": "PSC y Comuns pactan para concentrar el voto en el Senado en Girona, Tarragona y Lleida",
-     "url": "https://www.lavanguardia.com/politica/20261027/11669211/acuerdo-psc-comuns-senado-girona-tarragona-lleida.html",
-     "seccion": "Política",
-     "resumen": "PSC y Comuns acuerdan concentrar su voto en el Senado en Girona, Tarragona y Lleida, con un senador designado por Comuns."
-    },
-    {
-     "titular": "Un mando dirige y da instrucciones a los vándalos para sembrar el caos en Barcelona",
-     "url": "https://www.lavanguardia.com/sucesos/20261027/11668493/mando-dirige-da-instrucciones-vandalos-sembrar-caos-barcelona.html",
-     "seccion": "Sucesos",
-     "resumen": "Un mando habría dirigido a los vándalos de Barcelona para provocar el caos, según la investigación."
-    },
-    {
-     "titular": "Los Mossos recurren a la vía antiterrorista para cerrar tres canales de Blocus en Telegram",
-     "url": "https://www.lavanguardia.com/local/barcelona/20261027/11669511/mossos-recurren-mecanismos-antiterroristas-bloquear-chats-disturbios-barcelona.html",
-     "seccion": "Barcelona",
-     "resumen": "Los Mossos piden ayuda a Interior para cerrar tres canales de Blocus en Telegram por la vía antiterrorista."
-    },
-    {
-     "titular": "La Generalitat se persona como acusación particular contra los vándalos de Barcelona",
-     "url": "https://www.lavanguardia.com/politica/20261027/11669348/generalitat-persona-acusacion-particular-responsables-vandalos-barcelona.html",
-     "seccion": "Política",
-     "resumen": "La Generalitat se persona como acusación particular contra los responsables de los disturbios de Barcelona."
-    },
-    {
-     "titular": "Flávio Bolsonaro huye a Estados Unidos tras perder el fuero en Brasil",
+     "titular": "Bolsonaro huye a EE.UU. tras su derrota electoral",
      "url": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
      "seccion": "Internacional",
-     "resumen": "Flávio Bolsonaro huye a EE.UU. tras perder el fuero y reabrirse dos causas por corrupción y blanqueo."
+     "resumen": "Bolsonaro huye a EE UU tras su derrota electoral y pasa a ser fugitivo de la justicia en 48 horas."
     },
     {
-     "titular": "Madrid se distancia de Catalunya en PIB per cápita por el empleo no residente",
-     "url": "https://www.lavanguardia.com/economia/20261027/11669258/madrid-ensancha-distancia-pib-per-capita-catalunya-trabajadores-residentes.html",
-     "seccion": "Economía",
-     "resumen": "La Cambra de Barcelona señala que el diferencial de PIB per cápita entre Madrid y Catalunya no se explica por productividad o paro."
+     "titular": "El PP halla en los disturbios callejeros nueva munición pesada contra el PSOE",
+     "url": "https://www.lavanguardia.com/politica/20261028/11669640/pp-halla-disturbios-callejeros-nueva-municion-pesada-psoe.html",
+     "seccion": "Política",
+     "resumen": "El PP usa los disturbios callejeros como argumento contra el PSOE, que defiende el derecho a la protesta y condena el vandalismo."
+    },
+    {
+     "titular": "Análisis de las redes sociales sitúan el origen de los grupos donde se organizaron los saqueos de Barcelona en Madrid",
+     "url": "https://www.lavanguardia.com/vida/20261028/11670047/analisis-redes-sociales-blocus-saqueos-barcelona-madrid.html",
+     "seccion": "Sociedad",
+     "resumen": "Un análisis de redes sociales sitúa en Madrid el origen de los grupos que organizaron los saqueos de Barcelona."
     }
    ]
   }
