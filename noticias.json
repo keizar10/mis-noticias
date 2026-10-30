@@ -1,97 +1,47 @@
 {
- "fecha": "2026-10-29",
- "franja": "tarde",
- "generada": "2026-10-29T22:28+01:00",
+ "fecha": "2026-10-30",
+ "franja": "mañana",
+ "generada": "2026-10-30T12:44+01:00",
  "con_ia": true,
- "resumen_dia": "El accidente ferroviario de Urda (Toledo) entre un AVE y un Iryo parado domina la portada de los cuatro diarios, con al menos 69 muertos. El primer informe de la AITAT estima una velocidad de 160 a 200 km/h en el choque, a la espera de las cajas negras. Las responsabilidades políticas se centran en el ministro Óscar Puente, que comparecerá el martes en la Diputación Permanente, y en la filtración de audios entre maquinistas y centro de control. Entre las víctimas figuran la exministra Fátima Báñez y la compositora Marisa Manchado.",
+ "resumen_dia": "El accidente ferroviario de Urda (Toledo) entre un AVE y un Iryo parado, ocurrido el 28 de octubre, domina las portadas de los cuatro diarios, con al menos 69 muertos según ABC y 70 familiares aún pendientes de identificación. El foco se reparte entre la actuación del operario del centro de control de Atocha, las responsabilidades políticas y la petición de dimisión del ministro Óscar Puente, que este rechaza. Sánchez admite que la confianza en la alta velocidad está quebrada y promete soluciones.",
  "temas_comunes": [
   {
-   "titulo": "Investigación técnica y velocidad del choque",
-   "resumen": "El primer informe técnico estima entre 160 y 200 km/h la velocidad del AVE al colisionar con el Iryo parado. El dato exacto dependerá del análisis de las cajas negras, que quedan bajo custodia de la Guardia Civil.",
+   "titulo": "Investigación del choque y fallos de señalización",
+   "resumen": "Las investigaciones se centran en el sistema LZB y en las órdenes dadas desde el centro de control de Atocha antes del choque. Según los medios, el sistema de protección tenía antigüedad y el gestor decidió prorrogarlo por ahorro económico.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Pone el dato de velocidad en primer plano y subraya que el valor exacto aún no está confirmado.",
+     "enfoque": "Analiza las comunicaciones por audio y señala que los controladores aplicaron un protocolo distinto al que correspondía.",
      "noticias": [
       {
-       "titular": "El primer informe técnico del accidente estima que el AVE que chocó en Urda circulaba de 160 a 200 kilómetros por hora",
-       "url": "https://elpais.com/espana/2026-10-29/el-primer-informe-tecnico-del-accidente-fija-en-160-a-200-kilometros-por-hora-la-velocidad-del-ave-que-choco-en-urda.html",
+       "titular": "Los controladores de Atocha ordenaron seguir el protocolo equivocado antes del choque entre el AVE y el Iryo: “Me estaba liando”",
+       "url": "https://elpais.com/espana/2026-10-30/los-controladores-de-atocha-ordenaron-seguir-el-protocolo-equivocado-antes-del-choque-entre-el-ave-y-el-iryo-me-estaba-liando.html",
        "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Recoge la nota oficial de la AITAT y destaca la sucesión de averías e instrucciones que no permitieron frenar.",
-     "noticias": [
-      {
-       "titular": "El primer informe apunta a una «cadena de averías e instrucciones» que no pudieron frenar la violenta colisión",
-       "url": "https://www.abc.es/espana/primer-informe-urda-apunta-cadena-averias-instrucciones-20261029215855-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Centra la atención en la copia de las conversaciones entre maquinistas y operadores que se traslada al nuevo organismo investigador.",
-     "noticias": [
-      {
-       "titular": "Los investigadores de Urda copian los audios de conversaciones entre maquinistas y operadores para esclarecer las circunstancias de la tragedia ferroviaria",
-       "url": "https://www.elmundo.es/economia/2026/10/29/6ae39fb6e9cf4afc318b45ab.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Hace una cronología de la cadena de errores y del funcionamiento del sistema LZB.",
-     "noticias": [
-      {
-       "titular": "La cadena de errores que ha provocado el accidente de trenes de Toledo",
-       "url": "https://www.lavanguardia.com/vida/20261029/11671366/cadena-errores-provocado-accidente-trenes-toledo.html",
-       "seccion": "Sociedad"
       },
       {
-       "titular": "Del Meta 0 al telefonema: la traducción de los audios entre los maquinistas y el centro de control en la colisión de trenes en Toledo",
-       "url": "https://www.lavanguardia.com/vida/20261029/11670923/meta-0-telefonema-traduccion-audios-maquinistas-centro-control-colision-trenes-toledo.html",
-       "seccion": "Sociedad"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Sistema de señalización LZB y fallos previos",
-   "resumen": "El consejero delegado de Iryo advirtió en el Senado de desconexiones del LZB en la línea Madrid-Sevilla semanas antes del accidente. Adif había registrado varios fallos de señalización en el tramo en los últimos años.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Sitúa la alerta de Iryo tres semanas antes del accidente como dato central.",
-     "noticias": [
-      {
-       "titular": "El consejero delegado de Iryo advirtió de los problemas del sistema LZB en sus trenes tres semanas antes del accidente de Urda",
-       "url": "https://elpais.com/economia/2026-10-29/el-consejero-delegado-de-iryo-advirtio-de-los-problemas-del-sistema-lzb-en-sus-trenes-tres-semanas-antes-del-accidente-de-urda.html",
-       "seccion": "Economía"
+       "titular": "Los expertos señalan problemas en el sistema que van más allá del error cometido por el operario que daba instrucciones desde Atocha",
+       "url": "https://elpais.com/espana/2026-10-30/preguntas-y-respuestas-sobre-el-accidente-de-urda-lo-que-explican-y-lo-que-no-los-audios-entre-los-maquinistas-y-el-centro-de-control.html",
+       "seccion": "España"
       },
       {
-       "titular": "La maquinista del Iryo de Urda intentó desbloquear su tren dos veces sin éxito y buscó asistencia de su empresa antes de la colisión",
-       "url": "https://elpais.com/espana/2026-10-29/la-maquinista-del-iryo-de-urda-intento-desbloquear-su-tren-en-dos-ocasiones-sin-exito-y-busco-el-consejo-de-su-empresa-antes-de-la-colision.html",
+       "titular": "Las llamadas entre Atocha y los maquinistas antes del choque de Urda, explicadas frase a frase",
+       "url": "https://elpais.com/espana/2026-10-30/las-llamadas-entre-atocha-y-los-maquinistas-explicadas-paso-a-paso.html",
        "seccion": "España"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Precisa que la alerta fue 23 días antes y añade que el Ministerio certificó la red en niveles aceptables de riesgo.",
+     "enfoque": "Subraya que Adif prorrogó el sistema LZB para ahorrar 37 millones de euros y que varias capas de seguridad fallaron.",
      "noticias": [
       {
-       "titular": "El CEO de Iryo alertó 23 días antes del accidente de que los fallos del LZB dejaban sus trenes inmovilizados",
-       "url": "https://www.elmundo.es/economia/2026/10/29/6ae32535e4d4d8256c8b45bf.html",
-       "seccion": "Accidente tren Toledo"
+       "titular": "Adif consintió prorrogar el viejo sistema LZB por un ahorro de 37 millones de euros",
+       "url": "https://www.elmundo.es/economia/2026/10/29/6ae3b9b721efa0a84e8b45da.html",
+       "seccion": "NLPremium"
       },
       {
-       "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
-       "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+       "titular": "¿Dependía todo de un solo operador? Las cinco capas de seguridad que no evitaron la tragedia de Urda",
+       "url": "https://www.elmundo.es/economia/2026/10/29/6ae34bfde9cf4a71178b45ac.html",
        "seccion": "Accidente tren Toledo"
       },
       {
@@ -103,81 +53,112 @@
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Enumera hasta nueve fallos de señalización en el tramo desde 2024.",
+     "enfoque": "Reconstruye una cronología con 17 minutos clave en los que el control no vio la trayectoria del AVE y recuerda que el CEO de Iryo había alertado de fallos.",
      "noticias": [
       {
-       "titular": "Hasta nueve fallos de señalización en el tramo del choque de trenes de Urda desde 2024",
-       "url": "https://www.lavanguardia.com/vida/20261029/11670977/fallos-senalizacion-tramo-choque-trenes-urda.html",
+       "titular": "Cronología de una tragedia plagada de errores",
+       "url": "https://www.lavanguardia.com/vida/20261029/11671139/cronologia-tragedia-plagada-errores.html",
        "seccion": "Sociedad"
       },
       {
-       "titular": "El centro de control, tras la llamada del Iryo: “¡De verdad, tronco...! El 6076 tiene problemas”",
-       "url": "https://www.lavanguardia.com/vida/20261028/11670605/verdad-tronco-verdad-6076-esta-teniendo-problemas.html",
+       "titular": "Las incógnitas se centran en los 17 minutos en los que control no vio que el AVE iba directo al choque",
+       "url": "https://www.lavanguardia.com/vida/20261030/11671579/ceo-iryo-alerto-semanas-fallos-inmovilizaban-trenes.html",
        "seccion": "Sociedad"
+      },
+      {
+       "titular": "¿Qué sucede en los trenes de Francia, Alemania o Italia cuando la tecnología en las vías falla?",
+       "url": "https://www.lavanguardia.com/vida/20261030/11671667/que-sucede-trenes-francia-alemania-italia-tecnologia-vias-falla.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge que Puente reconoce un fallo técnico y repasa los cambios de cargos en Adif desde su llegada al ministerio.",
+     "noticias": [
+      {
+       "titular": "Puente echó a técnicos y llenó la cúpula de Adif de políticos",
+       "url": "https://www.abc.es/espana/xxxxxxxxxxxxx-20261030214038-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Puente se niega a dimitir y reconoce que hubo un fallo técnico",
+       "url": "https://www.abc.es/espana/accidente-tren-toledo-directo-comparecencia-oscar-puente-20261030104605-di.html",
+       "seccion": ""
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Responsabilidades políticas y comparecencia de Puente",
-   "resumen": "Óscar Puente descarta dimitir y comparecerá el martes 3 de noviembre en la Diputación Permanente. Sánchez anuncia que se reforzará la seguridad ferroviaria, mientras PP y Vox reclaman responsabilidades al Gobierno.",
+   "titulo": "Petición de dimisión de Óscar Puente",
+   "resumen": "El ministro de Transportes rechaza dimitir mientras el PP exige responsabilidades políticas. Los medios recogen también la posición de quienes piden mantenerlo en el cargo.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Recoge las palabras de Feijóo, que apunta a responsabilidades políticas del ministro sin pedir su dimisión de forma explícita.",
+     "enfoque": "Destaca la negativa de Puente y la petición del PP de dimisión, junto con la posible parada de la línea Madrid-Barcelona para obras.",
      "noticias": [
       {
-       "titular": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
-       "url": "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html",
+       "titular": "Accidente de trenes en Toledo: última hora en directo | Óscar Puente descarta dimitir: “Mi forma de ser responsable es dar la cara”",
+       "url": "https://elpais.com/espana/2026-10-30/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
        "seccion": "España"
       },
       {
-       "titular": "Feijóo apunta a las “responsabilidades políticas” de Puente por el segundo accidente mortal de la alta velocidad en nueve meses",
-       "url": "https://elpais.com/espana/2026-10-29/feijoo-apunta-a-las-responsabilidades-politicas-de-puente-por-el-segundo-accidente-mortal-de-la-alta-velocidad-en-nueve-meses.html",
+       "titular": "El PP respetará el luto, pero después apuntará a Sánchez: “Con la dimisión de Puente no basta”",
+       "url": "https://elpais.com/espana/2026-10-30/el-pp-respetara-el-luto-pero-despues-apuntara-a-sanchez-con-la-dimision-de-puente-no-basta.html",
        "seccion": "España"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Resalta que las comparecencias entre legislaturas solo son posibles a petición del Ejecutivo y que el ministro se presenta presionado por sus socios.",
+     "enfoque": "Recoge artículos de opinión a favor de que Puente siga y uno que lo sitúa como responsable del servicio ferroviario.",
      "noticias": [
       {
-       "titular": "Óscar Puente descarta una dimisión inmediata y comparecerá el próximo martes en la Diputación Permanente para explicar las causas del accidente de Urda presionado por sus socios",
-       "url": "https://www.elmundo.es/espana/2026/10/29/6ae36d49e9cf4a23398b4583.html",
+       "titular": "El karma del ministro Puente",
+       "url": "https://www.elmundo.es/espana/2026/10/29/6ae396d1e4d4d8b9408b45ab.html",
        "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "Óscar Puente debe seguir",
+       "url": "https://www.elmundo.es/espana/2026/10/30/6ae39bdafdddff0b658b457c.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "El PSOE ofrece en sacrificio al último de la fila",
+       "url": "https://www.elmundo.es/espana/2026/10/29/6ae37dda21efa051508b458a.html",
+       "seccion": "Pedro Sánchez"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Pone el foco en la política de nombramientos de Adif y en las críticas de Vox al ministro.",
+     "enfoque": "Destaca la declaración del Gobierno de Ayuso que exige esclarecimiento y asunción de responsabilidades.",
      "noticias": [
       {
-       "titular": "Puente echó a técnicos y llenó la cúpula de Adif de militantes socialistas",
-       "url": "https://www.abc.es/espana/xxxxxxxxxxxxx-20261030214038-nt.html",
+       "titular": "Ayuso exige el «total esclarecimiento» de la catástrofe ferroviaria y la «inmediata asunción de responsabilidades»",
+       "url": "https://www.abc.es/espana/madrid/ayuso-exige-total-esclarecimiento-catastrofe-ferroviaria-inmediata-20261030113152-nt.html",
        "seccion": ""
       },
       {
-       "titular": "Óscar Puente comparecerá el martes ante la Diputación Permanente del Congreso",
-       "url": "https://www.abc.es/espana/puente-comparecera-ante-diputacion-permanente-explicar-gestion-20261029163653-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Abascal, sobre Pedro Sánchez y Óscar Puente: «Ellos son el error humano»",
-       "url": "https://www.abc.es/espana/castilla-leon/abascal-sobre-pedro-sanchez-oscar-puente-error-20261029205805-nt.html",
+       "titular": "Puente se niega a dimitir y reconoce que hubo un fallo técnico",
+       "url": "https://www.abc.es/espana/accidente-tren-toledo-directo-comparecencia-oscar-puente-20261030104605-di.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Señala que la filtración de los audios rompe la tregua política y que socios y oposición acusan al Gobierno de desviar la atención.",
+     "enfoque": "Recoge la comparecencia de Sánchez, que admite la confianza quebrada, y la remodelación de cargos en Transportes, Renfe y Adif.",
      "noticias": [
       {
-       "titular": "La filtración de los audios del choque de Urda pone fin a la tregua política",
-       "url": "https://www.lavanguardia.com/politica/20261029/11671476/filtracion-audios-choque-urda-pone-tregua-politica.html",
+       "titular": "Sánchez admite que la confianza en el AVE está “quebrada” y promete que reforzará la seguridad",
+       "url": "https://www.lavanguardia.com/politica/20261030/11671967/sanchez-admite-confianza-ave-esta-quebrada-promete-reforzara-seguridad.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "El baile de sillas en Transportes, Renfe y Adif",
+       "url": "https://www.lavanguardia.com/politica/20261030/11671444/baile-sillas-transportes-renfe-adif.html",
        "seccion": "Política"
       }
      ]
@@ -185,74 +166,84 @@
    ]
   },
   {
-   "titulo": "Víctimas y desaparecidos",
-   "resumen": "Entre los fallecidos figuran la exministra Fátima Báñez, que viajaba en el Iryo, y la compositora Marisa Manchado. Hay decenas de denuncias de personas no localizadas y el Rey ha visitado a los heridos en Toledo.",
+   "titulo": "Víctimas, identificación y atención a familias",
+   "resumen": "Decenas de familias esperan la identificación de los fallecidos mediante pruebas de ADN, mientras hay desaparecidos y restos sin identificar. Page no descarta que aumente la cifra de muertos.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Destaca la muerte de Fátima Báñez y la búsqueda de supervivientes y desaparecidos como Rodrigo y José San Emeterio.",
+     "enfoque": "Se centra en los familiares alojados en una casa parroquial de Toledo y en la historia de las víctimas, como los maquinistas.",
      "noticias": [
       {
-       "titular": "Muere la exministra Fátima Báñez, que viajaba en uno de los trenes siniestrados en Urda",
-       "url": "https://elpais.com/economia/2026-10-29/muere-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-siniestrados.html",
-       "seccion": "Economía"
+       "titular": "70 familiares esperan la peor noticia dentro de la casa parroquial de Toledo: “Las horas que pasan nos matan. Nadie nos dice nada”",
+       "url": "https://elpais.com/espana/2026-10-30/70-familiares-esperan-la-peor-noticia-dentro-de-la-casa-parroquial-de-toledo-las-horas-que-pasan-nos-matan-nadie-nos-dice-nada.html",
+       "seccion": "Comunidad de Madrid"
       },
       {
-       "titular": "Rodrigo se durmió, perdió el tren y se libró del accidente; ahora busca a su primo desaparecido",
-       "url": "https://elpais.com/espana/2026-10-29/rodrigo-se-durmio-perdio-el-tren-y-se-libro-del-accidente-ahora-busca-a-su-primo-desaparecido.html",
+       "titular": "Antonio despertó entre los hierros del tren e intentó proteger a su mujer: “Quería cubrirla con mis brazos, pero no podía moverlos”",
+       "url": "https://elpais.com/espana/2026-10-30/antonio-desperto-entre-los-hierros-del-tren-e-intento-proteger-a-su-mujer-queria-cubrirla-con-mis-brazos-pero-no-podia-moverlos.html",
        "seccion": "España"
       },
       {
-       "titular": "Sin noticias de José San Emeterio, el hombre que viajaba con Trece, el perro devuelto a su mujer",
-       "url": "https://elpais.com/espana/2026-10-29/sin-noticias-de-jose-san-emeterio-el-hombre-que-viajaba-con-trece-el-perro-rescatado-del-accidente.html",
+       "titular": "Dos vidas cruzadas en la cabina: Antonio y Daniel, los maquinistas treintañeros del AVE 2080",
+       "url": "https://elpais.com/espana/2026-10-29/dos-vidas-cruzadas-en-la-cabina-antonio-y-daniel-los-maquinistas-treintaneros-del-ave-2080.html",
        "seccion": "España"
-      },
-      {
-       "titular": "Consternación en el mundo de la música por la desaparición de la compositora Marisa Manchado en el accidente ferroviario de Urda",
-       "url": "https://elpais.com/cultura/2026-10-29/consternacion-en-el-mundo-de-la-musica-por-la-desaparicion-de-la-compositora-marisa-manchado-en-el-accidente-ferroviario-de-urda.html",
-       "seccion": "Cultura"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Enumera perfiles de desaparecidos, entre ellos un presentador de televisión y un director de colegio, con 64 denuncias pendientes.",
+     "enfoque": "Muestra la angustia de los allegados y el número de víctimas extranjeras, con historias personales.",
      "noticias": [
       {
-       "titular": "Los desaparecidos del accidente de trenes en Urda: un presentador de televisión, una empleada de Metrovacesa, un director de colegio, el maquinista...",
-       "url": "https://www.elmundo.es/espana/2026/10/29/6ae31579e9cf4a33758b45a1.html",
-       "seccion": "Artículos Olga R. Sanmartín"
+       "titular": "\"Es insoportable lo que están haciendo con nosotros\": la desesperación de las familias de los 70 desaparecidos",
+       "url": "https://www.elmundo.es/espana/2026/10/29/6ae38a75fc6c83e3358b458f.html",
+       "seccion": "Accidente tren Toledo"
       },
       {
-       "titular": "Salvados por un minuto y 500 metros: \"Si no llegamos a parar, también hubiéramos chocado, nos libramos de milagro\"",
-       "url": "https://www.elmundo.es/espana/2026/10/29/6ae2f28cfdddff8c338b45b5.html",
+       "titular": "Lawrence y Fernando, el matrimonio de Oklahoma roto por el accidente: \"No sabe en qué momento desapareció\"",
+       "url": "https://www.elmundo.es/espana/2026/10/29/6ae3a3c721efa07e0f8b45ab.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "El vagón 8 del AVE incrustado en un vagón del Iryo, la imagen de la tragedia con decenas de vidas rotas: Alexandra, Antonio, Adriana, Ana, Raúl, Julieta...",
+       "url": "https://www.elmundo.es/espana/2026/10/29/6ae38ac6fc6c83c75c8b45a0.html",
        "seccion": "Accidente tren Toledo"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Incluye el homenaje de la CEOE a Fátima Báñez, presidenta de la entidad.",
+     "enfoque": "Repasa las historias de las víctimas y recuerda que solo seis fallecidos están confirmados por nombre.",
      "noticias": [
       {
-       "titular": "Fátima Báñez, sabia y leal consejera",
-       "url": "https://www.abc.es/economia/antonio-garamendi-fatima-banez-sabia-leal-consejera-20261029175228-nt.html",
+       "titular": "Antonio, José Manuel, Ana... Las historias detrás de la tragedia ferroviaria en Urda",
+       "url": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Puente se niega a dimitir y reconoce que hubo un fallo técnico",
+       "url": "https://www.abc.es/espana/accidente-tren-toledo-directo-comparecencia-oscar-puente-20261030104605-di.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Pone el acento en el perfil del guardia civil andaluz José Manuel Chacón y en la búsqueda de familiares.",
+     "enfoque": "Reúne los rostros de las víctimas y detalla las denuncias por desaparición y los 31 bolsas con restos.",
      "noticias": [
       {
-       "titular": "José Manuel Chacón, el rostro andaluz de la tragedia de Urda, mientras las familias siguen buscando a sus desaparecidos",
-       "url": "https://www.lavanguardia.com/local/andalucia/20261029/11671143/jose-manuel-chacon-rostro-andaluz-tragedia-urda-familias-siguen-buscando-desaparecidos.html",
-       "seccion": "Andalucía"
+       "titular": "Julieta, Adriana, David, Eleuterio... Las vidas truncadas en el tren",
+       "url": "https://www.lavanguardia.com/vida/20261030/11671528/vidas-truncadas-tren.html",
+       "seccion": "Sociedad"
       },
       {
-       "titular": "Muere la exministra del PP Fátima Báñez en el choque de trenes",
-       "url": "https://www.lavanguardia.com/vida/20261029/11671184/confirmada-muerte-exministra-pp-fatima-banez-choque-trenes-toledo.html",
+       "titular": "Page: “Hay 70 denuncias sobre desaparecidos y 31 bolsas con restos parciales”",
+       "url": "https://www.lavanguardia.com/vida/20261030/11671806/choque-de-trenes-accidente-toledo-iryo-toledo-ave-ultima-hora-hoy-en-directo.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Antonio Acedo, el maquinista del AVE fallecido en Toledo: un madrileño hijo y nieto de ferroviarios que vivía en Barcelona",
+       "url": "https://www.lavanguardia.com/vida/20261029/11671233/antonio-acedo-maquinista-ave-fallecido-toledo-madrileno-hijo-nieto-ferroviarios-vivia-barcelona.html",
        "seccion": "Sociedad"
       }
      ]
@@ -260,49 +251,128 @@
    ]
   },
   {
-   "titulo": "Reacción institucional del Rey",
-   "resumen": "El Rey pide que se determine cómo y por qué ocurrió la catástrofe y que se adopten medidas para evitar que se repita. Lo expresó a las puertas del Hospital de Toledo.",
+   "titulo": "Trabajadores del centro de control de Atocha",
+   "resumen": "El operario señalado por el Gobierno se niega a declarar ante la Guardia Civil. Sindicatos y expertos discuten si la culpa recae en una persona o en el sistema.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Recoge el mensaje del Rey junto a la visita de Felipe VI y Letizia Ortiz al hospital.",
+     "enfoque": "Señala problemas del sistema que van más allá del operario y describe las condiciones de trabajo y la rotación del centro.",
      "noticias": [
       {
-       "titular": "El Rey pide que se determine “cómo y por qué” ha sucedido la catástrofe de Urda y medidas para que “no vuelva a suceder”",
-       "url": "https://elpais.com/espana/2026-10-29/el-rey-pide-que-se-determine-como-y-por-que-ha-sucedido-la-catastrofe-de-urda-y-medidas-para-que-no-vuelva-a-suceder.html",
+       "titular": "Los expertos señalan problemas en el sistema que van más allá del error cometido por el operario que daba instrucciones desde Atocha",
+       "url": "https://elpais.com/espana/2026-10-30/preguntas-y-respuestas-sobre-el-accidente-de-urda-lo-que-explican-y-lo-que-no-los-audios-entre-los-maquinistas-y-el-centro-de-control.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Centro de Control de Atocha, un centenar de operarios entre la presión del tráfico y un ‘software’ de vanguardia",
+       "url": "https://elpais.com/espana/2026-10-30/centro-de-control-de-atocha-un-centenar-de-operarios-entre-la-presion-del-trafico-y-un-software-de-vanguardia.html",
        "seccion": "España"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Destaca la petición de afrontar la tragedia con dignidad y rigor.",
+     "enfoque": "Recoge la defensa del factor humano y la crítica del ingeniero que puso en marcha el LZB a que se culpe a un trabajador.",
      "noticias": [
       {
-       "titular": "El Rey pide afrontar con \"dignidad y rigor\" la tragedia de Urda y afirma que \"tendrán que adoptarse medidas para que esto no vuelva a suceder\"",
-       "url": "https://www.elmundo.es/espana/2026/10/29/6ae30ca121efa00f4b8b45a7.html",
-       "seccion": "Felipe VI"
+       "titular": "En el corazón del 'factor humano' en crisis por Urda: \"En un sistema degradado, somos la última protección\"",
+       "url": "https://www.elmundo.es/economia/2026/10/29/6ae3bb3ae4d4d8185e8b45a1.html",
+       "seccion": "NLPremium"
+      },
+      {
+       "titular": "Antonio Martín Carrillo, el ingeniero que puso en marcha el LZB en 1992: \"Es una vergüenza que se culpe a un trabajador, falló el sistema\"",
+       "url": "https://www.elmundo.es/espana/2026/10/29/6ae38ce2fdddff0b658b4573.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "El trabajador de Adif señalado por Puente al ordenar al AVE reanudar la marcha se niega a declarar ante la Guardia Civil",
+       "url": "https://www.elmundo.es/economia/2026/10/30/6ae46aeb21efa0d3758b458b.html",
+       "seccion": "España"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Subraya el mensaje de cariño a heridos y familiares y de unidad entre los españoles.",
+     "enfoque": "Ofrece el cese de técnicos en Adif y el cambio de cúpula por orden del ministerio.",
      "noticias": [
       {
-       "titular": "El Rey pide que se investigue y medidas «para que no vuelva a suceder»",
-       "url": "https://www.abc.es/espana/casa-real/reyes-llegan-toledo-aplausos-apoyar-heridos-familiares-20261029154336-nt.html",
+       "titular": "Puente echó a técnicos y llenó la cúpula de Adif de políticos",
+       "url": "https://www.abc.es/espana/xxxxxxxxxxxxx-20261030214038-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Destaca la llamada a afrontar el dolor unidos y con dignidad.",
+     "enfoque": "Describe la falta de personal y experiencia en los centros de control y la negativa del trabajador a declarar.",
      "noticias": [
       {
-       "titular": "El Rey pide investigar “cómo y por qué” ocurrió la tragedia ferroviaria para evitar que se repita",
-       "url": "https://www.lavanguardia.com/vida/20261029/11671307/rey-pide-investigar-como-ocurrio-tragedia-ferroviaria-evitar-repita.html",
+       "titular": "Falta de personal, de experiencia y bajo más presión: así se trabaja en los centros de control de Adif",
+       "url": "https://www.lavanguardia.com/vida/20261030/11671578/centros-control-adif-sufren-falta-personal-experiencia.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "El trabajador de Adif que ordenó al AVE reanudar se niega a declarar ante la Guardia Civil",
+       "url": "https://www.lavanguardia.com/vida/20261030/11671971/trabajador-adif-ordeno-ave-reanudar-niega-declarar-guardia-civil.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "¿Quién controla la circulación de los trenes en España? Los requisitos, sueldo y la formación exigidos por Adif",
+       "url": "https://www.lavanguardia.com/vida/20261029/11671129/que-requisitos-piden-controladores-ferroviarios.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Confianza en el tren y la alta velocidad",
+   "resumen": "Sánchez afirma que la confianza en la alta velocidad está quebrada y promete reforzar la seguridad. Una encuesta previa al accidente ya recogía desconfianza hacia el tren.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Cita los datos de encuesta sobre desconfianza y las previsiones de deterioro de los indicadores.",
+     "noticias": [
+      {
+       "titular": "Sánchez: “Hay una confianza quebrada en el sistema de alta velocidad”",
+       "url": "https://elpais.com/espana/2026-10-30/sanchez-hay-una-confianza-quebrada-en-el-sistema-de-alta-velocidad.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "La tragedia golpea la maltrecha reputación del sistema ferroviario, ya castigada por Adamuz",
+       "url": "https://elpais.com/espana/2026-10-30/la-tragedia-golpea-la-maltrecha-reputacion-del-sistema-ferroviario-ya-castigada-por-adamuz.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge que el Ministerio certificó 21 días antes niveles aceptables de riesgo y que la AESF rechazó paralizar el tráfico.",
+     "noticias": [
+      {
+       "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+       "seccion": "Accidente tren Toledo"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Lleva al debate el modelo de alta velocidad y compara con los sistemas de Francia, Alemania e Italia.",
+     "noticias": [
+      {
+       "titular": "El AVE no puede seguir así",
+       "url": "https://www.lavanguardia.com/opinion/20261030/11671592/ave-seguir-asi.html",
+       "seccion": "Opinión"
+      },
+      {
+       "titular": "¿Qué sucede en los trenes de Francia, Alemania o Italia cuando la tecnología en las vías falla?",
+       "url": "https://www.lavanguardia.com/vida/20261030/11671667/que-sucede-trenes-francia-alemania-italia-tecnologia-vias-falla.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Un sistema al límite: cara y cruz de la alta velocidad",
+       "url": "https://www.lavanguardia.com/vida/20261030/11671325/sistema-limite-cara-cruz-alta-velocidad.html",
        "seccion": "Sociedad"
       }
      ]
@@ -314,196 +384,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza el relato humano del accidente, con testimonios de pasajeros y maquinistas, y las dudas sobre el sistema de señalización. Da también espacio a la reacción política de Sánchez y Feijóo.",
+   "resumen": "Prioriza el análisis de los audios del control de Atocha y las condiciones laborales del centro, además de la reacción política. Dedica espacio a las familias y a la identificación de víctimas.",
    "noticias": [
     {
-     "titular": "El primer informe técnico del accidente estima que el AVE que chocó en Urda circulaba de 160 a 200 kilómetros por hora",
-     "url": "https://elpais.com/espana/2026-10-29/el-primer-informe-tecnico-del-accidente-fija-en-160-a-200-kilometros-por-hora-la-velocidad-del-ave-que-choco-en-urda.html",
+     "titular": "Los controladores de Atocha ordenaron seguir el protocolo equivocado antes del choque entre el AVE y el Iryo: “Me estaba liando”",
+     "url": "https://elpais.com/espana/2026-10-30/los-controladores-de-atocha-ordenaron-seguir-el-protocolo-equivocado-antes-del-choque-entre-el-ave-y-el-iryo-me-estaba-liando.html",
      "seccion": "España",
-     "resumen": "El primer informe técnico sitúa la velocidad del AVE entre 160 y 200 km/h, pendiente de los datos de las cajas negras."
+     "resumen": "Los controladores habrían aplicado el protocolo equivocado antes del choque, según los audios difundidos."
     },
     {
-     "titular": "El consejero delegado de Iryo advirtió de los problemas del sistema LZB en sus trenes tres semanas antes del accidente de Urda",
-     "url": "https://elpais.com/economia/2026-10-29/el-consejero-delegado-de-iryo-advirtio-de-los-problemas-del-sistema-lzb-en-sus-trenes-tres-semanas-antes-del-accidente-de-urda.html",
-     "seccion": "Economía",
-     "resumen": "El consejero delegado de Iryo avisó en el Senado de fallos del LZB en la línea Madrid-Sevilla tres semanas antes del choque."
-    },
-    {
-     "titular": "La maquinista del Iryo de Urda intentó desbloquear su tren dos veces sin éxito y buscó asistencia de su empresa antes de la colisión",
-     "url": "https://elpais.com/espana/2026-10-29/la-maquinista-del-iryo-de-urda-intento-desbloquear-su-tren-en-dos-ocasiones-sin-exito-y-busco-el-consejo-de-su-empresa-antes-de-la-colision.html",
+     "titular": "Accidente de trenes en Toledo: última hora en directo | Óscar Puente descarta dimitir: “Mi forma de ser responsable es dar la cara”",
+     "url": "https://elpais.com/espana/2026-10-30/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
      "seccion": "España",
-     "resumen": "La maquinista del Iryo intentó desbloquear el tren dos veces y contactó con Adif y con su empresa antes de la colisión."
+     "resumen": "Puente descarta dimitir y el Gobierno estudia parar la línea Madrid-Barcelona durante obras de remodelación."
     },
     {
-     "titular": "Muere la exministra Fátima Báñez, que viajaba en uno de los trenes siniestrados en Urda",
-     "url": "https://elpais.com/economia/2026-10-29/muere-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-siniestrados.html",
-     "seccion": "Economía",
-     "resumen": "Muere la exministra Fátima Báñez, que viajaba en uno de los trenes y estuvo vinculada a la CEOE."
-    },
-    {
-     "titular": "Feijóo apunta a las “responsabilidades políticas” de Puente por el segundo accidente mortal de la alta velocidad en nueve meses",
-     "url": "https://elpais.com/espana/2026-10-29/feijoo-apunta-a-las-responsabilidades-politicas-de-puente-por-el-segundo-accidente-mortal-de-la-alta-velocidad-en-nueve-meses.html",
+     "titular": "Sánchez: “Hay una confianza quebrada en el sistema de alta velocidad”",
+     "url": "https://elpais.com/espana/2026-10-30/sanchez-hay-una-confianza-quebrada-en-el-sistema-de-alta-velocidad.html",
      "seccion": "España",
-     "resumen": "Feijóo apunta a responsabilidades políticas de Puente sin pedir explícitamente su dimisión."
+     "resumen": "Sánchez habla de confianza quebrada en la alta velocidad; Adamuz y Urda suman 115 muertos en el corredor."
     },
     {
-     "titular": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
-     "url": "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html",
+     "titular": "Page avisa de que hay muchos restos sin identificar y no descarta que aumente la cifra de muertos en el accidente de trenes",
+     "url": "https://elpais.com/espana/2026-10-30/page-avisa-de-que-hay-muchos-restos-sin-identificar-y-no-descarta-que-aumente-la-cifra-de-fallecidos.html",
      "seccion": "España",
-     "resumen": "Sánchez promete reforzar la seguridad ferroviaria; Puente comparecerá el 3 de noviembre a petición propia."
+     "resumen": "Page no descarta que aumente el número de muertos y hay muchos restos sin identificar."
     },
     {
-     "titular": "El Rey pide que se determine “cómo y por qué” ha sucedido la catástrofe de Urda y medidas para que “no vuelva a suceder”",
-     "url": "https://elpais.com/espana/2026-10-29/el-rey-pide-que-se-determine-como-y-por-que-ha-sucedido-la-catastrofe-de-urda-y-medidas-para-que-no-vuelva-a-suceder.html",
+     "titular": "70 familiares esperan la peor noticia dentro de la casa parroquial de Toledo: “Las horas que pasan nos matan. Nadie nos dice nada”",
+     "url": "https://elpais.com/espana/2026-10-30/70-familiares-esperan-la-peor-noticia-dentro-de-la-casa-parroquial-de-toledo-las-horas-que-pasan-nos-matan-nadie-nos-dice-nada.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "Unos 70 familiares esperan en una casa parroquial de Toledo los resultados de las pruebas de ADN."
+    },
+    {
+     "titular": "El PP respetará el luto, pero después apuntará a Sánchez: “Con la dimisión de Puente no basta”",
+     "url": "https://elpais.com/espana/2026-10-30/el-pp-respetara-el-luto-pero-despues-apuntara-a-sanchez-con-la-dimision-de-puente-no-basta.html",
      "seccion": "España",
-     "resumen": "El Rey pide determinar cómo y por qué ocurrió la catástrofe, que ya deja al menos 69 muertos."
+     "resumen": "El PP pide la dimisión de Puente tras la muerte de la exministra Fátima Báñez en el accidente."
+    },
+    {
+     "titular": "Centro de Control de Atocha, un centenar de operarios entre la presión del tráfico y un ‘software’ de vanguardia",
+     "url": "https://elpais.com/espana/2026-10-30/centro-de-control-de-atocha-un-centenar-de-operarios-entre-la-presion-del-trafico-y-un-software-de-vanguardia.html",
+     "seccion": "España",
+     "resumen": "Sindicatos critican las duras condiciones en el centro de control de Atocha, que sufre alta rotación."
+    },
+    {
+     "titular": "La tragedia golpea la maltrecha reputación del sistema ferroviario, ya castigada por Adamuz",
+     "url": "https://elpais.com/espana/2026-10-30/la-tragedia-golpea-la-maltrecha-reputacion-del-sistema-ferroviario-ya-castigada-por-adamuz.html",
+     "seccion": "España",
+     "resumen": "Antes del accidente, un 58% de encuestados tenía poca o nula confianza en el tren."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en los sistemas de seguridad, las responsabilidades del ministro y los datos de incidencias previas en el tramo. Incluye también información práctica para familiares.",
+   "resumen": "Pone el foco en los fallos del sistema de seguridad y en la responsabilidad política, con varios textos de opinión a favor de que Puente siga. Incluye también crónicas sobre víctimas y familias.",
    "noticias": [
     {
-     "titular": "Los investigadores de Urda copian los audios de conversaciones entre maquinistas y operadores para esclarecer las circunstancias de la tragedia ferroviaria",
-     "url": "https://www.elmundo.es/economia/2026/10/29/6ae39fb6e9cf4afc318b45ab.html",
-     "seccion": "",
-     "resumen": "Los investigadores copian los audios entre maquinistas y operadores, mientras las cajas negras quedan en custodia de la Guardia Civil."
-    },
-    {
-     "titular": "El CEO de Iryo alertó 23 días antes del accidente de que los fallos del LZB dejaban sus trenes inmovilizados",
-     "url": "https://www.elmundo.es/economia/2026/10/29/6ae32535e4d4d8256c8b45bf.html",
-     "seccion": "Accidente tren Toledo",
-     "resumen": "El CEO de Iryo alertó 23 días antes de que los fallos del LZB dejaban los trenes inmovilizados."
+     "titular": "Adif consintió prorrogar el viejo sistema LZB por un ahorro de 37 millones de euros",
+     "url": "https://www.elmundo.es/economia/2026/10/29/6ae3b9b721efa0a84e8b45da.html",
+     "seccion": "NLPremium",
+     "resumen": "Adif prorrogó el sistema LZB antiguo para ahorrar 37 millones tras contratar en 2021 una migración a ERTMS con descuento."
     },
     {
      "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
      "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
      "seccion": "Accidente tren Toledo",
-     "resumen": "El Ministerio certificó la red en niveles aceptables de riesgo y la Agencia rechazó paralizar el tráfico tras la petición de víctimas de Adamuz."
+     "resumen": "Transportes certificó 21 días antes niveles aceptables de riesgo; la AESF rechazó parar el tráfico en octubre."
     },
     {
-     "titular": "El tramo de Urda ha sufrido al menos 10 incidencias en el último año, pero no estaba considerado como uno de los puntos negros del sistema ferroviario",
-     "url": "https://www.elmundo.es/economia/2026/10/29/6ae382ece85ece3d5e8b459a.html",
-     "seccion": "Artículos Guillermo del Palacio",
-     "resumen": "El tramo de Urda acumula al menos diez incidencias en un año, sin estar catalogado como punto negro."
-    },
-    {
-     "titular": "Los desaparecidos del accidente de trenes en Urda: un presentador de televisión, una empleada de Metrovacesa, un director de colegio, el maquinista...",
-     "url": "https://www.elmundo.es/espana/2026/10/29/6ae31579e9cf4a33758b45a1.html",
-     "seccion": "Artículos Olga R. Sanmartín",
-     "resumen": "La Guardia Civil recibe 64 denuncias de personas que viajaban en los trenes y aún no han sido localizadas."
-    },
-    {
-     "titular": "Óscar Puente descarta una dimisión inmediata y comparecerá el próximo martes en la Diputación Permanente para explicar las causas del accidente de Urda presionado por sus socios",
-     "url": "https://www.elmundo.es/espana/2026/10/29/6ae36d49e9cf4a23398b4583.html",
+     "titular": "¿Dependía todo de un solo operador? Las cinco capas de seguridad que no evitaron la tragedia de Urda",
+     "url": "https://www.elmundo.es/economia/2026/10/29/6ae34bfde9cf4a71178b45ac.html",
      "seccion": "Accidente tren Toledo",
-     "resumen": "Puente descarta dimitir y comparecerá el martes; el PP considera insuficiente su comparecencia."
+     "resumen": "Las cinco capas de seguridad no evitaron el choque tras la caída del LZB, que detuvo a seis trenes."
     },
     {
-     "titular": "El aviso de Manuel Galán, alcalde de Urda y anfitrión a su pesar de la tragedia: \"Esto no puede volver a pasar\"",
-     "url": "https://www.elmundo.es/economia/2026/10/29/6ae3825421efa0471e8b4577.html",
-     "seccion": "Artículos Daniela Saltos",
-     "resumen": "El alcalde de Urda pide centrar los esfuerzos en las víctimas antes de abrir el debate político."
+     "titular": "El trabajador de Adif señalado por Puente al ordenar al AVE reanudar la marcha se niega a declarar ante la Guardia Civil",
+     "url": "https://www.elmundo.es/economia/2026/10/30/6ae46aeb21efa0d3758b458b.html",
+     "seccion": "España",
+     "resumen": "El trabajador de Adif señalado por Puente se niega a declarar ante la Guardia Civil."
+    },
+    {
+     "titular": "Antonio Martín Carrillo, el ingeniero que puso en marcha el LZB en 1992: \"Es una vergüenza que se culpe a un trabajador, falló el sistema\"",
+     "url": "https://www.elmundo.es/espana/2026/10/29/6ae38ce2fdddff0b658b4573.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Antonio Martín Carrillo, creador del LZB, critica que se culpe al operario y no al sistema."
+    },
+    {
+     "titular": "\"Es insoportable lo que están haciendo con nosotros\": la desesperación de las familias de los 70 desaparecidos",
+     "url": "https://www.elmundo.es/espana/2026/10/29/6ae38a75fc6c83e3358b458f.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Las familias de los 70 desaparecidos denuncian la incertidumbre y recorren hospitales."
+    },
+    {
+     "titular": "Binance, la mayor plataforma de criptomonedas del mundo, sufre un robo de 6.300 millones de dólares",
+     "url": "https://www.elmundo.es/economia/2026/10/30/6ae43e2221efa0123f8b4573.html",
+     "seccion": "criptomonedas",
+     "resumen": "Binance sufre un robo de 6.300 millones de dólares tras un posible hackeo a un ingeniero de la compañía."
+    },
+    {
+     "titular": "El 'efecto María Corina' y Rubio empujan a Delcy a la Transición: \"Habrá elecciones en Venezuela\"",
+     "url": "https://www.elmundo.es/internacional/2026/10/30/6ae3a63921efa0982f8b45ba.html",
+     "seccion": "Delcy Rodríguez",
+     "resumen": "Delcy Rodríguez acepta convocar elecciones en Venezuela, aunque sin fecha fijada."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Combina la cobertura del accidente con una fuerte carga de crítica a la gestión del Ministerio de Transportes. Mantiene también secciones de servicio y ocio sin relación con la tragedia.",
+   "resumen": "Combina la tragedia de Urda con temas de economía y política nacional, como la inflación y la vivienda. Incluye también noticias de cultura y servicios.",
    "noticias": [
     {
-     "titular": "El primer informe apunta a una «cadena de averías e instrucciones» que no pudieron frenar la violenta colisión",
-     "url": "https://www.abc.es/espana/primer-informe-urda-apunta-cadena-averias-instrucciones-20261029215855-nt.html",
+     "titular": "Puente se niega a dimitir y reconoce que hubo un fallo técnico",
+     "url": "https://www.abc.es/espana/accidente-tren-toledo-directo-comparecencia-oscar-puente-20261030104605-di.html",
      "seccion": "",
-     "resumen": "La AITAT sitúa el alcance entre AVE e Iryo entre 160 y 200 km/h en una primera nota oficial."
+     "resumen": "Puente se niega a dimitir y reconoce un fallo técnico; el balance es de al menos 69 muertos y más de 100 heridos."
     },
     {
-     "titular": "Puente echó a técnicos y llenó la cúpula de Adif de militantes socialistas",
+     "titular": "Puente echó a técnicos y llenó la cúpula de Adif de políticos",
      "url": "https://www.abc.es/espana/xxxxxxxxxxxxx-20261030214038-nt.html",
      "seccion": "",
-     "resumen": "Recoge una relación de doce cargos de Adif y del sector nombrados o ascendidos por Puente desde 2023."
+     "resumen": "Puente ha nombrado o ascendido a doce responsables de Adif desde 2023, según ABC."
     },
     {
-     "titular": "Óscar Puente comparecerá el martes ante la Diputación Permanente del Congreso",
-     "url": "https://www.abc.es/espana/puente-comparecera-ante-diputacion-permanente-explicar-gestion-20261029163653-nt.html",
+     "titular": "Ayuso exige el «total esclarecimiento» de la catástrofe ferroviaria y la «inmediata asunción de responsabilidades»",
+     "url": "https://www.abc.es/espana/madrid/ayuso-exige-total-esclarecimiento-catastrofe-ferroviaria-inmediata-20261030113152-nt.html",
      "seccion": "",
-     "resumen": "Puente comparecerá el martes ante la Diputación Permanente a petición propia para informar del accidente."
+     "resumen": "El Gobierno de Ayuso exige esclarecimiento total y asunción inmediata de responsabilidades por el accidente."
     },
     {
-     "titular": "Abascal, sobre Pedro Sánchez y Óscar Puente: «Ellos son el error humano»",
-     "url": "https://www.abc.es/espana/castilla-leon/abascal-sobre-pedro-sanchez-oscar-puente-error-20261029205805-nt.html",
+     "titular": "La inflación se mantiene en el 4,9% en octubre pese al abaratamiento de la gasolina",
+     "url": "https://www.abc.es/economia/inflacion-20261030085501-nt.html",
      "seccion": "",
-     "resumen": "Abascal atribuye el error humano a Sánchez y Puente y critica al ministro tras el accidente."
+     "resumen": "La inflación se mantiene en el 4,9% en octubre pese a la bajada de la gasolina, según el dato adelantado del INE."
     },
     {
-     "titular": "Fátima Báñez, sabia y leal consejera",
-     "url": "https://www.abc.es/economia/antonio-garamendi-fatima-banez-sabia-leal-consejera-20261029175228-nt.html",
+     "titular": "Almeida prepara con la Delegación del Gobierno un dispositivo para evitar posibles actos violentos en Madrid",
+     "url": "https://www.abc.es/espana/madrid/almeida-prepara-delegacion-gobierno-dispositivo-evitar-posibles-20261030113858-nt.html",
      "seccion": "",
-     "resumen": "La CEOE lamenta la muerte de su presidenta, Fátima Báñez, y expresa apoyo a las familias de las víctimas."
+     "resumen": "El Ayuntamiento de Madrid prepara con la Delegación del Gobierno un dispositivo ante posibles actos violentos."
     },
     {
-     "titular": "El Rey pide que se investigue y medidas «para que no vuelva a suceder»",
-     "url": "https://www.abc.es/espana/casa-real/reyes-llegan-toledo-aplausos-apoyar-heridos-familiares-20261029154336-nt.html",
+     "titular": "Ayuso denuncia por la vía penal al exdelegado de Sánchez por la acampada de Sol",
+     "url": "https://www.abc.es/espana/madrid/ayuso-denuncia-via-penal-exdelegado-sanchez-acampada-20261030120226-nt.html",
      "seccion": "",
-     "resumen": "El Rey pide que se investigue y se tomen medidas para que el accidente no vuelva a repetirse."
+     "resumen": "Ayuso denuncia por vía penal al exdelegado del Gobierno por la acampada de Sol."
     },
     {
-     "titular": "Muere el actor de 'X-Men' y 'Star Trek' Patrick Stewart a los 86 años",
-     "url": "https://www.abc.es/play/cine/noticias/muere-actor-xmen-star-trek-patrick-stewart-20261029210037-nt.html",
+     "titular": "El exviceministro chavista nacionalizado por la 'ley de nietos' se niega a declarar ante el juez del caso 'cloacas'",
+     "url": "https://www.abc.es/espana/exviceministro-chavista-nacionalizado-ley-nietos-niega-declarar-20261030114021-nt.html",
      "seccion": "",
-     "resumen": "Muere a los 86 años el actor Patrick Stewart, conocido por Star Trek y X-Men."
+     "resumen": "Nervis Villalobos se niega a declarar ante la Audiencia Nacional en la causa de las presuntas cloacas del PSOE."
+    },
+    {
+     "titular": "Los contactos islamistas de la izquierda radical de Berlín minan la negociación de coalición con los socialdemócratas",
+     "url": "https://www.abc.es/internacional/contactos-islamistas-izquierda-radical-berlin-minan-negociacion-20261030115811-nt.html",
+     "seccion": "",
+     "resumen": "Franziska Giffey se distancia de la negociación de coalición en Berlín con Die Linke por contactos islamistas."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Prioriza la cronología de errores, la verificación de contenidos y la atención a familias y supervivientes. Presta atención también a la dimensión política tras la filtración de audios.",
+   "resumen": "Dedica casi toda su portada a la tragedia, con foco en el funcionamiento de los centros de control y la cronología. Incluye también análisis sobre el modelo de alta velocidad.",
    "noticias": [
     {
-     "titular": "La filtración de los audios del choque de Urda pone fin a la tregua política",
-     "url": "https://www.lavanguardia.com/politica/20261029/11671476/filtracion-audios-choque-urda-pone-tregua-politica.html",
+     "titular": "Cronología de una tragedia plagada de errores",
+     "url": "https://www.lavanguardia.com/vida/20261029/11671139/cronologia-tragedia-plagada-errores.html",
+     "seccion": "Sociedad",
+     "resumen": "Cronología de los errores que llevaron a la tragedia de Urda."
+    },
+    {
+     "titular": "Las incógnitas se centran en los 17 minutos en los que control no vio que el AVE iba directo al choque",
+     "url": "https://www.lavanguardia.com/vida/20261030/11671579/ceo-iryo-alerto-semanas-fallos-inmovilizaban-trenes.html",
+     "seccion": "Sociedad",
+     "resumen": "Las incógnitas se concentran en 17 minutos en los que el control no detectó la trayectoria del AVE; el CEO de Iryo había alertado de fallos."
+    },
+    {
+     "titular": "Falta de personal, de experiencia y bajo más presión: así se trabaja en los centros de control de Adif",
+     "url": "https://www.lavanguardia.com/vida/20261030/11671578/centros-control-adif-sufren-falta-personal-experiencia.html",
+     "seccion": "Sociedad",
+     "resumen": "Los centros de control de Adif trabajan con falta de personal y experiencia, en pleno relevo generacional."
+    },
+    {
+     "titular": "Sánchez admite que la confianza en el AVE está “quebrada” y promete que reforzará la seguridad",
+     "url": "https://www.lavanguardia.com/politica/20261030/11671967/sanchez-admite-confianza-ave-esta-quebrada-promete-reforzara-seguridad.html",
      "seccion": "Política",
-     "resumen": "La filtración de los audios del choque rompe la tregua política; socios y oposición acusan al Gobierno de desviar la atención."
+     "resumen": "Sánchez admite que la confianza en el AVE está quebrada y promete reforzar la seguridad."
     },
     {
-     "titular": "La cadena de errores que ha provocado el accidente de trenes de Toledo",
-     "url": "https://www.lavanguardia.com/vida/20261029/11671366/cadena-errores-provocado-accidente-trenes-toledo.html",
+     "titular": "Page: “Hay 70 denuncias sobre desaparecidos y 31 bolsas con restos parciales”",
+     "url": "https://www.lavanguardia.com/vida/20261030/11671806/choque-de-trenes-accidente-toledo-iryo-toledo-ave-ultima-hora-hoy-en-directo.html",
      "seccion": "Sociedad",
-     "resumen": "Recopila la cadena de errores que llevó al accidente de Toledo, con una cronología detallada."
+     "resumen": "Page cifra en 70 las denuncias por desaparecidos y en 31 las bolsas con restos parciales."
     },
     {
-     "titular": "El centro de control, tras la llamada del Iryo: “¡De verdad, tronco...! El 6076 tiene problemas”",
-     "url": "https://www.lavanguardia.com/vida/20261028/11670605/verdad-tronco-verdad-6076-esta-teniendo-problemas.html",
+     "titular": "Fátima Báñez será enterrada este viernes en su pueblo natal en Huelva",
+     "url": "https://www.lavanguardia.com/vida/20261030/11671891/fatima-banez-sera-enterrada-viernes-pueblo-natal-huelva.html",
      "seccion": "Sociedad",
-     "resumen": "El centro de control dio instrucciones para reanudar la marcha, que la conductora del Iryo no pudo ejecutar."
+     "resumen": "Fátima Báñez será enterrada este viernes en San Juan del Puerto, su pueblo natal en Huelva."
     },
     {
-     "titular": "Hasta nueve fallos de señalización en el tramo del choque de trenes de Urda desde 2024",
-     "url": "https://www.lavanguardia.com/vida/20261029/11670977/fallos-senalizacion-tramo-choque-trenes-urda.html",
+     "titular": "Una jueza recién salida de la Escuela Judicial investiga ya las muertes",
+     "url": "https://www.lavanguardia.com/vida/20261030/11671526/jueza-recien-salida-escuela-judicial-investiga-muertes.html",
      "seccion": "Sociedad",
-     "resumen": "Adif informó de hasta nueve fallos de señalización en el tramo desde 2024, algunos por robo de cable."
+     "resumen": "Una jueza investiga las muertes y la Fiscalía pide diligencias; ya hay dos querellas."
     },
     {
-     "titular": "Los cuerpos de seguridad alertan de SMS falsos a las familias para la identificación de las víctimas",
-     "url": "https://www.lavanguardia.com/vida/20261029/11671059/cuerpos-seguridad-alertan-sms-falsos-familias-identificacion-victimas.html",
-     "seccion": "Sociedad",
-     "resumen": "Las fuerzas de seguridad alertan de SMS falsos a familias y recuerdan que la identificación es presencial."
-    },
-    {
-     "titular": "Muere la exministra del PP Fátima Báñez en el choque de trenes",
-     "url": "https://www.lavanguardia.com/vida/20261029/11671184/confirmada-muerte-exministra-pp-fatima-banez-choque-trenes-toledo.html",
-     "seccion": "Sociedad",
-     "resumen": "Muere la exministra del PP Fátima Báñez, que viajaba en el último vagón del Iryo rumbo a un acto empresarial en Sevilla."
-    },
-    {
-     "titular": "Circulan en redes imágenes y vídeos del accidente de tren en Toledo generados con IA que contienen errores e inexactitudes",
-     "url": "https://www.lavanguardia.com/vida/verificacion/20261029/11671252/circulan-redes-imagenes-videos-accidente-tren-toledo-generados-ia-contienen-errores-e-inexactitudes.html",
-     "seccion": "Verificación",
-     "resumen": "Circulan en redes imágenes y vídeos generados con IA sobre el accidente que contienen errores."
+     "titular": "El AVE no puede seguir así",
+     "url": "https://www.lavanguardia.com/opinion/20261030/11671592/ave-seguir-asi.html",
+     "seccion": "Opinión",
+     "resumen": "Un artículo de opinión pide una reflexión global sobre el modelo de alta velocidad."
     }
    ]
   }
