@@ -1,0 +1,505 @@
+{
+ "fecha": "2026-10-31",
+ "franja": "mañana",
+ "generada": "2026-10-31T12:18+01:00",
+ "con_ia": true,
+ "resumen_dia": "El accidente ferroviario de Urda (Toledo), con 69 fallecidos, domina las portadas de los cuatro diarios: la identificación de víctimas, las fallas en el sistema de señalización LZB y el control de Adif. La comparecencia del ministro Óscar Puente y la presión del PP por su dimisión centran la atención política. También ocupan espacio la crisis institucional en Polonia y las movilizaciones del movimiento Blocus en varias ciudades españolas.",
+ "temas_comunes": [
+  {
+   "titulo": "Investigación de las fallas del sistema LZB y Adif",
+   "resumen": "Varios sistemas de señalización y seguridad habrían fallado antes del choque entre un Iryo y un AVE en Urda. Operadores y sindicatos piden medidas urgentes y revisar la norma de circulación con el LZB caído.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya que el LZB ha dejado de funcionar en al menos 170 ocasiones este año y pone el foco en el sistema más que en el error humano.",
+     "noticias": [
+      {
+       "titular": "Una caída cada dos días: la penuria del sistema de seguridad que dejó de funcionar antes del accidente de Urda",
+       "url": "https://elpais.com/espana/2026-10-31/radiografia-del-sistema-de-seguridad-que-dejo-de-funcionar-antes-del-accidente-de-urda-casi-una-caida-cada-dos-dias.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "De las tecnológicas del LZB a las operadoras de trenes: cuáles son las empresas presentes en el accidente de Urda",
+       "url": "https://elpais.com/economia/2026-10-31/de-las-tecnologicas-del-lzb-a-las-operadoras-de-trenes-cuales-son-las-empresas-presentes-en-el-accidente-de-urda.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "¿Fallo humano? De verdad, tronco, de verdad",
+       "url": "https://elpais.com/ideas/2026-10-31/fallo-humano-de-verdad-tronco-de-verdad.html",
+       "seccion": "Opinión"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Explica con gráficos el sistema de señalización del tramo Madrid-Sevilla y recoge la petición de operadores de bajar la velocidad.",
+     "noticias": [
+      {
+       "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+       "seccion": "Artículos Emilio Amade"
+      },
+      {
+       "titular": "Operadores y maquinistas no se fían de Adif y piden bajar la velocidad de circulación",
+       "url": "https://www.elmundo.es/economia/2026/10/30/6ae4f2fbfdddff677b8b457b.html",
+       "seccion": "NLPremium"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge un parte interno de Adif que sitúa cuatro sistemas fallando justo antes del siniestro.",
+     "noticias": [
+      {
+       "titular": "El parte del accidente de Adif revela que hasta cuatro sistemas fallaron justo antes del siniestro",
+       "url": "https://www.abc.es/espana/parte-adif-revela-apagon-lzb-urda-coincidio-20261030013245-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca la exigencia del sindicato Semaf de prohibir la marcha normal con el LZB caído y la falta de personal en los centros de control.",
+     "noticias": [
+      {
+       "titular": "Los maquinistas exigen prohibir con carácter “urgente” que pueda reanudarse la marcha normal con el sistema LZB caído",
+       "url": "https://www.lavanguardia.com/vida/20261031/11672753/maquinistas-exigen-prohibir-marcha-normal-lzb.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Los centros de control de Adif sufren la falta de personal y de experiencia",
+       "url": "https://www.lavanguardia.com/vida/20261030/11671578/centros-control-adif-sufren-falta-personal-experiencia.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Diego Martín: “Los maquinistas nos hemos acostumbrado a trabajar en condiciones degradadas”",
+       "url": "https://www.lavanguardia.com/vida/20261031/11672397/diego-martin-maquinistas-hemos-acostumbrado-trabajar-condiciones-degradadas.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Dimisión y comparecencia de Óscar Puente",
+   "resumen": "El PP exige la dimisión del ministro de Transportes, que comparece de nuevo en el Congreso y no dimite. Sánchez respalda a su ministro.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la opinión de columnistas que cuestionan la continuidad del Gobierno tras la tragedia.",
+     "noticias": [
+      {
+       "titular": "El Gobierno cae por su propio peso",
+       "url": "https://elpais.com/opinion/2026-10-31/el-gobierno-cae-por-su-propio-peso.html",
+       "seccion": "Opinión"
+      },
+      {
+       "titular": "Los muertos y el ‘show’",
+       "url": "https://elpais.com/opinion/2026-10-31/los-muertos-y-el-show.html",
+       "seccion": "Opinión"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca el respaldo de Sánchez a Puente y recoge sus frases más polémicas en la comparecencia.",
+     "noticias": [
+      {
+       "titular": "Sánchez aplica con Puente el \"escudo protector\" de la 'doctrina Marlaska' para evitar que lo arrastre la crisis",
+       "url": "https://www.elmundo.es/espana/2026/10/30/6ae4f23be85ecea06a8b45b2.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "Los 10 excesos de Puente que condenarían a cualquier ministro y la razón que le salva tras su comparecencia más difícil",
+       "url": "https://www.elmundo.es/espana/2026/10/31/6ae4e80cfc6c83fb4d8b4585.html",
+       "seccion": "Artículos Juan B. Cañellas"
+      },
+      {
+       "titular": "Puente mantiene a una cúpula repleta de afines y ex cargos del PSOE al frente de la gestión de la peor crisis de la historia de Adif",
+       "url": "https://www.elmundo.es/economia/2026/10/30/6ae46ad1e4d4d8134b8b4581.html",
+       "seccion": "NLPremium"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enmarca la decisión en el 'calvario' que asume el ministro y en la confianza quebrada en la seguridad ferroviaria.",
+     "noticias": [
+      {
+       "titular": "Sánchez frena la dimisión de Puente que exige ya el PP",
+       "url": "https://www.lavanguardia.com/politica/20261031/11672405/puente-admite-puso-cargo-disposicion-sanchez-considero-injusto-cesarle.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Puente dice que los operarios de Atocha podían ver la ubicación de los trenes en pantalla",
+       "url": "https://www.lavanguardia.com/vida/20261030/11672185/puente-dice-operarios-atocha-podian-ver-ubicacion-trenes-pantalla.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "La confianza quebrada",
+       "url": "https://www.lavanguardia.com/vida/20261031/11672473/confianza-quebrada.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Identificación de víctimas y atención a familias",
+   "resumen": "Hasta el momento se han identificado 36 de los 69 fallecidos, mientras las familias esperan noticias de los desaparecidos. Los vecinos de Urda se han volcado en la atención a los supervivientes.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Centra el relato en testimonios personales de familiares y en el papel de la Iglesia con los allegados.",
+     "noticias": [
+      {
+       "titular": "La carta de Sheila a su madre, víctima del accidente de tren: “No sé ser tú, mamá. No sé cómo se sostiene todo sin ti”",
+       "url": "https://elpais.com/espana/2026-10-30/la-carta-de-sheila-a-su-madre-victima-del-accidente-de-tren-no-se-ser-tu-mama-no-se-como-se-sostiene-todo-sin-ti.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "El arzobispo de Toledo sobre los desaparecidos del accidente de tren: “La esperanza no quita nada del dolor”",
+       "url": "https://elpais.com/espana/2026-10-31/el-arzobispo-de-toledo-sobre-los-desaparecidos-del-accidente-de-tren-la-esperanza-no-quita-nada-del-dolor.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Urda, el pueblo de casi 2.500 habitantes que se movilizó en cinco minutos tras el accidente de tren: “No hizo falta ni llamar”",
+       "url": "https://elpais.com/espana/2026-10-31/urda-el-pueblo-de-casi-2500-habitantes-que-se-movilizo-en-cinco-minutos-tras-el-accidente-de-tren-no-hizo-falta-ni-llamar.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Publica la identificación de nuevas víctimas y los teléfonos de atención a familiares.",
+     "noticias": [
+      {
+       "titular": "¿Cómo pueden informarse los familiares? Teléfonos de atención a víctimas y allegados y puntos de ayuda para los afectados por el accidente de tren de Urda (Toledo)",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "Las últimas víctimas del accidente identificadas: la compositora Marisa; el ingeniero David; el tripulante Nelson; Andrea, escaparatista de Mango...",
+       "url": "https://www.elmundo.es/espana/2026/10/31/6ae4fedffc6c836b7a8b4593.html",
+       "seccion": "Artículos Olga R. Sanmartín"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Presenta el perfil de algunas víctimas y el número de identificados por huella dactilar.",
+     "noticias": [
+      {
+       "titular": "Un inspector de Hacienda, una arquitecta, una atleta, un reportero... Las vidas que se perdieron en Urda",
+       "url": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Identificados los cadáveres de 36 de los 69 viajeros fallecidos en el accidente de Urda",
+       "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/identificados-cadaveres-viajeros-fallecidos-accidente-urda-20261031110715-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Alberto Arroyo, padre de dos niños y fallecido en Urda: «Ejemplo de amor»",
+       "url": "https://www.abc.es/espana/madrid/alberto-arroyo-vecino-villanueva-pardillo-padre-dos-20261030192500-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya la lentitud de las identificaciones: solo 27 notificaciones de muerte en 72 horas.",
+     "noticias": [
+      {
+       "titular": "Urda, un pueblo activado por Whatsapp ante la tragedia: “Todavía no puedo dormir”",
+       "url": "https://www.lavanguardia.com/vida/20261031/11672428/vecinos-llegaron-primeros-tragedia-todavia-dormir.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Agónica espera de las lentas identificaciones: solo 27 notificaciones de muertes en 72 horas",
+       "url": "https://www.lavanguardia.com/vida/20261031/11672480/agonica-espera-lentas-identificaciones-12-72-horas.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Movimiento Blocus y despliegue policial",
+   "resumen": "Tras los disturbios en Barcelona, las fuerzas de seguridad refuerzan la vigilancia en grandes ciudades ante nuevas convocatorias de saqueos en la noche de Halloween. Ocho jóvenes seguidores han sido detenidos en España.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el despliegue policial en las calles y las ocho detenciones de seguidores del movimiento.",
+     "noticias": [
+      {
+       "titular": "Las grandes ciudades y los comercios se blindan ante posibles disturbios por las movilizaciones espontáneas de Blocus",
+       "url": "https://elpais.com/espana/2026-10-30/las-grandes-ciudades-y-los-comercios-se-blindan-ante-posibles-disturbios-por-las-movilizaciones-espontaneas-de-blocus.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Se acerca al perfil del líder del movimiento y a su actividad desde un pueblo de Valencia.",
+     "noticias": [
+      {
+       "titular": "Una semana infiltrado con los Blocus, los violentos que lideraba el hispanopakistaní Alfayez desde un pueblo de Valencia",
+       "url": "https://www.elmundo.es/cronica/2026/10/30/6ae506b7e9cf4a72368b4585.html",
+       "seccion": "Barcelona"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Describe el blindaje de la zona comercial del centro de Madrid.",
+     "noticias": [
+      {
+       "titular": "Los antidisturbios blindan la zona comercial del centro de Madrid para disuadir los saqueos",
+       "url": "https://www.abc.es/espana/madrid/antidisturbios-blindan-zona-comercial-centro-madrid-disuadir-20261030012441-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge el dispositivo de los Mossos y la Guardia Urbana en Barcelona y las advertencias de Illa.",
+     "noticias": [
+      {
+       "titular": "Barcelona se prepara para evitar otra noche de vandalismo y pillaje",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261031/11672482/barcelona-prepara-evitar-noche-vandalismo-pillaje.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "Illa advierte de que los Mossos están “preparados” para actuar esta noche ante posibles saqueos",
+       "url": "https://www.lavanguardia.com/politica/20261031/11672742/illa-advierte-mossos-saqueos-barcelona.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza el análisis del fallo del sistema de seguridad ferroviaria y el impacto humano del accidente de Urda. Incluye también la crisis institucional en Polonia y varios textos de opinión sobre la tragedia y la campaña.",
+   "noticias": [
+    {
+     "titular": "Una caída cada dos días: la penuria del sistema de seguridad que dejó de funcionar antes del accidente de Urda",
+     "url": "https://elpais.com/espana/2026-10-31/radiografia-del-sistema-de-seguridad-que-dejo-de-funcionar-antes-del-accidente-de-urda-casi-una-caida-cada-dos-dias.html",
+     "seccion": "España",
+     "resumen": "El LZB, sistema que evita que dos trenes coincidan en un mismo punto, ha dejado de funcionar en al menos 170 ocasiones este año."
+    },
+    {
+     "titular": "De las tecnológicas del LZB a las operadoras de trenes: cuáles son las empresas presentes en el accidente de Urda",
+     "url": "https://elpais.com/economia/2026-10-31/de-las-tecnologicas-del-lzb-a-las-operadoras-de-trenes-cuales-son-las-empresas-presentes-en-el-accidente-de-urda.html",
+     "seccion": "Economía",
+     "resumen": "Identifica las empresas tecnológicas y operadoras implicadas en el accidente, como Adif, Renfe, Iryo, Thales e Hitachi Rail."
+    },
+    {
+     "titular": "La carta de Sheila a su madre, víctima del accidente de tren: “No sé ser tú, mamá. No sé cómo se sostiene todo sin ti”",
+     "url": "https://elpais.com/espana/2026-10-30/la-carta-de-sheila-a-su-madre-victima-del-accidente-de-tren-no-se-ser-tu-mama-no-se-como-se-sostiene-todo-sin-ti.html",
+     "seccion": "España",
+     "resumen": "Carta de una hija a su madre, una de las 69 víctimas mortales, que también menciona el dolor de su padre, que viajaba con ella."
+    },
+    {
+     "titular": "El arzobispo de Toledo sobre los desaparecidos del accidente de tren: “La esperanza no quita nada del dolor”",
+     "url": "https://elpais.com/espana/2026-10-31/el-arzobispo-de-toledo-sobre-los-desaparecidos-del-accidente-de-tren-la-esperanza-no-quita-nada-del-dolor.html",
+     "seccion": "España",
+     "resumen": "Entrevista al arzobispo de Toledo desde la parroquia donde se reúnen los familiares de los desaparecidos."
+    },
+    {
+     "titular": "Urda, el pueblo de casi 2.500 habitantes que se movilizó en cinco minutos tras el accidente de tren: “No hizo falta ni llamar”",
+     "url": "https://elpais.com/espana/2026-10-31/urda-el-pueblo-de-casi-2500-habitantes-que-se-movilizo-en-cinco-minutos-tras-el-accidente-de-tren-no-hizo-falta-ni-llamar.html",
+     "seccion": "España",
+     "resumen": "Crónica sobre la movilización vecinal de Urda y la atención a los supervivientes."
+    },
+    {
+     "titular": "¿Por qué es posible que paren las rutas de alta velocidad entre Madrid y Barcelona?",
+     "url": "https://elpais.com/videos/2026-10-31/por-que-es-posible-que-paren-las-rutas-de-alta-velocidad-entre-madrid-y-barcelona.html",
+     "seccion": "Accidente trenes Urda",
+     "resumen": "Cuestiona el modelo español de actualizar vías de alta velocidad sin suspender el servicio tras el accidente."
+    },
+    {
+     "titular": "La suspensión del presidente del Tribunal Constitucional de Polonia desata una crisis institucional",
+     "url": "https://elpais.com/internacional/2026-10-30/el-presidente-de-polonia-regresa-a-su-pais-en-pleno-vuelo-a-senegal-por-una-crisis-en-el-tribunal-constitucional.html",
+     "seccion": "Polonia",
+     "resumen": "La suspensión del presidente del Tribunal Constitucional polaco abre una crisis institucional con el Gobierno de Tusk."
+    },
+    {
+     "titular": "Las grandes ciudades y los comercios se blindan ante posibles disturbios por las movilizaciones espontáneas de Blocus",
+     "url": "https://elpais.com/espana/2026-10-30/las-grandes-ciudades-y-los-comercios-se-blindan-ante-posibles-disturbios-por-las-movilizaciones-espontaneas-de-blocus.html",
+     "seccion": "España",
+     "resumen": "Despliegue policial en grandes ciudades ante movilizaciones de Blocus tras la detención de ocho jóvenes en España."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la responsabilidad política y en el sistema de señalización, con seguimiento de la comparecencia de Óscar Puente. Dedica también espacio a la actualidad internacional y a la campaña en Estados Unidos.",
+   "noticias": [
+    {
+     "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+     "seccion": "Artículos Emilio Amade",
+     "resumen": "Explica con gráficos el sistema de señalización del tramo Madrid-Sevilla y las causas de la colisión que sigue bajo investigación."
+    },
+    {
+     "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "El Ministerio certificó 21 días antes del accidente que la red estaba en niveles aceptables de riesgo; la AESF rechazó paralizar el tráfico."
+    },
+    {
+     "titular": "Operadores y maquinistas no se fían de Adif y piden bajar la velocidad de circulación",
+     "url": "https://www.elmundo.es/economia/2026/10/30/6ae4f2fbfdddff677b8b457b.html",
+     "seccion": "NLPremium",
+     "resumen": "Operadores y maquinistas piden reducir la velocidad tras las caídas del sistema y protocolos más estrictos con los centros de control."
+    },
+    {
+     "titular": "Sánchez aplica con Puente el \"escudo protector\" de la 'doctrina Marlaska' para evitar que lo arrastre la crisis",
+     "url": "https://www.elmundo.es/espana/2026/10/30/6ae4f23be85ecea06a8b45b2.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Sánchez mantiene el respaldo absoluto a Puente, pese a la presión por la crisis."
+    },
+    {
+     "titular": "Puente mantiene a una cúpula repleta de afines y ex cargos del PSOE al frente de la gestión de la peor crisis de la historia de Adif",
+     "url": "https://www.elmundo.es/economia/2026/10/30/6ae46ad1e4d4d8134b8b4581.html",
+     "seccion": "NLPremium",
+     "resumen": "Señala que la cúpula de Adif está formada por antiguos cargos socialistas y una directora que figuró en listas del PSOE."
+    },
+    {
+     "titular": "Las últimas víctimas del accidente identificadas: la compositora Marisa; el ingeniero David; el tripulante Nelson; Andrea, escaparatista de Mango...",
+     "url": "https://www.elmundo.es/espana/2026/10/31/6ae4fedffc6c836b7a8b4593.html",
+     "seccion": "Artículos Olga R. Sanmartín",
+     "resumen": "Identifica a varias de las últimas víctimas y cifra en 72 las denuncias de desaparecidos, con cinco localizadas con vida."
+    },
+    {
+     "titular": "Feijóo cambia el guion de su campaña tras el accidente y reúne a la cúpula del PP para rehacer la estrategia",
+     "url": "https://www.elmundo.es/espana/2026/10/31/6ae4e88dfc6c83f5568b4590.html",
+     "seccion": "Política",
+     "resumen": "Feijóo reorganiza la campaña del PP tras el accidente y convoca a su Comité Ejecutivo."
+    },
+    {
+     "titular": "Escala la crisis en Polonia: la Policía se despliega en torno a la Corte Constitucional",
+     "url": "https://www.elmundo.es/internacional/2026/10/30/6ae4f89c21efa0d3758b45a7.html",
+     "seccion": "Polonia",
+     "resumen": "La Policía despliega antidisturbios en torno a la Corte Constitucional polaca tras la suspensión de su presidente."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la cobertura de la tragedia de Urda, con datos de identificación y el parte interno de Adif, con temas de actualidad social y de servicio. Incluye también información sobre las movilizaciones de Blocus en Madrid.",
+   "noticias": [
+    {
+     "titular": "Un inspector de Hacienda, una arquitecta, una atleta, un reportero... Las vidas que se perdieron en Urda",
+     "url": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+     "seccion": "",
+     "resumen": "Recoge perfiles de víctimas y señala que 69 personas han fallecido, aunque solo seis nombres estaban confirmados en ese momento."
+    },
+    {
+     "titular": "El parte del accidente de Adif revela que hasta cuatro sistemas fallaron justo antes del siniestro",
+     "url": "https://www.abc.es/espana/parte-adif-revela-apagon-lzb-urda-coincidio-20261030013245-nt.html",
+     "seccion": "",
+     "resumen": "Según un parte interno de Adif, cuatro sistemas fallaron en la infraestructura del tramo Mora-Orgaz-Urda justo antes del siniestro."
+    },
+    {
+     "titular": "Identificados los cadáveres de 36 de los 69 viajeros fallecidos en el accidente de Urda",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/identificados-cadaveres-viajeros-fallecidos-accidente-urda-20261031110715-nt.html",
+     "seccion": "",
+     "resumen": "Se han identificado 36 de los 69 fallecidos, todas mediante huella dactilar."
+    },
+    {
+     "titular": "«Escuché una bomba y, después, un silencio inusual»: el testigo del choque",
+     "url": "https://www.abc.es/sociedad/unico-testigo-choque-hizo-foto-iryo-minutos-20261030012953-nt.html",
+     "seccion": "",
+     "resumen": "Testigo que captó la única foto de uno de los trenes antes del choque y relata un silencio inusual tras el estruendo."
+    },
+    {
+     "titular": "Así es el centro de control de Adif: el triple de trenes y operadores con menos formación",
+     "url": "https://www.abc.es/espana/centro-control-adif-chicos-anos-ordenadores-decadas-20261031013033-nt.html",
+     "seccion": "",
+     "resumen": "Describe el relevo generacional en los centros de control de Adif, con más trenes y operadores con menos formación."
+    },
+    {
+     "titular": "Los antidisturbios blindan la zona comercial del centro de Madrid para disuadir los saqueos",
+     "url": "https://www.abc.es/espana/madrid/antidisturbios-blindan-zona-comercial-centro-madrid-disuadir-20261030012441-nt.html",
+     "seccion": "",
+     "resumen": "Los antidisturbios blindan el centro de Madrid para disuadir posibles saqueos de Blocus en la tarde del sábado."
+    },
+    {
+     "titular": "¿Por qué Federico de Dinamarca es el único Rey que no ha mandado sus condolencias a España?",
+     "url": "https://www.abc.es/gente/federico-dinamarca-unico-rey-mandado-condolencias-espana-20261030182138-nt.html",
+     "seccion": "",
+     "resumen": "Explica por qué el Rey Federico de Dinamarca es el único monarca que no ha enviado condolencias a España."
+    },
+    {
+     "titular": "Alberto Arroyo, padre de dos niños y fallecido en Urda: «Ejemplo de amor»",
+     "url": "https://www.abc.es/espana/madrid/alberto-arroyo-vecino-villanueva-pardillo-padre-dos-20261030192500-nt.html",
+     "seccion": "",
+     "resumen": "La familia de Alberto Arroyo, vecino de Villanueva del Pardillo fallecido en el accidente, comparte su despedida."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Concentra su portada en el accidente de Urda y en la responsabilidad política del ministro Puente, con foco en la línea Madrid-Barcelona. Incluye también el dispositivo de seguridad en Barcelona ante posibles disturbios.",
+   "noticias": [
+    {
+     "titular": "Sánchez frena la dimisión de Puente que exige ya el PP",
+     "url": "https://www.lavanguardia.com/politica/20261031/11672405/puente-admite-puso-cargo-disposicion-sanchez-considero-injusto-cesarle.html",
+     "seccion": "Política",
+     "resumen": "Sánchez frena la dimisión de Puente que exige el PP; el ministro admite que le espera un calvario."
+    },
+    {
+     "titular": "Puente dice que los operarios de Atocha podían ver la ubicación de los trenes en pantalla",
+     "url": "https://www.lavanguardia.com/vida/20261030/11672185/puente-dice-operarios-atocha-podian-ver-ubicacion-trenes-pantalla.html",
+     "seccion": "Sociedad",
+     "resumen": "Puente afirma que los operarios de Atocha podían ver en pantalla la ubicación de los trenes, en su segunda comparecencia."
+    },
+    {
+     "titular": "El Gobierno sopesa cortar la línea Madrid-Barcelona hasta dos años por las obras de mejora",
+     "url": "https://www.lavanguardia.com/vida/20261030/11672402/gobierno-sopesa-cortar-linea-madrid-barcelona-dos-anos-obras-mejora.html",
+     "seccion": "Sociedad",
+     "resumen": "El Gobierno estudia suspender hasta dos años la línea Madrid-Barcelona por obras, que usa unos 40.000 viajeros diarios."
+    },
+    {
+     "titular": "Los maquinistas exigen prohibir con carácter “urgente” que pueda reanudarse la marcha normal con el sistema LZB caído",
+     "url": "https://www.lavanguardia.com/vida/20261031/11672753/maquinistas-exigen-prohibir-marcha-normal-lzb.html",
+     "seccion": "Sociedad",
+     "resumen": "El sindicato Semaf pide prohibir con carácter urgente reanudar la marcha normal con el LZB caído."
+    },
+    {
+     "titular": "Agónica espera de las lentas identificaciones: solo 27 notificaciones de muertes en 72 horas",
+     "url": "https://www.lavanguardia.com/vida/20261031/11672480/agonica-espera-lentas-identificaciones-12-72-horas.html",
+     "seccion": "Sociedad",
+     "resumen": "Solo 27 notificaciones de muerte en 72 horas, con 31 bolsas de restos y las 69 autopsias realizadas."
+    },
+    {
+     "titular": "Los centros de control de Adif sufren la falta de personal y de experiencia",
+     "url": "https://www.lavanguardia.com/vida/20261030/11671578/centros-control-adif-sufren-falta-personal-experiencia.html",
+     "seccion": "Sociedad",
+     "resumen": "Los centros de control de Adif sufren falta de personal y experiencia en pleno relevo generacional."
+    },
+    {
+     "titular": "Sin opciones para ir y volver de Andalucía este puente",
+     "url": "https://www.lavanguardia.com/vida/20261031/11672481/opciones-volver-andalucia-puente.html",
+     "seccion": "Sociedad",
+     "resumen": "El accidente deja sin más de 120.000 plazas de tren en el puente, que aviones, autobuses y coches no pueden absorber."
+    },
+    {
+     "titular": "Illa advierte de que los Mossos están “preparados” para actuar esta noche ante posibles saqueos",
+     "url": "https://www.lavanguardia.com/politica/20261031/11672742/illa-advierte-mossos-saqueos-barcelona.html",
+     "seccion": "Política",
+     "resumen": "Illa avisa de que los Mossos están preparados para actuar ante posibles saqueos en Barcelona esta noche."
+    }
+   ]
+  }
+ ]
+}
