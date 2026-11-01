@@ -1,0 +1,556 @@
+{
+ "fecha": "2026-11-01",
+ "franja": "tarde",
+ "generada": "2026-11-01T13:09+01:00",
+ "con_ia": true,
+ "resumen_dia": "El accidente ferroviario de Urda (Toledo), con 69 muertos, domina la actualidad: se identifican víctimas, se investigan las causas en la señalización y el Gobierno anuncia un plan de refuerzo de la seguridad del AVE. La tragedia altera la campaña electoral del 29-N, con el PSOE y el PP reorientando su mensaje. En paralelo, las elecciones legislativas de mitad de mandato en EE UU y las protestas de Blocus en Cataluña ocupan espacio internacional y social.",
+ "temas_comunes": [
+  {
+   "titulo": "Accidente ferroviario de Urda: causas y responsabilidades",
+   "resumen": "El accidente de Urda dejó 69 fallecidos y varias personas desaparecidas. La investigación se centra en la cadena de fallos en la señalización y en la respuesta del sistema ferroviario, mientras se debate si hubo responsabilidad humana o estructural.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en la cadena de fallos que el sistema no detuvo y en las debilidades de la cultura de seguridad, citando también el accidente de Adamuz.",
+     "noticias": [
+      {
+       "titular": "¿Qué causó el accidente? La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
+       "url": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html",
+       "seccion": "Accidente trenes Urda"
+      },
+      {
+       "titular": "No fue solo un fallo humano: las debilidades del sistema que evidencian los accidentes de Urda y Adamuz",
+       "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "El maquinista de Angrois al operador de Atocha: “Que se aísle de la tele y la prensa: le pueden hacer mucho daño”",
+       "url": "https://elpais.com/espana/2026-11-01/el-maquinista-de-angrois-al-operador-de-atocha-que-se-aisle-de-la-tele-y-la-prensa-le-pueden-hacer-mucho-dano.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la señalización, la certificación ministerial previa y la prórroga de un contrato de Adif no reflejada en sus registros de transparencia.",
+     "noticias": [
+      {
+       "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+       "seccion": "Artículos Emilio Amade"
+      },
+      {
+       "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "Crónica de los 22 minutos a ciegas que desembocaron en la tragedia de Urda: \"Cualquier día va a haber otro accidente\"",
+       "url": "https://www.elmundo.es/economia/2026/10/31/6ae61f25fc6c8309208b457f.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "Adif ocultó la prórroga del contrato para renovar la señalización del tramo del accidente de Urda en sus registros de transparencia",
+       "url": "https://www.elmundo.es/economia/2026/11/01/6ae4dd0ce85ece09538b4581.html",
+       "seccion": "Transporte y Turismo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Se centra en el posible cese del presidente de Adif como respuesta política y en la falta de dimisión de Óscar Puente por ahora.",
+     "noticias": [
+      {
+       "titular": "El Gobierno prepara el cese del presidente de Adif para proteger a Puente y a Sánchez",
+       "url": "https://www.abc.es/espana/gobierno-preve-dejar-caer-presidente-adif-cortafuegos-20261030014015-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Analiza la crisis del modelo ferroviario, la falta de inversión en mantenimiento y las condiciones de trabajo de los maquinistas.",
+     "noticias": [
+      {
+       "titular": "El modelo ferroviario de España entra en una crisis de difícil solución",
+       "url": "https://www.lavanguardia.com/vida/20261101/11672958/modelo-ferroviario-espana-agrieta-crisis-dificil-solucion.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Diego Martín: “Los maquinistas nos hemos acostumbrado a trabajar en condiciones degradadas”",
+       "url": "https://www.lavanguardia.com/vida/20261031/11672397/diego-martin-maquinistas-hemos-acostumbrado-trabajar-condiciones-degradadas.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "La alta velocidad liberalizada dobló los viajeros sin equiparar la inversión en mantenimiento",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261101/11672981/alta-velocidad-liberalizada-doblo-viajeros-equiparar-inversion-mantenimiento.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "¿Es más peligroso viajar en tren hoy? Los datos detrás de las tragedias",
+       "url": "https://www.lavanguardia.com/motor/20261031/11671932/mas-peligroso-viajar-tren-hoy-datos-detras-tragedias-epm.html",
+       "seccion": "Motor"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Víctimas, identificaciones y familias",
+   "resumen": "Los forenses han identificado a buena parte de los fallecidos, aunque quedan personas por reconocer. Las familias siguen esperando noticias y se cuentan historias de las víctimas.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge historias personales de las víctimas y el dolor de los familiares.",
+     "noticias": [
+      {
+       "titular": "Las vidas truncadas en el tren: “Gracias por quererme, por entenderme, por ser el mejor padre del mundo”",
+       "url": "https://elpais.com/espana/2026-11-01/las-vidas-truncadas-en-el-tren-gracias-por-quererme-por-entenderme-por-ser-el-mejor-padre-del-mundo.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "El tercer tren de Urda: la espera bajo un puente a dos kilómetros de la tragedia",
+       "url": "https://elpais.com/espana/2026-11-01/el-tercer-tren-de-urda-la-espera-bajo-un-puente-a-dos-kilometros-de-la-tragedia.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Detalla las identificaciones confirmadas mediante huella y ADN y el número de desaparecidos.",
+     "noticias": [
+      {
+       "titular": "El hilo invisible del coche 8 del AVE: Juan Nacho, Lute, David, Laura, Manuel, Cristina y otras víctimas ya reconocidas en el accidente de Urda",
+       "url": "https://www.elmundo.es/espana/2026/11/01/6ae63d5fe85eced86b8b457d.html",
+       "seccion": "Artículos Olga R. Sanmartín"
+      },
+      {
+       "titular": "¿Cómo pueden informarse los familiares? Teléfonos de atención a víctimas y allegados y puntos de ayuda para los afectados por el accidente de tren de Urda (Toledo)",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
+       "seccion": "Accidente tren Toledo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Presenta perfiles de algunas víctimas y señala que muchas familias siguen esperando.",
+     "noticias": [
+      {
+       "titular": "Una madre que viajaba a la boda de su hija, un nazareno, una brillante científica... Las vidas que se perdieron en Urda",
+       "url": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca la lentitud de las identificaciones y la cifra de notificaciones de muertes en 72 horas.",
+     "noticias": [
+      {
+       "titular": "Agónica espera de las lentas identificaciones: solo 27 notificaciones de muertes en 72 horas",
+       "url": "https://www.lavanguardia.com/vida/20261031/11672480/agonica-espera-lentas-identificaciones-12-72-horas.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Andrea, Carlos, Tamara, Juan José y Marisa, las últimas confirmaciones de la tragedia",
+       "url": "https://www.lavanguardia.com/vida/20261101/11672944/andrea-carlos-tamara-juan-jose-marisa-ultimas-confirmaciones-tragedia.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Cronología al detalle de 538 vidas que no llegaron a su destino",
+       "url": "https://www.lavanguardia.com/vida/20261101/11672954/cronologia-538-vidas-llegaron-destino.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Impacto del accidente en la campaña del 29-N",
+   "resumen": "La tragedia obliga a los partidos a cambiar su estrategia electoral de cara a las elecciones generales del 29 de noviembre. El PP refuerza su perfil de gestión y el PSOE sufre el impacto político del accidente.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Describe el giro de Feijóo hacia el perfil gestor y el plan de Puente para contener la presión, con un Consejo de Ministros previsto.",
+     "noticias": [
+      {
+       "titular": "Puente intenta bajar la presión con un gran plan de refuerzo de la seguridad del AVE",
+       "url": "https://elpais.com/espana/2026-11-01/puente-intenta-bajar-la-presion-con-un-gran-plan-de-refuerzo-de-la-seguridad-del-ave.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Puente, de la euforia al desastre en tres días",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Feijóo gira la campaña hacia el perfil gestor del PP",
+       "url": "https://elpais.com/espana/2026-11-01/feijoo-gira-la-campana-hacia-el-perfil-gestor-del-pp.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la estrategia del PP de combinar la gestión con ataques a Sánchez y las palabras de Abascal sobre Vox.",
+     "noticias": [
+      {
+       "titular": "El PP retoma la \"política para adultos\" como estrategia: \"Es el 'momento Feijóo', somos el Gobierno a la espera\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/01/6ae5daade9cf4a7d748b45a1.html",
+       "seccion": "Artículos Juanma Lamet"
+      },
+      {
+       "titular": "Santiago Abascal: \"El crecimiento de Vox es lo que asegura la alternativa\"",
+       "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d63221efa081798b4597.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Afirma que la tragedia ha alterado la convocatoria y destaca el desánimo en el PSOE y el giro del PP hacia la gestión.",
+     "noticias": [
+      {
+       "titular": "La tragedia convulsiona el 29N: el PSOE se hunde en el desánimo y el PP gira hacia la gestión",
+       "url": "https://www.abc.es/espana/accidente-urda-convulsiona-29n-psoe-hunde-desanimo-20261101013929-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio",
+       "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261101053000-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Entrevista a Feijóo sobre gestión y Catalunya y reúne a expertos para elegir un futuro ministro de Fomento.",
+     "noticias": [
+      {
+       "titular": "“No se puede ser presidente de España sin entender a Catalunya”",
+       "url": "https://www.lavanguardia.com/politica/20261101/11672883/alberto-nunez-feijoo-presidente-espana-entender-catalunya.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Feijóo asume el reto de elegir un ministro de Fomento con “rigor y experiencia”",
+       "url": "https://www.lavanguardia.com/economia/20261101/11673314/feijoo-asume-reto-elegir-ministro-fomento-rigor-experiencia-rodea-expertos-servimedia20261101.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Feijóo se cambia de traje",
+       "url": "https://www.lavanguardia.com/opinion/20261101/11673268/feijoo-cambia-traje.html",
+       "seccion": "Opinión"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones legislativas de mitad de mandato en EE UU",
+   "resumen": "Los republicanos y demócratas se disputan el control del Congreso en las legislativas de medio mandato del 3 de noviembre. Las encuestas apuntan a una pérdida de terreno del partido del presidente Trump.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Presenta la votación como un referéndum sobre el trumpismo y explica el sistema y el papel de los pastores demócratas.",
+     "noticias": [
+      {
+       "titular": "Estados Unidos somete a referéndum el final del trumpismo",
+       "url": "https://elpais.com/us/2026-11-01/estados-unidos-somete-a-referendum-el-final-del-trumpismo.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Las ‘midterm’, en mapas y gráficos: qué se vota este martes y cómo llega Trump",
+       "url": "https://elpais.com/internacional/elecciones-usa/2026-11-01/las-midterm-en-mapas-y-graficos-que-se-vota-este-martes-y-como-llega-trump.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Glosario ilustrado de las ‘midterms’: conceptos clave para entender las elecciones en EE UU",
+       "url": "https://elpais.com/us/2026-11-01/glosario-ilustrado-de-las-midterms-conceptos-clave-para-entender-las-elecciones-en-ee-uu.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "“Amar al prójimo” como lema de campaña: los pastores demócratas que buscan arrebatar el voto cristiano a los republicanos",
+       "url": "https://elpais.com/us/2026-11-01/amar-al-projimo-como-lema-de-campana-los-pastores-democratas-que-buscan-arrebatar-el-voto-cristiano-a-los-republicanos.html",
+       "seccion": "Elecciones EE UU"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Enfoca la relación entre Trump, los evangélicos y el nacionalismo cristiano en la campaña.",
+     "noticias": [
+      {
+       "titular": "Jesucristo, John Wayne y la batalla religiosa en las elecciones estadounidenses",
+       "url": "https://www.elmundo.es/internacional/2026/11/01/6ae4adace9cf4a7f048b4590.html",
+       "seccion": "Estados Unidos"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Pone el foco en la pérdida de apoyo republicano en Florida, con las redadas como factor.",
+     "noticias": [
+      {
+       "titular": "Florida se le complica a Trump: las redadas amenazan el voto republicano en Miami",
+       "url": "https://www.abc.es/internacional/florida-complica-trump-redadas-amenazan-voto-republicano-20261030014238-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Describe las legislativas como un plebiscito sobre el mandato de Trump, con llamadas del presidente a votar.",
+     "noticias": [
+      {
+       "titular": "Trump encara las legislativas como plebiscito sobre su mandato",
+       "url": "https://www.lavanguardia.com/internacional/20261101/11672928/plebiscito-donald-trump.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Protestas de Blocus en Cataluña",
+   "resumen": "La Policía catalana ha desplegado un operativo contra las convocatorias de disturbios de Blocus, con detenidos e identificaciones. El Govern niega motivos étnicos en las actuaciones.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la negativa del Govern a hablar de motivos étnicos y la petición de explicaciones de la CUP.",
+     "noticias": [
+      {
+       "titular": "El Govern niega \"motivos étnicos\" en el operativo contra Blocus de los Mossos d'Esquadra, con 10 detenidos y 2.300 identificaciones",
+       "url": "https://www.elmundo.es/cataluna/2026/11/01/6ae7071b21efa075378b4599.html",
+       "seccion": "Artículos Gerard Melgar"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Describe el temor a disturbios y las medidas en comercios como la Casa Milà.",
+     "noticias": [
+      {
+       "titular": "Los Mossos frustran una nueva convocatoria de disturbios de Blocus",
+       "url": "https://www.abc.es/espana/cataluna/mossos-frustran-nueva-convocatoria-disturbios-blocus-20261031211920-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca el despliegue policial sin precedentes y el detenido de 16 años en València.",
+     "noticias": [
+      {
+       "titular": "Un despliegue policial sin precedentes disuade a los vándalos de Blocus",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261101/11673063/despliegue-policial-precedentes-disuade-vandalos.html",
+       "seccion": "Barcelona"
+      },
+      {
+       "titular": "El detenido en el centro de València por su relación con Blocus tiene 16 años",
+       "url": "https://www.lavanguardia.com/local/valencia/20261101/11673305/detenido-centro-valencia-relacion-blocus-16-anos.html",
+       "seccion": "Comunidad Valenciana"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza el accidente de Urda desde varios ángulos: historias de víctimas, causas técnicas y repercusión política. También dedica espacio a las elecciones de EE UU.",
+   "noticias": [
+    {
+     "titular": "¿Qué causó el accidente? La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
+     "url": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html",
+     "seccion": "Accidente trenes Urda",
+     "resumen": "Describe la secuencia de fallos que llevó al accidente y por qué el sistema no lo evitó."
+    },
+    {
+     "titular": "Puente intenta bajar la presión con un gran plan de refuerzo de la seguridad del AVE",
+     "url": "https://elpais.com/espana/2026-11-01/puente-intenta-bajar-la-presion-con-un-gran-plan-de-refuerzo-de-la-seguridad-del-ave.html",
+     "seccion": "España",
+     "resumen": "Puente presentará un paquete de medidas de seguridad del AVE en el Consejo de Ministros, con división dentro del Gobierno."
+    },
+    {
+     "titular": "No fue solo un fallo humano: las debilidades del sistema que evidencian los accidentes de Urda y Adamuz",
+     "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
+     "seccion": "España",
+     "resumen": "Analiza las debilidades del sistema y el déficit de cultura de seguridad, con primeras modificaciones de Renfe."
+    },
+    {
+     "titular": "Las vidas truncadas en el tren: “Gracias por quererme, por entenderme, por ser el mejor padre del mundo”",
+     "url": "https://elpais.com/espana/2026-11-01/las-vidas-truncadas-en-el-tren-gracias-por-quererme-por-entenderme-por-ser-el-mejor-padre-del-mundo.html",
+     "seccion": "España",
+     "resumen": "Recoge las historias de las víctimas mientras avanza la identificación de los fallecidos y desaparecidos."
+    },
+    {
+     "titular": "Puente, de la euforia al desastre en tres días",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Repasa la trayectoria de Puente tras el segundo siniestro mortal de alta velocidad en nueve meses."
+    },
+    {
+     "titular": "Feijóo gira la campaña hacia el perfil gestor del PP",
+     "url": "https://elpais.com/espana/2026-11-01/feijoo-gira-la-campana-hacia-el-perfil-gestor-del-pp.html",
+     "seccion": "España",
+     "resumen": "El PP cambia su campaña hacia el perfil gestor de Feijóo ante el riesgo de un repunte de Vox."
+    },
+    {
+     "titular": "Estados Unidos somete a referéndum el final del trumpismo",
+     "url": "https://elpais.com/us/2026-11-01/estados-unidos-somete-a-referendum-el-final-del-trumpismo.html",
+     "seccion": "Elecciones EE UU",
+     "resumen": "Las encuestas anticipan una ola demócrata en las legislativas de EE UU, que se leen como referéndum sobre Trump."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Se centra en las investigaciones sobre la señalización y la gestión de Adif, junto con la identificación de víctimas. También sigue la estrategia electoral del PP.",
+   "noticias": [
+    {
+     "titular": "Crónica de los 22 minutos a ciegas que desembocaron en la tragedia de Urda: \"Cualquier día va a haber otro accidente\"",
+     "url": "https://www.elmundo.es/economia/2026/10/31/6ae61f25fc6c8309208b457f.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Crónica de los 22 minutos previos al impacto, con dos avisos de la maquinista del Iryo y preguntas sin respuesta."
+    },
+    {
+     "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "El Ministerio certificó días antes del accidente que la red estaba en niveles aceptables de riesgo; la AESF rechazó parar el tráfico."
+    },
+    {
+     "titular": "Adif ocultó la prórroga del contrato para renovar la señalización del tramo del accidente de Urda en sus registros de transparencia",
+     "url": "https://www.elmundo.es/economia/2026/11/01/6ae4dd0ce85ece09538b4581.html",
+     "seccion": "Transporte y Turismo",
+     "resumen": "Adif no incluyó en sus registros de transparencia la prórroga del contrato de señalización con Hitachi."
+    },
+    {
+     "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+     "seccion": "Artículos Emilio Amade",
+     "resumen": "Explica con gráficos el sistema de señalización del tramo Madrid-Sevilla y las causas investigadas."
+    },
+    {
+     "titular": "El hilo invisible del coche 8 del AVE: Juan Nacho, Lute, David, Laura, Manuel, Cristina y otras víctimas ya reconocidas en el accidente de Urda",
+     "url": "https://www.elmundo.es/espana/2026/11/01/6ae63d5fe85eced86b8b457d.html",
+     "seccion": "Artículos Olga R. Sanmartín",
+     "resumen": "Los forenses han identificado a 56 de los 69 fallecidos y quedan 13 personas desaparecidas."
+    },
+    {
+     "titular": "El PP retoma la \"política para adultos\" como estrategia: \"Es el 'momento Feijóo', somos el Gobierno a la espera\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/01/6ae5daade9cf4a7d748b45a1.html",
+     "seccion": "Artículos Juanma Lamet",
+     "resumen": "El PP combina perfil gestor y ataques a Sánchez, con la idea de un 'momento Feijóo'."
+    },
+    {
+     "titular": "Santiago Abascal: \"El crecimiento de Vox es lo que asegura la alternativa\"",
+     "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d63221efa081798b4597.html",
+     "seccion": "España",
+     "resumen": "Abascal habla del crecimiento de Vox como alternativa y critica el abandono de los españoles."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la tragedia de Urda con noticias de sociedad, deportes y televisión. Dedica también atención a la política de Adif y al impacto electoral.",
+   "noticias": [
+    {
+     "titular": "La tragedia convulsiona el 29N: el PSOE se hunde en el desánimo y el PP gira hacia la gestión",
+     "url": "https://www.abc.es/espana/accidente-urda-convulsiona-29n-psoe-hunde-desanimo-20261101013929-nt.html",
+     "seccion": "",
+     "resumen": "La tragedia ha alterado la campaña: el PSOE acusa el golpe y el PP se orienta a la gestión."
+    },
+    {
+     "titular": "El Gobierno prepara el cese del presidente de Adif para proteger a Puente y a Sánchez",
+     "url": "https://www.abc.es/espana/gobierno-preve-dejar-caer-presidente-adif-cortafuegos-20261030014015-nt.html",
+     "seccion": "",
+     "resumen": "El Gobierno prepara el cese del presidente de Adif mientras se descarta por ahora la dimisión de Puente."
+    },
+    {
+     "titular": "El FBI acusa a Corea del Norte de robar 6.000 millones de dólares en criptomonedas a Binance",
+     "url": "https://www.abc.es/economia/fbi-acusa-corea-norte-robar-6000-millones-20261101101136-nt.html",
+     "seccion": "",
+     "resumen": "El FBI atribuye a Corea del Norte el robo de más de 6.000 millones en criptomonedas a Binance."
+    },
+    {
+     "titular": "Una madre que viajaba a la boda de su hija, un nazareno, una brillante científica... Las vidas que se perdieron en Urda",
+     "url": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+     "seccion": "",
+     "resumen": "Relata las vidas de algunas víctimas y señala que solo seis nombres estaban confirmados en ese momento."
+    },
+    {
+     "titular": "Florida se le complica a Trump: las redadas amenazan el voto republicano en Miami",
+     "url": "https://www.abc.es/internacional/florida-complica-trump-redadas-amenazan-voto-republicano-20261030014238-nt.html",
+     "seccion": "",
+     "resumen": "Las redadas en Miami complican a los republicanos en Florida, según la campaña de la congresista Salazar."
+    },
+    {
+     "titular": "Los Mossos frustran una nueva convocatoria de disturbios de Blocus",
+     "url": "https://www.abc.es/espana/cataluna/mossos-frustran-nueva-convocatoria-disturbios-blocus-20261031211920-nt.html",
+     "seccion": "",
+     "resumen": "Los Mossos frustran una nueva convocatoria de disturbios de Blocus; comercios de Barcelona se protegen."
+    },
+    {
+     "titular": "La policía portuguesa no da tregua a las acampadas por la vivienda en Lisboa y Oporto",
+     "url": "https://www.abc.es/internacional/policia-portuguesa-tregua-acampadas-vivienda-lisboa-oporto-20261101103547-nt.html",
+     "seccion": "",
+     "resumen": "La policía portuguesa carga contra acampadas por la vivienda en Lisboa y Oporto, con trece detenidos."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Pone el acento en la crisis del modelo ferroviario y en la inversión en mantenimiento. También recoge la postura de Feijóo y la campaña electoral.",
+   "noticias": [
+    {
+     "titular": "El modelo ferroviario de España entra en una crisis de difícil solución",
+     "url": "https://www.lavanguardia.com/vida/20261101/11672958/modelo-ferroviario-espana-agrieta-crisis-dificil-solucion.html",
+     "seccion": "Sociedad",
+     "resumen": "El modelo ferroviario entra en una crisis difícil de resolver, con usuarios crecidos en una red saturada."
+    },
+    {
+     "titular": "La alta velocidad liberalizada dobló los viajeros sin equiparar la inversión en mantenimiento",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261101/11672981/alta-velocidad-liberalizada-doblo-viajeros-equiparar-inversion-mantenimiento.html",
+     "seccion": "Barcelona",
+     "resumen": "El presupuesto de mantenimiento de la alta velocidad solo ha crecido un 23,6% desde 2019, frente al aumento de viajeros."
+    },
+    {
+     "titular": "Diego Martín: “Los maquinistas nos hemos acostumbrado a trabajar en condiciones degradadas”",
+     "url": "https://www.lavanguardia.com/vida/20261031/11672397/diego-martin-maquinistas-hemos-acostumbrado-trabajar-condiciones-degradadas.html",
+     "seccion": "Sociedad",
+     "resumen": "El sindicato Semaf describe la falta de fiabilidad y las condiciones degradadas en que trabajan los maquinistas."
+    },
+    {
+     "titular": "Agónica espera de las lentas identificaciones: solo 27 notificaciones de muertes en 72 horas",
+     "url": "https://www.lavanguardia.com/vida/20261031/11672480/agonica-espera-lentas-identificaciones-12-72-horas.html",
+     "seccion": "Sociedad",
+     "resumen": "Solo 27 notificaciones de muertes en 72 horas; hay 31 bolsas con restos y 69 autopsias realizadas."
+    },
+    {
+     "titular": "“No se puede ser presidente de España sin entender a Catalunya”",
+     "url": "https://www.lavanguardia.com/politica/20261101/11672883/alberto-nunez-feijoo-presidente-espana-entender-catalunya.html",
+     "seccion": "Política",
+     "resumen": "Feijóo afirma en entrevista que la gestión se ha sustituido por propaganda y reclama entender Catalunya."
+    },
+    {
+     "titular": "Feijóo asume el reto de elegir un ministro de Fomento con “rigor y experiencia”",
+     "url": "https://www.lavanguardia.com/economia/20261101/11673314/feijoo-asume-reto-elegir-ministro-fomento-rigor-experiencia-rodea-expertos-servimedia20261101.html",
+     "seccion": "Economía",
+     "resumen": "Feijóo reúne a 15 expertos en infraestructuras para elegir un ministro de Fomento."
+    },
+    {
+     "titular": "Trump encara las legislativas como plebiscito sobre su mandato",
+     "url": "https://www.lavanguardia.com/internacional/20261101/11672928/plebiscito-donald-trump.html",
+     "seccion": "Internacional",
+     "resumen": "Trump plantea las legislativas como un plebiscito sobre su mandato y pide votar a sus seguidores."
+    }
+   ]
+  }
+ ]
+}
