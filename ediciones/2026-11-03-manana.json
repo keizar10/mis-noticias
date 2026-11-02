@@ -1,0 +1,558 @@
+{
+ "fecha": "2026-11-03",
+ "franja": "mañana",
+ "generada": "2026-11-03T00:43+01:00",
+ "con_ia": true,
+ "resumen_dia": "El accidente ferroviario de Urda (Toledo), con 69 fallecidos identificados, domina la jornada: el Gobierno anuncia ayudas y adelanto de indemnizaciones, y la oposición pide la dimisión del ministro Óscar Puente y del presidente de Adif. Además, la primera jornada del foro World in Progress recoge las intervenciones de Pedro Sánchez y otros líderes sobre Europa y el orden internacional. En EE.UU., Trump cierra campaña para las legislativas de noviembre, y en Bélgica, el primer ministro Bart de Wever presenta su dimisión tras el fracaso de los presupuestos.",
+ "temas_comunes": [
+  {
+   "titulo": "Accidente ferroviario de Urda y ayudas a víctimas",
+   "resumen": "El accidente de Urda (Toledo) deja 69 fallecidos, 54 españoles y 15 extranjeros. El Gobierno acelera ayudas de 84.141 euros por víctima, que igualan las aprobadas para Adamuz y Gelida.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya el anuncio de Sánchez de ayudas y adelanto de indemnizaciones, y la presión sobre el presidente de Adif antes de la comparecencia de Puente.",
+     "noticias": [
+      {
+       "titular": "Sánchez anuncia ayudas específicas y el adelanto de las indemnizaciones para las víctimas del accidente de Urda",
+       "url": "https://elpais.com/internacional/2026-11-02/sanchez-debemos-recuperar-la-confianza-en-la-alta-velocidad-cuanto-antes-y-cueste-lo-que-cueste.html",
+       "seccion": "América"
+      },
+      {
+       "titular": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
+       "url": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Iryo defiende la fiabilidad de sus trenes, incluido el siniestrado, en la línea Madrid-Sevilla",
+       "url": "https://elpais.com/espana/2026-11-02/iryo-defiende-la-fiabilidad-de-sus-trenes-incluido-el-siniestrado-en-la-linea-madrid-sevilla.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la certificación ministerial de la red como de 'riesgo aceptable' días antes, la lista de víctimas y la difusión de explicaciones sobre sabotaje.",
+     "noticias": [
+      {
+       "titular": "¿Cómo pueden informarse los familiares? Teléfonos de atención a víctimas y allegados y puntos de ayuda para los afectados por el accidente de tren de Urda (Toledo)",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "\"Accidente atentado\": así se activó un 'ejército digital' para exculpar al Gobierno tras la tragedia de Urda",
+       "url": "https://www.elmundo.es/cronica/2026/11/01/6ae4f536fc6c83707c8b458d.html",
+       "seccion": "Israel"
+      },
+      {
+       "titular": "Las vidas rotas del accidente de Urda: la mujer que iba a la boda de su hija, la ejecutiva a punto de jubilarse, el héroe que iba a ser padre, la científica que iba a por un premio...",
+       "url": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
+       "seccion": "Artículos Olga R. Sanmartín"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Centra el foco en la respuesta de Óscar Puente ante su posible dimisión y en la politización de Adif y Renfe.",
+     "noticias": [
+      {
+       "titular": "Óscar Puente, el ministro que se ocupa de todo menos del Ministerio",
+       "url": "https://www.abc.es/espana/oscar-puente-ministro-ocupa-ministerio-20261029014523-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "El presidente de Renfe colonizó el operador con 15 políticos y el 'lobby' del autobús",
+       "url": "https://www.abc.es/espana/puente-permitio-presidente-renfe-colonizar-operador-politicos-20261102214018-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "La Guardia Civil concluye la retirada de los últimos vagones y habilita un punto para dejar flores por las víctimas",
+       "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/guardia-civil-concluye-retirada-ultimos-vagones-habilita-20261102185935-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Informa del balance de 69 identificados y de la aceleración de las ayudas, con la comparación con accidentes previos.",
+     "noticias": [
+      {
+       "titular": "Identificados los 69 fallecidos en el accidente ferroviario de Urda",
+       "url": "https://www.lavanguardia.com/vida/20261102/11674507/identificados-69-fallecidos-accidente-ferroviario-urda.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "El Gobierno acelera la concesión de las ayudas para las víctimas, que alcanzarán los 84.141 euros",
+       "url": "https://www.lavanguardia.com/vida/20261102/11674161/gobierno-acelera-concesion-ayudas-victimas-alcanzaran-84-141-euros.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Crítica de Feijóo y PP al Gobierno tras Urda",
+   "resumen": "El líder del PP acusa al Gobierno de actuar con frivolidad y pide la dimisión de Óscar Puente, mientras la oposición de izquierdas plantea renacionalizar el ferrocarril.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge las palabras de Feijóo, que tilda la actitud de Puente de 'infame' y dice dudar de la calidad humana del Gobierno.",
+     "noticias": [
+      {
+       "titular": "Feijóo se reivindica como gestor tras el accidente de Urda: “España no se arregla con frivolidad ni tampoco con bravuconadas”",
+       "url": "https://elpais.com/espana/2026-11-02/feijoo-se-reivindica-como-gestor-tras-el-accidente-de-urda-espana-no-se-arregla-con-frivolidad-ni-tampoco-con-bravuconadas.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "La tragedia en Urda empuja a la ultraderecha a una espiral de brutalidad",
+       "url": "https://elpais.com/espana/2026-11-02/la-tragedia-empuja-a-la-ultraderecha-a-una-espiral-de-brutalidad.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Presenta una encuesta en la que el PSOE baja por debajo de 100 escaños y Montero pide la renacionalización y la dimisión de Puente.",
+     "noticias": [
+      {
+       "titular": "El PSOE pierde 450.000 votos y cae por debajo de 100 escaños en la primera encuesta tras la tragedia de Urda",
+       "url": "https://www.elmundo.es/espana/encuestas/2026/11/01/6ae77446e4d4d8f3698b458a.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Montero pide aplicar el artículo 128 para renacionalizar el ferrocarril y exige la dimisión de Óscar Puente",
+       "url": "https://www.elmundo.es/espana/2026/11/02/6ae882acfc6c83a01a8b456e.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge la precampaña de Feijóo con sus barones y el mensaje de 'gestión, rigor y experiencia'.",
+     "noticias": [
+      {
+       "titular": "Feijóo pide a sus barones «servir y defender España» frente a la «huida» del Gobierno",
+       "url": "https://www.abc.es/espana/feijoo-pide-barones-servir-defender-espana-frente-20261102125709-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la crítica de Feijóo y la propuesta del Frente Amplio de fusionar Renfe y Adif.",
+     "noticias": [
+      {
+       "titular": "Feijóo ofrece “gestión, rigor y experiencia” frente al actual Gobierno: “Dudo que sean buena gente”",
+       "url": "https://www.lavanguardia.com/politica/20261102/11674005/feijoo-ofrece-gestion-rigor-experiencia-frente-gobierno-sanchez-dudo-sean-buena-gente.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "El Frente Amplio propone recuperar el control público del ferrocarril fusionando Renfe y Adif",
+       "url": "https://www.lavanguardia.com/politica/20261102/11674199/frente-amplio-propone-recuperar-control-publico-ferrocarril-fusion-renfe-adif.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Ciberataque a cámaras frigoríficas de supermercados europeos",
+   "resumen": "Una nueva oleada de ciberataques afecta a supermercados de varios países europeos, semanas después de un incidente similar en Francia. Bélgica abre una investigación.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la apertura de una investigación por la Fiscalía belga sobre el ataque.",
+     "noticias": [
+      {
+       "titular": "La Fiscalía de Bélgica abre una investigación sobre el ciberataque contra las cámaras frigoríficas de supermercados de varios países",
+       "url": "https://www.elmundo.es/economia/2026/11/02/6ae88536fc6c838b3c8b4581.html",
+       "seccion": "Bélgica"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Amplía con los países afectados y explica que un software obsoleto fue la vía de entrada.",
+     "noticias": [
+      {
+       "titular": "Nueva oleada de ciberataques a supermercados de varios países europeos",
+       "url": "https://www.lavanguardia.com/internacional/20261102/11673884/nueva-oleada-ciberataques-sistemas-refrigeracion-suecia-belgica-luxemburgo.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "¿Cómo han logrado los hackers atacar a los supermercados de varios países europeos?",
+       "url": "https://www.lavanguardia.com/economia/20261102/11674330/como-han-logrado-hackers-atacar-supermercados-paises-europeos.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Dimisión del jefe de gabinete de Illa",
+   "resumen": "Eduard Rivas deja la jefatura de gabinete del president Illa por una investigación por malversación en su etapa como alcalde de Esparreguera, y le sustituye Xavier Amor.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya el peso político de Rivas y la imputación por malversación.",
+     "noticias": [
+      {
+       "titular": "Dimite el jefe de gabinete de Salvador Illa, investigado por corrupción en su etapa de alcalde",
+       "url": "https://www.elmundo.es/cataluna/2026/11/02/6ae8fd4a21efa0e7358b4594.html",
+       "seccion": "Cataluña"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Informa de la dimisión y del relevo por Xavier Amor, citando la investigación por irregularidades en una fundación.",
+     "noticias": [
+      {
+       "titular": "Dimite el jefe de gabinete de Illa, investigado por presuntas irregularidades durante su etapa como alcalde",
+       "url": "https://www.abc.es/espana/cataluna/dimite-jefe-gabinete-illa-investigado-presuntas-irregularidades-20261102205307-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Informa del relevo por Xavier Amor y recuerda que la investigación se conoció en abril.",
+     "noticias": [
+      {
+       "titular": "Xavier Amor sustituye a Eduard Rivas como jefe de gabinete de Illa",
+       "url": "https://www.lavanguardia.com/politica/20261102/11674466/xavier-amor-sustituye-eduard-rivas-jefe-gabinete-president-salvador-illa.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Ataques rusos contra escuela en Ucrania",
+   "resumen": "Un ataque ruso contra una escuela usada para ayuda humanitaria en el sur de Ucrania deja al menos 24 o 26 muertos, según los medios, y Zelenski lo denuncia.",
+   "medios": [
+    {
+     "medio": "abc",
+     "enfoque": "Vincula el ataque con el fin de una tregua local en la región de Jersón y las esperanzas de paz.",
+     "noticias": [
+      {
+       "titular": "Al menos 26 muertos en un ataque ruso contra una escuela en Ucrania",
+       "url": "https://www.abc.es/internacional/muertos-ataque-ruso-zaporiyia-ucrania-20261102202010-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Sitúa el ataque en Zaporiyia y recoge la denuncia de Zelenski sobre la ayuda humanitaria.",
+     "noticias": [
+      {
+       "titular": "Al menos 24 muertos en un ataque ruso contra una escuela en Zaporiyia",
+       "url": "https://www.lavanguardia.com/internacional/20261102/11674443/18-muertos-ataque-ruso-escuela-zaporiyia-zelenski.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Dimisión del primer ministro belga",
+   "resumen": "Bart de Wever presenta su dimisión tras no lograr aprobar los presupuestos, y el rey Felipe debe decidir sobre su futuro.",
+   "medios": [
+    {
+     "medio": "abc",
+     "enfoque": "Destaca que la dimisión se produce al no poder aprobar el proyecto de presupuesto y los recortes buscados.",
+     "noticias": [
+      {
+       "titular": "El primer ministro de Bélgica presenta su dimisión tras el fracaso de los presupuestos",
+       "url": "https://www.abc.es/internacional/primer-ministro-belgica-presenta-dimision-20261102101648-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya el perfil ultranacionalista de De Wever y el rey Felipe medita su futuro.",
+     "noticias": [
+      {
+       "titular": "El ultranacionalista De Wever dimite como primer ministro belga al no pactar presupuestos",
+       "url": "https://www.lavanguardia.com/internacional/20261102/11673842/primer-ministro-belga-presenta-dimision-fracasar-negociacion-presupuestaria.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones legislativas de EE.UU. (midterms)",
+   "resumen": "Trump cierra la campaña para las legislativas del 3 de noviembre, en las que se renuevan la Cámara de Representantes y 35 senadores.",
+   "medios": [
+    {
+     "medio": "abc",
+     "enfoque": "Recoge el cierre de campaña en Washington y las advertencias de Trump sobre demócratas 'yihadistas'.",
+     "noticias": [
+      {
+       "titular": "Trump cierra la campaña alertando de la llegada de demócratas «yihadistas» como Abdul el Sayed",
+       "url": "https://www.abc.es/internacional/trump-cierra-campana-washington-capital-renovada-pais-20261101213038-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge el mensaje de Trump sobre candidatos 'extremistas' y explica qué se vota el 3 de noviembre.",
+     "noticias": [
+      {
+       "titular": "Trump cierra su campaña para las legislativas: “Son las más importantes de nuestras vidas”",
+       "url": "https://www.lavanguardia.com/internacional/20261102/11674481/trump-cierra-campana-legislativas-son-mas-importantes-vidas.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "¿Cómo funcionan las 'midterm' y por qué son cruciales para Trump?",
+       "url": "https://www.lavanguardia.com/internacional/20261102/11673996/como-funcionan-midterm-elecciones-eeuu-trump.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Stevens traiciona a El-Sayed en Michigan con su apoyo al candidato republicano",
+       "url": "https://www.lavanguardia.com/internacional/20261102/11673780/apoyo-haley-stevens-candidato-republicano-traicion-michigan.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la cobertura de Urda y la presión política sobre el Gobierno y Adif, junto con el foro World in Progress. Incluye también contenidos de cultura y sociedad.",
+   "noticias": [
+    {
+     "titular": "Sánchez anuncia ayudas específicas y el adelanto de las indemnizaciones para las víctimas del accidente de Urda",
+     "url": "https://elpais.com/internacional/2026-11-02/sanchez-debemos-recuperar-la-confianza-en-la-alta-velocidad-cuanto-antes-y-cueste-lo-que-cueste.html",
+     "seccion": "América",
+     "resumen": "Sánchez anuncia ayudas y adelanto de indemnizaciones para las víctimas de Urda, que el Consejo de Ministros aprobará el martes."
+    },
+    {
+     "titular": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
+     "url": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html",
+     "seccion": "España",
+     "resumen": "Aumenta la presión para que cese el presidente de Adif antes de la comparecencia de Puente en el Congreso, por un posible error de protocolo en el centro de control."
+    },
+    {
+     "titular": "Feijóo se reivindica como gestor tras el accidente de Urda: “España no se arregla con frivolidad ni tampoco con bravuconadas”",
+     "url": "https://elpais.com/espana/2026-11-02/feijoo-se-reivindica-como-gestor-tras-el-accidente-de-urda-espana-no-se-arregla-con-frivolidad-ni-tampoco-con-bravuconadas.html",
+     "seccion": "España",
+     "resumen": "Feijóo acusa al Gobierno de frivolidad y califica de infame la actitud de Puente, dudando de que sean buena gente."
+    },
+    {
+     "titular": "La tragedia en Urda empuja a la ultraderecha a una espiral de brutalidad",
+     "url": "https://elpais.com/espana/2026-11-02/la-tragedia-empuja-a-la-ultraderecha-a-una-espiral-de-brutalidad.html",
+     "seccion": "España",
+     "resumen": "Análisis sobre cómo Vox y otros grupos extremistas difunden insultos y acusaciones contra el Gobierno tras la tragedia."
+    },
+    {
+     "titular": "Iryo defiende la fiabilidad de sus trenes, incluido el siniestrado, en la línea Madrid-Sevilla",
+     "url": "https://elpais.com/espana/2026-11-02/iryo-defiende-la-fiabilidad-de-sus-trenes-incluido-el-siniestrado-en-la-linea-madrid-sevilla.html",
+     "seccion": "España",
+     "resumen": "Iryo defiende la fiabilidad de su tren siniestrado y dice usar la misma tecnología de conexión al sistema LZB que Renfe y Ouigo."
+    },
+    {
+     "titular": "Pedro Sánchez: “España no se gobierna desde Washington, Tel Aviv, Moscú o Buenos Aires”",
+     "url": "https://elpais.com/internacional/2026-11-02/pedro-sanchez-espana-no-se-gobierna-desde-tel-aviv-moscu-o-buenos-aires.html",
+     "seccion": "World in Progress",
+     "resumen": "Sánchez rechaza que España se gobierne desde el exterior y acusa a la ultraderecha de buscar la fragmentación europea."
+    },
+    {
+     "titular": "José Luis Escrivá rechaza equiparar las inversiones en IA con otras que acabaron en burbuja",
+     "url": "https://elpais.com/internacional/2026-11-02/jose-luis-escriva-rechaza-equiparar-las-inversiones-en-ia-con-otras-que-acabaron-en-burbuja.html",
+     "seccion": "José Luis Escrivá",
+     "resumen": "Escrivá rechaza comparar las inversiones en IA con burbujas anteriores; De Guindos respalda la candidatura de Escrivá al BCE."
+    },
+    {
+     "titular": "Édouard Philippe: “Una victoria de Marine Le Pen romperá el contrato con Europa”",
+     "url": "https://elpais.com/internacional/2026-11-02/edouard-philippe-una-victoria-de-marine-le-pen-rompera-el-contrato-con-europa.html",
+     "seccion": "América",
+     "resumen": "Philippe advierte de que una victoria de Le Pen en Francia rompería el compromiso con Europa y pide convergencia franco-alemana."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en las consecuencias políticas de Urda: encuestas, certificaciones de seguridad y víctimas. Incluye también información sobre sucesos en Cataluña y Bélgica.",
+   "noticias": [
+    {
+     "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Transportes certificó 21 días antes del accidente que la red estaba en niveles aceptables de riesgo; la AESF rechazó paralizar el tráfico en octubre."
+    },
+    {
+     "titular": "El PSOE pierde 450.000 votos y cae por debajo de 100 escaños en la primera encuesta tras la tragedia de Urda",
+     "url": "https://www.elmundo.es/espana/encuestas/2026/11/01/6ae77446e4d4d8f3698b458a.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Una encuesta sitúa al PSOE por debajo de 100 escaños tras la tragedia y da al PP una mayoría holgada con Vox."
+    },
+    {
+     "titular": "Montero pide aplicar el artículo 128 para renacionalizar el ferrocarril y exige la dimisión de Óscar Puente",
+     "url": "https://www.elmundo.es/espana/2026/11/02/6ae882acfc6c83a01a8b456e.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Montero pide aplicar el artículo 128 para renacionalizar el ferrocarril y exige la dimisión de Óscar Puente."
+    },
+    {
+     "titular": "\"Accidente atentado\": así se activó un 'ejército digital' para exculpar al Gobierno tras la tragedia de Urda",
+     "url": "https://www.elmundo.es/cronica/2026/11/01/6ae4f536fc6c83707c8b458d.html",
+     "seccion": "Israel",
+     "resumen": "Explica cómo circularon en redes explicaciones de sabotaje israelí sin pruebas, que luego se amplificaron en TVE."
+    },
+    {
+     "titular": "Las vidas rotas del accidente de Urda: la mujer que iba a la boda de su hija, la ejecutiva a punto de jubilarse, el héroe que iba a ser padre, la científica que iba a por un premio...",
+     "url": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
+     "seccion": "Artículos Olga R. Sanmartín",
+     "resumen": "Historias personales de algunas de las 69 víctimas, de las que 66 han sido identificadas por los forenses."
+    },
+    {
+     "titular": "Dimite el jefe de gabinete de Salvador Illa, investigado por corrupción en su etapa de alcalde",
+     "url": "https://www.elmundo.es/cataluna/2026/11/02/6ae8fd4a21efa0e7358b4594.html",
+     "seccion": "Cataluña",
+     "resumen": "Dimite el jefe de gabinete de Illa, Eduard Rivas, que afronta una investigación por malversación."
+    },
+    {
+     "titular": "La Fiscalía de Bélgica abre una investigación sobre el ciberataque contra las cámaras frigoríficas de supermercados de varios países",
+     "url": "https://www.elmundo.es/economia/2026/11/02/6ae88536fc6c838b3c8b4581.html",
+     "seccion": "Bélgica",
+     "resumen": "La Fiscalía belga investiga el ciberataque a cámaras frigoríficas de supermercados, tras otro similar en Francia."
+    },
+    {
+     "titular": "Primer cara a cara de Milei con el \"dictador\" Sánchez: el momento más caliente de la Cumbre Iberoamericana",
+     "url": "https://www.elmundo.es/espana/2026/11/02/6ae8f157fdddff7b508b458e.html",
+     "seccion": "Javier Milei",
+     "resumen": "Primer cara a cara de Milei con Sánchez en la Cumbre Iberoamericana, tras sus viajes privados a España."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la cumbre iberoamericana y la respuesta de Puente con sucesos internacionales como Ucrania y Bélgica. Dedica espacio a información de sociedad y entretenimiento.",
+   "noticias": [
+    {
+     "titular": "XXX Cumbre Iberoamericana: marcada por el accidente de Urda y la polarización entre la neoderecha y el socialismo fallido",
+     "url": "https://www.abc.es/espana/xxx-cumbre-iberoamericana-marcada-accidente-urda-polarizacion-20261102233348-nt.html",
+     "seccion": "",
+     "resumen": "La XXX Cumbre Iberoamericana se celebra en Madrid el 4 y 5 de noviembre, marcada por el accidente de Urda; la agenda se cerró casi a última hora."
+    },
+    {
+     "titular": "Trump cierra la campaña alertando de la llegada de demócratas «yihadistas» como Abdul el Sayed",
+     "url": "https://www.abc.es/internacional/trump-cierra-campana-washington-capital-renovada-pais-20261101213038-nt.html",
+     "seccion": "",
+     "resumen": "Trump cierra campaña para las legislativas en Washington y advierte de la llegada de demócratas que llama 'yihadistas' y comunistas."
+    },
+    {
+     "titular": "Óscar Puente, el ministro que se ocupa de todo menos del Ministerio",
+     "url": "https://www.abc.es/espana/oscar-puente-ministro-ocupa-ministerio-20261029014523-nt.html",
+     "seccion": "",
+     "resumen": "Óscar Puente evita hablar de su dimisión y dice centrarse en esclarecer el accidente de Urda."
+    },
+    {
+     "titular": "Al menos 26 muertos en un ataque ruso contra una escuela en Ucrania",
+     "url": "https://www.abc.es/internacional/muertos-ataque-ruso-zaporiyia-ucrania-20261102202010-nt.html",
+     "seccion": "",
+     "resumen": "Ucrania denuncia ataques rusos contra una escuela con ayuda humanitaria que dejan al menos 26 muertos, tras expirar una tregua local en Jersón."
+    },
+    {
+     "titular": "El presidente de Renfe colonizó el operador con 15 políticos y el 'lobby' del autobús",
+     "url": "https://www.abc.es/espana/puente-permitio-presidente-renfe-colonizar-operador-politicos-20261102214018-nt.html",
+     "seccion": "",
+     "resumen": "Denuncia la colonización política de Adif y Renfe, con cargos políticos sin experiencia en el sector al frente de la operadora."
+    },
+    {
+     "titular": "Dimite el jefe de gabinete de Illa, investigado por presuntas irregularidades durante su etapa como alcalde",
+     "url": "https://www.abc.es/espana/cataluna/dimite-jefe-gabinete-illa-investigado-presuntas-irregularidades-20261102205307-nt.html",
+     "seccion": "",
+     "resumen": "Eduard Rivas deja la jefatura de gabinete de Illa; le sustituye Xavier Amor, en medio de una investigación por una fundación de Esparreguera."
+    },
+    {
+     "titular": "El primer ministro de Bélgica presenta su dimisión tras el fracaso de los presupuestos",
+     "url": "https://www.abc.es/internacional/primer-ministro-belgica-presenta-dimision-20261102101648-nt.html",
+     "seccion": "",
+     "resumen": "Bart de Wever presenta su dimisión como primer ministro belga tras no lograr aprobar un presupuesto con recortes."
+    },
+    {
+     "titular": "La Guardia Civil concluye la retirada de los últimos vagones y habilita un punto para dejar flores por las víctimas",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/guardia-civil-concluye-retirada-ultimos-vagones-habilita-20261102185935-nt.html",
+     "seccion": "",
+     "resumen": "La Guardia Civil retira los últimos vagones de Urda y habilita un punto para dejar flores por las víctimas."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Da peso a la cobertura internacional (EE.UU., Ucrania, Bélgica) y a la fiscalidad de la vivienda y la movilidad en Cataluña. Mantiene el seguimiento de Urda desde la perspectiva de las ayudas y la oposición.",
+   "noticias": [
+    {
+     "titular": "Trump cierra su campaña para las legislativas: “Son las más importantes de nuestras vidas”",
+     "url": "https://www.lavanguardia.com/internacional/20261102/11674481/trump-cierra-campana-legislativas-son-mas-importantes-vidas.html",
+     "seccion": "Internacional",
+     "resumen": "Trump cierra campaña para las legislativas y acusa a los demócratas de presentar candidatos extremistas."
+    },
+    {
+     "titular": "EE.UU. ha deportado a 25.000 migrantes a terceros países, varios cientos de ellos en África",
+     "url": "https://www.lavanguardia.com/internacional/20261102/11670372/ee-uu-deportado-25-000-migrantes-terceros-paises-cientos-africa.html",
+     "seccion": "Internacional",
+     "resumen": "EE.UU. ha expulsado a 25.000 migrantes a terceros países, dejando a miles de personas separadas de sus familias."
+    },
+    {
+     "titular": "Identificados los 69 fallecidos en el accidente ferroviario de Urda",
+     "url": "https://www.lavanguardia.com/vida/20261102/11674507/identificados-69-fallecidos-accidente-ferroviario-urda.html",
+     "seccion": "Sociedad",
+     "resumen": "Identificados los 69 fallecidos de Urda: 54 de nacionalidad española y 15 extranjeros."
+    },
+    {
+     "titular": "El Gobierno acelera la concesión de las ayudas para las víctimas, que alcanzarán los 84.141 euros",
+     "url": "https://www.lavanguardia.com/vida/20261102/11674161/gobierno-acelera-concesion-ayudas-victimas-alcanzaran-84-141-euros.html",
+     "seccion": "Sociedad",
+     "resumen": "El Gobierno acelera las ayudas a las víctimas, que llegarán a 84.141 euros e igualan las de Adamuz y Gelida."
+    },
+    {
+     "titular": "Feijóo ofrece “gestión, rigor y experiencia” frente al actual Gobierno: “Dudo que sean buena gente”",
+     "url": "https://www.lavanguardia.com/politica/20261102/11674005/feijoo-ofrece-gestion-rigor-experiencia-frente-gobierno-sanchez-dudo-sean-buena-gente.html",
+     "seccion": "Política",
+     "resumen": "Feijóo califica de 'infame, cruel y ruin' la actitud del Gobierno y sostiene que el Ejecutivo espera a las encuestas para decidir sobre Puente."
+    },
+    {
+     "titular": "El Frente Amplio propone recuperar el control público del ferrocarril fusionando Renfe y Adif",
+     "url": "https://www.lavanguardia.com/politica/20261102/11674199/frente-amplio-propone-recuperar-control-publico-ferrocarril-fusion-renfe-adif.html",
+     "seccion": "Política",
+     "resumen": "El Frente Amplio propone fusionar Renfe y Adif para recuperar el control público del ferrocarril, con una auditoría independiente."
+    },
+    {
+     "titular": "Nueva oleada de ciberataques a supermercados de varios países europeos",
+     "url": "https://www.lavanguardia.com/internacional/20261102/11673884/nueva-oleada-ciberataques-sistemas-refrigeracion-suecia-belgica-luxemburgo.html",
+     "seccion": "Internacional",
+     "resumen": "Nueva oleada de ciberataques a supermercados en Bélgica, Irlanda, Estonia y Suecia, semanas después del caso francés."
+    },
+    {
+     "titular": "Al menos 24 muertos en un ataque ruso contra una escuela en Zaporiyia",
+     "url": "https://www.lavanguardia.com/internacional/20261102/11674443/18-muertos-ataque-ruso-escuela-zaporiyia-zelenski.html",
+     "seccion": "Internacional",
+     "resumen": "Un ataque ruso contra una escuela en Zaporiyia deja al menos 24 muertos, según denuncia Zelenski."
+    },
+    {
+     "titular": "El ultranacionalista De Wever dimite como primer ministro belga al no pactar presupuestos",
+     "url": "https://www.lavanguardia.com/internacional/20261102/11673842/primer-ministro-belga-presenta-dimision-fracasar-negociacion-presupuestaria.html",
+     "seccion": "Internacional",
+     "resumen": "Bart de Wever dimite como primer ministro belga por no pactar presupuestos; el rey Felipe medita su futuro."
+    }
+   ]
+  }
+ ]
+}
