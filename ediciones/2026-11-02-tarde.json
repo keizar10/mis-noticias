@@ -1,0 +1,206 @@
+{
+ "fecha": "2026-11-02",
+ "franja": "tarde",
+ "generada": "2026-11-02T14:57+01:00",
+ "con_ia": true,
+ "resumen_dia": "El accidente ferroviario de Urda (Toledo), con 69 fallecidos según el balance recogido, domina la portada de los cuatro diarios, con foco en las responsabilidades del Gobierno y de Adif, las ayudas a las víctimas y la investigación sobre el sistema de seguridad LZB. En paralelo, el Foro World in Progress de Barcelona concentra el debate europeo e internacional, y la política nacional gira en torno a la reacción de la oposición y a la precampaña para las elecciones generales del 29N. También destacan los ciberataques a sistemas de refrigeración en varios países europeos y la crisis de gobierno en Bélgica.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\":\"Accidente de Urda: ayudas y víctimas\",\"resumen\":\"Sánchez anuncia ayudas y el adelanto de indemnizaciones para las víctimas, que el Consejo de Ministros aprobaría este martes. El balance del accidente asciende a 69 fallecidos, de los que 66 han sido identificados.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Pone el foco en las medidas del Gobierno anunciadas por Sánchez y en la necesidad de recuperar la confianza en la alta velocidad.\",\"ids\":[\"elpais-0\",\"elpais-4\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Resalta las historias personales de las víctimas identificadas y la información práctica para familiares.\",\"ids\":[\"elmundo-9\",\"elmundo-1\"]},{\"medio\":\"abc\",\"enfoque\":\"Recoge el balance de fallecidos, la identificación de víctimas y testimonios de supervivientes.\",\"ids\":[\"abc-0\",\"abc-10\",\"abc-11\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Trata el accidente sobre todo desde la óptica de las medidas operativas, como las nuevas velocidades de reanudación tras fallos del LZB.\",\"ids\":[\"lavanguardia-1\",\"lavanguardia-3\"]}]},{\"titulo\":\"Responsabilidades en Adif y el Ministerio de Transportes\",\"resumen\":\"Se pide el cese del presidente de Adif, Luis Pedro Marco de la Peña, antes de la comparecencia de Óscar Puente en el Congreso. Se cuestiona la certificación ministerial de la red y la situación financiera y directiva del gestor.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Destaca la presión para el cese del presidente de Adif y la investigación sobre un posible error de protocolo en el centro de control de Atocha.\",\"ids\":[\"elpais-1\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Subraya que el Ministerio certificó la red en niveles aceptables de riesgo y analiza la composición del consejo de Adif.\",\"ids\":[\"elmundo-2\",\"elmundo-8\",\"elmundo-4\"]},{\"medio\":\"abc\",\"enfoque\":\"Pone el acento en la reunión sobre mantenimiento de Adif y en la petición de Mañueco a Puente para que asuma responsabilidades.\",\"ids\":[\"abc-16\",\"abc-5\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Plantea la hipótesis de que la caída del sistema LZB se debiera a inestabilidad de la red eléctrica.\",\"ids\":[\"lavanguardia-5\"]}]},{\"titulo\":\"Reacción política del PP y Feijóo\",\"resumen\":\"Feijóo critica la gestión del Gobierno tras el accidente y reclama que Sánchez o Puente den explicaciones; también presenta su propuesta de gestión de cara a las elecciones del 29N.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Recoge la petición de Feijóo para que Sánchez comparezca en la Diputación Permanente y su defensa de la gestión.\",\"ids\":[\"elpais-2\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Enfoca el discurso de la 'reconstrucción nacional' y la acusación de sondeos por parte del Gobierno.\",\"ids\":[\"elmundo-12\"]},{\"medio\":\"abc\",\"enfoque\":\"Destaca el plan de precampaña de Feijóo y el llamamiento a sus barones territoriales.\",\"ids\":[\"abc-12\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Recoge las críticas del líder del PP al Gobierno y su petición de cese de Óscar Puente.\",\"ids\":[\"lavanguardia-6\"]}]},{\"titulo\":\"Foro World in Progress en Barcelona\",\"resumen\":\"El foro reúne a Sánchez, Albares, Illa y otros líderes para debatir sobre la defensa del progreso, la injerencia externa y la política europea. Se abordan también la situación de los centros de migrantes en Ceuta y los retornos.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Recoge las intervenciones de Sánchez, Albares, Illa y Collboni, con críticas a la ultraderecha y a la Administración estadounidense.\",\"ids\":[\"elpais-6\",\"elpais-7\",\"elpais-8\",\"elpais-10\"]},{\"medio\":\"elmundo\",\"enfoque\":\"No trata el foro en su portada.\",\"ids\":[]},{\"medio\":\"abc\",\"enfoque\":\"No trata el foro en su portada.\",\"ids\":[]},{\"medio\":\"lavanguardia\",\"enfoque\":\"No trata el foro en su portada.\",\"ids\":[]}]},{\"titulo\":\"Ciberataque a refrigeración de supermercados europeos\",\"resumen\":\"Un nuevo ciberataque ha alterado la temperatura de cámaras frigoríficas de supermercados en Bélgica, Luxemburgo, Suecia, Estonia e Irlanda, semanas después de un incidente similar en Francia.\",\"medios\":[{\"medio\":\"elmundo\",\"enfoque\":\"Sitúa el ataque en Bélgica, Luxemburgo, Suecia y Estonia y lo vincula con el caso francés previo.\",\"ids\":[\"elmundo-15\"]},{\"medio\":\"abc\",\"enfoque\":\"Destaca las pérdidas millonarias y la similitud con el ataque reciente en Francia.\",\"ids\":[\"abc-3\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Incluye también a Irlanda entre los países afectados y lo sitúa como respuesta a un incidente en Francia.\",\"ids\":[\"lavanguardia-14\"]}]},{\"titulo\":\"Crisis de gobierno en Bélgica\",\"resumen\":\"El primer ministro belga, Bart De Wever, presenta su dimisión tras no lograr un acuerdo presupuestario con los socios de gobierno; el Rey la deja en suspenso hasta el viernes.\",\"medios\":[{\"medio\":\"elmundo\",\"enfoque\":\"Recoge la dimisión y el plazo del Rey, así como el recorte de 10.000 millones que pretendía el primer ministro.\",\"ids\":[\"elmundo-13\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Caracteriza a De Wever como ultranacionalista y se centra en el papel del rey para decidir sobre su futuro.\",\"ids\":[\"lavanguardia-16\"]}]}]",
+ "temas_comunes": [],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza el accidente de Urda desde la perspectiva del Gobierno y la presión política sobre Adif, junto con el Foro World in Progress. Incluye además varios reportajes de sociedad y cultura.",
+   "noticias": [
+    {
+     "titular": "Sánchez anuncia ayudas específicas y el adelanto de las indemnizaciones para las víctimas del accidente de Urda",
+     "url": "https://elpais.com/internacional/2026-11-02/sanchez-debemos-recuperar-la-confianza-en-la-alta-velocidad-cuanto-antes-y-cueste-lo-que-cueste.html",
+     "seccion": "América",
+     "resumen": "Sánchez anuncia ayudas y adelanto de indemnizaciones para víctimas de Urda; el Consejo de Ministros lo aprobaría el martes."
+    },
+    {
+     "titular": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
+     "url": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html",
+     "seccion": "España",
+     "resumen": "Presión para el cese del presidente de Adif antes de la comparecencia de Puente en el Congreso, por la investigación sobre un posible error de protocolo en Atocha."
+    },
+    {
+     "titular": "Feijóo se reivindica como gestor tras el accidente de Urda: “España no se arregla con frivolidad ni tampoco con bravuconadas”",
+     "url": "https://elpais.com/espana/2026-11-02/feijoo-se-reivindica-como-gestor-tras-el-accidente-de-urda-espana-no-se-arregla-con-frivolidad-ni-tampoco-con-bravuconadas.html",
+     "seccion": "España",
+     "resumen": "Feijóo reclama que Sánchez dé explicaciones en la Diputación Permanente y acusa al Gobierno de falta de rigor."
+    },
+    {
+     "titular": "La tragedia en Urda empuja a la ultraderecha a una espiral de brutalidad",
+     "url": "https://elpais.com/espana/2026-11-02/la-tragedia-empuja-a-la-ultraderecha-a-una-espiral-de-brutalidad.html",
+     "seccion": "España",
+     "resumen": "Vox y otros grupos extremistas difunden insultos y acusaciones contra el Gobierno en redes y calles tras la tragedia."
+    },
+    {
+     "titular": "Foro World in Progress 2026 de Barcelona, en directo | Saiz afirma que el Gobierno trabaja ya en el desmontaje de centros de migrantes en Ceuta ante los miles de retornos",
+     "url": "https://elpais.com/internacional/2026-11-02/foro-world-in-progress-de-barcelona-en-directo.html",
+     "seccion": "World in Progress",
+     "resumen": "Foro WIP: Saiz habla del desmontaje de centros de migrantes en Ceuta ante los retornos; Sánchez y otros líderes intervienen sobre progreso y Europa."
+    },
+    {
+     "titular": "Iryo defiende la fiabilidad de sus trenes, incluido el siniestrado, en la línea Madrid-Sevilla",
+     "url": "https://elpais.com/espana/2026-11-02/iryo-defiende-la-fiabilidad-de-sus-trenes-incluido-el-siniestrado-en-la-linea-madrid-sevilla.html",
+     "seccion": "España",
+     "resumen": "Iryo defiende la fiabilidad de sus trenes y afirma que usa la misma tecnología que Renfe y Ouigo para conectarse al sistema LZB."
+    },
+    {
+     "titular": "Édouard Philippe: “Una victoria de Marine Le Pen romperá el contrato con Europa”",
+     "url": "https://elpais.com/internacional/2026-11-02/edouard-philippe-una-victoria-de-marine-le-pen-rompera-el-contrato-con-europa.html",
+     "seccion": "América",
+     "resumen": "Philippe advierte de que una victoria de Le Pen rompería el contrato con Europa y pide un eje Francia-Alemania."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la investigación sobre Urda, la responsabilidad de Adif y del Ministerio, y la difusión de bulos. Mantiene también información sobre la vida de las víctimas.",
+   "noticias": [
+    {
+     "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "El Ministerio certificó 21 días antes del accidente que la red estaba en niveles aceptables de riesgo; la AESF rechazó paralizar el tráfico."
+    },
+    {
+     "titular": "Las vidas rotas del accidente de Urda: la mujer que iba a la boda de su hija, la ejecutiva a punto de jubilarse, el héroe que iba a ser padre, la científica que iba a por un premio...",
+     "url": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
+     "seccion": "Artículos Olga R. Sanmartín",
+     "resumen": "Historias de algunas de las 66 víctimas identificadas de las 69 fallecidas."
+    },
+    {
+     "titular": "\"Accidente atentado\": así se activó un 'ejército digital' para exculpar al Gobierno tras la tragedia de Urda",
+     "url": "https://www.elmundo.es/cronica/2026/11/01/6ae4f536fc6c83707c8b458d.html",
+     "seccion": "Israel",
+     "resumen": "Explica cómo se difundió en redes la tesis de un sabotaje israelí tras el accidente y su amplificación posterior."
+    },
+    {
+     "titular": "Adif mantiene su cúpula con el nivel más bajo de los grandes gestores ferroviarios europeos y una deuda de 20.000 millones que necesita rescate del Estado",
+     "url": "https://www.elmundo.es/economia/2026/11/02/6ae749a821efa0e7358b456d.html",
+     "seccion": "Artículos Carlos Segovia",
+     "resumen": "Adif tiene una deuda de 20.000 millones y un consejo dominado por funcionarios, con menor nivel que sus homólogos europeos."
+    },
+    {
+     "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+     "seccion": "Artículos Emilio Amade",
+     "resumen": "Gráficos que explican el sistema de señalización del tramo Madrid-Sevilla y las dudas sobre la seguridad."
+    },
+    {
+     "titular": "Montero pide aplicar el artículo 128 para renacionalizar el ferrocarril y exige la dimisión de Óscar Puente",
+     "url": "https://www.elmundo.es/espana/2026/11/02/6ae882acfc6c83a01a8b456e.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Montero pide renacionalizar el ferrocarril y la dimisión de Óscar Puente."
+    },
+    {
+     "titular": "El primer ministro de Bélgica presenta su dimisión tras \"el fracaso en la negociación de los presupuestos\" y el Rey la deja en suspenso hasta el viernes",
+     "url": "https://www.elmundo.es/internacional/2026/11/02/6ae85b41e9cf4abb738b4583.html",
+     "seccion": "Bélgica",
+     "resumen": "Dimite el primer ministro belga tras el fracaso en la negociación presupuestaria; el Rey lo deja en suspenso hasta el viernes."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina el seguimiento de Urda, con testimonios de supervivientes y el balance de víctimas, con temas de servicio y sucesos. Incluye también la crisis en Polonia y la política nacional.",
+   "noticias": [
+    {
+     "titular": "El trabajador portugués del Iryo, una premio nacional de música, una directiva de éxito... Las vidas que se perdieron en Urda",
+     "url": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+     "seccion": "",
+     "resumen": "Balance de 69 fallecidos en Urda, con 66 identificados, y perfiles de algunas de las víctimas."
+    },
+    {
+     "titular": "Adif diluye los datos de mantenimiento de la Alta Velocidad para ocultar que sólo invirtió 438 millones",
+     "url": "https://www.abc.es/espana/adif-diluye-datos-mantenimiento-alta-velocidad-computo-20261102124814-nt.html",
+     "seccion": "",
+     "resumen": "Adif responde a una información de ABC sobre la petición de duplicar el presupuesto de mantenimiento de Alta Velocidad."
+    },
+    {
+     "titular": "Una superviviente del AVE: «Mi obsesión era salir; decía: 'como venga otro tren nos lleva por delante'»",
+     "url": "https://www.abc.es/espana/andalucia/cristina-cuervas-superviviente-ave-obsesion-era-salir-20261102135430-nts.html",
+     "seccion": "",
+     "resumen": "Testimonio de una superviviente que describe el impacto a casi 200 km/h."
+    },
+    {
+     "titular": "Mañueco exige a Puente que «diga la verdad» y que «asuma sus responsabilidades»",
+     "url": "https://www.abc.es/espana/castilla-leon/manueco-exige-puente-diga-verdad-asuma-responsabilidades-20261102125052-nt.html",
+     "seccion": "",
+     "resumen": "Mañueco pide a Puente que diga la verdad y asuma responsabilidades por el accidente."
+    },
+    {
+     "titular": "Feijóo pide a sus barones «servir y defender España» frente a la «huida» del Gobierno",
+     "url": "https://www.abc.es/espana/feijoo-pide-barones-servir-defender-espana-frente-20261102125709-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo pide a sus barones defender España en su plan de precampaña para el 29N."
+    },
+    {
+     "titular": "Un nuevo ciberataque daña los congeladores de varios supermercados europeos",
+     "url": "https://www.abc.es/tecnologia/nuevo-ciberataque-altera-sistemas-refrigeracion-supermercados-suecia-20261102114132-nt.html",
+     "seccion": "",
+     "resumen": "Nuevo ciberataque a congeladores de supermercados en Bélgica, Luxemburgo, Suecia y Estonia con pérdidas millonarias."
+    },
+    {
+     "titular": "Anna Korwin-Piotrowska, la juez que detonó la grave crisis institucional que sacude a Polonia",
+     "url": "https://www.abc.es/internacional/anna-korwinpiotrowska-juez-detono-grave-crisis-institucional-20261101013947-nt.html",
+     "seccion": "",
+     "resumen": "La jueza Anna Korwin-Piotrowska suspende durante un mes al presidente y vicepresidente del Tribunal Constitucional polaco, abriendo una crisis institucional."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza el impacto de Urda en la movilidad y las medidas de seguridad ferroviaria, junto con la política catalana y la situación en EE.UU. Mantiene también temas de economía y vivienda.",
+   "noticias": [
+    {
+     "titular": "Renfe prepara nuevas instrucciones de velocidad máxima si falla el sistema LZB",
+     "url": "https://www.lavanguardia.com/vida/20261102/11673609/renfe-prepara-nuevas-instrucciones-velocidad-maxima-falla-sistema-lzb.html",
+     "seccion": "Sociedad",
+     "resumen": "Renfe prepara una instrucción de velocidad máxima de 40 km/h para reanudar la marcha si falla el LZB, según un borrador."
+    },
+    {
+     "titular": "Iryo pide revisar los protocolos de seguridad ferroviaria tras el accidente de Urda",
+     "url": "https://www.lavanguardia.com/vida/20261102/11674049/iryo-pide-revisar-protocolos-seguridad-ferroviaria-accidente-urda.html",
+     "seccion": "Sociedad",
+     "resumen": "Iryo pide revisar protocolos de seguridad y limitar a 40 km/h los trenes que circulen bajo BSL."
+    },
+    {
+     "titular": "La investigación debe aclarar si el sistema de seguridad cayó por inestabilidad de la red eléctrica",
+     "url": "https://www.lavanguardia.com/vida/20261102/11673528/investigacion-debe-aclarar-sistema-cayo-inestabilidad-red.html",
+     "seccion": "Sociedad",
+     "resumen": "Un ingeniero apunta a que la inestabilidad de la red eléctrica pudo provocar la caída del sistema LZB."
+    },
+    {
+     "titular": "Feijóo ofrece “gestión, rigor y experiencia” frente al Gobierno de Sánchez: “Dudo que sean buena gente”",
+     "url": "https://www.lavanguardia.com/politica/20261102/11674005/feijoo-ofrece-gestion-rigor-experiencia-frente-gobierno-sanchez-dudo-sean-buena-gente.html",
+     "seccion": "Política",
+     "resumen": "Feijóo acusa al Gobierno de estar pendiente de encuestas para decidir sobre el cese de Óscar Puente."
+    },
+    {
+     "titular": "Las empresas reducen el uso de la alta velocidad Barcelona - Madrid",
+     "url": "https://www.lavanguardia.com/economia/20261102/11673495/me-fio-ave-trabajar-empresas-reducen-tren-crisis.html",
+     "seccion": "Economía",
+     "resumen": "Las empresas reducen el uso del AVE Barcelona-Madrid en favor de reuniones telemáticas o del avión."
+    },
+    {
+     "titular": "El ultranacionalista De Wever dimite como primer ministro belga al no pactar presupuestos",
+     "url": "https://www.lavanguardia.com/internacional/20261102/11673842/primer-ministro-belga-presenta-dimision-fracasar-negociacion-presupuestaria.html",
+     "seccion": "Internacional",
+     "resumen": "Bart De Wever dimite como primer ministro belga al no lograr pactar presupuestos."
+    },
+    {
+     "titular": "EE.UU. ha deportado a 25.000 migrantes a terceros países, varios cientos de ellos en África",
+     "url": "https://www.lavanguardia.com/internacional/20261102/11670372/ee-uu-deportado-25-000-migrantes-terceros-paises-cientos-africa.html",
+     "seccion": "Internacional",
+     "resumen": "EE.UU. ha deportado a 25.000 migrantes a terceros países, varios cientos en África, dejando a miles de personas separadas de sus familias."
+    }
+   ]
+  }
+ ]
+}
