@@ -1,43 +1,38 @@
 {
  "fecha": "2026-11-03",
- "franja": "mañana",
- "generada": "2026-11-03T00:43+01:00",
+ "franja": "tarde",
+ "generada": "2026-11-03T14:06+01:00",
  "con_ia": true,
- "resumen_dia": "El accidente ferroviario de Urda (Toledo), con 69 fallecidos identificados, domina la jornada: el Gobierno anuncia ayudas y adelanto de indemnizaciones, y la oposición pide la dimisión del ministro Óscar Puente y del presidente de Adif. Además, la primera jornada del foro World in Progress recoge las intervenciones de Pedro Sánchez y otros líderes sobre Europa y el orden internacional. En EE.UU., Trump cierra campaña para las legislativas de noviembre, y en Bélgica, el primer ministro Bart de Wever presenta su dimisión tras el fracaso de los presupuestos.",
+ "resumen_dia": "El accidente ferroviario de Urda (Toledo), con 69 muertos identificados, domina la actualidad y provoca medidas de seguridad, ayudas de 30 millones y una fuerte presión política sobre el ministro Puente, que comparece en el Congreso. Las elecciones de mitad de mandato en Estados Unidos se celebran hoy con Trump en el centro del debate. También destacan la muerte del delantero del Tenerife Jesús de Miguel tras un choque en el partido ante el Andorra y el desalojo de la acampada de Sol en Madrid.",
  "temas_comunes": [
   {
-   "titulo": "Accidente ferroviario de Urda y ayudas a víctimas",
-   "resumen": "El accidente de Urda (Toledo) deja 69 fallecidos, 54 españoles y 15 extranjeros. El Gobierno acelera ayudas de 84.141 euros por víctima, que igualan las aprobadas para Adamuz y Gelida.",
+   "titulo": "Accidente ferroviario de Urda y medidas de seguridad",
+   "resumen": "El accidente de Urda (Toledo) deja 69 fallecidos identificados. Transportes reducirá la circulación en la línea Madrid-Sevilla y exigirá doble supervisión de las órdenes a maquinistas hasta que esté operativo el sistema ERTMS; el Consejo de Ministros aprueba 30 millones en ayudas a las víctimas.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Subraya el anuncio de Sánchez de ayudas y adelanto de indemnizaciones, y la presión sobre el presidente de Adif antes de la comparecencia de Puente.",
+     "enfoque": "Subraya las medidas de Adif y el Gobierno, la comparecencia de Puente y la investigación sobre la orden equivocada al AVE.",
      "noticias": [
       {
-       "titular": "Sánchez anuncia ayudas específicas y el adelanto de las indemnizaciones para las víctimas del accidente de Urda",
-       "url": "https://elpais.com/internacional/2026-11-02/sanchez-debemos-recuperar-la-confianza-en-la-alta-velocidad-cuanto-antes-y-cueste-lo-que-cueste.html",
-       "seccion": "América"
-      },
-      {
-       "titular": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
-       "url": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html",
+       "titular": "Transportes reducirá la circulación en la vía Madrid-Sevilla para separar más los trenes hasta que esté en pie el nuevo sistema de seguridad ERTMS",
+       "url": "https://elpais.com/espana/2026-11-03/transportes-reducira-la-circulacion-en-la-via-madrid-sevilla-para-separar-mas-los-trenes-hasta-que-este-en-pie-el-nuevo-sistema-de-seguridad-ertms.html",
        "seccion": "España"
       },
       {
-       "titular": "Iryo defiende la fiabilidad de sus trenes, incluido el siniestrado, en la línea Madrid-Sevilla",
-       "url": "https://elpais.com/espana/2026-11-02/iryo-defiende-la-fiabilidad-de-sus-trenes-incluido-el-siniestrado-en-la-linea-madrid-sevilla.html",
-       "seccion": "España"
+       "titular": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Adif comprueba si la orden equivocada de marcha al AVE de Urda se dio por ser una costumbre",
+       "url": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
+       "seccion": "Accidente trenes Urda"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Destaca la certificación ministerial de la red como de 'riesgo aceptable' días antes, la lista de víctimas y la difusión de explicaciones sobre sabotaje.",
+     "enfoque": "Pone el foco en los controles de seguridad, la certificación previa del Ministerio y la negativa de la Agencia Ferroviaria a paralizar el tráfico.",
      "noticias": [
       {
-       "titular": "¿Cómo pueden informarse los familiares? Teléfonos de atención a víctimas y allegados y puntos de ayuda para los afectados por el accidente de tren de Urda (Toledo)",
-       "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
-       "seccion": "Accidente tren Toledo"
+       "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+       "seccion": "Artículos Emilio Amade"
       },
       {
        "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
@@ -45,50 +40,45 @@
        "seccion": "Accidente tren Toledo"
       },
       {
-       "titular": "\"Accidente atentado\": así se activó un 'ejército digital' para exculpar al Gobierno tras la tragedia de Urda",
-       "url": "https://www.elmundo.es/cronica/2026/11/01/6ae4f536fc6c83707c8b458d.html",
-       "seccion": "Israel"
-      },
-      {
-       "titular": "Las vidas rotas del accidente de Urda: la mujer que iba a la boda de su hija, la ejecutiva a punto de jubilarse, el héroe que iba a ser padre, la científica que iba a por un premio...",
-       "url": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
-       "seccion": "Artículos Olga R. Sanmartín"
+       "titular": "El Consejo de Ministros aprueba un escudo de ayudas económicas de 30 millones de euros para las víctimas del accidente ferroviario de Urda (Toledo)",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9a3ade9cf4a88748b457b.html",
+       "seccion": "Accidente tren Toledo"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Centra el foco en la respuesta de Óscar Puente ante su posible dimisión y en la politización de Adif y Renfe.",
+     "enfoque": "Destaca el balance de víctimas, con 54 españoles y 15 extranjeros, y la reducción de frecuencias durante las obras.",
      "noticias": [
       {
-       "titular": "Óscar Puente, el ministro que se ocupa de todo menos del Ministerio",
-       "url": "https://www.abc.es/espana/oscar-puente-ministro-ocupa-ministerio-20261029014523-nt.html",
+       "titular": "Transportes reducirá la frecuencia en la línea Madrid-Sevilla durante las obras para implantar el nuevo sistema de seguridad",
+       "url": "https://www.abc.es/espana/ultima-hora-accidente-tren-urda-directo-comparecencia-20261103110818-di.html",
        "seccion": ""
       },
       {
-       "titular": "El presidente de Renfe colonizó el operador con 15 políticos y el 'lobby' del autobús",
-       "url": "https://www.abc.es/espana/puente-permitio-presidente-renfe-colonizar-operador-politicos-20261102214018-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "La Guardia Civil concluye la retirada de los últimos vagones y habilita un punto para dejar flores por las víctimas",
-       "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/guardia-civil-concluye-retirada-ultimos-vagones-habilita-20261102185935-nt.html",
+       "titular": "Las vidas que se perdieron en Urda",
+       "url": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Informa del balance de 69 identificados y de la aceleración de las ayudas, con la comparación con accidentes previos.",
+     "enfoque": "Enfoca el impacto económico del posible corte de la línea Madrid-Barcelona y el aislamiento político del ministro.",
      "noticias": [
       {
-       "titular": "Identificados los 69 fallecidos en el accidente ferroviario de Urda",
-       "url": "https://www.lavanguardia.com/vida/20261102/11674507/identificados-69-fallecidos-accidente-ferroviario-urda.html",
+       "titular": "Óscar Puente comparece tras el Consejo de Ministros",
+       "url": "https://www.lavanguardia.com/vida/20261103/11674702/choque-de-trenes-toledo-oscar-puente-investigacion-ultima-hora-hoy-en-directo.html",
        "seccion": "Sociedad"
       },
       {
-       "titular": "El Gobierno acelera la concesión de las ayudas para las víctimas, que alcanzarán los 84.141 euros",
-       "url": "https://www.lavanguardia.com/vida/20261102/11674161/gobierno-acelera-concesion-ayudas-victimas-alcanzaran-84-141-euros.html",
+       "titular": "Puente afronta el examen del Congreso acorralado por los grupos",
+       "url": "https://www.lavanguardia.com/politica/20261103/11674426/puente-afronta-examen-congreso-diputacion-acorralado-grupos-urda.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Catalunya presiona contra el cierre total de la línea Barcelona-Madrid",
+       "url": "https://www.lavanguardia.com/vida/20261103/11674498/catalunya-presiona-cierre-total-linea-barcelona-madrid.html",
        "seccion": "Sociedad"
       }
      ]
@@ -96,64 +86,64 @@
    ]
   },
   {
-   "titulo": "Crítica de Feijóo y PP al Gobierno tras Urda",
-   "resumen": "El líder del PP acusa al Gobierno de actuar con frivolidad y pide la dimisión de Óscar Puente, mientras la oposición de izquierdas plantea renacionalizar el ferrocarril.",
+   "titulo": "Presión política tras la tragedia ferroviaria",
+   "resumen": "La mayoría parlamentaria pide la dimisión de Puente, mientras el PP reclama al Gobierno explicaciones y pide a los sindicatos desconvocar la huelga general del 11 de noviembre.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Recoge las palabras de Feijóo, que tilda la actitud de Puente de 'infame' y dice dudar de la calidad humana del Gobierno.",
+     "enfoque": "Recoge la petición de desconvocar la huelga general de Feijóo y la respuesta de los sindicatos, calificada por ellos de insultante.",
      "noticias": [
       {
-       "titular": "Feijóo se reivindica como gestor tras el accidente de Urda: “España no se arregla con frivolidad ni tampoco con bravuconadas”",
-       "url": "https://elpais.com/espana/2026-11-02/feijoo-se-reivindica-como-gestor-tras-el-accidente-de-urda-espana-no-se-arregla-con-frivolidad-ni-tampoco-con-bravuconadas.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "La tragedia en Urda empuja a la ultraderecha a una espiral de brutalidad",
-       "url": "https://elpais.com/espana/2026-11-02/la-tragedia-empuja-a-la-ultraderecha-a-una-espiral-de-brutalidad.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Presenta una encuesta en la que el PSOE baja por debajo de 100 escaños y Montero pide la renacionalización y la dimisión de Puente.",
-     "noticias": [
-      {
-       "titular": "El PSOE pierde 450.000 votos y cae por debajo de 100 escaños en la primera encuesta tras la tragedia de Urda",
-       "url": "https://www.elmundo.es/espana/encuestas/2026/11/01/6ae77446e4d4d8f3698b458a.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Montero pide aplicar el artículo 128 para renacionalizar el ferrocarril y exige la dimisión de Óscar Puente",
-       "url": "https://www.elmundo.es/espana/2026/11/02/6ae882acfc6c83a01a8b456e.html",
+       "titular": "Feijóo pide a los sindicatos que desconvoquen la huelga general por la tragedia de Urda: “69 muertos después es un grave error”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/feijoo-pide-a-los-sindicatos-que-desconvoquen-la-huelga-general-por-la-tragedia-de-urda-69-muertos-despues-es-un-grave-error.html",
        "seccion": "Elecciones Generales"
       }
      ]
     },
     {
-     "medio": "abc",
-     "enfoque": "Recoge la precampaña de Feijóo con sus barones y el mensaje de 'gestión, rigor y experiencia'.",
+     "medio": "elmundo",
+     "enfoque": "Recoge las críticas de Feijóo a Sánchez y a Puente y el posible efecto electoral en Madrid y en las provincias.",
      "noticias": [
       {
-       "titular": "Feijóo pide a sus barones «servir y defender España» frente a la «huida» del Gobierno",
-       "url": "https://www.abc.es/espana/feijoo-pide-barones-servir-defender-espana-frente-20261102125709-nt.html",
+       "titular": "Feijóo culpa a Sánchez por desoír las alertas sobre la seguridad ferroviaria y sentencia a Puente: \"Es peor que Ábalos\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/03/6ae9d485e4d4d802508b459a.html",
+       "seccion": "PP"
+      },
+      {
+       "titular": "Feijóo puede ganar en 36 provincias y Vox desbanca al PSOE en Madrid tras la tragedia de Urda",
+       "url": "https://www.elmundo.es/espana/encuestas/2026/11/03/6ae8d3cefdddffb1178b4574.html",
+       "seccion": "Artículos Paloma H. Matellano"
+      },
+      {
+       "titular": "Ada Colau: \"Puente debe dimitir por empatía y humanidad con las víctimas del accidente\"",
+       "url": "https://www.elmundo.es/cataluna/2026/11/02/6ae8f133e9cf4a27488b45a4.html",
+       "seccion": "NLPremium"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la petición de Feijóo a los sindicatos y la moción de Murcia que declara a Sánchez persona non grata.",
+     "noticias": [
+      {
+       "titular": "Feijóo pide a los sindicatos desconvocar la huelga general: «Con 69 muertos es un grave error»",
+       "url": "https://www.abc.es/espana/feijoo-pide-sindicados-desconvocar-huelga-general-muertos-20261103100101-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Sánchez, 'persona non grata' en Murcia, la primera comunidad autónoma en aprobarlo",
+       "url": "https://www.abc.es/espana/murcia/sanchez-persona-non-grata-murcia-primera-comunidad-20261103122238-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Recoge la crítica de Feijóo y la propuesta del Frente Amplio de fusionar Renfe y Adif.",
+     "enfoque": "Señala que Sánchez mantiene su respaldo a Puente pese al aislamiento en el Congreso.",
      "noticias": [
       {
-       "titular": "Feijóo ofrece “gestión, rigor y experiencia” frente al actual Gobierno: “Dudo que sean buena gente”",
-       "url": "https://www.lavanguardia.com/politica/20261102/11674005/feijoo-ofrece-gestion-rigor-experiencia-frente-gobierno-sanchez-dudo-sean-buena-gente.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "El Frente Amplio propone recuperar el control público del ferrocarril fusionando Renfe y Adif",
-       "url": "https://www.lavanguardia.com/politica/20261102/11674199/frente-amplio-propone-recuperar-control-publico-ferrocarril-fusion-renfe-adif.html",
+       "titular": "Puente afronta el examen del Congreso acorralado por los grupos",
+       "url": "https://www.lavanguardia.com/politica/20261103/11674426/puente-afronta-examen-congreso-diputacion-acorralado-grupos-urda.html",
        "seccion": "Política"
       }
      ]
@@ -161,166 +151,144 @@
    ]
   },
   {
-   "titulo": "Ciberataque a cámaras frigoríficas de supermercados europeos",
-   "resumen": "Una nueva oleada de ciberataques afecta a supermercados de varios países europeos, semanas después de un incidente similar en Francia. Bélgica abre una investigación.",
+   "titulo": "Elecciones de mitad de mandato en Estados Unidos",
+   "resumen": "Estados Unidos celebra hoy las elecciones legislativas de mitad de mandato, que miden el poder de Trump en el Congreso. Las encuestas apuntan a posibles cambios en la Cámara de Representantes y en el Senado.",
    "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Ofrece cobertura especial con claves de la cita y el papel del voto hispano.",
+     "noticias": [
+      {
+       "titular": "Estados Unidos vota en unas ‘midterms’ decisivas para el poder de Trump: siete claves de las elecciones",
+       "url": "https://elpais.com/us/2026-11-03/estados-unidos-vota-en-unas-midterms-decisivas-para-el-poder-de-trump-siete-claves-de-las-elecciones.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Videoanálisis | “Los hispanos elegibles para votar pueden determinar la dirección del país o si habrá una ‘ola azul”",
+       "url": "https://elpais.com/us/2026-11-03/videoanalisis-los-hispanos-elegibles-para-votar-pueden-determinar-la-direccion-del-pais-o-si-habra-una-ola-azul.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "EL PAÍS ofrece una cobertura especial de las elecciones ‘midterms’ en Estados Unidos",
+       "url": "https://elpais.com/us/2026-11-03/el-pais-ofrece-una-cobertura-especial-de-las-elecciones-midterms-en-estados-unidos.html",
+       "seccion": "Elecciones EE UU"
+      }
+     ]
+    },
     {
      "medio": "elmundo",
-     "enfoque": "Recoge la apertura de una investigación por la Fiscalía belga sobre el ataque.",
+     "enfoque": "Subraya el posible cambio de mayoría y la ofensiva de Trump en Washington antes de la cita.",
      "noticias": [
       {
-       "titular": "La Fiscalía de Bélgica abre una investigación sobre el ciberataque contra las cámaras frigoríficas de supermercados de varios países",
-       "url": "https://www.elmundo.es/economia/2026/11/02/6ae88536fc6c838b3c8b4581.html",
-       "seccion": "Bélgica"
+       "titular": "Midterms en Estados Unidos: las elecciones que ponen a prueba el poder 'absoluto' de Donald Trump",
+       "url": "https://www.elmundo.es/internacional/2026/11/02/6ae8d1fae85ece0a2c8b4570.html",
+       "seccion": "Estados Unidos"
+      },
+      {
+       "titular": "Estados Unidos ataca objetivos iraníes en el Estrecho de Ormuz horas antes de las elecciones de mitad de mandato",
+       "url": "https://www.elmundo.es/internacional/2026/11/03/6ae983d321efa065688b458a.html",
+       "seccion": "Irán"
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Amplía con los países afectados y explica que un software obsoleto fue la vía de entrada.",
+     "enfoque": "Ofrece directo con sondeos, explica el funcionamiento de las midterm y el peso del voto hispano y asiático.",
      "noticias": [
       {
-       "titular": "Nueva oleada de ciberataques a supermercados de varios países europeos",
-       "url": "https://www.lavanguardia.com/internacional/20261102/11673884/nueva-oleada-ciberataques-sistemas-refrigeracion-suecia-belgica-luxemburgo.html",
+       "titular": "Elecciones de mitad de mandato en Estados Unidos, hoy en directo: última hora de Trump, los estados clave y sondeos de las midterm",
+       "url": "https://www.lavanguardia.com/internacional/20261103/11674703/elecciones-estados-unidos-midterm-encuestas-campana-electoral-donald-trump-ultima-hora-en-directo.html",
        "seccion": "Internacional"
       },
       {
-       "titular": "¿Cómo han logrado los hackers atacar a los supermercados de varios países europeos?",
-       "url": "https://www.lavanguardia.com/economia/20261102/11674330/como-han-logrado-hackers-atacar-supermercados-paises-europeos.html",
-       "seccion": "Economía"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Dimisión del jefe de gabinete de Illa",
-   "resumen": "Eduard Rivas deja la jefatura de gabinete del president Illa por una investigación por malversación en su etapa como alcalde de Esparreguera, y le sustituye Xavier Amor.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Subraya el peso político de Rivas y la imputación por malversación.",
-     "noticias": [
-      {
-       "titular": "Dimite el jefe de gabinete de Salvador Illa, investigado por corrupción en su etapa de alcalde",
-       "url": "https://www.elmundo.es/cataluna/2026/11/02/6ae8fd4a21efa0e7358b4594.html",
-       "seccion": "Cataluña"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Informa de la dimisión y del relevo por Xavier Amor, citando la investigación por irregularidades en una fundación.",
-     "noticias": [
-      {
-       "titular": "Dimite el jefe de gabinete de Illa, investigado por presuntas irregularidades durante su etapa como alcalde",
-       "url": "https://www.abc.es/espana/cataluna/dimite-jefe-gabinete-illa-investigado-presuntas-irregularidades-20261102205307-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Informa del relevo por Xavier Amor y recuerda que la investigación se conoció en abril.",
-     "noticias": [
-      {
-       "titular": "Xavier Amor sustituye a Eduard Rivas como jefe de gabinete de Illa",
-       "url": "https://www.lavanguardia.com/politica/20261102/11674466/xavier-amor-sustituye-eduard-rivas-jefe-gabinete-president-salvador-illa.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Ataques rusos contra escuela en Ucrania",
-   "resumen": "Un ataque ruso contra una escuela usada para ayuda humanitaria en el sur de Ucrania deja al menos 24 o 26 muertos, según los medios, y Zelenski lo denuncia.",
-   "medios": [
-    {
-     "medio": "abc",
-     "enfoque": "Vincula el ataque con el fin de una tregua local en la región de Jersón y las esperanzas de paz.",
-     "noticias": [
-      {
-       "titular": "Al menos 26 muertos en un ataque ruso contra una escuela en Ucrania",
-       "url": "https://www.abc.es/internacional/muertos-ataque-ruso-zaporiyia-ucrania-20261102202010-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Sitúa el ataque en Zaporiyia y recoge la denuncia de Zelenski sobre la ayuda humanitaria.",
-     "noticias": [
-      {
-       "titular": "Al menos 24 muertos en un ataque ruso contra una escuela en Zaporiyia",
-       "url": "https://www.lavanguardia.com/internacional/20261102/11674443/18-muertos-ataque-ruso-escuela-zaporiyia-zelenski.html",
-       "seccion": "Internacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Dimisión del primer ministro belga",
-   "resumen": "Bart de Wever presenta su dimisión tras no lograr aprobar los presupuestos, y el rey Felipe debe decidir sobre su futuro.",
-   "medios": [
-    {
-     "medio": "abc",
-     "enfoque": "Destaca que la dimisión se produce al no poder aprobar el proyecto de presupuesto y los recortes buscados.",
-     "noticias": [
-      {
-       "titular": "El primer ministro de Bélgica presenta su dimisión tras el fracaso de los presupuestos",
-       "url": "https://www.abc.es/internacional/primer-ministro-belgica-presenta-dimision-20261102101648-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Subraya el perfil ultranacionalista de De Wever y el rey Felipe medita su futuro.",
-     "noticias": [
-      {
-       "titular": "El ultranacionalista De Wever dimite como primer ministro belga al no pactar presupuestos",
-       "url": "https://www.lavanguardia.com/internacional/20261102/11673842/primer-ministro-belga-presenta-dimision-fracasar-negociacion-presupuestaria.html",
-       "seccion": "Internacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Elecciones legislativas de EE.UU. (midterms)",
-   "resumen": "Trump cierra la campaña para las legislativas del 3 de noviembre, en las que se renuevan la Cámara de Representantes y 35 senadores.",
-   "medios": [
-    {
-     "medio": "abc",
-     "enfoque": "Recoge el cierre de campaña en Washington y las advertencias de Trump sobre demócratas 'yihadistas'.",
-     "noticias": [
-      {
-       "titular": "Trump cierra la campaña alertando de la llegada de demócratas «yihadistas» como Abdul el Sayed",
-       "url": "https://www.abc.es/internacional/trump-cierra-campana-washington-capital-renovada-pais-20261101213038-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge el mensaje de Trump sobre candidatos 'extremistas' y explica qué se vota el 3 de noviembre.",
-     "noticias": [
-      {
-       "titular": "Trump cierra su campaña para las legislativas: “Son las más importantes de nuestras vidas”",
-       "url": "https://www.lavanguardia.com/internacional/20261102/11674481/trump-cierra-campana-legislativas-son-mas-importantes-vidas.html",
-       "seccion": "Internacional"
-      },
-      {
-       "titular": "¿Cómo funcionan las 'midterm' y por qué son cruciales para Trump?",
+       "titular": "¿Cómo funcionan las 'midterm' en EE.UU. y por qué son cruciales para Trump?",
        "url": "https://www.lavanguardia.com/internacional/20261102/11673996/como-funcionan-midterm-elecciones-eeuu-trump.html",
        "seccion": "Internacional"
       },
       {
-       "titular": "Stevens traiciona a El-Sayed en Michigan con su apoyo al candidato republicano",
-       "url": "https://www.lavanguardia.com/internacional/20261102/11673780/apoyo-haley-stevens-candidato-republicano-traicion-michigan.html",
+       "titular": "El decisivo voto hispano y asiático",
+       "url": "https://www.lavanguardia.com/internacional/20261103/11673974/ee-uu-estados-unidos-elecciones-midterm-latibos-hispanos-asiaticos.html",
        "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Muerte del delantero Jesús de Miguel",
+   "resumen": "El delantero del CD Tenerife Jesús de Miguel murió a los 30 años tras un choque con el portero del Andorra, Jesús Owono, que está investigado por homicidio imprudente.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Informa de la investigación judicial abierta al portero del Andorra.",
+     "noticias": [
+      {
+       "titular": "Muere Jesús de Miguel, delantero del Tenerife, tras el brutal choque con el portero del Andorra",
+       "url": "https://elpais.com/deportes/futbol/2026-11-03/el-tenerife-informa-del-empeoramiento-del-estado-de-salud-de-jesus-de-miguel.html",
+       "seccion": "Fútbol"
+      },
+      {
+       "titular": "La Policía abre diligencias judiciales a Jesús Owono por homicidio imprudente tras la muerte de Jesús de Miguel",
+       "url": "https://elpais.com/deportes/futbol/2026-11-03/la-policia-abre-diligencias-judiciales-a-jesus-owono-por-homicidio-imprudente-tras-la-muerte-de-jesus-de-miguel.html",
+       "seccion": "Fútbol"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Incluye la explicación médica de la conmoción cardiaca como posible causa de la muerte.",
+     "noticias": [
+      {
+       "titular": "Muere el delantero del Tenerife Jesús de Miguel tras el brutal choque con el portero del Andorra",
+       "url": "https://www.elmundo.es/deportes/futbol/segunda-division/2026/11/03/6ae97d60e4d4d8e9038b459e.html",
+       "seccion": "deportes"
+      },
+      {
+       "titular": "Qué es la 'Conmotio cordis', la posible causa de muerte de Jesús de Miguel, delantero del Tenerife",
+       "url": "https://www.elmundo.es/salud/2026/11/03/6ae9b960e85ece53388b4584.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Ofrece un retrato del jugador y la situación personal del portero.",
+     "noticias": [
+      {
+       "titular": "Muere Jesús de Miguel, delantero del Tenerife, tras el choque con el portero del Andorra",
+       "url": "https://www.abc.es/deportes/futbol/muere-hospital-futbolista-jesus-miguel-tras-salvaje-20261103093829-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "El retrato de Jesús de Miguel: «No hacía falta que gritara; ibas a su lado y le seguías»",
+       "url": "https://www.abc.es/deportes/futbol/jesus-miguel-arquetipo-esfuerzo-autoconfianza-20261103111628-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "El otro lado del drama: la peor salida del atrevido guardameta Jesús Owono",
+       "url": "https://www.abc.es/deportes/futbol/lado-drama-peor-salida-atrevido-guardameta-jesus-20261103124851-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la trayectoria del jugador y las reacciones del mundo del fútbol.",
+     "noticias": [
+      {
+       "titular": "Muere el jugador del CD Tenerife Jesús de Miguel tras el choque con el portero del Andorra",
+       "url": "https://www.lavanguardia.com/deportes/20261103/11674777/muere-jugador-cd-tenerife-jesus-miguel-choque-portero-andorra.html",
+       "seccion": "Deportes"
+      },
+      {
+       "titular": "Quién era Jesús de Miguel, el delantero de los cuatro ascensos en el fútbol modesto",
+       "url": "https://www.lavanguardia.com/deportes/20261103/11674924/jesus-miguel-alameda-quien-era-goleador-futbolista-cuatro-ascensos-futbol-modesto-castellon-tenerife-fuenlabrada-internacional.html",
+       "seccion": "Deportes"
+      },
+      {
+       "titular": "“Rotos de dolor”: El fútbol llora la pérdida de Jesús de Miguel",
+       "url": "https://www.lavanguardia.com/deportes/futbol/20261103/11674866/rotos-dolor-futbol-llora-perdida-jesus-miguel.html",
+       "seccion": "Fútbol"
       }
      ]
     }
@@ -331,226 +299,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la cobertura de Urda y la presión política sobre el Gobierno y Adif, junto con el foro World in Progress. Incluye también contenidos de cultura y sociedad.",
+   "resumen": "Prioriza el accidente de Urda con seguimiento en directo, las medidas del Gobierno y la comparecencia de Puente. Dedica también espacio a la cobertura de las elecciones en Estados Unidos y al foro World in Progress.",
    "noticias": [
     {
-     "titular": "Sánchez anuncia ayudas específicas y el adelanto de las indemnizaciones para las víctimas del accidente de Urda",
-     "url": "https://elpais.com/internacional/2026-11-02/sanchez-debemos-recuperar-la-confianza-en-la-alta-velocidad-cuanto-antes-y-cueste-lo-que-cueste.html",
-     "seccion": "América",
-     "resumen": "Sánchez anuncia ayudas y adelanto de indemnizaciones para las víctimas de Urda, que el Consejo de Ministros aprobará el martes."
-    },
-    {
-     "titular": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
-     "url": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html",
+     "titular": "Transportes reducirá la circulación en la vía Madrid-Sevilla para separar más los trenes hasta que esté en pie el nuevo sistema de seguridad ERTMS",
+     "url": "https://elpais.com/espana/2026-11-03/transportes-reducira-la-circulacion-en-la-via-madrid-sevilla-para-separar-mas-los-trenes-hasta-que-este-en-pie-el-nuevo-sistema-de-seguridad-ertms.html",
      "seccion": "España",
-     "resumen": "Aumenta la presión para que cese el presidente de Adif antes de la comparecencia de Puente en el Congreso, por un posible error de protocolo en el centro de control."
+     "resumen": "Transportes reducirá la circulación Madrid-Sevilla y exigirá doble supervisión de cada orden a los maquinistas hasta que funcione el sistema ERTMS."
     },
     {
-     "titular": "Feijóo se reivindica como gestor tras el accidente de Urda: “España no se arregla con frivolidad ni tampoco con bravuconadas”",
-     "url": "https://elpais.com/espana/2026-11-02/feijoo-se-reivindica-como-gestor-tras-el-accidente-de-urda-espana-no-se-arregla-con-frivolidad-ni-tampoco-con-bravuconadas.html",
+     "titular": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Adif comprueba si la orden equivocada de marcha al AVE de Urda se dio por ser una costumbre",
+     "url": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
+     "seccion": "Accidente trenes Urda",
+     "resumen": "Adif revisa si la orden errónea al AVE de Urda respondía a una costumbre; el Gobierno aprueba 30 millones para las víctimas y Puente comparece en el Congreso."
+    },
+    {
+     "titular": "Feijóo pide a los sindicatos que desconvoquen la huelga general por la tragedia de Urda: “69 muertos después es un grave error”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/feijoo-pide-a-los-sindicatos-que-desconvoquen-la-huelga-general-por-la-tragedia-de-urda-69-muertos-despues-es-un-grave-error.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo pide a los sindicatos desconvocar la huelga general; estos califican su planteamiento de insultante."
+    },
+    {
+     "titular": "Rafael, uno de los pasajeros del primer vagón del AVE, despierta de la sedación",
+     "url": "https://elpais.com/espana/2026-11-03/rafael-uno-de-los-pasajeros-del-primer-vagon-del-ave-despierta-de-la-sedacion.html",
      "seccion": "España",
-     "resumen": "Feijóo acusa al Gobierno de frivolidad y califica de infame la actitud de Puente, dudando de que sean buena gente."
+     "resumen": "Uno de los pasajeros del primer vagón sale de la sedación; 29 personas siguen hospitalizadas, nueve en la UCI."
     },
     {
-     "titular": "La tragedia en Urda empuja a la ultraderecha a una espiral de brutalidad",
-     "url": "https://elpais.com/espana/2026-11-02/la-tragedia-empuja-a-la-ultraderecha-a-una-espiral-de-brutalidad.html",
-     "seccion": "España",
-     "resumen": "Análisis sobre cómo Vox y otros grupos extremistas difunden insultos y acusaciones contra el Gobierno tras la tragedia."
+     "titular": "Estados Unidos vota en unas ‘midterms’ decisivas para el poder de Trump: siete claves de las elecciones",
+     "url": "https://elpais.com/us/2026-11-03/estados-unidos-vota-en-unas-midterms-decisivas-para-el-poder-de-trump-siete-claves-de-las-elecciones.html",
+     "seccion": "Elecciones EE UU",
+     "resumen": "Las elecciones de mitad de mandato deciden el poder de Trump y el futuro de demócratas y republicanos."
     },
     {
-     "titular": "Iryo defiende la fiabilidad de sus trenes, incluido el siniestrado, en la línea Madrid-Sevilla",
-     "url": "https://elpais.com/espana/2026-11-02/iryo-defiende-la-fiabilidad-de-sus-trenes-incluido-el-siniestrado-en-la-linea-madrid-sevilla.html",
-     "seccion": "España",
-     "resumen": "Iryo defiende la fiabilidad de su tren siniestrado y dice usar la misma tecnología de conexión al sistema LZB que Renfe y Ouigo."
+     "titular": "Muere Jesús de Miguel, delantero del Tenerife, tras el brutal choque con el portero del Andorra",
+     "url": "https://elpais.com/deportes/futbol/2026-11-03/el-tenerife-informa-del-empeoramiento-del-estado-de-salud-de-jesus-de-miguel.html",
+     "seccion": "Fútbol",
+     "resumen": "Muere el delantero del Tenerife tras un choque con el portero del Andorra que le provocó una parada cardiaca."
     },
     {
-     "titular": "Pedro Sánchez: “España no se gobierna desde Washington, Tel Aviv, Moscú o Buenos Aires”",
-     "url": "https://elpais.com/internacional/2026-11-02/pedro-sanchez-espana-no-se-gobierna-desde-tel-aviv-moscu-o-buenos-aires.html",
-     "seccion": "World in Progress",
-     "resumen": "Sánchez rechaza que España se gobierne desde el exterior y acusa a la ultraderecha de buscar la fragmentación europea."
+     "titular": "La Policía abre diligencias judiciales a Jesús Owono por homicidio imprudente tras la muerte de Jesús de Miguel",
+     "url": "https://elpais.com/deportes/futbol/2026-11-03/la-policia-abre-diligencias-judiciales-a-jesus-owono-por-homicidio-imprudente-tras-la-muerte-de-jesus-de-miguel.html",
+     "seccion": "Fútbol",
+     "resumen": "La Policía abre diligencias por homicidio imprudente contra el portero del Andorra, Jesús Owono."
     },
     {
-     "titular": "José Luis Escrivá rechaza equiparar las inversiones en IA con otras que acabaron en burbuja",
-     "url": "https://elpais.com/internacional/2026-11-02/jose-luis-escriva-rechaza-equiparar-las-inversiones-en-ia-con-otras-que-acabaron-en-burbuja.html",
-     "seccion": "José Luis Escrivá",
-     "resumen": "Escrivá rechaza comparar las inversiones en IA con burbujas anteriores; De Guindos respalda la candidatura de Escrivá al BCE."
-    },
-    {
-     "titular": "Édouard Philippe: “Una victoria de Marine Le Pen romperá el contrato con Europa”",
-     "url": "https://elpais.com/internacional/2026-11-02/edouard-philippe-una-victoria-de-marine-le-pen-rompera-el-contrato-con-europa.html",
-     "seccion": "América",
-     "resumen": "Philippe advierte de que una victoria de Le Pen en Francia rompería el compromiso con Europa y pide convergencia franco-alemana."
+     "titular": "La policía desaloja la acampada de Sol sin disturbios después de que varias comisiones organizadoras anunciaran su retirada",
+     "url": "https://elpais.com/espana/madrid/2026-11-03/la-policia-desaloja-la-acampada-de-sol-sin-disturbios-despues-de-que-las-comisiones-organizadoras-anunciaran-su-retirada.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "La Policía desaloja la acampada de Sol sin incidentes graves tras la retirada anunciada por varias comisiones; hay dos detenidos."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en las consecuencias políticas de Urda: encuestas, certificaciones de seguridad y víctimas. Incluye también información sobre sucesos en Cataluña y Bélgica.",
+   "resumen": "Centra la portada en la tragedia de Urda, con foco en los controles de seguridad ferroviaria y la respuesta política del PP. Añade la ofensiva contra el Gobierno en la Cumbre Iberoamericana y la cobertura de las midterm.",
    "noticias": [
+    {
+     "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+     "seccion": "Artículos Emilio Amade",
+     "resumen": "Explica con gráficos el sistema de señalización del tramo Madrid-Sevilla y las causas de la colisión, todavía bajo investigación."
+    },
     {
      "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
      "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
      "seccion": "Accidente tren Toledo",
-     "resumen": "Transportes certificó 21 días antes del accidente que la red estaba en niveles aceptables de riesgo; la AESF rechazó paralizar el tráfico en octubre."
+     "resumen": "El Ministerio certificó 21 días antes del accidente que la red estaba en niveles aceptables de riesgo; la Agencia rechazó paralizar el tráfico tras una petición de víctimas de Adamuz."
     },
     {
-     "titular": "El PSOE pierde 450.000 votos y cae por debajo de 100 escaños en la primera encuesta tras la tragedia de Urda",
-     "url": "https://www.elmundo.es/espana/encuestas/2026/11/01/6ae77446e4d4d8f3698b458a.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Una encuesta sitúa al PSOE por debajo de 100 escaños tras la tragedia y da al PP una mayoría holgada con Vox."
+     "titular": "El Consejo de Ministros aprueba un escudo de ayudas económicas de 30 millones de euros para las víctimas del accidente ferroviario de Urda (Toledo)",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9a3ade9cf4a88748b457b.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "El Consejo de Ministros aprueba 30 millones en ayudas y topes a precios de transportes alternativos."
     },
     {
-     "titular": "Montero pide aplicar el artículo 128 para renacionalizar el ferrocarril y exige la dimisión de Óscar Puente",
-     "url": "https://www.elmundo.es/espana/2026/11/02/6ae882acfc6c83a01a8b456e.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Montero pide aplicar el artículo 128 para renacionalizar el ferrocarril y exige la dimisión de Óscar Puente."
+     "titular": "El centro de control \"pidió disculpas\" al maquinista del Iryo que casi colisiona con los trenes accidentados tras darle una orden equivocada",
+     "url": "https://www.elmundo.es/economia/2026/11/03/6ae873c6e9cf4a43058b4588.html",
+     "seccion": "economía",
+     "resumen": "El centro de control pidió disculpas al maquinista de un Iryo que casi colisiona tras recibir una orden errónea."
     },
     {
-     "titular": "\"Accidente atentado\": así se activó un 'ejército digital' para exculpar al Gobierno tras la tragedia de Urda",
-     "url": "https://www.elmundo.es/cronica/2026/11/01/6ae4f536fc6c83707c8b458d.html",
-     "seccion": "Israel",
-     "resumen": "Explica cómo circularon en redes explicaciones de sabotaje israelí sin pruebas, que luego se amplificaron en TVE."
+     "titular": "Feijóo culpa a Sánchez por desoír las alertas sobre la seguridad ferroviaria y sentencia a Puente: \"Es peor que Ábalos\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/03/6ae9d485e4d4d802508b459a.html",
+     "seccion": "PP",
+     "resumen": "Feijóo acusa a Sánchez de desoír las alertas sobre seguridad ferroviaria y critica a Puente."
     },
     {
-     "titular": "Las vidas rotas del accidente de Urda: la mujer que iba a la boda de su hija, la ejecutiva a punto de jubilarse, el héroe que iba a ser padre, la científica que iba a por un premio...",
-     "url": "https://www.elmundo.es/espana/2026/11/02/6ae79ce3fdddffdf6b8b4594.html",
-     "seccion": "Artículos Olga R. Sanmartín",
-     "resumen": "Historias personales de algunas de las 69 víctimas, de las que 66 han sido identificadas por los forenses."
+     "titular": "Feijóo puede ganar en 36 provincias y Vox desbanca al PSOE en Madrid tras la tragedia de Urda",
+     "url": "https://www.elmundo.es/espana/encuestas/2026/11/03/6ae8d3cefdddffb1178b4574.html",
+     "seccion": "Artículos Paloma H. Matellano",
+     "resumen": "Un sondeo territorial sitúa al PP con opciones de ganar en 36 provincias y a Vox por delante del PSOE en Madrid."
     },
     {
-     "titular": "Dimite el jefe de gabinete de Salvador Illa, investigado por corrupción en su etapa de alcalde",
-     "url": "https://www.elmundo.es/cataluna/2026/11/02/6ae8fd4a21efa0e7358b4594.html",
-     "seccion": "Cataluña",
-     "resumen": "Dimite el jefe de gabinete de Illa, Eduard Rivas, que afronta una investigación por malversación."
+     "titular": "Sheinbaum y Lula dejan solo a Sánchez en la Cumbre Iberoamericana con siete aliados de Trump, incluido Milei",
+     "url": "https://www.elmundo.es/espana/2026/11/03/6ae99e48fdddff59638b45a7.html",
+     "seccion": "Pedro Sánchez",
+     "resumen": "Sheinbaum y Lula no acuden a la Cumbre Iberoamericana con Sánchez, que queda acompañado por aliados de Trump."
     },
     {
-     "titular": "La Fiscalía de Bélgica abre una investigación sobre el ciberataque contra las cámaras frigoríficas de supermercados de varios países",
-     "url": "https://www.elmundo.es/economia/2026/11/02/6ae88536fc6c838b3c8b4581.html",
-     "seccion": "Bélgica",
-     "resumen": "La Fiscalía belga investiga el ciberataque a cámaras frigoríficas de supermercados, tras otro similar en Francia."
-    },
-    {
-     "titular": "Primer cara a cara de Milei con el \"dictador\" Sánchez: el momento más caliente de la Cumbre Iberoamericana",
-     "url": "https://www.elmundo.es/espana/2026/11/02/6ae8f157fdddff7b508b458e.html",
-     "seccion": "Javier Milei",
-     "resumen": "Primer cara a cara de Milei con Sánchez en la Cumbre Iberoamericana, tras sus viajes privados a España."
+     "titular": "Estados Unidos ataca objetivos iraníes en el Estrecho de Ormuz horas antes de las elecciones de mitad de mandato",
+     "url": "https://www.elmundo.es/internacional/2026/11/03/6ae983d321efa065688b458a.html",
+     "seccion": "Irán",
+     "resumen": "Estados Unidos ataca objetivos iraníes en el Estrecho de Ormuz horas antes de las midterm."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Combina la cumbre iberoamericana y la respuesta de Puente con sucesos internacionales como Ucrania y Bélgica. Dedica espacio a información de sociedad y entretenimiento.",
+   "resumen": "Da prioridad al balance y a la identificación de víctimas de Urda, junto a asuntos judiciales y políticos de Zapatero y Sánchez. Incluye también temas de sociedad, sanidad y ocio.",
    "noticias": [
     {
-     "titular": "XXX Cumbre Iberoamericana: marcada por el accidente de Urda y la polarización entre la neoderecha y el socialismo fallido",
-     "url": "https://www.abc.es/espana/xxx-cumbre-iberoamericana-marcada-accidente-urda-polarizacion-20261102233348-nt.html",
+     "titular": "Transportes reducirá la frecuencia en la línea Madrid-Sevilla durante las obras para implantar el nuevo sistema de seguridad",
+     "url": "https://www.abc.es/espana/ultima-hora-accidente-tren-urda-directo-comparecencia-20261103110818-di.html",
      "seccion": "",
-     "resumen": "La XXX Cumbre Iberoamericana se celebra en Madrid el 4 y 5 de noviembre, marcada por el accidente de Urda; la agenda se cerró casi a última hora."
+     "resumen": "Transportes reducirá la frecuencia Madrid-Sevilla durante las obras del nuevo sistema; 54 fallecidos son españoles y 15 extranjeros."
     },
     {
-     "titular": "Trump cierra la campaña alertando de la llegada de demócratas «yihadistas» como Abdul el Sayed",
-     "url": "https://www.abc.es/internacional/trump-cierra-campana-washington-capital-renovada-pais-20261101213038-nt.html",
+     "titular": "Feijóo pide a los sindicatos desconvocar la huelga general: «Con 69 muertos es un grave error»",
+     "url": "https://www.abc.es/espana/feijoo-pide-sindicados-desconvocar-huelga-general-muertos-20261103100101-nt.html",
      "seccion": "",
-     "resumen": "Trump cierra campaña para las legislativas en Washington y advierte de la llegada de demócratas que llama 'yihadistas' y comunistas."
+     "resumen": "Feijóo pide a los sindicatos reconsiderar la huelga general del 11 de noviembre por la oportunidad de la convocatoria."
     },
     {
-     "titular": "Óscar Puente, el ministro que se ocupa de todo menos del Ministerio",
-     "url": "https://www.abc.es/espana/oscar-puente-ministro-ocupa-ministerio-20261029014523-nt.html",
+     "titular": "El informe de Yanes sobre las joyas de Zapatero le deja al borde de la imputación",
+     "url": "https://www.abc.es/espana/informe-yanes-sobre-joyas-zapatero-deja-borde-20261103011004-nt.html",
      "seccion": "",
-     "resumen": "Óscar Puente evita hablar de su dimisión y dice centrarse en esclarecer el accidente de Urda."
+     "resumen": "Un informe de la joyería Yanes sitúa a Zapatero al borde de la imputación por malversación en la investigación de la Audiencia Nacional."
     },
     {
-     "titular": "Al menos 26 muertos en un ataque ruso contra una escuela en Ucrania",
-     "url": "https://www.abc.es/internacional/muertos-ataque-ruso-zaporiyia-ucrania-20261102202010-nt.html",
+     "titular": "Sheinbaum no acudirá a la Cumbre Iberoamericana pese al acercamiento del Rey en el Mundial",
+     "url": "https://www.abc.es/espana/presidenta-mexico-acudira-cumbre-iberoamericana-pese-acercamiento-20261103105703-nt.html",
      "seccion": "",
-     "resumen": "Ucrania denuncia ataques rusos contra una escuela con ayuda humanitaria que dejan al menos 26 muertos, tras expirar una tregua local en Jersón."
+     "resumen": "Solo diez de los 22 líderes invitados asistirán a la Cumbre Iberoamericana; Sheinbaum no acudirá."
     },
     {
-     "titular": "El presidente de Renfe colonizó el operador con 15 políticos y el 'lobby' del autobús",
-     "url": "https://www.abc.es/espana/puente-permitio-presidente-renfe-colonizar-operador-politicos-20261102214018-nt.html",
+     "titular": "La Policía desaloja a los últimos integrantes de la acampada de Sol",
+     "url": "https://www.abc.es/espana/madrid/policia-desaloja-ultimos-integrantes-acampada-sol-20261103060850-nt.html",
      "seccion": "",
-     "resumen": "Denuncia la colonización política de Adif y Renfe, con cargos políticos sin experiencia en el sector al frente de la operadora."
+     "resumen": "La Policía retira los últimos integrantes de la acampada de Sol con dos detenidos."
     },
     {
-     "titular": "Dimite el jefe de gabinete de Illa, investigado por presuntas irregularidades durante su etapa como alcalde",
-     "url": "https://www.abc.es/espana/cataluna/dimite-jefe-gabinete-illa-investigado-presuntas-irregularidades-20261102205307-nt.html",
+     "titular": "Sánchez, 'persona non grata' en Murcia, la primera comunidad autónoma en aprobarlo",
+     "url": "https://www.abc.es/espana/murcia/sanchez-persona-non-grata-murcia-primera-comunidad-20261103122238-nt.html",
      "seccion": "",
-     "resumen": "Eduard Rivas deja la jefatura de gabinete de Illa; le sustituye Xavier Amor, en medio de una investigación por una fundación de Esparreguera."
+     "resumen": "La Asamblea Regional de Murcia aprueba declarar a Sánchez persona non grata, primera comunidad en hacerlo."
     },
     {
-     "titular": "El primer ministro de Bélgica presenta su dimisión tras el fracaso de los presupuestos",
-     "url": "https://www.abc.es/internacional/primer-ministro-belgica-presenta-dimision-20261102101648-nt.html",
+     "titular": "Seis de cada diez pacientes esperan siete días o más para ser atendidos por el médico de familia",
+     "url": "https://www.abc.es/sociedad/seis-diez-pacientes-esperan-siete-dias-atendidos-20261103115845-nt.html",
      "seccion": "",
-     "resumen": "Bart de Wever presenta su dimisión como primer ministro belga tras no lograr aprobar un presupuesto con recortes."
+     "resumen": "El Barómetro Sanitario indica que el 61,1% de los pacientes espera siete días o más para ser atendido por su médico de familia."
     },
     {
-     "titular": "La Guardia Civil concluye la retirada de los últimos vagones y habilita un punto para dejar flores por las víctimas",
-     "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/guardia-civil-concluye-retirada-ultimos-vagones-habilita-20261102185935-nt.html",
+     "titular": "El Gobierno limita los ultraprocesados en hospitales, residencias y escuelas infantiles",
+     "url": "https://www.abc.es/sociedad/gobierno-limita-ultraprocesados-hospitales-residencias-escuelas-infantiles-20261103125826-nt.html",
      "seccion": "",
-     "resumen": "La Guardia Civil retira los últimos vagones de Urda y habilita un punto para dejar flores por las víctimas."
+     "resumen": "El Gobierno aprueba un real decreto que limita los ultraprocesados en hospitales, residencias y escuelas infantiles."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Da peso a la cobertura internacional (EE.UU., Ucrania, Bélgica) y a la fiscalidad de la vivienda y la movilidad en Cataluña. Mantiene el seguimiento de Urda desde la perspectiva de las ayudas y la oposición.",
+   "resumen": "Pone el acento en las consecuencias del accidente para la movilidad, con el posible corte de la línea Madrid-Barcelona, y en la presión sobre Puente. Dedica también atención a la cobertura internacional de las midterm y a las negociaciones de paz en Ucrania.",
    "noticias": [
     {
-     "titular": "Trump cierra su campaña para las legislativas: “Son las más importantes de nuestras vidas”",
-     "url": "https://www.lavanguardia.com/internacional/20261102/11674481/trump-cierra-campana-legislativas-son-mas-importantes-vidas.html",
-     "seccion": "Internacional",
-     "resumen": "Trump cierra campaña para las legislativas y acusa a los demócratas de presentar candidatos extremistas."
-    },
-    {
-     "titular": "EE.UU. ha deportado a 25.000 migrantes a terceros países, varios cientos de ellos en África",
-     "url": "https://www.lavanguardia.com/internacional/20261102/11670372/ee-uu-deportado-25-000-migrantes-terceros-paises-cientos-africa.html",
-     "seccion": "Internacional",
-     "resumen": "EE.UU. ha expulsado a 25.000 migrantes a terceros países, dejando a miles de personas separadas de sus familias."
-    },
-    {
-     "titular": "Identificados los 69 fallecidos en el accidente ferroviario de Urda",
-     "url": "https://www.lavanguardia.com/vida/20261102/11674507/identificados-69-fallecidos-accidente-ferroviario-urda.html",
+     "titular": "Óscar Puente comparece tras el Consejo de Ministros",
+     "url": "https://www.lavanguardia.com/vida/20261103/11674702/choque-de-trenes-toledo-oscar-puente-investigacion-ultima-hora-hoy-en-directo.html",
      "seccion": "Sociedad",
-     "resumen": "Identificados los 69 fallecidos de Urda: 54 de nacionalidad española y 15 extranjeros."
+     "resumen": "Puente comparece tras el Consejo de Ministros mientras la Guardia Civil inspecciona la zona del choque de trenes."
     },
     {
-     "titular": "El Gobierno acelera la concesión de las ayudas para las víctimas, que alcanzarán los 84.141 euros",
-     "url": "https://www.lavanguardia.com/vida/20261102/11674161/gobierno-acelera-concesion-ayudas-victimas-alcanzaran-84-141-euros.html",
+     "titular": "El coste del cierre de la línea Madrid-Barcelona costaría 2,5 millones diarios a los usuarios",
+     "url": "https://www.lavanguardia.com/vida/20261103/11674942/coste-cierre-linea-madrid-barcelona-costaria-2-5-millones-diarios-usuarios.html",
      "seccion": "Sociedad",
-     "resumen": "El Gobierno acelera las ayudas a las víctimas, que llegarán a 84.141 euros e igualan las de Adamuz y Gelida."
+     "resumen": "Pimec calcula que el cierre de la línea Madrid-Barcelona costaría 2,5 millones diarios y que el avión no absorbería la demanda."
     },
     {
-     "titular": "Feijóo ofrece “gestión, rigor y experiencia” frente al actual Gobierno: “Dudo que sean buena gente”",
-     "url": "https://www.lavanguardia.com/politica/20261102/11674005/feijoo-ofrece-gestion-rigor-experiencia-frente-gobierno-sanchez-dudo-sean-buena-gente.html",
+     "titular": "Puente afronta el examen del Congreso acorralado por los grupos",
+     "url": "https://www.lavanguardia.com/politica/20261103/11674426/puente-afronta-examen-congreso-diputacion-acorralado-grupos-urda.html",
      "seccion": "Política",
-     "resumen": "Feijóo califica de 'infame, cruel y ruin' la actitud del Gobierno y sostiene que el Ejecutivo espera a las encuestas para decidir sobre Puente."
+     "resumen": "Puente afronta el examen en el Congreso aislado por los grupos, aunque Sánchez sigue respaldándolo."
     },
     {
-     "titular": "El Frente Amplio propone recuperar el control público del ferrocarril fusionando Renfe y Adif",
-     "url": "https://www.lavanguardia.com/politica/20261102/11674199/frente-amplio-propone-recuperar-control-publico-ferrocarril-fusion-renfe-adif.html",
-     "seccion": "Política",
-     "resumen": "El Frente Amplio propone fusionar Renfe y Adif para recuperar el control público del ferrocarril, con una auditoría independiente."
+     "titular": "Catalunya presiona contra el cierre total de la línea Barcelona-Madrid",
+     "url": "https://www.lavanguardia.com/vida/20261103/11674498/catalunya-presiona-cierre-total-linea-barcelona-madrid.html",
+     "seccion": "Sociedad",
+     "resumen": "Catalunya reclama no cerrar del todo la línea Barcelona-Madrid por la falta de alternativa en el modelo radial."
     },
     {
-     "titular": "Nueva oleada de ciberataques a supermercados de varios países europeos",
-     "url": "https://www.lavanguardia.com/internacional/20261102/11673884/nueva-oleada-ciberataques-sistemas-refrigeracion-suecia-belgica-luxemburgo.html",
+     "titular": "Elecciones de mitad de mandato en Estados Unidos, hoy en directo: última hora de Trump, los estados clave y sondeos de las midterm",
+     "url": "https://www.lavanguardia.com/internacional/20261103/11674703/elecciones-estados-unidos-midterm-encuestas-campana-electoral-donald-trump-ultima-hora-en-directo.html",
      "seccion": "Internacional",
-     "resumen": "Nueva oleada de ciberataques a supermercados en Bélgica, Irlanda, Estonia y Suecia, semanas después del caso francés."
+     "resumen": "Directo de las midterm con los primeros colegios abiertos en Vermont, sondeos y estados clave."
     },
     {
-     "titular": "Al menos 24 muertos en un ataque ruso contra una escuela en Zaporiyia",
-     "url": "https://www.lavanguardia.com/internacional/20261102/11674443/18-muertos-ataque-ruso-escuela-zaporiyia-zelenski.html",
+     "titular": "EE.UU. vuelve a llevar a la mesa de negociaciones a Rusia y Ucrania en Abu Dabi",
+     "url": "https://www.lavanguardia.com/internacional/20261103/11674800/ee-uu-vuelve-a-llevar-a-la-mesa-de-negociaciones-a-rusia-y-ucrania-en-abu-dabi.html",
      "seccion": "Internacional",
-     "resumen": "Un ataque ruso contra una escuela en Zaporiyia deja al menos 24 muertos, según denuncia Zelenski."
+     "resumen": "EE.UU. convoca a Rusia y Ucrania en Abu Dabi el 10 y 11 de noviembre para hablar de pasos hacia la paz y garantías de seguridad."
     },
     {
-     "titular": "El ultranacionalista De Wever dimite como primer ministro belga al no pactar presupuestos",
-     "url": "https://www.lavanguardia.com/internacional/20261102/11673842/primer-ministro-belga-presenta-dimision-fracasar-negociacion-presupuestaria.html",
-     "seccion": "Internacional",
-     "resumen": "Bart de Wever dimite como primer ministro belga por no pactar presupuestos; el rey Felipe medita su futuro."
+     "titular": "Muere el jugador del CD Tenerife Jesús de Miguel tras el choque con el portero del Andorra",
+     "url": "https://www.lavanguardia.com/deportes/20261103/11674777/muere-jugador-cd-tenerife-jesus-miguel-choque-portero-andorra.html",
+     "seccion": "Deportes",
+     "resumen": "El CD Tenerife lamenta la muerte de Jesús de Miguel, de 30 años, tras el choque con el portero del Andorra."
+    },
+    {
+     "titular": "Jesús Owono, hundido, bloquea los comentarios de sus redes sociales ante el aluvión de insultos",
+     "url": "https://www.lavanguardia.com/deportes/futbol/20261103/11674891/jesus-owono-devastado-cierra-redes-sociales.html",
+     "seccion": "Fútbol",
+     "resumen": "Jesús Owono recibe insultos en redes sociales tras la entrada que le costó la expulsión."
     }
    ]
   }

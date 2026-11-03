@@ -1,0 +1,520 @@
+{
+ "fecha": "2026-11-03",
+ "franja": "tarde",
+ "generada": "2026-11-03T14:06+01:00",
+ "con_ia": true,
+ "resumen_dia": "El accidente ferroviario de Urda (Toledo), con 69 muertos identificados, domina la actualidad y provoca medidas de seguridad, ayudas de 30 millones y una fuerte presión política sobre el ministro Puente, que comparece en el Congreso. Las elecciones de mitad de mandato en Estados Unidos se celebran hoy con Trump en el centro del debate. También destacan la muerte del delantero del Tenerife Jesús de Miguel tras un choque en el partido ante el Andorra y el desalojo de la acampada de Sol en Madrid.",
+ "temas_comunes": [
+  {
+   "titulo": "Accidente ferroviario de Urda y medidas de seguridad",
+   "resumen": "El accidente de Urda (Toledo) deja 69 fallecidos identificados. Transportes reducirá la circulación en la línea Madrid-Sevilla y exigirá doble supervisión de las órdenes a maquinistas hasta que esté operativo el sistema ERTMS; el Consejo de Ministros aprueba 30 millones en ayudas a las víctimas.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya las medidas de Adif y el Gobierno, la comparecencia de Puente y la investigación sobre la orden equivocada al AVE.",
+     "noticias": [
+      {
+       "titular": "Transportes reducirá la circulación en la vía Madrid-Sevilla para separar más los trenes hasta que esté en pie el nuevo sistema de seguridad ERTMS",
+       "url": "https://elpais.com/espana/2026-11-03/transportes-reducira-la-circulacion-en-la-via-madrid-sevilla-para-separar-mas-los-trenes-hasta-que-este-en-pie-el-nuevo-sistema-de-seguridad-ertms.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Adif comprueba si la orden equivocada de marcha al AVE de Urda se dio por ser una costumbre",
+       "url": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
+       "seccion": "Accidente trenes Urda"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Pone el foco en los controles de seguridad, la certificación previa del Ministerio y la negativa de la Agencia Ferroviaria a paralizar el tráfico.",
+     "noticias": [
+      {
+       "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+       "seccion": "Artículos Emilio Amade"
+      },
+      {
+       "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "El Consejo de Ministros aprueba un escudo de ayudas económicas de 30 millones de euros para las víctimas del accidente ferroviario de Urda (Toledo)",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9a3ade9cf4a88748b457b.html",
+       "seccion": "Accidente tren Toledo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca el balance de víctimas, con 54 españoles y 15 extranjeros, y la reducción de frecuencias durante las obras.",
+     "noticias": [
+      {
+       "titular": "Transportes reducirá la frecuencia en la línea Madrid-Sevilla durante las obras para implantar el nuevo sistema de seguridad",
+       "url": "https://www.abc.es/espana/ultima-hora-accidente-tren-urda-directo-comparecencia-20261103110818-di.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Las vidas que se perdieron en Urda",
+       "url": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enfoca el impacto económico del posible corte de la línea Madrid-Barcelona y el aislamiento político del ministro.",
+     "noticias": [
+      {
+       "titular": "Óscar Puente comparece tras el Consejo de Ministros",
+       "url": "https://www.lavanguardia.com/vida/20261103/11674702/choque-de-trenes-toledo-oscar-puente-investigacion-ultima-hora-hoy-en-directo.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Puente afronta el examen del Congreso acorralado por los grupos",
+       "url": "https://www.lavanguardia.com/politica/20261103/11674426/puente-afronta-examen-congreso-diputacion-acorralado-grupos-urda.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Catalunya presiona contra el cierre total de la línea Barcelona-Madrid",
+       "url": "https://www.lavanguardia.com/vida/20261103/11674498/catalunya-presiona-cierre-total-linea-barcelona-madrid.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Presión política tras la tragedia ferroviaria",
+   "resumen": "La mayoría parlamentaria pide la dimisión de Puente, mientras el PP reclama al Gobierno explicaciones y pide a los sindicatos desconvocar la huelga general del 11 de noviembre.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la petición de desconvocar la huelga general de Feijóo y la respuesta de los sindicatos, calificada por ellos de insultante.",
+     "noticias": [
+      {
+       "titular": "Feijóo pide a los sindicatos que desconvoquen la huelga general por la tragedia de Urda: “69 muertos después es un grave error”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/feijoo-pide-a-los-sindicatos-que-desconvoquen-la-huelga-general-por-la-tragedia-de-urda-69-muertos-despues-es-un-grave-error.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge las críticas de Feijóo a Sánchez y a Puente y el posible efecto electoral en Madrid y en las provincias.",
+     "noticias": [
+      {
+       "titular": "Feijóo culpa a Sánchez por desoír las alertas sobre la seguridad ferroviaria y sentencia a Puente: \"Es peor que Ábalos\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/03/6ae9d485e4d4d802508b459a.html",
+       "seccion": "PP"
+      },
+      {
+       "titular": "Feijóo puede ganar en 36 provincias y Vox desbanca al PSOE en Madrid tras la tragedia de Urda",
+       "url": "https://www.elmundo.es/espana/encuestas/2026/11/03/6ae8d3cefdddffb1178b4574.html",
+       "seccion": "Artículos Paloma H. Matellano"
+      },
+      {
+       "titular": "Ada Colau: \"Puente debe dimitir por empatía y humanidad con las víctimas del accidente\"",
+       "url": "https://www.elmundo.es/cataluna/2026/11/02/6ae8f133e9cf4a27488b45a4.html",
+       "seccion": "NLPremium"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la petición de Feijóo a los sindicatos y la moción de Murcia que declara a Sánchez persona non grata.",
+     "noticias": [
+      {
+       "titular": "Feijóo pide a los sindicatos desconvocar la huelga general: «Con 69 muertos es un grave error»",
+       "url": "https://www.abc.es/espana/feijoo-pide-sindicados-desconvocar-huelga-general-muertos-20261103100101-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Sánchez, 'persona non grata' en Murcia, la primera comunidad autónoma en aprobarlo",
+       "url": "https://www.abc.es/espana/murcia/sanchez-persona-non-grata-murcia-primera-comunidad-20261103122238-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Señala que Sánchez mantiene su respaldo a Puente pese al aislamiento en el Congreso.",
+     "noticias": [
+      {
+       "titular": "Puente afronta el examen del Congreso acorralado por los grupos",
+       "url": "https://www.lavanguardia.com/politica/20261103/11674426/puente-afronta-examen-congreso-diputacion-acorralado-grupos-urda.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones de mitad de mandato en Estados Unidos",
+   "resumen": "Estados Unidos celebra hoy las elecciones legislativas de mitad de mandato, que miden el poder de Trump en el Congreso. Las encuestas apuntan a posibles cambios en la Cámara de Representantes y en el Senado.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Ofrece cobertura especial con claves de la cita y el papel del voto hispano.",
+     "noticias": [
+      {
+       "titular": "Estados Unidos vota en unas ‘midterms’ decisivas para el poder de Trump: siete claves de las elecciones",
+       "url": "https://elpais.com/us/2026-11-03/estados-unidos-vota-en-unas-midterms-decisivas-para-el-poder-de-trump-siete-claves-de-las-elecciones.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Videoanálisis | “Los hispanos elegibles para votar pueden determinar la dirección del país o si habrá una ‘ola azul”",
+       "url": "https://elpais.com/us/2026-11-03/videoanalisis-los-hispanos-elegibles-para-votar-pueden-determinar-la-direccion-del-pais-o-si-habra-una-ola-azul.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "EL PAÍS ofrece una cobertura especial de las elecciones ‘midterms’ en Estados Unidos",
+       "url": "https://elpais.com/us/2026-11-03/el-pais-ofrece-una-cobertura-especial-de-las-elecciones-midterms-en-estados-unidos.html",
+       "seccion": "Elecciones EE UU"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya el posible cambio de mayoría y la ofensiva de Trump en Washington antes de la cita.",
+     "noticias": [
+      {
+       "titular": "Midterms en Estados Unidos: las elecciones que ponen a prueba el poder 'absoluto' de Donald Trump",
+       "url": "https://www.elmundo.es/internacional/2026/11/02/6ae8d1fae85ece0a2c8b4570.html",
+       "seccion": "Estados Unidos"
+      },
+      {
+       "titular": "Estados Unidos ataca objetivos iraníes en el Estrecho de Ormuz horas antes de las elecciones de mitad de mandato",
+       "url": "https://www.elmundo.es/internacional/2026/11/03/6ae983d321efa065688b458a.html",
+       "seccion": "Irán"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Ofrece directo con sondeos, explica el funcionamiento de las midterm y el peso del voto hispano y asiático.",
+     "noticias": [
+      {
+       "titular": "Elecciones de mitad de mandato en Estados Unidos, hoy en directo: última hora de Trump, los estados clave y sondeos de las midterm",
+       "url": "https://www.lavanguardia.com/internacional/20261103/11674703/elecciones-estados-unidos-midterm-encuestas-campana-electoral-donald-trump-ultima-hora-en-directo.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "¿Cómo funcionan las 'midterm' en EE.UU. y por qué son cruciales para Trump?",
+       "url": "https://www.lavanguardia.com/internacional/20261102/11673996/como-funcionan-midterm-elecciones-eeuu-trump.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "El decisivo voto hispano y asiático",
+       "url": "https://www.lavanguardia.com/internacional/20261103/11673974/ee-uu-estados-unidos-elecciones-midterm-latibos-hispanos-asiaticos.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Muerte del delantero Jesús de Miguel",
+   "resumen": "El delantero del CD Tenerife Jesús de Miguel murió a los 30 años tras un choque con el portero del Andorra, Jesús Owono, que está investigado por homicidio imprudente.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Informa de la investigación judicial abierta al portero del Andorra.",
+     "noticias": [
+      {
+       "titular": "Muere Jesús de Miguel, delantero del Tenerife, tras el brutal choque con el portero del Andorra",
+       "url": "https://elpais.com/deportes/futbol/2026-11-03/el-tenerife-informa-del-empeoramiento-del-estado-de-salud-de-jesus-de-miguel.html",
+       "seccion": "Fútbol"
+      },
+      {
+       "titular": "La Policía abre diligencias judiciales a Jesús Owono por homicidio imprudente tras la muerte de Jesús de Miguel",
+       "url": "https://elpais.com/deportes/futbol/2026-11-03/la-policia-abre-diligencias-judiciales-a-jesus-owono-por-homicidio-imprudente-tras-la-muerte-de-jesus-de-miguel.html",
+       "seccion": "Fútbol"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Incluye la explicación médica de la conmoción cardiaca como posible causa de la muerte.",
+     "noticias": [
+      {
+       "titular": "Muere el delantero del Tenerife Jesús de Miguel tras el brutal choque con el portero del Andorra",
+       "url": "https://www.elmundo.es/deportes/futbol/segunda-division/2026/11/03/6ae97d60e4d4d8e9038b459e.html",
+       "seccion": "deportes"
+      },
+      {
+       "titular": "Qué es la 'Conmotio cordis', la posible causa de muerte de Jesús de Miguel, delantero del Tenerife",
+       "url": "https://www.elmundo.es/salud/2026/11/03/6ae9b960e85ece53388b4584.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Ofrece un retrato del jugador y la situación personal del portero.",
+     "noticias": [
+      {
+       "titular": "Muere Jesús de Miguel, delantero del Tenerife, tras el choque con el portero del Andorra",
+       "url": "https://www.abc.es/deportes/futbol/muere-hospital-futbolista-jesus-miguel-tras-salvaje-20261103093829-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "El retrato de Jesús de Miguel: «No hacía falta que gritara; ibas a su lado y le seguías»",
+       "url": "https://www.abc.es/deportes/futbol/jesus-miguel-arquetipo-esfuerzo-autoconfianza-20261103111628-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "El otro lado del drama: la peor salida del atrevido guardameta Jesús Owono",
+       "url": "https://www.abc.es/deportes/futbol/lado-drama-peor-salida-atrevido-guardameta-jesus-20261103124851-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la trayectoria del jugador y las reacciones del mundo del fútbol.",
+     "noticias": [
+      {
+       "titular": "Muere el jugador del CD Tenerife Jesús de Miguel tras el choque con el portero del Andorra",
+       "url": "https://www.lavanguardia.com/deportes/20261103/11674777/muere-jugador-cd-tenerife-jesus-miguel-choque-portero-andorra.html",
+       "seccion": "Deportes"
+      },
+      {
+       "titular": "Quién era Jesús de Miguel, el delantero de los cuatro ascensos en el fútbol modesto",
+       "url": "https://www.lavanguardia.com/deportes/20261103/11674924/jesus-miguel-alameda-quien-era-goleador-futbolista-cuatro-ascensos-futbol-modesto-castellon-tenerife-fuenlabrada-internacional.html",
+       "seccion": "Deportes"
+      },
+      {
+       "titular": "“Rotos de dolor”: El fútbol llora la pérdida de Jesús de Miguel",
+       "url": "https://www.lavanguardia.com/deportes/futbol/20261103/11674866/rotos-dolor-futbol-llora-perdida-jesus-miguel.html",
+       "seccion": "Fútbol"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza el accidente de Urda con seguimiento en directo, las medidas del Gobierno y la comparecencia de Puente. Dedica también espacio a la cobertura de las elecciones en Estados Unidos y al foro World in Progress.",
+   "noticias": [
+    {
+     "titular": "Transportes reducirá la circulación en la vía Madrid-Sevilla para separar más los trenes hasta que esté en pie el nuevo sistema de seguridad ERTMS",
+     "url": "https://elpais.com/espana/2026-11-03/transportes-reducira-la-circulacion-en-la-via-madrid-sevilla-para-separar-mas-los-trenes-hasta-que-este-en-pie-el-nuevo-sistema-de-seguridad-ertms.html",
+     "seccion": "España",
+     "resumen": "Transportes reducirá la circulación Madrid-Sevilla y exigirá doble supervisión de cada orden a los maquinistas hasta que funcione el sistema ERTMS."
+    },
+    {
+     "titular": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Adif comprueba si la orden equivocada de marcha al AVE de Urda se dio por ser una costumbre",
+     "url": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
+     "seccion": "Accidente trenes Urda",
+     "resumen": "Adif revisa si la orden errónea al AVE de Urda respondía a una costumbre; el Gobierno aprueba 30 millones para las víctimas y Puente comparece en el Congreso."
+    },
+    {
+     "titular": "Feijóo pide a los sindicatos que desconvoquen la huelga general por la tragedia de Urda: “69 muertos después es un grave error”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/feijoo-pide-a-los-sindicatos-que-desconvoquen-la-huelga-general-por-la-tragedia-de-urda-69-muertos-despues-es-un-grave-error.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo pide a los sindicatos desconvocar la huelga general; estos califican su planteamiento de insultante."
+    },
+    {
+     "titular": "Rafael, uno de los pasajeros del primer vagón del AVE, despierta de la sedación",
+     "url": "https://elpais.com/espana/2026-11-03/rafael-uno-de-los-pasajeros-del-primer-vagon-del-ave-despierta-de-la-sedacion.html",
+     "seccion": "España",
+     "resumen": "Uno de los pasajeros del primer vagón sale de la sedación; 29 personas siguen hospitalizadas, nueve en la UCI."
+    },
+    {
+     "titular": "Estados Unidos vota en unas ‘midterms’ decisivas para el poder de Trump: siete claves de las elecciones",
+     "url": "https://elpais.com/us/2026-11-03/estados-unidos-vota-en-unas-midterms-decisivas-para-el-poder-de-trump-siete-claves-de-las-elecciones.html",
+     "seccion": "Elecciones EE UU",
+     "resumen": "Las elecciones de mitad de mandato deciden el poder de Trump y el futuro de demócratas y republicanos."
+    },
+    {
+     "titular": "Muere Jesús de Miguel, delantero del Tenerife, tras el brutal choque con el portero del Andorra",
+     "url": "https://elpais.com/deportes/futbol/2026-11-03/el-tenerife-informa-del-empeoramiento-del-estado-de-salud-de-jesus-de-miguel.html",
+     "seccion": "Fútbol",
+     "resumen": "Muere el delantero del Tenerife tras un choque con el portero del Andorra que le provocó una parada cardiaca."
+    },
+    {
+     "titular": "La Policía abre diligencias judiciales a Jesús Owono por homicidio imprudente tras la muerte de Jesús de Miguel",
+     "url": "https://elpais.com/deportes/futbol/2026-11-03/la-policia-abre-diligencias-judiciales-a-jesus-owono-por-homicidio-imprudente-tras-la-muerte-de-jesus-de-miguel.html",
+     "seccion": "Fútbol",
+     "resumen": "La Policía abre diligencias por homicidio imprudente contra el portero del Andorra, Jesús Owono."
+    },
+    {
+     "titular": "La policía desaloja la acampada de Sol sin disturbios después de que varias comisiones organizadoras anunciaran su retirada",
+     "url": "https://elpais.com/espana/madrid/2026-11-03/la-policia-desaloja-la-acampada-de-sol-sin-disturbios-despues-de-que-las-comisiones-organizadoras-anunciaran-su-retirada.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "La Policía desaloja la acampada de Sol sin incidentes graves tras la retirada anunciada por varias comisiones; hay dos detenidos."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Centra la portada en la tragedia de Urda, con foco en los controles de seguridad ferroviaria y la respuesta política del PP. Añade la ofensiva contra el Gobierno en la Cumbre Iberoamericana y la cobertura de las midterm.",
+   "noticias": [
+    {
+     "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+     "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+     "seccion": "Artículos Emilio Amade",
+     "resumen": "Explica con gráficos el sistema de señalización del tramo Madrid-Sevilla y las causas de la colisión, todavía bajo investigación."
+    },
+    {
+     "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "El Ministerio certificó 21 días antes del accidente que la red estaba en niveles aceptables de riesgo; la Agencia rechazó paralizar el tráfico tras una petición de víctimas de Adamuz."
+    },
+    {
+     "titular": "El Consejo de Ministros aprueba un escudo de ayudas económicas de 30 millones de euros para las víctimas del accidente ferroviario de Urda (Toledo)",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae9a3ade9cf4a88748b457b.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "El Consejo de Ministros aprueba 30 millones en ayudas y topes a precios de transportes alternativos."
+    },
+    {
+     "titular": "El centro de control \"pidió disculpas\" al maquinista del Iryo que casi colisiona con los trenes accidentados tras darle una orden equivocada",
+     "url": "https://www.elmundo.es/economia/2026/11/03/6ae873c6e9cf4a43058b4588.html",
+     "seccion": "economía",
+     "resumen": "El centro de control pidió disculpas al maquinista de un Iryo que casi colisiona tras recibir una orden errónea."
+    },
+    {
+     "titular": "Feijóo culpa a Sánchez por desoír las alertas sobre la seguridad ferroviaria y sentencia a Puente: \"Es peor que Ábalos\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/03/6ae9d485e4d4d802508b459a.html",
+     "seccion": "PP",
+     "resumen": "Feijóo acusa a Sánchez de desoír las alertas sobre seguridad ferroviaria y critica a Puente."
+    },
+    {
+     "titular": "Feijóo puede ganar en 36 provincias y Vox desbanca al PSOE en Madrid tras la tragedia de Urda",
+     "url": "https://www.elmundo.es/espana/encuestas/2026/11/03/6ae8d3cefdddffb1178b4574.html",
+     "seccion": "Artículos Paloma H. Matellano",
+     "resumen": "Un sondeo territorial sitúa al PP con opciones de ganar en 36 provincias y a Vox por delante del PSOE en Madrid."
+    },
+    {
+     "titular": "Sheinbaum y Lula dejan solo a Sánchez en la Cumbre Iberoamericana con siete aliados de Trump, incluido Milei",
+     "url": "https://www.elmundo.es/espana/2026/11/03/6ae99e48fdddff59638b45a7.html",
+     "seccion": "Pedro Sánchez",
+     "resumen": "Sheinbaum y Lula no acuden a la Cumbre Iberoamericana con Sánchez, que queda acompañado por aliados de Trump."
+    },
+    {
+     "titular": "Estados Unidos ataca objetivos iraníes en el Estrecho de Ormuz horas antes de las elecciones de mitad de mandato",
+     "url": "https://www.elmundo.es/internacional/2026/11/03/6ae983d321efa065688b458a.html",
+     "seccion": "Irán",
+     "resumen": "Estados Unidos ataca objetivos iraníes en el Estrecho de Ormuz horas antes de las midterm."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Da prioridad al balance y a la identificación de víctimas de Urda, junto a asuntos judiciales y políticos de Zapatero y Sánchez. Incluye también temas de sociedad, sanidad y ocio.",
+   "noticias": [
+    {
+     "titular": "Transportes reducirá la frecuencia en la línea Madrid-Sevilla durante las obras para implantar el nuevo sistema de seguridad",
+     "url": "https://www.abc.es/espana/ultima-hora-accidente-tren-urda-directo-comparecencia-20261103110818-di.html",
+     "seccion": "",
+     "resumen": "Transportes reducirá la frecuencia Madrid-Sevilla durante las obras del nuevo sistema; 54 fallecidos son españoles y 15 extranjeros."
+    },
+    {
+     "titular": "Feijóo pide a los sindicatos desconvocar la huelga general: «Con 69 muertos es un grave error»",
+     "url": "https://www.abc.es/espana/feijoo-pide-sindicados-desconvocar-huelga-general-muertos-20261103100101-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo pide a los sindicatos reconsiderar la huelga general del 11 de noviembre por la oportunidad de la convocatoria."
+    },
+    {
+     "titular": "El informe de Yanes sobre las joyas de Zapatero le deja al borde de la imputación",
+     "url": "https://www.abc.es/espana/informe-yanes-sobre-joyas-zapatero-deja-borde-20261103011004-nt.html",
+     "seccion": "",
+     "resumen": "Un informe de la joyería Yanes sitúa a Zapatero al borde de la imputación por malversación en la investigación de la Audiencia Nacional."
+    },
+    {
+     "titular": "Sheinbaum no acudirá a la Cumbre Iberoamericana pese al acercamiento del Rey en el Mundial",
+     "url": "https://www.abc.es/espana/presidenta-mexico-acudira-cumbre-iberoamericana-pese-acercamiento-20261103105703-nt.html",
+     "seccion": "",
+     "resumen": "Solo diez de los 22 líderes invitados asistirán a la Cumbre Iberoamericana; Sheinbaum no acudirá."
+    },
+    {
+     "titular": "La Policía desaloja a los últimos integrantes de la acampada de Sol",
+     "url": "https://www.abc.es/espana/madrid/policia-desaloja-ultimos-integrantes-acampada-sol-20261103060850-nt.html",
+     "seccion": "",
+     "resumen": "La Policía retira los últimos integrantes de la acampada de Sol con dos detenidos."
+    },
+    {
+     "titular": "Sánchez, 'persona non grata' en Murcia, la primera comunidad autónoma en aprobarlo",
+     "url": "https://www.abc.es/espana/murcia/sanchez-persona-non-grata-murcia-primera-comunidad-20261103122238-nt.html",
+     "seccion": "",
+     "resumen": "La Asamblea Regional de Murcia aprueba declarar a Sánchez persona non grata, primera comunidad en hacerlo."
+    },
+    {
+     "titular": "Seis de cada diez pacientes esperan siete días o más para ser atendidos por el médico de familia",
+     "url": "https://www.abc.es/sociedad/seis-diez-pacientes-esperan-siete-dias-atendidos-20261103115845-nt.html",
+     "seccion": "",
+     "resumen": "El Barómetro Sanitario indica que el 61,1% de los pacientes espera siete días o más para ser atendido por su médico de familia."
+    },
+    {
+     "titular": "El Gobierno limita los ultraprocesados en hospitales, residencias y escuelas infantiles",
+     "url": "https://www.abc.es/sociedad/gobierno-limita-ultraprocesados-hospitales-residencias-escuelas-infantiles-20261103125826-nt.html",
+     "seccion": "",
+     "resumen": "El Gobierno aprueba un real decreto que limita los ultraprocesados en hospitales, residencias y escuelas infantiles."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Pone el acento en las consecuencias del accidente para la movilidad, con el posible corte de la línea Madrid-Barcelona, y en la presión sobre Puente. Dedica también atención a la cobertura internacional de las midterm y a las negociaciones de paz en Ucrania.",
+   "noticias": [
+    {
+     "titular": "Óscar Puente comparece tras el Consejo de Ministros",
+     "url": "https://www.lavanguardia.com/vida/20261103/11674702/choque-de-trenes-toledo-oscar-puente-investigacion-ultima-hora-hoy-en-directo.html",
+     "seccion": "Sociedad",
+     "resumen": "Puente comparece tras el Consejo de Ministros mientras la Guardia Civil inspecciona la zona del choque de trenes."
+    },
+    {
+     "titular": "El coste del cierre de la línea Madrid-Barcelona costaría 2,5 millones diarios a los usuarios",
+     "url": "https://www.lavanguardia.com/vida/20261103/11674942/coste-cierre-linea-madrid-barcelona-costaria-2-5-millones-diarios-usuarios.html",
+     "seccion": "Sociedad",
+     "resumen": "Pimec calcula que el cierre de la línea Madrid-Barcelona costaría 2,5 millones diarios y que el avión no absorbería la demanda."
+    },
+    {
+     "titular": "Puente afronta el examen del Congreso acorralado por los grupos",
+     "url": "https://www.lavanguardia.com/politica/20261103/11674426/puente-afronta-examen-congreso-diputacion-acorralado-grupos-urda.html",
+     "seccion": "Política",
+     "resumen": "Puente afronta el examen en el Congreso aislado por los grupos, aunque Sánchez sigue respaldándolo."
+    },
+    {
+     "titular": "Catalunya presiona contra el cierre total de la línea Barcelona-Madrid",
+     "url": "https://www.lavanguardia.com/vida/20261103/11674498/catalunya-presiona-cierre-total-linea-barcelona-madrid.html",
+     "seccion": "Sociedad",
+     "resumen": "Catalunya reclama no cerrar del todo la línea Barcelona-Madrid por la falta de alternativa en el modelo radial."
+    },
+    {
+     "titular": "Elecciones de mitad de mandato en Estados Unidos, hoy en directo: última hora de Trump, los estados clave y sondeos de las midterm",
+     "url": "https://www.lavanguardia.com/internacional/20261103/11674703/elecciones-estados-unidos-midterm-encuestas-campana-electoral-donald-trump-ultima-hora-en-directo.html",
+     "seccion": "Internacional",
+     "resumen": "Directo de las midterm con los primeros colegios abiertos en Vermont, sondeos y estados clave."
+    },
+    {
+     "titular": "EE.UU. vuelve a llevar a la mesa de negociaciones a Rusia y Ucrania en Abu Dabi",
+     "url": "https://www.lavanguardia.com/internacional/20261103/11674800/ee-uu-vuelve-a-llevar-a-la-mesa-de-negociaciones-a-rusia-y-ucrania-en-abu-dabi.html",
+     "seccion": "Internacional",
+     "resumen": "EE.UU. convoca a Rusia y Ucrania en Abu Dabi el 10 y 11 de noviembre para hablar de pasos hacia la paz y garantías de seguridad."
+    },
+    {
+     "titular": "Muere el jugador del CD Tenerife Jesús de Miguel tras el choque con el portero del Andorra",
+     "url": "https://www.lavanguardia.com/deportes/20261103/11674777/muere-jugador-cd-tenerife-jesus-miguel-choque-portero-andorra.html",
+     "seccion": "Deportes",
+     "resumen": "El CD Tenerife lamenta la muerte de Jesús de Miguel, de 30 años, tras el choque con el portero del Andorra."
+    },
+    {
+     "titular": "Jesús Owono, hundido, bloquea los comentarios de sus redes sociales ante el aluvión de insultos",
+     "url": "https://www.lavanguardia.com/deportes/futbol/20261103/11674891/jesus-owono-devastado-cierra-redes-sociales.html",
+     "seccion": "Fútbol",
+     "resumen": "Jesús Owono recibe insultos en redes sociales tras la entrada que le costó la expulsión."
+    }
+   ]
+  }
+ ]
+}
