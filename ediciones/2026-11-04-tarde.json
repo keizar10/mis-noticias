@@ -1,0 +1,539 @@
+{
+ "fecha": "2026-11-04",
+ "franja": "tarde",
+ "generada": "2026-11-04T14:22+01:00",
+ "con_ia": true,
+ "resumen_dia": "Los demócratas ganan las elecciones legislativas de EE UU y recuperan el Senado y la Cámara de Representantes, en una derrota para Trump que él mismo reconoce. En España, la dimisión del ministro de Transportes Óscar Puente tras los accidentes ferroviarios de Adamuz y Urda deja a Carlos Cuerpo al frente del departamento, con las elecciones generales del 29 de noviembre como telón de fondo. El balance de víctimas del accidente de Urda asciende a 69 fallecidos, todos ya identificados.",
+ "temas_comunes": [
+  {
+   "titulo": "Victoria demócrata en las midterms de EE UU",
+   "resumen": "Los demócratas se imponen en la Cámara de Representantes y el Senado en las elecciones legislativas, incluso en estados republicanos como Texas, Kansas o Carolina del Sur. Trump admite la derrota, mientras la Casa Blanca la atribuye a los candidatos.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya el castigo al caos de la presidencia de Trump y las sorpresas electorales, como Gina Hinojosa en Texas o la derrota de Darline Graham.",
+     "noticias": [
+      {
+       "titular": "Los demócratas arrasan en las ‘midterms’ a lomos del voto de castigo a la caótica presidencia de Trump",
+       "url": "https://elpais.com/us/2026-11-04/los-democratas-arrasan-en-las-midterms-a-lomos-del-voto-de-castigo-a-la-caotica-presidencia-de-trump.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Las ‘midterms’ 2026, en vivo| Estados Unidos asimila el impacto de la ola azul que arrebató el Congreso a los republicanos y repudió las políticas de Trump",
+       "url": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Trump admite la amarga derrota en las ‘midterms’: “Estoy un poco sorprendido. Pensé que lo haríamos mejor”",
+       "url": "https://elpais.com/us/2026-11-04/trump-admite-la-amarga-derrota-en-las-midterms-estoy-un-poco-sorprendido-pense-que-lo-hariamos-mejor.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Cuatro victorias clave (y dos sorpresas): repaso de los triunfos demócratas en las elecciones",
+       "url": "https://elpais.com/us/2026-11-04/cuatro-victorias-clave-y-dos-sorpresas-repaso-a-los-triunfos-democratas-en-las-elecciones.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Castigo a Trump, victoria de la democracia",
+       "url": "https://elpais.com/opinion/2026-11-04/castigo-a-trump-victoria-de-la-democracia.html",
+       "seccion": "Opinión"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la 'ola azul', el giro en Texas y la reacción de la Casa Blanca, que dice que Trump no estaba en la papeleta, y mira ya a 2028.",
+     "noticias": [
+      {
+       "titular": "'Ola azul': los demócratas arrasan en las Midterms y recuperan el control total del Congreso triunfando en Texas o Kansas",
+       "url": "https://www.elmundo.es/internacional/2026/11/04/6aea9432e4d4d8701a8b45be.html",
+       "seccion": "Estados Unidos"
+      },
+      {
+       "titular": "JD Vance y Marco Rubio, los favoritos para heredar el 'trono' MAGA",
+       "url": "https://www.elmundo.es/internacional/2026/11/04/6aea0add21efa02d2f8b456f.html",
+       "seccion": "Estados Unidos"
+      },
+      {
+       "titular": "Talarico hace historia para los demócratas en Texas en las midterms de EEUU: \"Le ganamos a Goliat\"",
+       "url": "https://www.elmundo.es/internacional/2026/11/04/6aeb0223e85eceed5b8b4591.html",
+       "seccion": "Estados Unidos"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Presenta la noche como un impulso para el partido demócrata hacia 2028 y compara el momento con la debilidad republicana tras Trump.",
+     "noticias": [
+      {
+       "titular": "El Partido Republicano descubre que no es Trump",
+       "url": "https://www.abc.es/internacional/partido-republicano-descubre-trump-20261103132000-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Los resultados de las elecciones, estado a estado",
+       "url": "https://www.abc.es/internacional/resultados-elecciones-eeuu-directo-20261103230129-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "La noche soñada para los demócratas lanza al partido hacia 2028",
+       "url": "https://www.abc.es/internacional/noche-sonada-democratas-lanza-partido-2028-20261104131146-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enfoca la pérdida de control del Congreso por parte de Trump y las investigaciones que podrían abrirse, con el voto latino y Texas como claves.",
+     "noticias": [
+      {
+       "titular": "EE.UU. suspende a Trump: una ola demócrata le arrebata la Cámara de Representantes y el Senado",
+       "url": "https://www.lavanguardia.com/internacional/20261104/11675604/escrutinio-ee-uu-da-senales-optimismo-democratas-encaminados-recuperar-congreso.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Midterms 2026, en directo los resultados de las elecciones en EE.UU. | Última hora de Trump y de la victoria demócrata en Estados Unidos",
+       "url": "https://www.lavanguardia.com/internacional/20261104/11675624/elecciones-eeuu-midterms-2026-resultados-ganador-democratas-ultima-hora-trump-en-directo.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Gina Hinojosa, la primera gobernadora hispana de Texas",
+       "url": "https://www.lavanguardia.com/internacional/20261104/11675610/gina-hinojosa-primera-gobernadora-hispana-texas.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Trump, bajo la lupa del Congreso: la victoria demócrata abre la puerta a una batería de investigaciones",
+       "url": "https://www.lavanguardia.com/internacional/20261104/11675717/trump-lupa-congreso-victoria-democrata-abre-puerta-bateria-investigaciones.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Dimisión de Óscar Puente y relevo en Transportes",
+   "resumen": "Óscar Puente dimite como ministro tras los accidentes ferroviarios de Adamuz y Urda, y Carlos Cuerpo asume la cartera de Transportes. La crisis ferroviaria y la gestión de Adif quedan abiertas.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en los retos de Cuerpo al frente de Transportes, como la seguridad de la alta velocidad y la cúpula de Adif, y en las dimisiones del equipo de Sánchez.",
+     "noticias": [
+      {
+       "titular": "Sánchez encarga a Cuerpo la gestión de Transportes para dar “confianza, seguridad y certidumbre”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-04/sanchez-encarga-a-cuerpo-la-gestion-de-transportes-para-dar-confianza-seguridad-y-certidumbre.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Una crisis ferroviaria y aplacar a un sector constructor en contra, los desafíos de Cuerpo tras la ‘era Puente’",
+       "url": "https://elpais.com/espana/2026-11-04/una-crisis-ferroviaria-y-aplacar-a-un-sector-constructor-de-unas-los-desafios-de-cuerpo-tras-la-era-puente.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Todas las dimisiones del equipo de Sánchez desde su llegada al Gobierno: las últimas tres en apenas 20 días",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-04/todas-las-dimisiones-del-equipo-de-sanchez-desde-su-llegada-al-gobierno-las-ultimas-tres-en-apenas-20-dias.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Feijóo apunta a Sánchez y acusa a Puente de dimitir “de forma indigna”",
+       "url": "https://elpais.com/espana/2026-11-04/feijoo-apunta-a-sanchez-y-acusa-a-puente-de-dimitir-de-forma-indigna.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la dimisión como una salida 'fulminante' y la reacción de Adif, con cargos que denuncian una 'caza de brujas' interna.",
+     "noticias": [
+      {
+       "titular": "La dimisión fulminante de Puente deja huérfano a Sánchez ante el 29-N: \"No tenía otra opción\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aea22ccfdddfffe538b45a9.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Sánchez delega en Cuerpo la gestión de Transportes tras la dimisión de Puente: \"Su renuncia ayuda a recuperar la confianza en la dignidad política\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aeaef26fdddff3b558b4571.html",
+       "seccion": "Pedro Sánchez"
+      },
+      {
+       "titular": "Carlos Cuerpo, el ministro más moderado que no milita en el PSOE, acumula ya tres carteras en la recta final de campaña",
+       "url": "https://www.elmundo.es/economia/2026/11/04/6aeb050ce9cf4ace0d8b4581.html",
+       "seccion": "Artículos Carlos Segovia"
+      },
+      {
+       "titular": "Pedro Marco de la Peña, el 'cortafuegos' de Puente se queda sin su valedor y decide hoy si sigue en la presidencia de Adif",
+       "url": "https://www.elmundo.es/economia/2026/11/04/6aea48bde85ecedd2a8b458f.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Cargos de Adif denuncian una \"caza de brujas\" interna: \"Nos quieren silenciar a todos los que no hemos sido nombrados a dedo\"",
+       "url": "https://www.elmundo.es/espana/2026/11/04/6aea2328fdddff9d618b45a7.html",
+       "seccion": "Accidente tren Toledo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge las palabras de Juan del Val y de José Manuel Soto sobre la dimisión y sitúa a Cuerpo como baza electoral del PSOE.",
+     "noticias": [
+      {
+       "titular": "Juan del Val: «Óscar Puente va a intentar vestir su dimisión de una decisión envuelta en la dignidad y sabemos que no es verdad»",
+       "url": "https://www.abc.es/play/television/noticias/juan-val-oscar-puente-intentar-vestir-dimision-20261104113022-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Carlos Cuerpo, el tecnócrata de Sánchez se convierte en su gran baza electoral",
+       "url": "https://www.abc.es/economia/carlos-cuerpo-tecnocrata-sanchez-convierte-gran-baza-20261104102637-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "José Manuel Soto dice sobre Pedro Sánchez y Óscar Puente lo que muchos españoles piensan: «No han mostrado ni la menor empatía por las víctimas del accidente»",
+       "url": "https://www.abc.es/recreo/jose-manuel-soto-dice-sobre-pedro-sanchez-20261104131159-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Presenta la salida de Puente como el fin de un 'verso libre' del Gobierno y describe la nueva precampaña de Sánchez.",
+     "noticias": [
+      {
+       "titular": "Carlos Cuerpo asumirá las funciones de Transportes tras la dimisión de Óscar Puente",
+       "url": "https://www.lavanguardia.com/politica/20261104/11675718/carlos-cuerpo-asumira-funciones-tranportes-sustitucion-oscar-puente.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Sánchez acelera su precampaña tras la marcha de Puente y encadenará tres mítines en tres días",
+       "url": "https://www.lavanguardia.com/politica/20261104/11675684/sanchez-acelera-precampana-marcha-puente-encadenara-tres-mitines-tres-dias.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Puente dimite: fin de trayecto para un “verso libre” del Gobierno tras dos tragedias ferroviarias",
+       "url": "https://www.lavanguardia.com/politica/20261103/11675351/puente-dimite-trayecto-verso-suelto-gobierno-dos-tragedias-ferroviarias.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Política para adultos",
+       "url": "https://www.lavanguardia.com/politica/20261103/11675327/politica-adultos.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Accidente ferroviario de Urda: víctimas y causas",
+   "resumen": "Las 69 víctimas del accidente de Urda ya están identificadas. La investigación se centra en la señalización LZB y en la red de alta velocidad, y Bruselas expresa preocupación por los dos accidentes.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Se centra en el fallo técnico: la actuación de dos técnicos de Adif con el sistema LZB y el alto número de incidencias en la línea Madrid-Sevilla.",
+     "noticias": [
+      {
+       "titular": "El Colegio de Ingenieros de Caminos alerta del alto número de incidencias en la línea Madrid-Sevilla",
+       "url": "https://elpais.com/espana/2026-11-04/el-colegio-de-ingenieros-de-caminos-alerta-del-alto-numero-de-incidencias-en-la-linea-madrid-sevilla.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Una pareja de técnicos de Adif actuó de urgencia en Urda para intentar levantar el sistema LZB con un solo ordenador antes del accidente",
+       "url": "https://elpais.com/espana/2026-11-04/una-pareja-de-tecnicos-de-adif-actuo-de-urgencia-en-urda-para-intentar-levantar-el-sistema-lzb-con-un-solo-ordenador-antes-del-accidente.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la identificación de las víctimas, el sistema de señalización y el informe que certificó la red como de riesgo aceptable.",
+     "noticias": [
+      {
+       "titular": "El sistema de señalización en el tramo Madrid-Sevilla, explicado en gráficos",
+       "url": "https://www.elmundo.es/espana/2026/10/28/6ae236b621efa012638b4600.html",
+       "seccion": "Artículos Emilio Amade"
+      },
+      {
+       "titular": "La despedida a Marie, Daniela, Carlos, Yassine, Fernando o Marta, nuevos identificados en la tragedia de Urda: \"Vuestra marcha deja un vacío enorme\"",
+       "url": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "Todas las víctimas identificadas del accidente de trenes de Urda: la joven ingeniera, el guardia recién casado, el artista mexicano...",
+       "url": "https://www.elmundo.es/espana/2026/11/03/6aea39c721efa02d2f8b4581.html",
+       "seccion": "Artículos Olga R. Sanmartín"
+      },
+      {
+       "titular": "Bruselas reconoce que es \"muy preocupante\" que España haya sufrido dos accidentes de tren en menos de un año: \"Sin duda, es algo que no queremos ver\"",
+       "url": "https://www.elmundo.es/espana/2026/11/04/6aeb2967e9cf4ab16b8b45a4.html",
+       "seccion": "Artículos Daniel Viaña"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Pone el acento en la guerra judicial de UGT contra Adif por la filtración de grabaciones y en la oferta de la Airef para evaluar la red.",
+     "noticias": [
+      {
+       "titular": "La Airef se ofrece a evaluar el estado de las infraestructuras y señala «falta de conservación»",
+       "url": "https://www.abc.es/economia/airef-ofrece-evaluar-estado-infraestructuras-puesto-manifiesto-20261104130227-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "La sección de UGT en Renfe se querella contra Adif por la filtración de las grabaciones del puesto de control",
+       "url": "https://www.abc.es/espana/ugt-querella-adif-filtracion-grabaciones-puesto-control-20261104101809-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Los Reyes asistirán al funeral que se celebrará en la Catedral de Toledo por las víctimas",
+       "url": "https://www.abc.es/espana/casa-real/reyes-asistiran-funeral-celebrara-catedral-toledo-victimas-20261104124550-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Precampaña de las elecciones generales del 29-N",
+   "resumen": "Los partidos incorporan la victoria demócrata y la crisis ferroviaria a sus discursos de cara a las elecciones generales del 29 de noviembre. PP y Vox discrepan sobre el AVE y el presupuesto.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge el choque entre Feijóo y Abascal sobre subir al AVE y las campañas de movilización en WhatsApp de la izquierda.",
+     "noticias": [
+      {
+       "titular": "Abascal se desmarca de Feijóo y considera “irresponsable” pedir a los ciudadanos que suban al AVE",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-04/abascal-se-desmarca-de-feijoo-y-califica-de-irresponsable-pedir-que-se-suba-en-el-ave.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "“Deja sin oxígeno a la extrema derecha”: la izquierda levanta un ‘ejército’ de 95.000 usuarios en WhatsApp con memes de Belén Esteban",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-04/deja-sin-oxigeno-a-la-extrema-derecha-la-izquierda-levanta-un-ejercito-de-95000-usuarios-en-whatsapp-con-memes-de-belen-esteban.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Cómo saber si le ha tocado estar en una mesa electoral en las elecciones del 29-N y qué pasa si no puede acudir",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-04/como-saber-si-le-ha-tocado-estar-en-una-mesa-electoral-en-las-elecciones-del-29-n-y-que-pasa-si-no-puede-acudir.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Describe cómo los partidos, salvo Vox, integran la derrota de Trump en su argumentario de precampaña.",
+     "noticias": [
+      {
+       "titular": "Satisfacción en la izquierda por la derrota de Trump, Feijóo avisa del “vuelco” y Abascal le quita hierro",
+       "url": "https://www.lavanguardia.com/politica/20261104/11675961/satisfaccion-izquierda-derrota-trump-feijoo-avisa-vuelco-abascal-le-quita-hierro.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Sánchez acelera su precampaña tras la marcha de Puente y encadenará tres mítines en tres días",
+       "url": "https://www.lavanguardia.com/politica/20261104/11675684/sanchez-acelera-precampana-marcha-puente-encadenara-tres-mitines-tres-dias.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la victoria demócrata en las midterms, con foco en el castigo a Trump y en las sorpresas electorales. En España, sigue la crisis ferroviaria y los retos de Carlos Cuerpo al frente de Transportes.",
+   "noticias": [
+    {
+     "titular": "Los demócratas arrasan en las ‘midterms’ a lomos del voto de castigo a la caótica presidencia de Trump",
+     "url": "https://elpais.com/us/2026-11-04/los-democratas-arrasan-en-las-midterms-a-lomos-del-voto-de-castigo-a-la-caotica-presidencia-de-trump.html",
+     "seccion": "Elecciones EE UU",
+     "resumen": "Los demócratas se hacen con el Senado y la Cámara de Representantes, algo que solo ha ocurrido seis veces en la historia, gracias al voto de castigo a Trump."
+    },
+    {
+     "titular": "Las ‘midterms’ 2026, en vivo| Estados Unidos asimila el impacto de la ola azul que arrebató el Congreso a los republicanos y repudió las políticas de Trump",
+     "url": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
+     "seccion": "Elecciones EE UU",
+     "resumen": "Estados Unidos asimila la ola azul y el triunfo de Gina Hinojosa en Texas, una de las sorpresas de la noche."
+    },
+    {
+     "titular": "Trump admite la amarga derrota en las ‘midterms’: “Estoy un poco sorprendido. Pensé que lo haríamos mejor”",
+     "url": "https://elpais.com/us/2026-11-04/trump-admite-la-amarga-derrota-en-las-midterms-estoy-un-poco-sorprendido-pense-que-lo-hariamos-mejor.html",
+     "seccion": "Elecciones EE UU",
+     "resumen": "Trump reconoce la derrota republicana y dice estar sorprendido, pese a haber pedido el voto como si él estuviera en la papeleta."
+    },
+    {
+     "titular": "Sánchez encarga a Cuerpo la gestión de Transportes para dar “confianza, seguridad y certidumbre”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-04/sanchez-encarga-a-cuerpo-la-gestion-de-transportes-para-dar-confianza-seguridad-y-certidumbre.html",
+     "seccion": "España",
+     "resumen": "Sánchez encarga a Carlos Cuerpo Transportes para recuperar la confianza en el AVE tras el accidente de Urda y la dimisión de Puente."
+    },
+    {
+     "titular": "Una crisis ferroviaria y aplacar a un sector constructor en contra, los desafíos de Cuerpo tras la ‘era Puente’",
+     "url": "https://elpais.com/espana/2026-11-04/una-crisis-ferroviaria-y-aplacar-a-un-sector-constructor-de-unas-los-desafios-de-cuerpo-tras-la-era-puente.html",
+     "seccion": "España",
+     "resumen": "Cuerpo debe aplicar reformas de seguridad en alta velocidad, decidir sobre la cúpula de Adif y lidiar con contratos de obra pública afectados por la crisis de Ormuz."
+    },
+    {
+     "titular": "Una pareja de técnicos de Adif actuó de urgencia en Urda para intentar levantar el sistema LZB con un solo ordenador antes del accidente",
+     "url": "https://elpais.com/espana/2026-11-04/una-pareja-de-tecnicos-de-adif-actuo-de-urgencia-en-urda-para-intentar-levantar-el-sistema-lzb-con-un-solo-ordenador-antes-del-accidente.html",
+     "seccion": "España",
+     "resumen": "Dos técnicos de Adif intentaron recuperar el sistema LZB en Urda con un solo ordenador, sin lograr reactivar los dos que habían fallado."
+    },
+    {
+     "titular": "Feijóo apunta a Sánchez y acusa a Puente de dimitir “de forma indigna”",
+     "url": "https://elpais.com/espana/2026-11-04/feijoo-apunta-a-sanchez-y-acusa-a-puente-de-dimitir-de-forma-indigna.html",
+     "seccion": "España",
+     "resumen": "Feijóo acusa a Sánchez de la dimisión de Puente y promete presentar el Presupuesto de 2027 con efectos retroactivos si gobierna."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Prioriza la investigación del accidente de Urda y la dimisión de Óscar Puente, junto con la derrota de Trump en las midterms. Añade la reacción de los mercados y noticias económicas.",
+   "noticias": [
+    {
+     "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "El Ministerio certificó 21 días antes del accidente que la red estaba en niveles aceptables de riesgo; la AESF rechazó paralizar el tráfico en octubre."
+    },
+    {
+     "titular": "La dimisión fulminante de Puente deja huérfano a Sánchez ante el 29-N: \"No tenía otra opción\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aea22ccfdddfffe538b45a9.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "La dimisión de Puente sorprende a Moncloa y Ferraz y deja a Sánchez sin un colaborador clave a un mes de las generales."
+    },
+    {
+     "titular": "Cargos de Adif denuncian una \"caza de brujas\" interna: \"Nos quieren silenciar a todos los que no hemos sido nombrados a dedo\"",
+     "url": "https://www.elmundo.es/espana/2026/11/04/6aea2328fdddff9d618b45a7.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Cargos de Adif denuncian una supuesta caza de brujas interna tras los cambios en la dirección de la compañía."
+    },
+    {
+     "titular": "La despedida a Marie, Daniela, Carlos, Yassine, Fernando o Marta, nuevos identificados en la tragedia de Urda: \"Vuestra marcha deja un vacío enorme\"",
+     "url": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Las 69 víctimas de Urda están ya identificadas y sus familias despiden a los fallecidos."
+    },
+    {
+     "titular": "Bruselas reconoce que es \"muy preocupante\" que España haya sufrido dos accidentes de tren en menos de un año: \"Sin duda, es algo que no queremos ver\"",
+     "url": "https://www.elmundo.es/espana/2026/11/04/6aeb2967e9cf4ab16b8b45a4.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "Bruselas reconoce como muy preocupante que España sufra dos accidentes ferroviarios en menos de un año y pide desplegar el sistema ERTMS."
+    },
+    {
+     "titular": "'Ola azul': los demócratas arrasan en las Midterms y recuperan el control total del Congreso triunfando en Texas o Kansas",
+     "url": "https://www.elmundo.es/internacional/2026/11/04/6aea9432e4d4d8701a8b45be.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Los demócratas recuperan el control total del Congreso y la Casa Blanca atribuye el resultado a los candidatos y no a Trump."
+    },
+    {
+     "titular": "Los inversores celebran en las bolsas la \"tranquilidad\" del resultado electoral en EEUU que deja sin opciones a Trump para provocar un nuevo caos económico",
+     "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/04/6aeb27ffe4d4d88e5c8b457a.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Las bolsas celebran el resultado electoral, con el Ibex cerca de un 3% de subida impulsado por la banca."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la información sobre las elecciones en EE UU con el seguimiento de la dimisión de Puente y el accidente de Urda. Incluye también temas sociales y de servicio.",
+   "noticias": [
+    {
+     "titular": "La noche soñada para los demócratas lanza al partido hacia 2028",
+     "url": "https://www.abc.es/internacional/noche-sonada-democratas-lanza-partido-2028-20261104131146-nt.html",
+     "seccion": "",
+     "resumen": "Las midterms dan un impulso al Partido Demócrata de cara a 2028, tras la derrota de 2024."
+    },
+    {
+     "titular": "El Partido Republicano descubre que no es Trump",
+     "url": "https://www.abc.es/internacional/partido-republicano-descubre-trump-20261103132000-nt.html",
+     "seccion": "",
+     "resumen": "Análisis sobre cómo el Partido Republicano ha cambiado tras el liderazgo de Trump, pese a sus victorias y procesos judiciales."
+    },
+    {
+     "titular": "Juan del Val: «Óscar Puente va a intentar vestir su dimisión de una decisión envuelta en la dignidad y sabemos que no es verdad»",
+     "url": "https://www.abc.es/play/television/noticias/juan-val-oscar-puente-intentar-vestir-dimision-20261104113022-nt.html",
+     "seccion": "",
+     "resumen": "Juan del Val critica la dimisión de Puente y el intento de presentarla como un acto de dignidad."
+    },
+    {
+     "titular": "Carlos Cuerpo, el tecnócrata de Sánchez se convierte en su gran baza electoral",
+     "url": "https://www.abc.es/economia/carlos-cuerpo-tecnocrata-sanchez-convierte-gran-baza-20261104102637-nt.html",
+     "seccion": "",
+     "resumen": "Cuerpo aparece como el ministro mejor valorado por el CIS y como una baza electoral del PSOE."
+    },
+    {
+     "titular": "La sección de UGT en Renfe se querella contra Adif por la filtración de las grabaciones del puesto de control",
+     "url": "https://www.abc.es/espana/ugt-querella-adif-filtracion-grabaciones-puesto-control-20261104101809-nt.html",
+     "seccion": "",
+     "resumen": "UGT en Renfe se querella contra Adif por la filtración de grabaciones del centro de control de Urda."
+    },
+    {
+     "titular": "La Airef se ofrece a evaluar el estado de las infraestructuras y señala «falta de conservación»",
+     "url": "https://www.abc.es/economia/airef-ofrece-evaluar-estado-infraestructuras-puesto-manifiesto-20261104130227-nt.html",
+     "seccion": "",
+     "resumen": "La Airef se ofrece a evaluar el estado de la infraestructura ferroviaria y señala falta de conservación."
+    },
+    {
+     "titular": "El 10,2% de los hombres admite haber ejercido violencia sexual contra menores de edad",
+     "url": "https://www.abc.es/sociedad/102-hombres-espana-reconoce-haber-ejercido-violencia-20261104094539-nt.html",
+     "seccion": "",
+     "resumen": "Un estudio nacional revela que el 10,2% de los hombres admite violencia sexual contra menores."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Pone el foco en la derrota de Trump y sus consecuencias políticas y económicas, con la pérdida del Congreso. En España, cubre la salida de Puente y la precampaña del PSOE.",
+   "noticias": [
+    {
+     "titular": "EE.UU. suspende a Trump: una ola demócrata le arrebata la Cámara de Representantes y el Senado",
+     "url": "https://www.lavanguardia.com/internacional/20261104/11675604/escrutinio-ee-uu-da-senales-optimismo-democratas-encaminados-recuperar-congreso.html",
+     "seccion": "Internacional",
+     "resumen": "Una ola demócrata arrebata a los republicanos la Cámara de Representantes y el Senado, con avances en bastiones conservadores."
+    },
+    {
+     "titular": "El-Sayed gana en Michigan y se convierte en el primer senador musulmán",
+     "url": "https://www.lavanguardia.com/internacional/20261104/11675667/sayed-gana-michigan-convierte-primer-senador-musulman.html",
+     "seccion": "Internacional",
+     "resumen": "James El-Sayed gana en Míchigan y se convierte en el primer senador musulmán del país."
+    },
+    {
+     "titular": "Trump, bajo la lupa del Congreso: la victoria demócrata abre la puerta a una batería de investigaciones",
+     "url": "https://www.lavanguardia.com/internacional/20261104/11675717/trump-lupa-congreso-victoria-democrata-abre-puerta-bateria-investigaciones.html",
+     "seccion": "Internacional",
+     "resumen": "La victoria demócrata abre la puerta a investigaciones sobre los negocios de Trump, el caso Epstein o la guerra de Irán."
+    },
+    {
+     "titular": "Carlos Cuerpo asumirá las funciones de Transportes tras la dimisión de Óscar Puente",
+     "url": "https://www.lavanguardia.com/politica/20261104/11675718/carlos-cuerpo-asumira-funciones-tranportes-sustitucion-oscar-puente.html",
+     "seccion": "Política",
+     "resumen": "Carlos Cuerpo asume Transportes tras la dimisión de Puente, en vísperas de las elecciones del 29-N."
+    },
+    {
+     "titular": "Puente dimite: fin de trayecto para un “verso libre” del Gobierno tras dos tragedias ferroviarias",
+     "url": "https://www.lavanguardia.com/politica/20261103/11675351/puente-dimite-trayecto-verso-suelto-gobierno-dos-tragedias-ferroviarias.html",
+     "seccion": "Política",
+     "resumen": "Puente dimite tras dos tragedias ferroviarias, después de haberse postulado como posible sucesor de Sánchez."
+    },
+    {
+     "titular": "Sánchez acelera su precampaña tras la marcha de Puente y encadenará tres mítines en tres días",
+     "url": "https://www.lavanguardia.com/politica/20261104/11675684/sanchez-acelera-precampana-marcha-puente-encadenara-tres-mitines-tres-dias.html",
+     "seccion": "Política",
+     "resumen": "Sánchez intensifica su precampaña con tres mítines en tres días en València, Tarragona y Bilbao."
+    },
+    {
+     "titular": "Wall Street contiene la respiración ante el giro político en Estados Unidos",
+     "url": "https://www.lavanguardia.com/economia/20261103/11675303/wall-street-contiene-respiracion-posible-giro-politico-ee-uu.html",
+     "seccion": "Economía",
+     "resumen": "Wall Street anticipa mayor volatilidad ante un poder compartido entre demócratas y republicanos."
+    }
+   ]
+  }
+ ]
+}
