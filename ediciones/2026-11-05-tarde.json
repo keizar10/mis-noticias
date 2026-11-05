@@ -1,0 +1,524 @@
+{
+ "fecha": "2026-11-05",
+ "franja": "tarde",
+ "generada": "2026-11-05T14:35+01:00",
+ "con_ia": true,
+ "resumen_dia": "La UCO registra la casa de Ábalos en Valencia y detiene a seis personas en una nueva pieza secreta del caso Koldo, mientras Koldo García sostiene que el PP le ofreció dinero, extremo que el PP no ha confirmado. La tragedia ferroviaria de Urda (69 fallecidos) sigue dominando la actualidad, con identificaciones de víctimas y dudas sobre la seguridad de la red. En la Cumbre Iberoamericana, Milei y Sánchez protagonizan un frío saludo tras cruce de acusaciones. En Estados Unidos, los demócratas ganan las elecciones de medio mandato y toman el control de la Cámara de Representantes.",
+ "temas_comunes": [
+  {
+   "titulo": "Nueva operación de la UCO en el caso Koldo",
+   "resumen": "La UCO registra la casa de Ábalos y detiene a seis personas en una pieza secreta abierta por el juez Ismael Moreno tras un nuevo atestado. Entre los detenidos figura el exchófer de Sánchez, Cristian Corvillo.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el registro en Valencia y las entradas en domicilios de Madrid, Sevilla y Córdoba, además de la petición de información a Adif.",
+     "noticias": [
+      {
+       "titular": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos",
+       "url": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Pone el foco en la detención del exchófer de Sánchez, Cristian Corvillo, y en la reclamación de información a Adif.",
+     "noticias": [
+      {
+       "titular": "La UCO lanza una nueva operación anticorrupción: se persona en casa de Ábalos, detiene al ex chófer de Sánchez y reclama información a Adif",
+       "url": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html",
+       "seccion": "Artículos Ángela Martialay"
+      },
+      {
+       "titular": "Cristian Corvillo, la caída del conductor de Sánchez en su gira de reconquista del PSOE que ya anunció: \"Lo voy a aprovechar\"",
+       "url": "https://www.elmundo.es/espana/2026/11/05/6aec5aa821efa07f108b45a2.html",
+       "seccion": "Koldo García"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Subraya la detención de la pareja de Ábalos y del exchófer de Sánchez por presuntos amaños de obra pública.",
+     "noticias": [
+      {
+       "titular": "La UCO detiene a la pareja de Ábalos y al exchófer de Sánchez por la sospecha de amaños de obra pública",
+       "url": "https://www.abc.es/espana/uco-registra-casa-abalos-valencia-orden-juez-20261105102127-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Cerdán se quejó a Koldo del exchófer de Sánchez: «Nos la jugamos en Andalucía y Cristian lo está jodiendo»",
+       "url": "https://www.abc.es/espana/cerdan-quejo-koldo-garcia-exchofer-sanchez-detenido-20261105130825-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enmarca la operación como una pieza por blanqueo dentro del caso Koldo.",
+     "noticias": [
+      {
+       "titular": "La UCO registra la casa de Ábalos en una operación por blanqueo del caso Koldo con seis detenidos",
+       "url": "https://www.lavanguardia.com/politica/20261105/11676658/uco-despliega-nuevo-operativo-pieza-secreta-caso-koldo.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Koldo García y la supuesta oferta del PP",
+   "resumen": "Koldo García afirma en un audio que un abogado del PP le ofreció un millón de euros y una rebaja de pena a cambio de información contra Sánchez. El PP no ha respondido a ese extremo en las portadas.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Presenta la acusación como un audio publicado por la Cadena SER, con la cifra y la rebaja de pena como datos centrales.",
+     "noticias": [
+      {
+       "titular": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
+       "url": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la insistencia de Koldo García en que el PP le ofreció dinero a cambio de mentir.",
+     "noticias": [
+      {
+       "titular": "Koldo García insiste en que el PP le ofreció dinero",
+       "url": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Tragedia ferroviaria de Urda",
+   "resumen": "El accidente de tren de Urda (Toledo) ha causado 69 fallecidos, todos ya identificados. Se investiga la seguridad de la red y la gestión de Adif.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Se centra en las vidas de las víctimas y en cómo el accidente afecta a las encuestas de cara al 29N.",
+     "noticias": [
+      {
+       "titular": "Las vidas que se pararon para siempre en Urda",
+       "url": "https://elpais.com/espana/2026-11-05/las-vidas-que-se-pararon-para-siempre-en-urda.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "¿Cómo se están moviendo las encuestas tras el accidente?",
+       "url": "https://elpais.com/podcasts/2026-11-05/como-estan-cambiando-las-encuestas-tras-el-accidente.html",
+       "seccion": "Podcast"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Cubre la identificación de víctimas, los informes sobre riesgo de la red y las previsiones de fiabilidad de Adif hasta 2030.",
+     "noticias": [
+      {
+       "titular": "La despedida a Marie, Daniela, Carlos, Yassine, Fernando o Marta, nuevos identificados en la tragedia de Urda: \"Vuestra marcha deja un vacío enorme\"",
+       "url": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "Adif prevé un grave deterioro de la \"fiabilidad\" de los trenes hasta 2030",
+       "url": "https://www.elmundo.es/espana/2026/11/04/6aeb8622e4d4d84d628b45a2.html",
+       "seccion": "Accidente tren Toledo"
+      },
+      {
+       "titular": "Cuerpo cita esta tarde a los maquinistas tras descabezar Adif para que desactiven sus protestas en plena campaña electoral",
+       "url": "https://www.elmundo.es/economia/2026/11/05/6aec46bee85ece22718b4593.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Las víctimas de Adamuz registran una propuesta de Pacto de Estado por la seguridad ferroviaria: \"Las últimas dimisiones no resuelven nada porque está incompleta la purga de responsables\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/05/6aec5a49fdddff8b458b45a3.html",
+       "seccion": "Artículos Clara Rojas"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Cumbre Iberoamericana y choque Milei-Sánchez",
+   "resumen": "En la Cumbre Iberoamericana, Milei y Sánchez se saludan con frialdad tras las críticas del argentino al socialismo. Felipe VI y el Rey piden mantener el valor del multilateralismo.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Sitúa el choque en el discurso de Sánchez, que reclama unidad frente al unilateralismo, y en la frialdad del saludo.",
+     "noticias": [
+      {
+       "titular": "Última hora de la Cumbre Iberoamericana, en directo | Milei homologa el socialismo democrático con el fascismo ante Pedro Sánchez",
+       "url": "https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html",
+       "seccion": "Cumbre Iberoamericana"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la escalada verbal de Milei, que habla de equivalencia entre socialistas y fascistas, y la petición de mesura del Rey.",
+     "noticias": [
+      {
+       "titular": "Javier Milei, tras su frío saludo con Sánchez, eleva la tensión en la Cumbre Iberoamericana: \"La equivalencia entre socialistas y fascistas no es casual\"",
+       "url": "https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html",
+       "seccion": "Javier Milei"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca el frío saludo tras el calificativo de 'impresentable dictador' y el mensaje del Rey sobre la diplomacia multilateral.",
+     "noticias": [
+      {
+       "titular": "Milei y Sánchez protagonizan un frío saludo tras llamarle “impresentable dictador”",
+       "url": "https://www.lavanguardia.com/politica/20261105/11676636/miley-sanchez-protagonizan-frio-saludo-llamarle-impresentable-dictador.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "El Rey defiende la vigencia de la Cumbre Iberoamericana: “La diplomacia multilateral sigue teniendo sentido”",
+       "url": "https://www.lavanguardia.com/politica/20261105/11676775/rey-defiende-vigencia-cumbre-iberoamericana-diplomacia-multilateral-sigue-teniendo-sentido.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Amenazas de bomba en vuelos europeos",
+   "resumen": "Una nueva oleada de amenazas de bomba falsas afecta a vuelos con destino o origen en Europa, entre ellos varios con Madrid. Varios aviones han sido escoltados o desviados.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Señala al menos 17 aviones afectados, la escolta militar italiana y la petición de Bruselas a los Estados.",
+     "noticias": [
+      {
+       "titular": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 17 aviones con destino a ciudades europeas",
+       "url": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
+       "seccion": "Aviones"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Cifra en al menos 25 los vuelos afectados, tres de ellos en Madrid, y recuerda la amenaza del martes.",
+     "noticias": [
+      {
+       "titular": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 25 vuelos en toda Europa, tres de ellos en Madrid",
+       "url": "https://www.elmundo.es/economia/2026/11/05/6aec51cdfdddff8b218b4583.html",
+       "seccion": "Transporte y Turismo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge al menos una docena de vuelos con planes de emergencia en varios países, según Corriere della Sera.",
+     "noticias": [
+      {
+       "titular": "Al menos una docena de vuelos europeos activan un plan de emergencia por amenazas de bomba",
+       "url": "https://www.abc.es/internacional/avion-aterriza-emergencia-francia-tras-amenaza-bomba-20261105102629-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca el desvío a una base militar francesa de un vuelo de Air Lingus y la escolta de un Finnair por la Fuerza Aérea italiana.",
+     "noticias": [
+      {
+       "titular": "Nueva oleada de amenazas de bomba infundadas en al menos doce vuelos europeos",
+       "url": "https://www.lavanguardia.com/internacional/20261105/11676696/segunda-oleada-amenazas-bomba-infundadas-sobre-seis-vuelos-europeos.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Elecciones de medio mandato en EE. UU.",
+   "resumen": "Los demócratas ganan las elecciones de medio mandato y toman el control de la Cámara de Representantes. El voto latino, la frontera con México y los mercados reaccionan al resultado.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya el giro del voto latino hacia los demócratas, con un aumento de 28 puntos, y la caída bursátil de Tesla y SpaceX.",
+     "noticias": [
+      {
+       "titular": "¿Impulsar la economía? ¿Investigar la corrupción? ¿Todo junto? El nuevo Congreso demócrata en Estados Unidos decide sus primeros pasos",
+       "url": "https://elpais.com/us/2026-11-05/impulsar-la-economia-investigar-la-corrupcion-todo-junto-el-nuevo-congreso-democrata-en-estados-unidos-decide-sus-primeros-pasos.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Los latinos castigan a Trump y lideran el giro hacia el Partido Demócrata en las ‘midterms’",
+       "url": "https://elpais.com/us/2026-11-05/los-latinos-castigan-a-trump-y-lideran-el-giro-hacia-el-partido-democrata-en-las-midterms.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "En mapas: la frontera con México vuelve a los demócratas tras su breve coqueteo con Trump",
+       "url": "https://elpais.com/us/2026-11-05/en-mapas-la-frontera-con-mexico-vuelve-a-los-democratas-tras-su-breve-coqueteo-con-trump.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "El triunfo demócrata en las ‘midterms’ borra 111.000 millones de valor en Tesla y SpaceX",
+       "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
+       "seccion": "Mercados financieros"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Analiza las consecuencias para Trump y el papel de Musk como perdedor, con la derrota leída como plebiscito sobre el presidente.",
+     "noticias": [
+      {
+       "titular": "Trump culpa a la guerra de la humillación histórica en las elecciones de medio mandato",
+       "url": "https://www.lavanguardia.com/internacional/20261104/11676158/trumpismo-sufre-humillacion-historica-elecciones-medio-mandato.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "¿Qué consecuencias tendrá para Trump su derrota electoral?",
+       "url": "https://www.lavanguardia.com/internacional/elecciones-eeuu/20261105/11676018/como-podra-trump-sortear-derrota-electoral.html",
+       "seccion": "Elecciones EE.UU."
+      },
+      {
+       "titular": "El control del poder",
+       "url": "https://www.lavanguardia.com/opinion/20261105/11675969/control.html",
+       "seccion": "Opinión"
+      },
+      {
+       "titular": "Elon Musk, el otro gran perdedor de las ‘midterm’",
+       "url": "https://www.lavanguardia.com/internacional/20261105/11675995/elon-musk-gran-perdedor-midterms.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza el caso Koldo, con el registro de la casa de Ábalos y la acusación de Koldo García contra el PP, junto a la tragedia de Urda. Dedica también espacio a la cumbre iberoamericana y a las elecciones de EE. UU., con varios contenidos de análisis y de servicio propio.",
+   "noticias": [
+    {
+     "titular": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos",
+     "url": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
+     "seccion": "España",
+     "resumen": "La UCO registra la casa de Ábalos en Valencia en una pieza secreta con seis detenidos, y el juez pide información a Adif."
+    },
+    {
+     "titular": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
+     "url": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
+     "seccion": "España",
+     "resumen": "Koldo García afirma en un audio de la Cadena SER que un abogado del PP le ofreció un millón de euros y una rebaja de pena a cambio de información contra Sánchez."
+    },
+    {
+     "titular": "Las vidas que se pararon para siempre en Urda",
+     "url": "https://elpais.com/espana/2026-11-05/las-vidas-que-se-pararon-para-siempre-en-urda.html",
+     "seccion": "España",
+     "resumen": "Recopilación de las víctimas mortales del accidente ferroviario de Urda, tras una semana de identificaciones."
+    },
+    {
+     "titular": "Última hora de la Cumbre Iberoamericana, en directo | Milei homologa el socialismo democrático con el fascismo ante Pedro Sánchez",
+     "url": "https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html",
+     "seccion": "Cumbre Iberoamericana",
+     "resumen": "Sánchez reclama unidad frente al repliegue y el unilateralismo en la cumbre, mientras Milei le hace un saludo frío y critica al socialismo."
+    },
+    {
+     "titular": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 17 aviones con destino a ciudades europeas",
+     "url": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
+     "seccion": "Aviones",
+     "resumen": "Una nueva ola de amenazas de bomba falsas afecta al menos a 17 aviones, uno escoltado por cazas italianos y tres ligados a Madrid."
+    },
+    {
+     "titular": "Los latinos castigan a Trump y lideran el giro hacia el Partido Demócrata en las ‘midterms’",
+     "url": "https://elpais.com/us/2026-11-05/los-latinos-castigan-a-trump-y-lideran-el-giro-hacia-el-partido-democrata-en-las-midterms.html",
+     "seccion": "Elecciones EE UU",
+     "resumen": "El voto latino se desplaza hacia los demócratas, que suben 28 puntos entre los hispanos en la Cámara de Representantes."
+    },
+    {
+     "titular": "El triunfo demócrata en las ‘midterms’ borra 111.000 millones de valor en Tesla y SpaceX",
+     "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
+     "seccion": "Mercados financieros",
+     "resumen": "Las acciones de Tesla y SpaceX caen y las compañías de Musk pierden unos 111.000 millones tras la victoria demócrata."
+    },
+    {
+     "titular": "El canadiense que fue a la Luna abandera un proyecto urbanístico en Madrid con 12.000 viviendas de lujo: “Va a ser algo extraordinario”",
+     "url": "https://elpais.com/ciencia/2026-11-05/el-canadiense-que-fue-a-la-luna-abandera-un-proyecto-urbanistico-en-madrid-con-12000-viviendas-de-lujo-va-a-ser-algo-extraordinario.html",
+     "seccion": "Ciencia",
+     "resumen": "El astronauta Jeremy Hansen presenta un proyecto urbanístico con 12.000 viviendas de lujo en Madrid."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Centra la portada en la tragedia de Urda y en la gestión de Adif, con varios contenidos sobre la seguridad ferroviaria. También destaca la operación de la UCO y la campaña electoral del 29-N.",
+   "noticias": [
+    {
+     "titular": "El Ministerio de Transportes certificó, 21 días antes de la tragedia de Urda, que la red ferroviaria española estaba \"en niveles aceptables de riesgo\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "El Ministerio de Transportes certificó tres semanas antes del accidente que la red estaba en niveles aceptables de riesgo, y la AESF rechazó paralizar el tráfico."
+    },
+    {
+     "titular": "Adif prevé un grave deterioro de la \"fiabilidad\" de los trenes hasta 2030",
+     "url": "https://www.elmundo.es/espana/2026/11/04/6aeb8622e4d4d84d628b45a2.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Adif prevé un deterioro de la fiabilidad de los trenes hasta 2030 y reconoce que no cumplirá sus planes de mantenimiento."
+    },
+    {
+     "titular": "Cuerpo cita esta tarde a los maquinistas tras descabezar Adif para que desactiven sus protestas en plena campaña electoral",
+     "url": "https://www.elmundo.es/economia/2026/11/05/6aec46bee85ece22718b4593.html",
+     "seccion": "",
+     "resumen": "Transportes cita a los maquinistas tras el relevo en Adif, mientras el regulador pide reducir velocidades si fallan los sistemas LZB."
+    },
+    {
+     "titular": "La UCO lanza una nueva operación anticorrupción: se persona en casa de Ábalos, detiene al ex chófer de Sánchez y reclama información a Adif",
+     "url": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html",
+     "seccion": "Artículos Ángela Martialay",
+     "resumen": "La UCO entra en casa de Ábalos y detiene al exchófer de Sánchez en una nueva pieza abierta por el juez Moreno."
+    },
+    {
+     "titular": "El PP ve en los registros de la UCO en Adif \"la traca final\" de Sánchez: \"Es un deber moral sacarlo de las instituciones\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec7ca4fdddff19508b456e.html",
+     "seccion": "PP",
+     "resumen": "El PP describe los registros como la traca final de Sánchez y pide sacarlo de las instituciones."
+    },
+    {
+     "titular": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 25 vuelos en toda Europa, tres de ellos en Madrid",
+     "url": "https://www.elmundo.es/economia/2026/11/05/6aec51cdfdddff8b218b4583.html",
+     "seccion": "Transporte y Turismo",
+     "resumen": "Una nueva oleada de amenazas de bomba afecta al menos a 25 vuelos en Europa, tres de ellos en Madrid."
+    },
+    {
+     "titular": "Javier Milei, tras su frío saludo con Sánchez, eleva la tensión en la Cumbre Iberoamericana: \"La equivalencia entre socialistas y fascistas no es casual\"",
+     "url": "https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html",
+     "seccion": "Javier Milei",
+     "resumen": "Milei acusa tras el saludo frío que la equivalencia entre socialistas y fascistas no es casual, y Felipe VI pide mesura."
+    },
+    {
+     "titular": "La despedida a Marie, Daniela, Carlos, Yassine, Fernando o Marta, nuevos identificados en la tragedia de Urda: \"Vuestra marcha deja un vacío enorme\"",
+     "url": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Las 69 víctimas de Urda ya están identificadas, y sus familias despiden a los fallecidos."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la actualidad política nacional con la agenda de Madrid y asuntos internacionales. Destaca la detención de la pareja de Ábalos y del exchófer de Sánchez, y da peso a la campaña electoral.",
+   "noticias": [
+    {
+     "titular": "La UCO detiene a la pareja de Ábalos y al exchófer de Sánchez por la sospecha de amaños de obra pública",
+     "url": "https://www.abc.es/espana/uco-registra-casa-abalos-valencia-orden-juez-20261105102127-nt.html",
+     "seccion": "",
+     "resumen": "La UCO detiene a la actual pareja de Ábalos y al exchófer de Sánchez por presuntos amaños de obra pública."
+    },
+    {
+     "titular": "Cerdán se quejó a Koldo del exchófer de Sánchez: «Nos la jugamos en Andalucía y Cristian lo está jodiendo»",
+     "url": "https://www.abc.es/espana/cerdan-quejo-koldo-garcia-exchofer-sanchez-detenido-20261105130825-nt.html",
+     "seccion": "",
+     "resumen": "Mensajes entre Cerdán y Koldo sobre Cristian Corvillo, detenido en la operación contra presuntos amaños de adjudicaciones."
+    },
+    {
+     "titular": "Almeida presenta un presupuesto de 6.901 millones para 2027, con más inversión en vivienda y gasto social",
+     "url": "https://www.abc.es/espana/madrid/almeida-presenta-presupuesto-6901-millones-2027-inversion-20261105124417-nt.html",
+     "seccion": "",
+     "resumen": "El Ayuntamiento de Madrid presenta un presupuesto de 6.901 millones para 2027, con un 4,9% más."
+    },
+    {
+     "titular": "Ada Colau acusa a Pedro Sánchez de apropiarse de los logros de los ministros de Sumar en su campaña",
+     "url": "https://www.abc.es/espana/ada-colau-acusa-pedro-sanchez-apropiarse-logros-20261105111908-nt.html",
+     "seccion": "",
+     "resumen": "Colau acusa al PSOE de apropiarse de los logros de los ministros de Sumar en plena campaña."
+    },
+    {
+     "titular": "Al menos una docena de vuelos europeos activan un plan de emergencia por amenazas de bomba",
+     "url": "https://www.abc.es/internacional/avion-aterriza-emergencia-francia-tras-amenaza-bomba-20261105102629-nt.html",
+     "seccion": "",
+     "resumen": "Al menos una docena de vuelos europeos activan protocolos de emergencia por amenazas de bomba."
+    },
+    {
+     "titular": "Francia vuelve a las calles con una huelga general y un amplio despliegue policial",
+     "url": "https://www.abc.es/internacional/francia-vuelve-calles-huelga-general-amplio-despliegue-20261105141142-nt.html",
+     "seccion": "",
+     "resumen": "Francia vive una huelga general con unas 780.000 personas previstas en 260 manifestaciones."
+    },
+    {
+     "titular": "Hallan muerto en un hotel de Berlín al viceprimer ministro de Baviera, Hubert Aiwanger",
+     "url": "https://www.abc.es/internacional/hallan-muerto-hotel-berlin-viceprimer-ministro-baviera-20261105074753-nt.html",
+     "seccion": "",
+     "resumen": "Hallan muerto en un hotel de Berlín al viceprimer ministro de Baviera, Hubert Aiwanger."
+    },
+    {
+     "titular": "RTVE ofrece 195 minutos para emitir los anuncios de propaganda de los partidos en campaña, incluyendo a 'Alvise'",
+     "url": "https://www.abc.es/play/television/rtve-ofrece-195-minutos-emitir-anuncios-propaganda-20261105141021-nt.html",
+     "seccion": "",
+     "resumen": "RTVE propone a la Junta Electoral 195 minutos de propaganda para ocho partidos, incluido Alvise."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Pone el acento en la política nacional, con la operación contra Ábalos y la respuesta del PP, y en la repercusión internacional de las elecciones de EE. UU. Incluye también la cumbre iberoamericana y la oleada de amenazas de bomba.",
+   "noticias": [
+    {
+     "titular": "La UCO registra la casa de Ábalos en una operación por blanqueo del caso Koldo con seis detenidos",
+     "url": "https://www.lavanguardia.com/politica/20261105/11676658/uco-despliega-nuevo-operativo-pieza-secreta-caso-koldo.html",
+     "seccion": "Política",
+     "resumen": "La UCO registra la casa de Ábalos en una operación por blanqueo dentro del caso Koldo, con seis detenidos."
+    },
+    {
+     "titular": "El PP, tras el registro en casa de Ábalos: “La corrupción cuesta vidas”",
+     "url": "https://www.lavanguardia.com/politica/20261105/11676787/pp-registro-casa-abalos-adif-corrupcion-cuesta-vidas.html",
+     "seccion": "Política",
+     "resumen": "Tellado vincula la situación de la España de Sánchez con redadas, dimisiones y accidentes ferroviarios."
+    },
+    {
+     "titular": "Koldo García insiste en que el PP le ofreció dinero",
+     "url": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
+     "seccion": "Política",
+     "resumen": "Koldo García sostiene que le ofrecieron mentir a cambio de no entrar en la cárcel."
+    },
+    {
+     "titular": "Milei y Sánchez protagonizan un frío saludo tras llamarle “impresentable dictador”",
+     "url": "https://www.lavanguardia.com/politica/20261105/11676636/miley-sanchez-protagonizan-frio-saludo-llamarle-impresentable-dictador.html",
+     "seccion": "Política",
+     "resumen": "Milei y Sánchez se saludan con frialdad después de que el argentino lo calificara de impresentable dictador."
+    },
+    {
+     "titular": "Trump culpa a la guerra de la humillación histórica en las elecciones de medio mandato",
+     "url": "https://www.lavanguardia.com/internacional/20261104/11676158/trumpismo-sufre-humillacion-historica-elecciones-medio-mandato.html",
+     "seccion": "Internacional",
+     "resumen": "Los demócratas ganan siete distritos republicanos y capitalizan el descontento con Trump en buena parte del país."
+    },
+    {
+     "titular": "Nueva oleada de amenazas de bomba infundadas en al menos doce vuelos europeos",
+     "url": "https://www.lavanguardia.com/internacional/20261105/11676696/segunda-oleada-amenazas-bomba-infundadas-sobre-seis-vuelos-europeos.html",
+     "seccion": "Internacional",
+     "resumen": "Un vuelo de Air Lingus es desviado a una base francesa y un Finnair es escoltado por la Fuerza Aérea italiana, en el marco de amenazas infundadas."
+    },
+    {
+     "titular": "Asador Etxebarri de Bittor Arginzoniz, nuevo mejor restaurante del mundo",
+     "url": "https://www.lavanguardia.com/comer/al-dia/20261105/11675246/asador-etxebarri-bittor-arginzoniz-nuevo-mejor-restaurante-mundo.html",
+     "seccion": "Al día",
+     "resumen": "El Asador Etxebarri es elegido mejor restaurante del mundo, mientras DiverXO baja al noveno puesto."
+    },
+    {
+     "titular": "Rusia sigue confiando en un debilitado e “impredecible” Trump",
+     "url": "https://www.lavanguardia.com/internacional/20261105/11676745/rusia-sigue-confiando-en-un-debilitado-e-impredecible-trump-mediacion-ucrania.html",
+     "seccion": "Internacional",
+     "resumen": "Moscú teme que la victoria demócrata aumente la presión y las sanciones contra Rusia."
+    }
+   ]
+  }
+ ]
+}
