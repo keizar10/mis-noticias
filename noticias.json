@@ -1,298 +1,287 @@
 {
- "fecha": "2026-11-05",
+ "fecha": "2026-11-06",
  "franja": "tarde",
- "generada": "2026-11-05T23:25+01:00",
+ "generada": "2026-11-06T14:20+01:00",
  "con_ia": true,
- "resumen_dia": "La UCO ha registrado la casa de Ábalos en Valencia y ha detenido a seis personas en una nueva pieza del caso Koldo, mientras Koldo García afirma que el PP le ofreció dinero. En paralelo, la huelga de maquinistas tras la destitución en Adif y la cuestión de la línea Madrid-Barcelona mantienen abierto el debate sobre el accidente ferroviario de Urda. En EE UU, la victoria demócrata en las legislativas provoca caídas bursátiles del Nasdaq y de las empresas de Elon Musk, y en Paraguay Santiago Peña dimite tras el colapso de Ueno Bank.",
+ "resumen_dia": "La UCO y la Fiscalía Europea amplían las investigaciones sobre obras ferroviarias y la trama del caso Koldo, con detenciones y nuevas pesquisas sobre adjudicaciones de Adif. El juez Calama rechaza imputar a Zapatero un delito de malversación por las joyas, aunque mantiene otros cargos. Las amenazas de bomba en vuelos europeos se repiten en varios países, y la campaña de las elecciones generales del 29-N avanza con la candidatura de Hernández de Cos al BCE como asunto económico destacado. Las bolsas caen con fuerza por el desplome de las acciones vinculadas a la inteligencia artificial.",
  "temas_comunes": [
   {
-   "titulo": "Nueva operación de la UCO en el caso Koldo",
-   "resumen": "La UCO registra la casa de Ábalos y detiene a seis personas en una pieza secreta abierta por el juez Ismael Moreno. Koldo García sostiene que el PP le ofreció un millón de euros a cambio de información sobre Sánchez, extremo que el PP no ha confirmado en estas portadas.",
+   "titulo": "Operación de la Fiscalía Europea y la UCO por Urda",
+   "resumen": "La Fiscalía Europea investiga un presunto fraude en obras de alta velocidad y reclama documentación a Adif, el Tribunal de Cuentas y la AESF. La UCO acude a esas sedes para requerir información tras el accidente ferroviario de Urda.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Subraya el registro en Valencia, las entradas en domicilios de Madrid, Sevilla y Córdoba y la petición de información a Adif y una constructora, junto con el audio de Koldo sobre el abogado del PP.",
+     "enfoque": "Enfoca la investigación como presunto fraude en obras de alta velocidad y sitúa a la UCO como ejecutora de los requerimientos.",
      "noticias": [
       {
-       "titular": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos",
-       "url": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
-       "url": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
+       "titular": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
+       "url": "https://elpais.com/espana/2026-11-06/la-fiscalia-europea-investiga-un-presunto-fraude-en-las-obras-de-la-alta-velocidad-tras-el-accidente-de-urda.html",
        "seccion": "España"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Centra el foco en la detención del exchófer de Sánchez, Cristian Corvillo, y en la reclamación de información a Adif.",
+     "enfoque": "Destaca la puesta en marcha de la operación conjunta entre Fiscalía Europea y UCO y la petición de documentos.",
      "noticias": [
       {
-       "titular": "La UCO lanza una nueva operación anticorrupción: se persona en casa de Ábalos, detiene al ex chófer de Sánchez y reclama información a Adif",
-       "url": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html",
+       "titular": "La Fiscalía Europea pone en marcha una operación con la UCO por la tragedia de Urda y reclama documentación a Adif",
+       "url": "https://www.elmundo.es/espana/2026/11/06/6aed98e121efa0477c8b457d.html",
        "seccion": "Artículos Ángela Martialay"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Presenta la operación como posible fraude en contratos del AVE Madrid-Sevilla y añade que la AESF había alertado antes del accidente.",
+     "noticias": [
+      {
+       "titular": "Operación de la Fiscalía Europea por “posible fraude” en los contratos del AVE Madrid-Sevilla",
+       "url": "https://www.lavanguardia.com/vida/20261106/11677722/fiscalia-europea-lanza-operacion-uco-contratos-adif-accidente-urda.html",
+       "seccion": "Sociedad"
       },
       {
-       "titular": "Cristian Corvillo, la caída del conductor de Sánchez en su gira de reconquista del PSOE que ya anunció: \"Lo voy a aprovechar\"",
-       "url": "https://www.elmundo.es/espana/2026/11/05/6aec5aa821efa07f108b45a2.html",
-       "seccion": "Koldo García"
-      },
-      {
-       "titular": "Sánchez alaba la dimisión de Puente tras intentar impedírselo: \"Lo hace por empatía con las víctimas\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aecbac7e4d4d8af5a8b4597.html",
-       "seccion": "Artículos Raúl Piña"
+       "titular": "La AESF alertó antes de Urda de “prácticas inadecuadas” en la comunicación de emergencias",
+       "url": "https://www.lavanguardia.com/vida/20261106/11677838/aesf-alerto-urda-practicas-inadecuadas-comunicacion-emergencias.html",
+       "seccion": "Sociedad"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Destaca los mensajes entre Cerdán y Koldo sobre Corvillo y la declaración de Corvillo sobre la campaña de primarias.",
+     "enfoque": "Recoge el accidente de Urda desde la perspectiva de víctimas y de la respuesta institucional, sin centrarse en la operación judicial.",
      "noticias": [
       {
-       "titular": "Cerdán se quejó a Koldo del exchófer de Sánchez: «Nos la jugamos en Andalucía y Cristian lo está jodiendo»",
-       "url": "https://www.abc.es/espana/cerdan-quejo-koldo-garcia-exchofer-sanchez-detenido-20261105130825-nt.html",
+       "titular": "La dimisión de Puente que no se aplaude en Huelva: «Lleva meses clavándonos un puñal. Llega muy tarde»",
+       "url": "https://www.abc.es/espana/andalucia/huelva/dimision-ministro-puente-aplaude-huelva-lleva-diez-20261106103134-nts.html",
        "seccion": ""
-      },
-      {
-       "titular": "Corvillo confesó a Aldama que Sánchez durmió en su casa en la campaña de las primarias",
-       "url": "https://www.abc.es/espana/sanchez-alojo-casa-corvillo-primarias-2016-20261106214520-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge la operación por presunto blanqueo, la reacción del PP y las palabras de Abascal exigiendo la dimisión de Sánchez.",
-     "noticias": [
-      {
-       "titular": "La UCO registra la casa de Ábalos en una operación por blanqueo del caso Koldo con seis detenidos",
-       "url": "https://www.lavanguardia.com/politica/20261105/11676658/uco-despliega-nuevo-operativo-pieza-secreta-caso-koldo.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Koldo García insiste en que el PP le ofreció dinero",
-       "url": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "El PP, tras el registro en casa de Ábalos: “La corrupción cuesta vidas”",
-       "url": "https://www.lavanguardia.com/politica/20261105/11676787/pp-registro-casa-abalos-adif-corrupcion-cuesta-vidas.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Abascal carga contra Sánchez tras las detenciones del caso Koldo: “está pringado hasta el chófer”",
-       "url": "https://www.lavanguardia.com/politica/20261105/11677278/abascal-carga-sanchez-detenciones-caso-koldo-esta-pringado-chofer.html",
-       "seccion": "Política"
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Oleada de amenazas de bomba en vuelos europeos",
-   "resumen": "Una nueva serie de amenazas de bomba falsas ha obligado a aterrizar o desviar decenas de vuelos en Europa, con varios afectados en Madrid. No se han encontrado explosivos y Bruselas pide colaboración a los Estados.",
+   "titulo": "Caso Koldo y adjudicaciones bajo sospecha",
+   "resumen": "La UCO investiga supuestas mordidas en contratos y detiene a un ex conductor de Sánchez en una pieza separada del caso Koldo. Se investigan adjudicaciones valoradas en cientos de millones.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Cifra en al menos 27 los aviones afectados y pone el foco en tres vuelos con origen o destino en Madrid y en la petición de Bruselas.",
+     "enfoque": "Pone el foco en la compra de un local y una plaza de garaje por la novia de Ábalos, sospechando blanqueo de mordidas.",
      "noticias": [
       {
-       "titular": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 27 aviones en Europa",
-       "url": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
-       "seccion": "Aviones"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Habla de una treintena de vuelos, subraya que no se hallaron explosivos y que seis incidentes afectaron a Madrid, y añade un explicador sobre los ciberataques.",
-     "noticias": [
-      {
-       "titular": "Madrid, Londres, Roma... Una nueva oleada de amenazas de bomba infundadas afecta a una treintena de vuelos",
-       "url": "https://www.lavanguardia.com/internacional/20261105/11676696/segunda-oleada-amenazas-bomba-infundadas-sobre-seis-vuelos-europeos.html",
-       "seccion": "Internacional"
-      },
-      {
-       "titular": "Terror digital: qué sabemos de las amenazas de bomba en vuelos europeos y los ciberataques a supermercados y bancos de sangre",
-       "url": "https://www.lavanguardia.com/internacional/20261105/11676804/terror-digital-que-ciberataques-supermercados-bancos-sangre-amenazas-bomba-vuelos-europeos.html",
-       "seccion": "Internacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Caída bursátil tras la victoria demócrata en EE UU",
-   "resumen": "El Nasdaq cae más de un 5% y los valores tecnológicos, incluidos los de Musk, se desploman tras las elecciones legislativas de EE UU, por el temor a regulaciones sobre centros de datos y a una desaceleración de la IA.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Destaca la caída del Nasdaq (5,5%) por el miedo a un frenazo de la IA y la pérdida de 417.000 millones de Tesla y SpaceX, y el rechazo a 40 de 41 propuestas de centros de datos.",
-     "noticias": [
-      {
-       "titular": "Jueves negro para la Bolsa: el Nasdaq se hunde ante el miedo a que se agudice el frenazo de la IA",
-       "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/la-bolsa-y-el-ibex-35.html",
-       "seccion": "Bolsa"
-      },
-      {
-       "titular": "Tesla y SpaceX pierden 417.000 millones de valor en dos días tras el triunfo demócrata",
-       "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
-       "seccion": "Mercados financieros"
-      },
-      {
-       "titular": "Los centros de datos también perdieron las elecciones en Estados Unidos",
-       "url": "https://elpais.com/us/2026-11-05/los-centros-de-datos-tambien-perdieron-las-elecciones-en-estados-unidos.html",
-       "seccion": "Elecciones EE UU"
+       "titular": "La UCO investiga como presunto blanqueo la compra de un local y una plaza de garaje por la novia de Ábalos",
+       "url": "https://elpais.com/espana/2026-11-06/la-uco-investiga-como-presunto-blanqueo-la-compra-de-un-local-y-una-plaza-de-garaje-por-la-novia-de-abalos.html",
+       "seccion": "España"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Presenta la caída como histórica y atribuye el temor a posibles moratorias a la infraestructura tecnológica.",
+     "enfoque": "Destaca las 11 adjudicaciones bajo sospecha y el detenido, ex chófer de Sánchez, que canalizaría mordidas en contratos de Adif.",
      "noticias": [
       {
-       "titular": "Histórica caída en Wall Street: el Nasdaq cae más de un 5,5% y las empresas de Elon Musk se desploman",
-       "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/05/6aeca8f9fc6c8320758b4577.html",
-       "seccion": "Crónica de Bolsa"
+       "titular": "Del pelotazo de las mascarillas a las mordidas por obras: 11 adjudicaciones bajo sospecha valoradas en 900 millones",
+       "url": "https://www.elmundo.es/espana/2026/11/06/6aecd9d1fc6c8362578b4572.html",
+       "seccion": "PSOE"
+      },
+      {
+       "titular": "El 'chófer' de Sánchez detenido por la UCO canalizaba las mordidas en contratos de Adif",
+       "url": "https://www.elmundo.es/espana/2026/11/05/6aecd37921efa0f6278b4575.html",
+       "seccion": "PSOE"
+      },
+      {
+       "titular": "Todos los rastros junto a Sánchez de Corvillo, otra 'víctima' de las primarias malditas de 2017: \"Gracias a Cristian por su trabajo\"",
+       "url": "https://www.elmundo.es/espana/2026/11/05/6aecd9ffe85ece23348b4588.html",
+       "seccion": "NLPremium"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Zapatero y la investigación de las joyas",
+   "resumen": "El juez Calama rechaza imputar a Zapatero un delito de malversación por las joyas. Según las informaciones, el magistrado mantiene otros cargos como contrabando.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la decisión del juez junto con la paralización de las inspecciones de Hacienda al expresidente y su familia.",
+     "noticias": [
+      {
+       "titular": "El juez rechaza imputar a Zapatero un nuevo delito de malversación por las joyas",
+       "url": "https://elpais.com/espana/2026-11-06/el-juez-calama-rechaza-imputar-a-zapatero-un-nuevo-delito-de-malversacion-por-las-joyas.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Explica el motivo jurídico: la ley que obligaba a entregar joyas a Patrimonio es de 2013.",
+     "noticias": [
+      {
+       "titular": "El juez Calama rechaza imputar a Zapatero por malversación porque la ley que obligaba a entregar las joyas a Patrimonio no se aprobó hasta 2013",
+       "url": "https://www.elmundo.es/espana/2026/11/06/6aedbe35e4d4d8ac478b45a8.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Subraya que las joyas estaban en su despacho profesional y que no fueron declaradas, con delito de contrabando en juego.",
+     "noticias": [
+      {
+       "titular": "El juez Calama descarta imputar a Zapatero la malversación por las joyas de su despacho",
+       "url": "https://www.abc.es/espana/juez-descarta-imputar-zapatero-malversacion-joyas-despacho-20261106124530-nt.html",
+       "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Vincula la caída al freno demócrata a los centros de datos y señala a Musk como perdedor de las elecciones.",
+     "enfoque": "Señala que el juez mantiene contrabando y fraude fiscal, y que no habría obligación de devolver un regalo.",
      "noticias": [
       {
-       "titular": "El freno demócrata a los centros de datos congela la euforia de las bolsas",
-       "url": "https://www.lavanguardia.com/economia/20261105/11676624/bolsa-mercados-donald-trump-elecciones-midterm-ibex-35.html",
+       "titular": "El juez rechaza la tesis de la Fiscalía de que las joyas de Zapatero fueran un regalo malversado",
+       "url": "https://www.lavanguardia.com/politica/20261106/11677923/juez-calama-rechaza-tesis-fiscalia-joyas-zapatero-fueran-regalo-malversado.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Amenazas de bomba en vuelos europeos",
+   "resumen": "Varios vuelos con origen o destino en Francia, Dinamarca, República Checa, Portugal y otros países reciben avisos de bomba. Algunos aparatos son desviados.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Lista los países con nuevos avisos en aeronaves con origen o destino en sus aeropuertos.",
+     "noticias": [
+      {
+       "titular": "Varios aviones en vuelos europeos reciben nuevas amenazas de bomba",
+       "url": "https://elpais.com/internacional/2026-11-06/varios-aviones-en-vuelos-europeos-reciben-nuevas-alertas-de-bomba.html",
+       "seccion": "Francia"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Añade a Hungría, Italia e Irlanda, e incluye amenazas a medios de comunicación en Irlanda.",
+     "noticias": [
+      {
+       "titular": "Nueva jornada de amenazas de bomba en varios vuelos europeos",
+       "url": "https://www.elmundo.es/economia/2026/11/06/6aedaed4e4d4d8902a8b457e.html",
+       "seccion": "economía"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Cuenta desvíos concretos, como un vuelo de Praga a Roma aterrizado en Venecia.",
+     "noticias": [
+      {
+       "titular": "Nuevas amenazas de bomba contra vuelos europeos: aviones de Praga y Lisboa, obligados a desviarse por las alertas",
+       "url": "https://www.abc.es/internacional/amenaza-bomba-obliga-desviar-venecia-vuelo-praga-20261106114549-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Cifra en al menos 15 los vuelos afectados.",
+     "noticias": [
+      {
+       "titular": "Nueva oleada de amenazas de bomba en Europa con al menos 15 vuelos afectados",
+       "url": "https://www.lavanguardia.com/internacional/20261106/11677930/nueva-oleada-amenazas-bomba-europa-15-vuelos-afectados.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Hernández de Cos candidato a presidir el BCE",
+   "resumen": "El Gobierno presenta formalmente la candidatura de Pablo Hernández de Cos a la presidencia del BCE, en la sucesión de Lagarde. El plazo para presentar candidaturas concluye en la fecha indicada.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca que es el primer español que aspira oficialmente a la presidencia y recuerda el cierre del plazo.",
+     "noticias": [
+      {
+       "titular": "España presenta formalmente la candidatura de Hernández de Cos a la presidencia del BCE",
+       "url": "https://elpais.com/economia/2026-11-06/espana-presenta-formalmente-la-candidatura-de-hernandez-de-cos-a-la-presidencia-del-bce.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Indica que los estados miembro debatirán los candidatos en el Eurogrupo el 9 de noviembre.",
+     "noticias": [
+      {
+       "titular": "Cuerpo presenta la candidatura de Hernández de Cos para presidir el BCE ante el Eurogrupo",
+       "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/06/6aedc6d8fc6c83da088b45aa.html",
+       "seccion": "Banco Central Europeo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Detalla que Carlos Cuerpo remitió la candidatura por carta al presidente del Eurogrupo.",
+     "noticias": [
+      {
+       "titular": "España presenta formalmente la candidatura de Pablo Hernández de Cos a la presidencia del Banco Central Europeo",
+       "url": "https://www.abc.es/economia/espana-presenta-formalmente-candidatura-pablo-hernandez-cos-20261106133331-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la justificación de la candidatura basada en experiencia en banca central y estabilidad financiera.",
+     "noticias": [
+      {
+       "titular": "España propone oficialmente a Pablo Hernández de Cos para presidir el BCE",
+       "url": "https://www.lavanguardia.com/economia/20261106/11677972/pablo-hernandez-de-cos-bce-banco-central-europeo-candidatura.html",
        "seccion": "Economía"
-      },
-      {
-       "titular": "Elon Musk, el otro gran perdedor de las ‘midterm’",
-       "url": "https://www.lavanguardia.com/internacional/20261105/11675995/elon-musk-gran-perdedor-midterms.html",
-       "seccion": "Internacional"
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Consecuencias de las elecciones legislativas en EE UU",
-   "resumen": "La victoria demócrata en las legislativas estadounidenses abre debate sobre el futuro de Trump, con posibles cambios de estrategia y cuestionamiento del secretario de Defensa. Los temas de aborto y otras medidas también aparecen en el análisis.",
+   "titulo": "Caída de bolsas por la IA",
+   "resumen": "Las acciones vinculadas a la inteligencia artificial caen con fuerza en Wall Street y en Asia, con pérdidas de billones de dólares en el último mes.",
    "medios": [
     {
-     "medio": "elpais",
-     "enfoque": "Repasa otros asuntos de las urnas como impuestos, armas, derechos trans y aborto, con tres de cuatro estados a favor de garantizar el aborto.",
+     "medio": "elmundo",
+     "enfoque": "Pone el foco en la pérdida de fortuna de Elon Musk y en la relación de los tecnomagnates con los republicanos.",
      "noticias": [
       {
-       "titular": "Los impuestos, las armas, los derechos de las personas trans y el ‘foie gras’: las otras cuestiones que decidieron las ‘midterms’",
-       "url": "https://elpais.com/us/2026-11-05/los-impuestos-las-armas-los-derechos-de-las-personas-trans-y-el-foie-gras-las-otras-cuestiones-que-decidieron-las-midterms.html",
-       "seccion": "Elecciones EE UU"
+       "titular": "¿Ha estallado la 'burbuja' de la IA? Los 'tecnoligarcas' y los 7 gigantes de la bolsa ven esfumarse billones de dólares en horas",
+       "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/06/6aed88f4fdddffcd0c8b45a2.html",
+       "seccion": "Bolsa"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Relata desde el búnker de la Casa Blanca cómo se gestó la derrota de Trump en la campaña.",
+     "enfoque": "Vincula la caída al triunfo demócrata en EE.UU. y al temor a una mayor regulación de la IA.",
      "noticias": [
       {
-       "titular": "Dentro del búnker de la Casa Blanca: así se gestó la derrota electoral de Trump",
-       "url": "https://www.abc.es/internacional/dentro-bunker-casa-blanca-gesto-derrota-electoral-20261104192408-nt.html",
+       "titular": "Las acciones vinculadas a la IA pierden más de 800.000 millones de pérdidas en un día tras las elecciones en EE.UU.",
+       "url": "https://www.abc.es/economia/acciones-vinculadas-ia-desploman-bolsa-tras-elecciones-20261106102354-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Analiza el posible cambio de estrategia de Trump y las dudas sobre Hegseth tras la derrota.",
+     "enfoque": "Destaca las caídas de hasta el 6% en Tokio o Seúl.",
      "noticias": [
       {
-       "titular": "Hegseth está en la cuerda floja tras la gran derrota de Trump en las elecciones legislativas",
-       "url": "https://www.lavanguardia.com/internacional/20261105/11677146/hegseth-esta-cuerda-floja-gran-derrota-trump-elecciones-legislativas.html",
-       "seccion": "Internacional"
-      },
-      {
-       "titular": "¿Qué consecuencias tendrá para Trump su derrota electoral?",
-       "url": "https://www.lavanguardia.com/internacional/elecciones-eeuu/20261105/11676018/como-podra-trump-sortear-derrota-electoral.html",
-       "seccion": "Elecciones EE.UU."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Cumbre Iberoamericana en Madrid",
-   "resumen": "La cumbre termina con un comunicado conjunto, aunque con objeciones de Argentina, y con la ausencia de Milei en un encuentro con el Rey. Zelenski también participa y pide apoyo energético.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Subraya el veto de Sánchez a un encuentro entre Milei y el Rey y el papel disonante de Argentina.",
-     "noticias": [
-      {
-       "titular": "Sánchez castiga a Milei y veta su encuentro con el Rey durante la Cumbre Iberoamericana",
-       "url": "https://www.elmundo.es/espana/2026/11/05/6aecda17fc6c83f6498b4581.html",
-       "seccion": "Pedro Sánchez"
-      },
-      {
-       "titular": "La Cumbre alcanza un acuerdo unánime con varias objeciones de Argentina",
-       "url": "https://www.elmundo.es/espana/2026/11/05/6aecaec7fdddffe5458b456e.html",
-       "seccion": "Latinoamérica"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Centra el foco en la actuación de Feijóo, que apoya a María Corina Machado y se reúne con Kast y Zelenski.",
-     "noticias": [
-      {
-       "titular": "Feijóo irrumpe en la Cumbre Iberoamericana apoyando a María Corina y se acerca a Kast y Zelenski",
-       "url": "https://www.abc.es/espana/feijoo-irrumpe-cumbre-iberoamericana-apoyando-maria-corina-20261105142203-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge la petición de ayuda energética de Zelenski, la advertencia de Sánchez y las palabras del Rey sobre la diplomacia multilateral.",
-     "noticias": [
-      {
-       "titular": "Zelenski pide apoyo a los países iberoamericanos y Sánchez avisa: “Mañana podríamos ser nosotros”",
-       "url": "https://www.lavanguardia.com/politica/20261105/11677127/zelenski-pide-apoyo-paises-iberoamericanos-sanchez-avisa-manana.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "El Rey defiende la vigencia de la Cumbre: “La diplomacia multilateral sigue teniendo sentido”",
-       "url": "https://www.lavanguardia.com/politica/20261105/11676775/rey-defiende-vigencia-cumbre-iberoamericana-diplomacia-multilateral-sigue-teniendo-sentido.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Dimisión de Santiago Peña en Paraguay",
-   "resumen": "El presidente de Paraguay dimite en medio del escándalo del banco digital Ueno Bank, cuyo colapso ha congelado ahorros de casi la mitad del país. El Congreso aprueba un juicio político.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Destaca el congelamiento de los ahorros de casi la mitad del país y la presunta orden de captura en preparación.",
-     "noticias": [
-      {
-       "titular": "Santiago Peña dimite como presidente de Paraguay por el colapso de Ueno Bank",
-       "url": "https://www.elmundo.es/internacional/2026/11/05/6aeca3ebfdddff8b218b4595.html",
-       "seccion": "América"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Subraya la aprobación del juicio político y el peso del Partido Colorado en el sistema político paraguayo.",
-     "noticias": [
-      {
-       "titular": "Aprueban juicio político contra Santiago Peña, tras dimitir como presidente de Paraguay por el escándalo de Ueno Bank",
-       "url": "https://www.abc.es/internacional/dimite-presidente-paraguay-arrastrado-escandalo-ueno-bank-20261105173812-nt.html",
-       "seccion": ""
+       "titular": "Nueva jornada de fuertes caídas en las bolsas arrastradas por el terremoto en la IA",
+       "url": "https://www.lavanguardia.com/economia/20261106/11677641/nueva-jornada-fuertes-caidas-bolsas-arrastradas-ia.html",
+       "seccion": "Economía"
       }
      ]
     }
@@ -303,256 +292,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la operación contra Ábalos y el caso Koldo, el accidente de Urda y la cobertura económica de la caída bursátil. También incluye contenidos de sociedad y cultura como la carta por los 500.000 suscriptores.",
+   "resumen": "Prioriza las investigaciones judiciales sobre el caso Koldo y la Fiscalía Europea, junto con la política nacional de cara al 29-N. También da espacio a la ultraderecha y a noticias de televisión y cultura.",
    "noticias": [
     {
-     "titular": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos",
-     "url": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
+     "titular": "La UCO investiga como presunto blanqueo la compra de un local y una plaza de garaje por la novia de Ábalos",
+     "url": "https://elpais.com/espana/2026-11-06/la-uco-investiga-como-presunto-blanqueo-la-compra-de-un-local-y-una-plaza-de-garaje-por-la-novia-de-abalos.html",
      "seccion": "España",
-     "resumen": "La UCO registra la casa de Ábalos en Valencia con seis detenidos en una pieza secreta del juez Moreno, que pide datos a Adif y a una constructora."
+     "resumen": "La UCO sospecha que un local y una plaza de garaje comprados por la novia de Ábalos se pagaron con mordidas de la trama Koldo."
     },
     {
-     "titular": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
-     "url": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
+     "titular": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
+     "url": "https://elpais.com/espana/2026-11-06/la-fiscalia-europea-investiga-un-presunto-fraude-en-las-obras-de-la-alta-velocidad-tras-el-accidente-de-urda.html",
      "seccion": "España",
-     "resumen": "Koldo García afirma, en un audio publicado por la SER, que un abogado del PP le ofreció un millón de euros y una rebaja de pena a cambio de información contra Sánchez."
+     "resumen": "La Fiscalía Europea investiga fraude en obras de alta velocidad y la UCO requiere documentación a tres organismos ferroviarios."
     },
     {
-     "titular": "Las vidas que se pararon para siempre en Urda",
-     "url": "https://elpais.com/espana/2026-11-05/las-vidas-que-se-pararon-para-siempre-en-urda.html",
+     "titular": "Pedraz cita a declarar a la mujer que afirma que la trama del ‘caso Leire Díez’ quería “eliminar” a la jueza Biedma",
+     "url": "https://elpais.com/espana/2026-11-06/pedraz-cita-a-declarar-a-la-mujer-que-afirma-que-la-trama-del-caso-leire-diez-queria-eliminar-a-la-jueza-biedma.html",
      "seccion": "España",
-     "resumen": "Repaso a las víctimas mortales del accidente de tren de Urda tras una semana de identificaciones."
+     "resumen": "El juez Pedraz cita como testigo a una mujer que afirma que la trama de Leire Díez quería eliminar a la jueza Biedma."
     },
     {
-     "titular": "Cuerpo asegura que no hay “previsión” de cerrar durante las obras la línea Madrid-Barcelona",
-     "url": "https://elpais.com/espana/2026-11-05/cuerpo-asegura-que-no-hay-prevision-de-cerrar-durante-las-obras-la-linea-madrid-barcelona.html",
+     "titular": "El juez rechaza imputar a Zapatero un nuevo delito de malversación por las joyas",
+     "url": "https://elpais.com/espana/2026-11-06/el-juez-calama-rechaza-imputar-a-zapatero-un-nuevo-delito-de-malversacion-por-las-joyas.html",
      "seccion": "España",
-     "resumen": "Adif descarta por ahora cerrar la línea Madrid-Barcelona durante las obras, y el nuevo ministro de Transportes asegura que aún hay margen para actuar."
+     "resumen": "El juez Calama no imputa a Zapatero por malversación con las joyas y paraliza inspecciones de Hacienda sobre él y su familia."
     },
     {
-     "titular": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 27 aviones en Europa",
-     "url": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
-     "seccion": "Aviones",
-     "resumen": "Nueva oleada de falsas amenazas de bomba que afecta al menos a 27 aviones en Europa, tres de ellos con origen o destino en Madrid."
+     "titular": "El ‘gurú’ de las deportaciones masivas prepara su desembarco en España ante un posible gobierno de PP y Vox",
+     "url": "https://elpais.com/espana/2026-11-06/el-guru-de-la-remigracion-prepara-su-desembarco-en-espana-ante-un-posible-gobierno-de-pp-y-vox.html",
+     "seccion": "España",
+     "resumen": "El activista austríaco Martin Sellner prepara un centro de estudios en España ante un posible gobierno de PP y Vox."
     },
     {
-     "titular": "Jueves negro para la Bolsa: el Nasdaq se hunde ante el miedo a que se agudice el frenazo de la IA",
-     "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/la-bolsa-y-el-ibex-35.html",
-     "seccion": "Bolsa",
-     "resumen": "El Nasdaq cae un 5,5% por el temor a una ralentización del gasto en IA, arrastrado por los fabricantes de chips."
+     "titular": "14 detenidos en una operación de la Policía contra el grupo neonazi Núcleo Nacional",
+     "url": "https://elpais.com/espana/2026-11-06/varios-detenidos-en-una-operacion-de-la-policia-contra-el-grupo-nucleo-nacional.html",
+     "seccion": "España",
+     "resumen": "Catorce detenidos por la Policía en una operación contra el grupo neonazi Núcleo Nacional, investigados en Gijón."
     },
     {
-     "titular": "Tesla y SpaceX pierden 417.000 millones de valor en dos días tras el triunfo demócrata",
-     "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
-     "seccion": "Mercados financieros",
-     "resumen": "Tesla y SpaceX pierden 417.000 millones de dólares en dos días tras la victoria demócrata en las legislativas."
+     "titular": "Ayuso reta a Koldo a mostrar las pruebas de que el PP pagó su defensa: “No tengo ni idea, han dicho que no. Que lo demuestre”",
+     "url": "https://elpais.com/espana/madrid/2026-11-06/ayuso-reta-a-koldo-a-mostrar-las-pruebas-de-que-el-pp-pago-su-defensa-no-tengo-ni-idea-han-dicho-que-no-que-lo-demuestre.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "Ayuso reta a Koldo a demostrar que el PP pagó su defensa y descarta entrar en un nuevo gobierno si Feijóo gana."
     },
     {
-     "titular": "Los centros de datos también perdieron las elecciones en Estados Unidos",
-     "url": "https://elpais.com/us/2026-11-05/los-centros-de-datos-tambien-perdieron-las-elecciones-en-estados-unidos.html",
-     "seccion": "Elecciones EE UU",
-     "resumen": "Rechazo de 40 de 41 propuestas para construir centros de datos en las votaciones, un revés para el sector."
+     "titular": "España presenta formalmente la candidatura de Hernández de Cos a la presidencia del BCE",
+     "url": "https://elpais.com/economia/2026-11-06/espana-presenta-formalmente-la-candidatura-de-hernandez-de-cos-a-la-presidencia-del-bce.html",
+     "seccion": "Economía",
+     "resumen": "España presenta la candidatura de Hernández de Cos a la presidencia del BCE, con el plazo de presentación cerrándose ese día."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "",
+   "resumen": "Pone el acento en el caso Koldo y en el entorno de Sánchez, con detalle sobre detenciones y adjudicaciones. Incluye también la crisis internacional de Ucrania y la de las bolsas por la IA.",
    "noticias": [
     {
-     "titular": "La UCO lanza una nueva operación anticorrupción: se persona en casa de Ábalos, detiene al ex chófer de Sánchez y reclama información a Adif",
-     "url": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html",
+     "titular": "Del pelotazo de las mascarillas a las mordidas por obras: 11 adjudicaciones bajo sospecha valoradas en 900 millones",
+     "url": "https://www.elmundo.es/espana/2026/11/06/6aecd9d1fc6c8362578b4572.html",
+     "seccion": "PSOE",
+     "resumen": "Once adjudicaciones bajo sospecha por unos 900 millones, desde las mascarillas hasta las mordidas en obras."
+    },
+    {
+     "titular": "El 'chófer' de Sánchez detenido por la UCO canalizaba las mordidas en contratos de Adif",
+     "url": "https://www.elmundo.es/espana/2026/11/05/6aecd37921efa0f6278b4575.html",
+     "seccion": "PSOE",
+     "resumen": "La UCO detiene al ex conductor de Sánchez, que según la investigación canalizaba mordidas en contratos de Adif."
+    },
+    {
+     "titular": "La Fiscalía Europea pone en marcha una operación con la UCO por la tragedia de Urda y reclama documentación a Adif",
+     "url": "https://www.elmundo.es/espana/2026/11/06/6aed98e121efa0477c8b457d.html",
      "seccion": "Artículos Ángela Martialay",
-     "resumen": ""
+     "resumen": "La Fiscalía Europea y la UCO actúan por la tragedia de Urda y piden documentos a Adif y a otros organismos."
     },
     {
-     "titular": "Cristian Corvillo, la caída del conductor de Sánchez en su gira de reconquista del PSOE que ya anunció: \"Lo voy a aprovechar\"",
-     "url": "https://www.elmundo.es/espana/2026/11/05/6aec5aa821efa07f108b45a2.html",
-     "seccion": "Koldo García",
-     "resumen": ""
+     "titular": "El juez Calama rechaza imputar a Zapatero por malversación porque la ley que obligaba a entregar las joyas a Patrimonio no se aprobó hasta 2013",
+     "url": "https://www.elmundo.es/espana/2026/11/06/6aedbe35e4d4d8ac478b45a8.html",
+     "seccion": "España",
+     "resumen": "El juez rechaza imputar a Zapatero por malversación, porque la ley de entrega de joyas es posterior a 2007."
     },
     {
-     "titular": "Abascal apunta a la investigación de la UCO sobre Adif como la muestra de que \"el Gobierno ha estado robando la seguridad de la gente\" en la Alta Velocidad",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aecdad3e9cf4af7498b457c.html",
-     "seccion": "Vox",
-     "resumen": ""
+     "titular": "Todos los rastros junto a Sánchez de Corvillo, otra 'víctima' de las primarias malditas de 2017: \"Gracias a Cristian por su trabajo\"",
+     "url": "https://www.elmundo.es/espana/2026/11/05/6aecd9ffe85ece23348b4588.html",
+     "seccion": "NLPremium",
+     "resumen": "La UCO detiene a Sánchez de Corvillo, a quien investigaba desde 2023 y que aparece vinculado a varios casos."
     },
     {
-     "titular": "Sánchez alaba la dimisión de Puente tras intentar impedírselo: \"Lo hace por empatía con las víctimas\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aecbac7e4d4d8af5a8b4597.html",
-     "seccion": "Artículos Raúl Piña",
-     "resumen": ""
+     "titular": "Arcadi España insinúa una posible subida de impuestos para financiar el transporte: \"No podemos lanzar mensajes de recortes\"",
+     "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/06/6aed9afefdddff59198b458d.html",
+     "seccion": "Artículos Noa de la Torre",
+     "resumen": "El ministro de Hacienda, Arcadi España, no descarta subir impuestos para financiar transporte y alta velocidad."
     },
     {
-     "titular": "Cuerpo no acierta a desactivar la huelga de los maquinistas tras descabezar Adif y los vuelve a citar mañana",
-     "url": "https://www.elmundo.es/economia/2026/11/05/6aec46bee85ece22718b4593.html",
-     "seccion": "",
-     "resumen": ""
+     "titular": "EL MUNDO llega a Komyshuavakha tras la masacre rusa con bombas de 3.000 kilos: \"Es un asesinato masivo\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/05/6aec9641e85ece75678b4584.html",
+     "seccion": "Ucrania",
+     "resumen": "Un bombardeo ruso sobre un colegio subterráneo con desplazados en Ucrania deja cerca de cien muertos."
     },
     {
-     "titular": "Dolor, lágrimas y un silencio helador en Navahermosa para despedir a Jesús de Miguel",
-     "url": "https://www.elmundo.es/deportes/futbol/2026/11/05/6aecbacae9cf4a88038b45c2.html",
-     "seccion": "deportes",
-     "resumen": ""
-    },
-    {
-     "titular": "Santiago Peña dimite como presidente de Paraguay por el colapso de Ueno Bank",
-     "url": "https://www.elmundo.es/internacional/2026/11/05/6aeca3ebfdddff8b218b4595.html",
-     "seccion": "América",
-     "resumen": ""
-    },
-    {
-     "titular": "Histórica caída en Wall Street: el Nasdaq cae más de un 5,5% y las empresas de Elon Musk se desploman",
-     "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/05/6aeca8f9fc6c8320758b4577.html",
-     "seccion": "Crónica de Bolsa",
-     "resumen": ""
-    },
-    {
-     "titular": "Sánchez castiga a Milei y veta su encuentro con el Rey durante la Cumbre Iberoamericana",
-     "url": "https://www.elmundo.es/espana/2026/11/05/6aecda17fc6c83f6498b4581.html",
-     "seccion": "Pedro Sánchez",
-     "resumen": ""
-    },
-    {
-     "titular": "La Cumbre alcanza un acuerdo unánime con varias objeciones de Argentina",
-     "url": "https://www.elmundo.es/espana/2026/11/05/6aecaec7fdddffe5458b456e.html",
-     "seccion": "Latinoamérica",
-     "resumen": ""
+     "titular": "¿Ha estallado la 'burbuja' de la IA? Los 'tecnoligarcas' y los 7 gigantes de la bolsa ven esfumarse billones de dólares en horas",
+     "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/06/6aed88f4fdddffcd0c8b45a2.html",
+     "seccion": "Bolsa",
+     "resumen": "Las grandes tecnológicas vinculadas a la IA pierden billones en bolsa en el último mes, y Musk pierde una cuarta parte de su fortuna."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "",
+   "resumen": "Destaca la política nacional y la actualidad internacional con foco en Zapatero, la dimisión de Puente y la inmigración en Canarias. Da también espacio a la campaña de salud para inmigrantes y a los resultados electorales en EE.UU.",
    "noticias": [
     {
-     "titular": "Una tumba de Siberia revela el uso del cannabis hace casi 3.000 años",
-     "url": "https://www.abc.es/ciencia/marihuana-consumia-colocarse-2800-anos-prueba-cabello-20261105200000-nt.html",
+     "titular": "El juez Calama descarta imputar a Zapatero la malversación por las joyas de su despacho",
+     "url": "https://www.abc.es/espana/juez-descarta-imputar-zapatero-malversacion-joyas-despacho-20261106124530-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "El juez Calama descarta imputar a Zapatero por malversación por las joyas de su despacho, que no fueron declaradas."
     },
     {
-     "titular": "Feijóo irrumpe en la Cumbre Iberoamericana apoyando a María Corina y se acerca a Kast y Zelenski",
-     "url": "https://www.abc.es/espana/feijoo-irrumpe-cumbre-iberoamericana-apoyando-maria-corina-20261105142203-nt.html",
+     "titular": "Al límite en Canarias: tres rescates con más de 400 inmigrantes y en busca de otros dos cayucos",
+     "url": "https://www.abc.es/espana/canarias/limite-hierro-dos-rescates-340-inmigrantes-busca-20261106121447-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Tres rescates en El Hierro con más de 400 inmigrantes y búsqueda de otros dos cayucos."
     },
     {
-     "titular": "Primera entrevista de Topuria tras su derrota en la Casa Blanca, este viernes en ABC: «Jamás me voy a rendir»",
-     "url": "https://www.abc.es/deportes/mma/primera-entrevista-topuria-tras-derrota-casa-blanca-20261105215504-nt.html",
+     "titular": "La dimisión de Puente que no se aplaude en Huelva: «Lleva meses clavándonos un puñal. Llega muy tarde»",
+     "url": "https://www.abc.es/espana/andalucia/huelva/dimision-ministro-puente-aplaude-huelva-lleva-diez-20261106103134-nts.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "La dimisión de Óscar Puente como ministro genera reacciones en Huelva por su gestión tras el accidente de Urda."
     },
     {
-     "titular": "Almeida apuesta por la vivienda y eleva el gasto social a cifras récord en los últimos presupuestos del mandato",
-     "url": "https://www.abc.es/espana/madrid/almeida-presenta-presupuesto-6901-millones-2027-inversion-20261105124417-nt.html",
+     "titular": "Puente no dejará ni la Secretaría General del PSOE en Valladolid ni la Ejecutiva Federal",
+     "url": "https://www.abc.es/espana/puente-dejara-secretaria-general-castilla-leon-ejecutiva-20261106011928-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Puente deja la ejecutiva federal del PSOE y la Secretaría en Valladolid pese a renunciar a la candidatura al Congreso."
     },
     {
-     "titular": "Francia vuelve a las calles con una huelga general y un amplio despliegue policial",
-     "url": "https://www.abc.es/internacional/francia-vuelve-calles-huelga-general-amplio-despliegue-20261105141142-nt.html",
+     "titular": "España presenta formalmente la candidatura de Pablo Hernández de Cos a la presidencia del Banco Central Europeo",
+     "url": "https://www.abc.es/economia/espana-presenta-formalmente-candidatura-pablo-hernandez-cos-20261106133331-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Carlos Cuerpo remite por carta al Eurogrupo la candidatura de Hernández de Cos al BCE."
     },
     {
-     "titular": "Corvillo confesó a Aldama que Sánchez durmió en su casa en la campaña de las primarias",
-     "url": "https://www.abc.es/espana/sanchez-alojo-casa-corvillo-primarias-2016-20261106214520-nt.html",
+     "titular": "Las acciones vinculadas a la IA pierden más de 800.000 millones de pérdidas en un día tras las elecciones en EE.UU.",
+     "url": "https://www.abc.es/economia/acciones-vinculadas-ia-desploman-bolsa-tras-elecciones-20261106102354-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Las acciones de IA caen más de 800.000 millones tras el triunfo demócrata en EE.UU., por el temor a más regulación."
     },
     {
-     "titular": "Navahermosa y el mundo del fútbol despiden a Jesús de Miguel: «Orgullosos de nuestro 9»",
-     "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/navahermosa-mundo-futbol-despiden-jesus-miguel-hundidos-20261105154508-nt.html",
+     "titular": "Nuevas amenazas de bomba contra vuelos europeos: aviones de Praga y Lisboa, obligados a desviarse por las alertas",
+     "url": "https://www.abc.es/internacional/amenaza-bomba-obliga-desviar-venecia-vuelo-praga-20261106114549-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Un vuelo de Praga a Roma se desvía a Venecia por una amenaza de bomba, y otro de Lisboa también se desvía."
     },
     {
-     "titular": "Lista de premios de Lotería Nacional del jueves 5 de noviembre",
-     "url": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-jueves-directo-comprobar-resultados-numeros-sorteo-20261105183000-di.html",
+     "titular": "Mónica García gasta 146.000 euros en una campaña para recordar a los inmigrantes que la sanidad es gratuita",
+     "url": "https://www.abc.es/sociedad/monica-garcia-gasta-146000-euros-campana-recordar-20261105011839-nt.html",
      "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Dentro del búnker de la Casa Blanca: así se gestó la derrota electoral de Trump",
-     "url": "https://www.abc.es/internacional/dentro-bunker-casa-blanca-gesto-derrota-electoral-20261104192408-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "El Celta quiere enderezar el rumbo",
-     "url": "https://www.abc.es/deportes/futbol/celta-union-directo-resultado-goles-partido-europa-20261105205734-di.html",
-     "seccion": "",
-     "resumen": ""
+     "resumen": "Sanidad lanza una campaña de 146.000 euros para informar a inmigrantes irregulares de su derecho a la atención sanitaria."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "",
+   "resumen": "Prioriza la agenda económica y social, con foco en la Fiscalía Europea, los accidentes ferroviarios y las medidas sobre el aceite. Incluye también la campaña electoral y la huelga general convocada.",
    "noticias": [
     {
-     "titular": "La UCO registra la casa de Ábalos en una operación por blanqueo del caso Koldo con seis detenidos",
-     "url": "https://www.lavanguardia.com/politica/20261105/11676658/uco-despliega-nuevo-operativo-pieza-secreta-caso-koldo.html",
-     "seccion": "Política",
-     "resumen": ""
+     "titular": "Operación de la Fiscalía Europea por “posible fraude” en los contratos del AVE Madrid-Sevilla",
+     "url": "https://www.lavanguardia.com/vida/20261106/11677722/fiscalia-europea-lanza-operacion-uco-contratos-adif-accidente-urda.html",
+     "seccion": "Sociedad",
+     "resumen": "La Fiscalía Europea investiga posible fraude en contratos del AVE Madrid-Sevilla con requerimientos a Adif y otros organismos."
     },
     {
-     "titular": "Koldo García insiste en que el PP le ofreció dinero",
-     "url": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
-     "seccion": "Política",
-     "resumen": ""
+     "titular": "La AESF alertó antes de Urda de “prácticas inadecuadas” en la comunicación de emergencias",
+     "url": "https://www.lavanguardia.com/vida/20261106/11677838/aesf-alerto-urda-practicas-inadecuadas-comunicacion-emergencias.html",
+     "seccion": "Sociedad",
+     "resumen": "La AESF avisó antes de Urda de prácticas inadecuadas en la comunicación de emergencias ferroviarias."
     },
     {
-     "titular": "El PP, tras el registro en casa de Ábalos: “La corrupción cuesta vidas”",
-     "url": "https://www.lavanguardia.com/politica/20261105/11676787/pp-registro-casa-abalos-adif-corrupcion-cuesta-vidas.html",
-     "seccion": "Política",
-     "resumen": ""
+     "titular": "Cuerpo plantea crear un defensor de las víctimas de accidentes de tren",
+     "url": "https://www.lavanguardia.com/vida/20261106/11677919/cuerpo-plantea-crear-defensor-victimas-accidentes-tren.html",
+     "seccion": "Sociedad",
+     "resumen": "Cuerpo propone un defensor de las víctimas de accidentes ferroviarios, mientras los afectados piden una reunión con Sánchez."
     },
     {
-     "titular": "Abascal carga contra Sánchez tras las detenciones del caso Koldo: “está pringado hasta el chófer”",
-     "url": "https://www.lavanguardia.com/politica/20261105/11677278/abascal-carga-sanchez-detenciones-caso-koldo-esta-pringado-chofer.html",
+     "titular": "El juez rechaza la tesis de la Fiscalía de que las joyas de Zapatero fueran un regalo malversado",
+     "url": "https://www.lavanguardia.com/politica/20261106/11677923/juez-calama-rechaza-tesis-fiscalia-joyas-zapatero-fueran-regalo-malversado.html",
      "seccion": "Política",
-     "resumen": ""
+     "resumen": "El juez rechaza que las joyas de Zapatero sean un regalo malversado y mantiene contrabando y fraude fiscal."
     },
     {
-     "titular": "Madrid, Londres, Roma... Una nueva oleada de amenazas de bomba infundadas afecta a una treintena de vuelos",
-     "url": "https://www.lavanguardia.com/internacional/20261105/11676696/segunda-oleada-amenazas-bomba-infundadas-sobre-seis-vuelos-europeos.html",
+     "titular": "Nueva oleada de amenazas de bomba en Europa con al menos 15 vuelos afectados",
+     "url": "https://www.lavanguardia.com/internacional/20261106/11677930/nueva-oleada-amenazas-bomba-europa-15-vuelos-afectados.html",
      "seccion": "Internacional",
-     "resumen": ""
+     "resumen": "Al menos 15 vuelos afectados por nuevas amenazas de bomba en República Checa, Dinamarca, Portugal y Francia."
     },
     {
-     "titular": "Terror digital: qué sabemos de las amenazas de bomba en vuelos europeos y los ciberataques a supermercados y bancos de sangre",
-     "url": "https://www.lavanguardia.com/internacional/20261105/11676804/terror-digital-que-ciberataques-supermercados-bancos-sangre-amenazas-bomba-vuelos-europeos.html",
-     "seccion": "Internacional",
-     "resumen": ""
+     "titular": "Nueva jornada de fuertes caídas en las bolsas arrastradas por el terremoto en la IA",
+     "url": "https://www.lavanguardia.com/economia/20261106/11677641/nueva-jornada-fuertes-caidas-bolsas-arrastradas-ia.html",
+     "seccion": "Economía",
+     "resumen": "Fuertes caídas en las bolsas asiáticas por el giro de los inversores tras el terremoto de la IA."
     },
     {
-     "titular": "Zelenski pide apoyo a los países iberoamericanos y Sánchez avisa: “Mañana podríamos ser nosotros”",
-     "url": "https://www.lavanguardia.com/politica/20261105/11677127/zelenski-pide-apoyo-paises-iberoamericanos-sanchez-avisa-manana.html",
-     "seccion": "Política",
-     "resumen": ""
+     "titular": "El Gobierno interviene el mercado del aceite de oliva para evitar la caída de los precios",
+     "url": "https://www.lavanguardia.com/economia/20261106/11677658/gobierno-interviene-mercado-aceite-oliva-estabilizar-precios.html",
+     "seccion": "Economía",
+     "resumen": "El Gobierno obliga al almacenamiento del 12% de la producción de aceite de oliva para evitar caídas de precios."
     },
     {
-     "titular": "El Rey defiende la vigencia de la Cumbre: “La diplomacia multilateral sigue teniendo sentido”",
-     "url": "https://www.lavanguardia.com/politica/20261105/11676775/rey-defiende-vigencia-cumbre-iberoamericana-diplomacia-multilateral-sigue-teniendo-sentido.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "Europa, EE.UU. y Ucrania preparan el terreno para las negociaciones de paz de Abu Dabi",
-     "url": "https://www.lavanguardia.com/internacional/20261105/11677061/europa-ee-uu-ucrania-preparan-terreno-negociaciones-paz-abu-dabi.html",
-     "seccion": "Internacional",
-     "resumen": ""
-    },
-    {
-     "titular": "Ahmad Tibi, figura clave para formar gobierno en Israel: “Netanyahu no será primer ministro”",
-     "url": "https://www.lavanguardia.com/internacional/20261105/11676921/ahmad-tibi-lider-partidos-arabes-israel-netanyahu-sera-primer-ministro.html",
-     "seccion": "Internacional",
-     "resumen": ""
+     "titular": "Huelga general y de maquinistas: así serán los servicios mínimos en una semana de paros",
+     "url": "https://www.lavanguardia.com/vida/20261106/11677885/huelga-general-maquinistas-asi-seran-servicios-minimos-semana-paros-ferroviarios.html",
+     "seccion": "Sociedad",
+     "resumen": "Semaf convoca un paro de 24 horas y el sindicato anuncia servicios mínimos para una semana de huelgas."
     }
    ]
   }
