@@ -1,204 +1,475 @@
 {
- "fecha": "2026-11-07",
+ "fecha": "2026-11-08",
  "franja": "tarde",
- "generada": "2026-11-07T21:35+01:00",
+ "generada": "2026-11-08T13:18+01:00",
  "con_ia": true,
- "resumen_dia": "Un tiroteo en una plaza de Cracovia (Polonia) deja al menos seis muertos y en torno a quince heridos, y el atacante es neutralizado por la policía. En Israel, el presidente Herzog encarga a Gadi Eisenkot la formación de Gobierno con el apoyo de 67 de los 120 escaños. En España, la campaña de cara al 29-N se centra en la crisis de los trenes y las responsabilidades en Adif, con la Fiscalía Europea investigando contratos. En Paraguay, el Senado destituye al presidente Santiago Peña por el escándalo de Ueno Bank.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\": \"Tiroteo en Cracovia con seis muertos\", \"resumen\": \"Un atacante abrió fuego en una plaza céntrica de Cracovia y dejó al menos seis muertos y entre quince y dieciséis heridos. La policía lo neutralizó y el autor es un hombre polaco de unos 25 años.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Destaca la detención del atacante, un hombre polaco de unos 25 años, y la intervención policial.\", \"ids\": [\"elpais-0\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya la inspiración del atacante en ideologías de extrema derecha y que actuó en solitario.\", \"ids\": [\"elmundo-3\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge la cifra de heridos y el perfil del autor, un joven fascinado por la ideología de extrema derecha.\", \"ids\": [\"abc-4\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Describe el disparo indiscriminado desde un coche en la plaza del Mercado y la intervención policial.\", \"ids\": [\"lavanguardia-0\"]}]}, {\"titulo\": \"Eisenkot recibe el encargo de formar Gobierno en Israel\", \"resumen\": \"El presidente israelí, Isaac Herzog, encarga a Gadi Eisenkot formar Gobierno tras las elecciones del 27 de octubre. Eisenkot suma 67 de los 120 apoyos, incluidos los de las dos listas árabes.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Subraya el respaldo de las dos listas árabes y la visión de Yabarín de que apoyar a Eisenkot es la opción menos mala.\", \"ids\": [\"elpais-1\", \"elpais-2\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca que el partido de Eisenkot quedó segundo, por detrás del Likud de Netanyahu.\", \"ids\": [\"abc-3\"]}]}, {\"titulo\": \"Crisis de los trenes y Adif en la campaña\", \"resumen\": \"El bonus de Adif a su cúpula y los contratos con fondos europeos centran las críticas del PP al Gobierno. La Fiscalía Europea investiga 261 millones en contratos de Adif financiados por la UE.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Recoge la acusación de Feijóo de que el PSOE se ha enriquecido con el dinero de la seguridad de los trenes.\", \"ids\": [\"elpais-4\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Destaca el bonus firmado por Adif antes de la dimisión de Puente y la investigación de la Fiscalía Europea sobre 261 millones.\", \"ids\": [\"elmundo-0\", \"elmundo-1\", \"elmundo-2\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Subraya la alerta de la Fiscalía europea sobre posibles fraudes, con dos causas abiertas junto a la UCO.\", \"ids\": [\"lavanguardia-12\", \"lavanguardia-8\"]}]}, {\"titulo\": \"Campaña electoral del 29-N\", \"resumen\": \"Los partidos intensifican la precampaña para las elecciones generales del 29 de noviembre. Sánchez pide movilización y Feijóo, Ayuso y otros líderes critican al Gobierno y a sus rivales.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Recoge el llamamiento de Sánchez a la movilización masiva y la acusación de Feijóo contra el PSOE.\", \"ids\": [\"elpais-3\", \"elpais-4\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Destaca la petición de Sánchez de frenar al PP y Vox y las críticas de Ayuso y de Montero y Rufián.\", \"ids\": [\"elmundo-4\", \"elmundo-5\", \"elmundo-6\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Señala la contraposición de Sánchez entre la dimisión de Puente y la actitud del PP y Vox, y el mitin de Colau.\", \"ids\": [\"lavanguardia-6\", \"lavanguardia-8\", \"lavanguardia-9\"]}]}, {\"titulo\": \"Trump nombra a Stephen Miller jefe de Gabinete\", \"resumen\": \"Trump sustituye a Susie Wiles por Stephen Miller como jefe de Gabinete y le ofrece la portavocía a Dana White, presidente de la UFC. Los partidos ultras europeos toman distancia del presidente tras las elecciones de medio mandato.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Presenta la etapa final del mandato como una confrontación política y el alejamiento de los ultras europeos.\", \"ids\": [\"elpais-5\", \"elpais-7\", \"elpais-8\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Se centra en la derrota de Trump en EEUU como argumento de la campaña de Sánchez.\", \"ids\": [\"elmundo-4\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca la oferta a Dana White como próximo secretario de Prensa.\", \"ids\": [\"abc-0\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Destaca el nombramiento de Miller y la degradación de Wiles como señal de que Trump no se moderará.\", \"ids\": [\"lavanguardia-4\", \"lavanguardia-5\"]}]}, {\"titulo\": \"Crisis en Paraguay tras la destitución de Peña\", \"resumen\": \"El Senado paraguayo destituye a Santiago Peña por el cierre de Ueno Bank y Pedro Alliana asume la presidencia. La Fiscalía pide prisión preventiva para el expresidente.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Subraya la petición de prisión preventiva y el mensaje de tranquilidad a los ahorristas.\", \"ids\": [\"elpais-16\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Destaca el regreso de Horacio Cartes como figura central del poder en el país.\", \"ids\": [\"elmundo-10\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge el impacto del escándalo bancario en los ahorros de tres millones de personas.\", \"ids\": [\"abc-11\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Informa de la detención de Peña tras la declaración de culpabilidad del Senado.\", \"ids\": [\"lavanguardia-16\"]}]}, {\"titulo\": \"Visita del Papa León XIV a Hispanoamérica\", \"resumen\": \"León XIV inicia un viaje por Uruguay, Argentina y Perú hasta el 17 de noviembre. En Paysandú pidió a los católicos uruguayos construir puentes.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Recoge un estudio sobre el retroceso del catolicismo en Latinoamérica durante la visita papal.\", \"ids\": [\"elpais-17\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Destaca el llamamiento a construir puentes y transmitir la alegría de la fe en Uruguay.\", \"ids\": [\"elmundo-15\"]}, {\"medio\": \"abc\", \"enfoque\": \"Subraya la misa multitudinaria ante 40.000 personas y el carácter laico de la sociedad uruguaya.\", \"ids\": [\"abc-2\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Destaca que el Papa votó en las elecciones de medio mandato y la visita a Argentina con Milei.\", \"ids\": [\"lavanguardia-14\"]}]}]",
- "temas_comunes": [],
+ "resumen_dia": "La campaña para las elecciones generales del 29-N sigue marcada por el accidente ferroviario de Urda, con la caja negra del tren y la reclamación de auditorías del sistema ferroviario. Feijóo y Sánchez centran sus mensajes en la coalición de gobierno, la vivienda y las pensiones, mientras Vox lanza su campaña. Internacionalmente, el tiroteo de Cracovia, la derrota republicana en las elecciones de EE UU y el ataque hutí contra Riad concentran la atención.",
+ "temas_comunes": [
+  {
+   "titulo": "Accidente ferroviario de Urda",
+   "resumen": "La caja negra del Iryo indica que la maquinista intentó contactar con Atocha antes del choque con el AVE. Los medios piden auditorías y más formación en el sector ferroviario.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Entrevista a un experto que reclama formación de los profesionales del tren y una auditoría urgente del sistema.",
+     "noticias": [
+      {
+       "titular": "Iñaki Barrón: “El ferrocarril tiene mucho que envidiar en seguridad al modo aéreo, sobre todo en entrenamiento”",
+       "url": "https://elpais.com/espana/2026-11-08/inaki-barron-el-ferrocarril-tiene-mucho-que-envidiar-en-seguridad-al-modo-aereo-sobre-todo-en-entrenamiento.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "“Nena, dime algo”: el último mensaje del marido de una víctima de Urda",
+       "url": "https://elpais.com/espana/2026-11-08/nena-dime-algo-el-ultimo-mensaje-del-marido-de-una-victima-de-urda.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca los datos de la caja negra y la velocidad del impacto, y el intento de la maquinista de contactar con Atocha.",
+     "noticias": [
+      {
+       "titular": "La caja negra del Iryo revela que la maquinista intentó \"reportar a Atocha en 3-4 ocasiones sin contestación\" antes del choque",
+       "url": "https://www.elmundo.es/economia/2026/11/07/6aef1a7ffdddff8b688b45a0.html",
+       "seccion": "Accidente tren Toledo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Señala la falta de documentación de Adif para la auditoría de la AESF y el resultado de una encuesta sobre la seguridad percibida de los trenes.",
+     "noticias": [
+      {
+       "titular": "Adif lleva diez meses sin aportar documentos para una auditoría sobre los fallos en la red ferroviaria",
+       "url": "https://www.abc.es/espana/adif-lleva-nueve-meses-aportar-documentacion-auditoria-20261026012301-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Seis de cada diez españoles creen que los trenes no son seguros",
+       "url": "https://www.abc.es/espana/espanoles-poco-seguro-tren-tras-accidente-urda-20261107013158-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Campaña electoral del 29-N",
+   "resumen": "Los principales partidos desarrollan actos de precampaña con propuestas sobre pensiones, vivienda y coaliciones. Vox presenta su lema de campaña.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Feijóo habla de coaliciones con Vox y de derogar decretos de vivienda; Sánchez compromete blindar las pensiones en la Constitución.",
+     "noticias": [
+      {
+       "titular": "Alberto Núñez Feijóo: “Hacer una coalición de Gobierno con Vox no depende de mí”",
+       "url": "https://elpais.com/espana/2026-11-08/alberto-nunez-feijoo-hacer-una-coalicion-de-gobierno-con-vox-no-depende-de-mi.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
+       "url": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Presenta la campaña de Vox con tres ideas fuerza y la candidatura de García Albiol en Cataluña.",
+     "noticias": [
+      {
+       "titular": "Vox lanza su campaña con una imagen institucional de Abascal, el lema \"es sentido común\" y tres ideas fuerza: \"Prioridad nacional, desregulación y remigración\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af038adfdddff976f8b4578.html",
+       "seccion": "Vox"
+      },
+      {
+       "titular": "Xavier García Albiol: \"Vamos a endurecer las leyes sobre okupación, inmigración ilegal e inseguridad como nos piden los ciudadanos\"",
+       "url": "https://www.elmundo.es/cataluna/2026/11/08/6aef4e2be85ece804f8b45a3.html",
+       "seccion": "Cataluña"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Sitúa a Sánchez confiando en revalidar el resultado de 2023 con optimismo tras los resultados de EE UU y Brasil.",
+     "noticias": [
+      {
+       "titular": "Pedro Sánchez: “El partido lo vamos a ganar, pero aún no está ganado”",
+       "url": "https://www.lavanguardia.com/politica/20261108/11678804/pedro-sanchez-partido-ganar-aun-esta-ganado.html",
+       "seccion": "Política"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge el reinicio de las agendas de precampaña tras el accidente de Urda y la dimisión de Óscar Puente.",
+     "noticias": [
+      {
+       "titular": "Feijóo interviene en un acto de precampaña en Málaga",
+       "url": "https://www.abc.es/espana/precampana-elecciones-generales-espana-directo-ultima-hora-20261106115927-di.html",
+       "seccion": ""
+      },
+      {
+       "titular": "El hombre que puenteó al presidente",
+       "url": "https://www.abc.es/espana/ketty-garat-hombre-puenteo-presidente-20261108012244-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Tiroteo en Cracovia",
+   "resumen": "Un hombre mató a seis personas en Cracovia, entre ellas a sus padres y hermana, en un ataque que las autoridades polacas vinculan a la extrema derecha.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la investigación como terrorismo y la inspiración en ideologías de extrema derecha.",
+     "noticias": [
+      {
+       "titular": "Pánico en el corazón de Europa tras matar un hombre en Cracovia a nueve personas, entre ellos sus padres y su hermana: se investiga como \"terrorismo\"",
+       "url": "https://www.elmundo.es/internacional/2026/11/08/6aef98c7fdddffb6288b45b0.html",
+       "seccion": "Polonia"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la conmoción y el hallazgo de los familiares del atacante en su casa.",
+     "noticias": [
+      {
+       "titular": "El atacante de Cracovia mató a sus padres y su hermana antes del tiroteo que dejó seis muertos y 16 heridos",
+       "url": "https://www.abc.es/internacional/atacante-cracovia-mato-padres-hermana-tiroteo-dejo-20261108113654-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la confirmación del móvil político por parte del Gobierno polaco.",
+     "noticias": [
+      {
+       "titular": "Los tres cadáveres hallados en casa del autor del tiroteo mortal en Cracovia son de sus padres y su hermana",
+       "url": "https://www.lavanguardia.com/internacional/20261107/11678781/tiroteo-cracovia-deja-cinco-personas-muertas.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Un joven fascinado por la extrema derecha: así define el Gobierno polaco al pistolero de Cracovia",
+       "url": "https://www.lavanguardia.com/internacional/20261107/11678909/joven-fascinado-extrema-derecha-asi-define-gobierno-polaco-pistolero-cracovia.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Derrota republicana y trumpismo",
+   "resumen": "Tras la derrota de los republicanos en las elecciones de medio mandato, Trump nombra a Stephen Miller jefe de Gabinete y el debate sobre el futuro del partido sigue abierto.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Analiza el debilitamiento de Trump y la radicalización republicana tras la debacle electoral.",
+     "noticias": [
+      {
+       "titular": "Trump cae derrotado en las urnas, pero aún es poderoso (e impredecible) en política exterior",
+       "url": "https://elpais.com/us/2026-11-08/trump-cae-derrotado-en-las-urnas-pero-aun-es-poderoso-e-impredecible-en-politica-exterior.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "Entre la muerte MAGA y la radicalización del trumpismo: los republicanos buscan su sitio tras la debacle electoral",
+       "url": "https://elpais.com/us/2026-11-08/entre-la-muerte-maga-y-la-radicalizacion-del-trumpismo-los-republicanos-buscan-su-sitio-tras-la-debacle-electoral.html",
+       "seccion": "Elecciones EE UU"
+      },
+      {
+       "titular": "El mundo tras la derrota de Trump",
+       "url": "https://elpais.com/opinion/2026-11-08/el-mundo-tras-la-derrota-de-trump.html",
+       "seccion": "Opinión"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Señala que un Trump debilitado en casa puede buscar éxitos en política exterior, con un Congreso demócrata que limita su margen.",
+     "noticias": [
+      {
+       "titular": "Debilitado en casa por las urnas, desatado fuera: \"Trump herido es más peligroso\"",
+       "url": "https://www.elmundo.es/internacional/2026/11/07/6aef36e9fdddff5d338b4588.html",
+       "seccion": "Donald Trump"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Relaciona el nombramiento de Miller con un posible abandono de Ucrania por EE UU.",
+     "noticias": [
+      {
+       "titular": "¿Pato cojo o pato rabioso?",
+       "url": "https://www.lavanguardia.com/opinion/20261108/11678790/pato-cojo-pato-rabioso.html",
+       "seccion": "Opinión"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Ataque hutí contra Riad",
+   "resumen": "Los rebeldes hutíes lanzaron misiles contra Riad; las defensas saudíes interceptaron varios, pero un ataque causó daños en una torre de Aramco.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca los daños en una torre de Aramco tras la interceptación de misiles.",
+     "noticias": [
+      {
+       "titular": "Un ataque contra Riad causa daños en una torre de Aramco, la petrolera estatal de Arabia Saudí",
+       "url": "https://www.elmundo.es/internacional/2026/11/08/6af046fee4d4d8c31a8b457b.html",
+       "seccion": "Arabia Saudí"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Detalla el número de misiles interceptados por la coalición liderada por Arabia Saudí.",
+     "noticias": [
+      {
+       "titular": "Arabia Saudí intercepta cinco misiles disparados por los hutíes sobre Riad y el sur del país",
+       "url": "https://www.abc.es/internacional/arabia-saudi-intercepta-cinco-misiles-disparados-huties-20261108110216-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Señala que las oficinas de la mayor petrolera del mundo fueron alcanzadas.",
+     "noticias": [
+      {
+       "titular": "Las oficinas de la mayor petrolera del mundo, alcanzadas en un ataque de los hutíes a Riad",
+       "url": "https://www.lavanguardia.com/internacional/20261108/11679156/oalicion-liderada-arabia-saudi-intercepta-dos-misiles-huties-lanzados-riad.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  }
+ ],
  "medios": [
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la política nacional e internacional, con foco en la campaña del 29-N y la situación en Israel y EEUU. Incluye también información de deportes y suscripciones del propio periódico.",
+   "resumen": "Prioriza la campaña electoral, con la entrevista a Feijóo y los anuncios de Sánchez, y la repercusión de la derrota de Trump en EE UU. Dedica también espacio a la economía tras el 29-N y a temas sociales.",
    "noticias": [
     {
-     "titular": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia, en Polonia",
-     "url": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
-     "seccion": "Polonia",
-     "resumen": "Un atentado en la plaza mayor de Cracovia causa al menos seis muertos y una quincena de heridos; el atacante, polaco de unos 25 años, fue detenido tras recibir disparos de la policía."
+     "titular": "Alberto Núñez Feijóo: “Hacer una coalición de Gobierno con Vox no depende de mí”",
+     "url": "https://elpais.com/espana/2026-11-08/alberto-nunez-feijoo-hacer-una-coalicion-de-gobierno-con-vox-no-depende-de-mi.html",
+     "seccion": "España",
+     "resumen": "Feijóo descarta depender de sí mismo para una coalición con Vox y anuncia que derogará los decretos de vivienda."
     },
     {
-     "titular": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
-     "url": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html",
-     "seccion": "Israel",
-     "resumen": "Herzog encarga a Eisenkot formar Gobierno tras obtener 67 de 120 apoyos, incluidos los de las dos listas árabes."
+     "titular": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
+     "url": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
+     "seccion": "España",
+     "resumen": "Sánchez propone incluir en la Constitución la revalorización de las pensiones según el IPC y pide que lo respalden los grupos parlamentarios."
     },
     {
-     "titular": "Sánchez llama a una votación masiva el 29-N: “La mejor receta contra la involución se llama movilización”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-07/sanchez-llama-a-una-votacion-masiva-el-29-n-la-mejor-receta-contra-la-involucion-se-llama-movilizacion.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Sánchez pide una movilización masiva para el 29-N en un acto de precampaña en Tarragona, en el contexto del resultado electoral en EE UU."
-    },
-    {
-     "titular": "Feijóo, desde Valladolid: “El PSOE está a punto de canonizar al señor Puente, qué falta de respeto”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-07/feijoo-desde-valladolid-el-psoe-esta-a-punto-de-canonizar-al-senor-puente-que-falta-de-respeto.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Feijóo acusa al PSOE de haberse enriquecido con el dinero de la seguridad de los trenes, sin aportar pruebas en la cita."
-    },
-    {
-     "titular": "Trump afronta los dos últimos años de mandato como un octogenario desafiante obsesionado con las obras",
-     "url": "https://elpais.com/us/2026-11-07/trump-afronta-los-dos-ultimos-anos-de-mandato-como-un-octogenario-desafiante-obsesionado-con-las-obras.html",
+     "titular": "Trump cae derrotado en las urnas, pero aún es poderoso (e impredecible) en política exterior",
+     "url": "https://elpais.com/us/2026-11-08/trump-cae-derrotado-en-las-urnas-pero-aun-es-poderoso-e-impredecible-en-politica-exterior.html",
      "seccion": "Elecciones EE UU",
-     "resumen": "Trump afronta los dos últimos años de mandato con un Congreso hostil y el nombramiento de Stephen Miller como elemento de confrontación."
+     "resumen": "Trump, derrotado en las urnas, designa a Stephen Miller jefe de Gabinete, lo que apunta a sus próximos movimientos en política exterior."
     },
     {
-     "titular": "Trump, de aliado a rémora: los ultras europeos se alejan de su antiguo socio tras la debacle en las urnas",
-     "url": "https://elpais.com/internacional/2026-11-07/trump-de-aliado-a-remora-los-ultras-europeos-se-alejan-de-su-antiguo-socio-tras-la-debacle-en-las-urnas.html",
+     "titular": "Los deberes económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y pensiones, entre los más urgentes",
+     "url": "https://elpais.com/economia/negocios/2026-11-07/los-deberes-economicos-tras-el-29-n-vivienda-infraestructuras-presupuestos-y-pensiones-entre-los-mas-urgentes.html",
+     "seccion": "Economía",
+     "resumen": "Análisis de los retos económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y pensiones, en un país con menos paro y deuda."
+    },
+    {
+     "titular": "Iñaki Barrón: “El ferrocarril tiene mucho que envidiar en seguridad al modo aéreo, sobre todo en entrenamiento”",
+     "url": "https://elpais.com/espana/2026-11-08/inaki-barron-el-ferrocarril-tiene-mucho-que-envidiar-en-seguridad-al-modo-aereo-sobre-todo-en-entrenamiento.html",
+     "seccion": "España",
+     "resumen": "Un exresponsable de la autoridad ferroviaria reclama más formación para el personal del tren y una auditoría del sistema."
+    },
+    {
+     "titular": "Entre la muerte MAGA y la radicalización del trumpismo: los republicanos buscan su sitio tras la debacle electoral",
+     "url": "https://elpais.com/us/2026-11-08/entre-la-muerte-maga-y-la-radicalizacion-del-trumpismo-los-republicanos-buscan-su-sitio-tras-la-debacle-electoral.html",
      "seccion": "Elecciones EE UU",
-     "resumen": "Los partidos de extrema derecha europeos se separan de Trump tras la derrota electoral en EE UU."
+     "resumen": "Los republicanos debaten su futuro tras la derrota en las 'midterms', con el nombramiento de Miller como señal de que Trump no admite un debate interno."
     },
     {
-     "titular": "La Fiscalía paraguaya pide prisión preventiva para el expresidente destituido Santiago Peña",
-     "url": "https://elpais.com/america/2026-11-07/la-fiscalia-paraguaya-pide-prision-preventiva-para-el-expresidente-destituido-santiago-pena.html",
-     "seccion": "América",
-     "resumen": "La Fiscalía paraguaya pide prisión preventiva para Peña, mientras Pedro Alliana asume la presidencia."
+     "titular": "El mundo tras la derrota de Trump",
+     "url": "https://elpais.com/opinion/2026-11-08/el-mundo-tras-la-derrota-de-trump.html",
+     "seccion": "Opinión",
+     "resumen": "Opinión: la derrota republicana reduce la autoridad de Trump y puede afectar a su política hacia Irán, Israel y otros frentes."
+    },
+    {
+     "titular": "Las mujeres pierden terreno en la empresa y la política tras décadas de progreso",
+     "url": "https://elpais.com/sociedad/2026-11-08/las-mujeres-pierden-terreno-en-la-empresa-y-la-politica-tras-decadas-de-progreso.html",
+     "seccion": "Sociedad",
+     "resumen": "La presencia femenina en puestos de liderazgo retrocede en el mundo en paralelo a la ola reaccionaria."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en el caso Adif y el bonus a la cúpula, con la presión a Sánchez desde el PP. Destaca también la inmigración en El Hierro y la campaña electoral.",
+   "resumen": "Combina la información sobre el accidente de Urda y la campaña con temas internacionales como Cracovia y Trump. Incluye también sanidad y noticias de servicios y sociedad.",
    "noticias": [
     {
-     "titular": "El bonus de Adif \"en mitad de los muertos\" sacude la campaña: \"¿Por qué no dimite Sánchez?\", \"tendrán que salir del poder para entrar en la cárcel\"",
-     "url": "https://www.elmundo.es/espana/2026/11/07/6aef1a9efc6c83a47c8b4575.html",
-     "seccion": "Alberto Núñez Feijóo",
-     "resumen": "Feijóo exige responsabilidades judiciales por el bonus de Adif y pregunta si el dinero de la seguridad ferroviaria ha acabado en el PSOE."
+     "titular": "La caja negra del Iryo revela que la maquinista intentó \"reportar a Atocha en 3-4 ocasiones sin contestación\" antes del choque",
+     "url": "https://www.elmundo.es/economia/2026/11/07/6aef1a7ffdddff8b688b45a0.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Los datos de la caja negra del Iryo muestran que la maquinista intentó contactar con Atocha sin respuesta antes del choque a 47 km/h."
     },
     {
-     "titular": "Adif blindó el bonus a su cúpula horas antes de dimitir su presidente",
-     "url": "https://www.elmundo.es/economia/2026/11/06/6aee494321efa0477c8b45b8.html",
-     "seccion": "NLPremium",
-     "resumen": "Adif firmó los incentivos de su cúpula hasta 2030 horas después de la dimisión de su presidente, Puente."
-    },
-    {
-     "titular": "La Fiscalía Europea rastrea 261 millones en contratos de Adif financiados por la UE en la línea de los accidentes",
-     "url": "https://www.elmundo.es/espana/2026/11/07/6aee1528e85ece151a8b4585.html",
-     "seccion": "Artículos Carlos Segovia",
-     "resumen": "La Fiscalía Europea investiga 261 millones en contratos de Adif financiados por la UE, incluido el cambio del sistema de seguridad."
-    },
-    {
-     "titular": "Un hombre inspirado en \"ideologías de extrema derecha\" dispara indiscriminadamente en el centro de Cracovia y deja seis muertos",
-     "url": "https://www.elmundo.es/internacional/2026/11/07/6aef4327fdddff200a8b4573.html",
+     "titular": "Pánico en el corazón de Europa tras matar un hombre en Cracovia a nueve personas, entre ellos sus padres y su hermana: se investiga como \"terrorismo\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/08/6aef98c7fdddffb6288b45b0.html",
      "seccion": "Polonia",
-     "resumen": "Un atacante inspirado en ideologías de extrema derecha mató a seis personas en Cracovia y fue neutralizado por la Policía."
+     "resumen": "Un hombre inspirado en ideologías de extrema derecha mató a nueve personas de su familia y a otras en Cracovia; se investiga como terrorismo."
     },
     {
-     "titular": "Sánchez convoca de urgencia una Comisión Interministerial de Inmigración tras la llegada de miles de inmigrantes a la isla de El Hierro",
-     "url": "https://www.elmundo.es/espana/2026/11/07/6aef6566e85ece64678b4574.html",
-     "seccion": "Pedro Sánchez",
-     "resumen": "Sánchez convoca de urgencia una comisión interministerial de Inmigración por la llegada de miles de migrantes a El Hierro."
+     "titular": "Debilitado en casa por las urnas, desatado fuera: \"Trump herido es más peligroso\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/07/6aef36e9fdddff5d338b4588.html",
+     "seccion": "Donald Trump",
+     "resumen": "Tras la derrota en las urnas, Trump podría centrarse en la política exterior para dejar legado, aunque el Congreso demócrata limita su margen."
     },
     {
-     "titular": "La destitución de Peña, un 'House of Cards' a la paraguaya para el regreso de Horacio Cartes como el indiscutido \"hombre fuerte\" del país",
-     "url": "https://www.elmundo.es/internacional/2026/11/07/6aef6e70e9cf4ad5298b456d.html",
-     "seccion": "América",
-     "resumen": "La destitución de Peña devuelve a Horacio Cartes a la primera línea política de Paraguay tras el caso Ueno Bank."
+     "titular": "Los ministros Bolaños, Robles, Marlaska y López se unen para tratar de captar a los votantes que no son del PSOE en su primer acto de campaña sin Sánchez",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af05068fc6c83f83b8b4571.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Ministros del PSOE inician una campaña dirigida a votantes no socialistas, sin la presencia de Sánchez."
     },
     {
-     "titular": "Los Mossos detienen a 50 personas en Barcelona, 43 de ellos empresarios, por lucrarse con la entrada de migrantes",
-     "url": "https://www.elmundo.es/cataluna/2026/11/07/6aef1c32fdddffad598b4582.html",
-     "seccion": "",
-     "resumen": "Los Mossos detienen a 50 personas, 43 de ellas empresarios, por cobrar a migrantes pakistaníes por permisos de residencia y trabajo."
+     "titular": "Vox lanza su campaña con una imagen institucional de Abascal, el lema \"es sentido común\" y tres ideas fuerza: \"Prioridad nacional, desregulación y remigración\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af038adfdddff976f8b4578.html",
+     "seccion": "Vox",
+     "resumen": "Vox arranca campaña con una imagen de Abascal y tres ideas fuerza: prioridad nacional, desregulación y remigración."
+    },
+    {
+     "titular": "Xavier García Albiol: \"Vamos a endurecer las leyes sobre okupación, inmigración ilegal e inseguridad como nos piden los ciudadanos\"",
+     "url": "https://www.elmundo.es/cataluna/2026/11/08/6aef4e2be85ece804f8b45a3.html",
+     "seccion": "Cataluña",
+     "resumen": "García Albiol, alcalde de Badalona, encabeza la candidatura del PP en Cataluña con propuestas sobre okupación e inmigración."
+    },
+    {
+     "titular": "La paradoja de la sanidad española: máximo gasto sanitario y mínimos de satisfacción",
+     "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/07/6aef0a5ae9cf4a4e038b45ab.html",
+     "seccion": "salud",
+     "resumen": "Pese al mayor gasto sanitario, la satisfacción con la sanidad pública cae; listas de espera y Atención Primaria son los problemas señalados."
+    },
+    {
+     "titular": "Un ataque contra Riad causa daños en una torre de Aramco, la petrolera estatal de Arabia Saudí",
+     "url": "https://www.elmundo.es/internacional/2026/11/08/6af046fee4d4d8c31a8b457b.html",
+     "seccion": "Arabia Saudí",
+     "resumen": "Un ataque contra Riad causa daños en una torre de Aramco tras la interceptación de misiles hutíes."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Combina la actualidad internacional y política con noticias de cultura, deporte y gastronomía. Mantiene en portada varias recetas y contenidos de estilo de vida.",
+   "resumen": "Pone el foco en el accidente de Urda y la reanudación de la precampaña, junto con la masacre de Cracovia y el ataque en Riad. Mantiene secciones de servicio y de vida y salud.",
    "noticias": [
     {
-     "titular": "Trump ofrece a Dana White, jefe de la UFC, ser el próximo secretario de Prensa de la Casa Blanca",
-     "url": "https://www.abc.es/internacional/trump-vuelco-casa-blanca-ofrece-dana-white-20261107201959-nt.html",
+     "titular": "Feijóo interviene en un acto de precampaña en Málaga",
+     "url": "https://www.abc.es/espana/precampana-elecciones-generales-espana-directo-ultima-hora-20261106115927-di.html",
      "seccion": "",
-     "resumen": "Trump ofrece a Dana White, jefe de la UFC, el cargo de secretario de Prensa de la Casa Blanca."
+     "resumen": "Feijóo interviene en un acto de precampaña en Málaga tras el accidente de Urda y a menos de un mes de las elecciones."
     },
     {
-     "titular": "El presidente de Israel encarga a Gadi Eisenkot la formación de Gobierno",
-     "url": "https://www.abc.es/internacional/presidente-israel-encarga-gadi-eisenkot-formacion-gobierno-20261107205024-nt.html",
+     "titular": "Adif lleva diez meses sin aportar documentos para una auditoría sobre los fallos en la red ferroviaria",
+     "url": "https://www.abc.es/espana/adif-lleva-nueve-meses-aportar-documentacion-auditoria-20261026012301-nt.html",
      "seccion": "",
-     "resumen": "Herzog encarga a Eisenkot formar Gobierno; el partido de Eisenkot fue segundo en las elecciones del 27 de octubre, por detrás del Likud."
+     "resumen": "Adif lleva diez meses sin entregar documentación a la AESF para una auditoría del sistema de circulación ferroviaria."
     },
     {
-     "titular": "Al menos seis muertos y unos quince heridos en un tiroteo en la ciudad polaca de Cracovia",
-     "url": "https://www.abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html",
+     "titular": "El hombre que puenteó al presidente",
+     "url": "https://www.abc.es/espana/ketty-garat-hombre-puenteo-presidente-20261108012244-nt.html",
      "seccion": "",
-     "resumen": "Un tiroteo en Cracovia deja al menos seis muertos y unos quince heridos; el autor, fascinado por la ideología de extrema derecha, fue neutralizado."
+     "resumen": "Óscar Puente presenta su dimisión como ministro de Transportes durante su comparecencia en el Congreso."
     },
     {
-     "titular": "Las amistades peligrosas del presidente y el banquero que llevaron a Paraguay a la ruina",
-     "url": "https://www.abc.es/internacional/amistades-peligrosas-presidente-banquero-llevaron-paraguay-ruina-20261106180241-nt.html",
+     "titular": "El atacante de Cracovia mató a sus padres y su hermana antes del tiroteo que dejó seis muertos y 16 heridos",
+     "url": "https://www.abc.es/internacional/atacante-cracovia-mato-padres-hermana-tiroteo-dejo-20261108113654-nt.html",
      "seccion": "",
-     "resumen": "Análisis de las relaciones entre Peña y un banquero que llevaron a Paraguay a una crisis, con el escándalo bancario que afecta a tres millones de ahorradores."
+     "resumen": "El atacante de Cracovia mató a sus padres y a su hermana antes del tiroteo en la plaza del Mercado, con seis muertos y 16 heridos."
     },
     {
-     "titular": "Sánchez convoca una reunión interministerial ante la alerta migratoria en El Hierro",
-     "url": "https://www.abc.es/espana/canarias/canarias-alerta-roja-borrasca-prevista-noche-puede-20261107131532-nt.html",
+     "titular": "Arabia Saudí intercepta cinco misiles disparados por los hutíes sobre Riad y el sur del país",
+     "url": "https://www.abc.es/internacional/arabia-saudi-intercepta-cinco-misiles-disparados-huties-20261108110216-nt.html",
      "seccion": "",
-     "resumen": "Alerta en Canarias por la llegada de cayucos a El Hierro, coincidiendo con una borrasca con viento y oleaje."
+     "resumen": "La coalición liderada por Arabia Saudí informa de la interceptación de cinco misiles hutíes sobre Riad y el sur del país."
     },
     {
-     "titular": "Fechas, trámites y garantías del voto por correo",
-     "url": "https://www.abc.es/espana/votar-por-correo-fechas-tramites-garantias-20261105011536-nt.html",
+     "titular": "Seis de cada diez españoles creen que los trenes no son seguros",
+     "url": "https://www.abc.es/espana/espanoles-poco-seguro-tren-tras-accidente-urda-20261107013158-nt.html",
      "seccion": "",
-     "resumen": "Explicación de fechas, trámites y garantías del voto por correo de cara a las elecciones generales."
+     "resumen": "Seis de cada diez españoles creen que los trenes no son seguros, según una encuesta sobre la percepción tras el accidente."
     },
     {
-     "titular": "El Papa anima a los católicos de Uruguay a «construir puentes» ante la sociedad más laica de Hispanoamérica",
-     "url": "https://www.abc.es/internacional/papa-anima-catolicos-uruguay-construir-puentes-ante-20261106183916-nt.html",
+     "titular": "Muere un militar durante un ejercicio de instrucción en el campo de maniobras de San Gregorio (Zaragoza)",
+     "url": "https://www.abc.es/espana/aragon/muere-militar-ejercicio-instruccion-campo-maniobras-san-20261108092912-nt.html",
      "seccion": "",
-     "resumen": "León XIV pide a los católicos de Uruguay construir puentes ante 40.000 personas en la primera misa multitudinaria de su viaje."
+     "resumen": "Un militar muere durante un ejercicio de instrucción en el campo de maniobras de San Gregorio (Zaragoza)."
+    },
+    {
+     "titular": "El Papa denuncia en el barrio más pobre y peligroso de Montevideo la inseguridad «que impide construir un futuro»",
+     "url": "https://www.abc.es/internacional/papa-denuncia-periferia-montevideo-inseguridad-impide-construir-20261106002951-nt.html",
+     "seccion": "",
+     "resumen": "El Papa denuncia en Montevideo la inseguridad que impide construir un futuro en los barrios más pobres."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Se centra en la política internacional, con Trump, Ucrania y la amenaza rusa en Europa como ejes. Dedica también atención a la campaña y a los casos de Adif.",
+   "resumen": "Abre con la campaña de Sánchez y la política catalana, junto con la situación internacional y la huelga general del 11-N. Dedica varias piezas de opinión a la campaña y a la ciberseguridad.",
    "noticias": [
     {
-     "titular": "Un tiroteo en el centro turístico de Cracovia deja al menos seis muertos y 16 heridos",
+     "titular": "Pedro Sánchez: “El partido lo vamos a ganar, pero aún no está ganado”",
+     "url": "https://www.lavanguardia.com/politica/20261108/11678804/pedro-sanchez-partido-ganar-aun-esta-ganado.html",
+     "seccion": "Política",
+     "resumen": "Sánchez confía en revalidar el resultado de 2023 y señala que los resultados en EE UU y Brasil le dan optimismo."
+    },
+    {
+     "titular": "Puigdemont reaparece en Prats de Molló",
+     "url": "https://www.lavanguardia.com/politica/20261108/11679199/puigdemont-reaparece-prats-mollo.html",
+     "seccion": "Política",
+     "resumen": "Puigdemont reaparece por sorpresa en la inauguración de un proyecto de museización de la Casa Macià en Prats de Molló."
+    },
+    {
+     "titular": "Los tres cadáveres hallados en casa del autor del tiroteo mortal en Cracovia son de sus padres y su hermana",
      "url": "https://www.lavanguardia.com/internacional/20261107/11678781/tiroteo-cracovia-deja-cinco-personas-muertas.html",
      "seccion": "Internacional",
-     "resumen": "Un tiroteo en Cracovia deja al menos seis muertos y 16 heridos; el agresor disparó desde un coche en la plaza del Mercado antes de ser abatido."
+     "resumen": "Los tres cadáveres hallados en casa del autor del tiroteo de Cracovia son de sus padres y su hermana; fue abatido por la policía tras disparar desde un coche."
     },
     {
-     "titular": "La sombra rusa planea sobre las amenazas contra aviones y canales de televisión en Europa",
-     "url": "https://www.lavanguardia.com/internacional/20261107/11678310/sombra-rusa-planea-sobre-amenazas-aviones-canales-television-europa.html",
+     "titular": "Un joven fascinado por la extrema derecha: así define el Gobierno polaco al pistolero de Cracovia",
+     "url": "https://www.lavanguardia.com/internacional/20261107/11678909/joven-fascinado-extrema-derecha-asi-define-gobierno-polaco-pistolero-cracovia.html",
      "seccion": "Internacional",
-     "resumen": "Al menos 18 medios europeos recibieron correos amenazantes, en un caso que apunta a una posible influencia rusa."
+     "resumen": "El Gobierno polaco confirma el móvil político del atacante de Cracovia, un joven fascinado por la extrema derecha."
     },
     {
-     "titular": "¿Se está cansando Europa de Ucrania?",
-     "url": "https://www.lavanguardia.com/internacional/20261107/11678200/newsletter-europa-ue-guerra-ucrania-rusia-ee-uu.html",
+     "titular": "El presidente de Israel pide al opositor Eisenkot formar gobierno en lugar de Netanyahu",
+     "url": "https://www.lavanguardia.com/internacional/20261107/11678848/presidente-israel-pide-gadi-eisenkot-forme-gobierno-sustituya-netanyahu.html",
      "seccion": "Internacional",
-     "resumen": "Cuatro países del Este rechazan seguir financiando a Ucrania, y podrían sumarse más."
+     "resumen": "El presidente de Israel pide al opositor Eisenkot que intente formar gobierno en lugar de Netanyahu."
     },
     {
-     "titular": "Trump nombra al extremista Stephen Miller como nuevo jefe de Gabinete",
-     "url": "https://www.lavanguardia.com/internacional/20261106/11678324/trump-nombra-extremista-stephen-miller-nuevo-jefe-gabinete-primera-rotacion-midterms.html",
+     "titular": "España ante el 11-N: las incógnitas de una huelga general inédita",
+     "url": "https://www.lavanguardia.com/economia/20261108/11678819/espana-11-n-incognitas-huelga-general-inedita.html",
+     "seccion": "Economía",
+     "resumen": "Una huelga general, impulsada inicialmente por movimientos sociales, se convoca en España a las puertas de las elecciones del 11-N."
+    },
+    {
+     "titular": "La nueva realidad de las amenazas híbridas",
+     "url": "https://www.lavanguardia.com/internacional/20261108/11678821/nueva-realidad-amenazas-hibridas.html",
      "seccion": "Internacional",
-     "resumen": "Trump nombra a Stephen Miller jefe de Gabinete y degrada a Susie Wiles, lo que apunta a que no se moderará al final del mandato."
+     "resumen": "Falsas alertas de bomba en aviones y ciberataques a supermercados forman parte de las amenazas híbridas en Europa."
     },
     {
-     "titular": "Sánchez contrapone el “ejemplo de dignidad” de Puente con su dimisión a la actitud del PP y Vox",
-     "url": "https://www.lavanguardia.com/politica/20261106/11678341/sanchez-contrapone-ejemplo-dignidad-puente-dimision-actitud-pp-vox.html",
-     "seccion": "Política",
-     "resumen": "Sánchez contrapone la dimisión de Puente a la actitud del PP y Vox, y contrasta la gestión de la dana de Mazón."
-    },
-    {
-     "titular": "La Fiscalía europea alerta de posibles fraudes en los contratos de Adif tras los accidentes de tren",
-     "url": "https://www.lavanguardia.com/vida/20261107/11678322/fiscalia-europea-alerta-posibles-fraudes-contratos-adif-accidentes-adamuz-urda.html",
-     "seccion": "Sociedad",
-     "resumen": "La Fiscalía Europea abre dos causas junto a la UCO por posibles fraudes en contratos de Adif y no descarta imputaciones."
-    },
-    {
-     "titular": "Detenido el presidente de Paraguay, Santiago Peña, tras su destitución",
-     "url": "https://www.lavanguardia.com/internacional/20261107/11678622/detenido-expresidente-paraguay-destitucion.html",
+     "titular": "Las oficinas de la mayor petrolera del mundo, alcanzadas en un ataque de los hutíes a Riad",
+     "url": "https://www.lavanguardia.com/internacional/20261108/11679156/oalicion-liderada-arabia-saudi-intercepta-dos-misiles-huties-lanzados-riad.html",
      "seccion": "Internacional",
-     "resumen": "El Senado paraguayo declara culpable a Peña por mal desempeño y el expresidente queda detenido tras su destitución."
+     "resumen": "Las oficinas de la mayor petrolera del mundo son alcanzadas en un ataque de los hutíes contra Riad."
     }
    ]
   }
