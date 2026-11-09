@@ -1,0 +1,366 @@
+{
+ "fecha": "2026-11-09",
+ "franja": "tarde",
+ "generada": "2026-11-09T15:29+01:00",
+ "con_ia": true,
+ "resumen_dia": "El Supremo rechaza suspender el voto de los hijos de nacionalizados por la 'ley de nietos' de cara al 29-N, y las encuestas y la campaña electoral dominan las portadas. Una encuesta de 40dB sitúa al bloque de derecha por delante, con el PSOE acercándose al PP. El accidente ferroviario de Urda y la huelga general siguen presentes en la agenda, y el caso Nvidia con su consejero delegado ocupa espacio en la sección internacional.",
+ "temas_comunes": [
+  {
+   "titulo": "Supremo y voto de los hijos de nacionalizados",
+   "resumen": "El Tribunal Supremo rechaza ampliar la suspensión del voto a los hijos de nacionalizados por la ley de nietos, a una semana de las elecciones del 29-N. Mantiene la suspensión para los padres.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya el breve plazo que queda hasta las elecciones como motivo del rechazo, a petición de Vox e Iustitia Europa.",
+     "noticias": [
+      {
+       "titular": "El Supremo rechaza suspender también el voto de los 189.000 hijos de los nacionalizados por la ‘ley de nietos’",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-supremo-rechaza-suspender-tambien-el-derecho-al-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la diferencia entre los hijos, que sí podrán votar, y los padres, cuya suspensión se mantiene.",
+     "noticias": [
+      {
+       "titular": "El Supremo rechaza suspender el voto a los casi 190.000 hijos de los nacionalizados en la ley de nietos: \"Se nos ha pedido a una semana de la campaña\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1c361e9cf4ab4658b4571.html",
+       "seccion": "Tribunal Supremo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Cifra en unos 190.000 los beneficiados y detalla la composición del censo electoral exterior.",
+     "noticias": [
+      {
+       "titular": "El Supremo rechaza suspender el voto de los hijos de los nacionalizados por la 'ley de nietos': otros 190.000 beneficiados",
+       "url": "https://www.abc.es/espana/tribunal-supremo-rechaza-suspender-voto-hijos-nacionalizados-20261109140336-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Añade que concede el derecho a voto a 901 nacionalizados descendientes de exiliados.",
+     "noticias": [
+      {
+       "titular": "El Supremo rechaza suspender el voto de los hijos de los 'nietos'",
+       "url": "https://www.lavanguardia.com/politica/20261109/11680019/supremo-rechaza-suspender-voto-hijos-nietos.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Caso Nvidia y su consejero delegado",
+   "resumen": "Nvidia abre una investigación interna a su consejero delegado, Jensen Huang, por una relación con una presunta espía china, que él ha reconocido. Pekín rechaza las acusaciones.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Se centra en el reconocimiento de infidelidad de Huang y en el perfil de la presunta espía.",
+     "noticias": [
+      {
+       "titular": "Nvidia abre una investigación a su consejero delegado sobre su relación con una presunta espía china",
+       "url": "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html",
+       "seccion": "Estados Unidos"
+      },
+      {
+       "titular": "Alice Huang, la espía china de pasado misterioso que llegó hasta el consejero delegado de Nvidia",
+       "url": "https://elpais.com/internacional/2026-11-09/alice-huang-la-espia-china-de-pasado-misterioso-que-llego-hasta-el-consejero-delegado-de-nvidia.html",
+       "seccion": "Nvidia Corporation"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Enmarca el caso en una historia de espionaje y romances secretos con antecedentes.",
+     "noticias": [
+      {
+       "titular": "Los secretos de alcoba del espionaje chino: de la amante del jefe de Nvidia al engaño de M. Butterfly",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/09/6af1397ee85eceed388b4570.html",
+       "seccion": "Nvidia"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge la caída de las acciones de la compañía en los mercados.",
+     "noticias": [
+      {
+       "titular": "Las acciones de Nvidia caen en las plataformas tras la investigación a su CEO por una relación con una espía china",
+       "url": "https://www.abc.es/economia/acciones-nvidia-caen-plataformas-tras-investigacion-ceo-20261109135703-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Incluye la reacción de Trump, que respalda al ejecutivo, y la negativa de Pekín.",
+     "noticias": [
+      {
+       "titular": "Las acciones de Nvidia caen tras la investigación a su CEO por su relación romántica con una espía china",
+       "url": "https://www.lavanguardia.com/economia/20261109/11679643/acciones-nvidia-caen-plataformas-investigacion-huang-supuesta-relacion-espia-china.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Infidelidad, espionaje, un correo interno... ¿qué se sabe del escándalo que sacude a Nvidia?",
+       "url": "https://www.lavanguardia.com/economia/20261109/11679693/que-caso-nvidia-sospechosa-espia-china.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Acuerdos del PP y propuestas electorales",
+   "resumen": "El PP plantea medidas en vivienda, Estado en el País Vasco y Cataluña y derogación de la Ley Trans. El PSOE propone que la Academia de Televisión organice los debates ante el supuesto veto del PP a TVE.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la ampliación del aval público para la compra de vivienda hasta los 50 años.",
+     "noticias": [
+      {
+       "titular": "El PP ampliará hasta los 50 años de edad el aval público para pagar la entrada de una casa",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-pp-ampliara-hasta-los-50-anos-de-edad-el-aval-publico-para-pagar-la-entrada-de-una-casa.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Se fija en la recuperación de la presencia estatal en Cataluña y el País Vasco en seis meses.",
+     "noticias": [
+      {
+       "titular": "El PP recuperará la presencia del Estado en el País Vasco y Cataluña en seis meses: funcionarios, comisarías, Seguridad Social...",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af06581e85ece11488b4573.html",
+       "seccion": "PP"
+      },
+      {
+       "titular": "El PSOE propone que la Academia de Televisión organice el 'cara a cara' y el debate a cuatro si el PP mantiene su \"veto\" a TVE",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1c467fc6c830f048b458f.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la propuesta de la Academia de Televisión para los debates y la promesa de derogar la Ley Trans.",
+     "noticias": [
+      {
+       "titular": "El PSOE propone que la Academia de Televisión organice los debates con Sánchez y Feijóo",
+       "url": "https://www.lavanguardia.com/politica/20261109/11680031/psoe-propone-academia-television-organice-debates-sanchez-feijoo.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Feijóo promete derogar la Ley Trans: “Es una frivolidad del sanchismo”",
+       "url": "https://www.lavanguardia.com/politica/20261109/11680033/feijoo-derogara-ley-trans-declararse-hombre-mujer-registro-civil-frivolidad-sanchismo.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la encuesta de 40dB sobre la intención de voto y la huelga, junto con las propuestas del PP en vivienda. También dedica espacio a la polémica en televisión entre Broncano y Abascal.",
+   "noticias": [
+    {
+     "titular": "El bloque de la derecha mantiene su ventaja pero el PSOE se acerca al PP",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-bloque-de-la-derecha-mantiene-su-ventaja-pero-el-psoe-se-acerca-al-pp.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Una encuesta sitúa al bloque de derecha por delante, con el PSOE acercándose al PP pese al accidente de Urda."
+    },
+    {
+     "titular": "El Supremo rechaza suspender también el voto de los 189.000 hijos de los nacionalizados por la ‘ley de nietos’",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-supremo-rechaza-suspender-tambien-el-derecho-al-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El Supremo rechaza suspender el voto de los hijos de nacionalizados a una semana de las elecciones."
+    },
+    {
+     "titular": "Feijóo niega haber ofrecido pagos a Koldo García para difamar a Sánchez: “Es absolutamente falso”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/feijoo-niega-haber-ofrecido-pagos-a-koldo-garcia-para-difamar-a-sanchez-es-absolutamente-falso.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo niega haber ofrecido pagos a Koldo García para difamar a Sánchez, y Gamarra explica la reunión."
+    },
+    {
+     "titular": "La huelga divide a los españoles y más de la mitad rechaza las acampadas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/la-huelga-divide-a-los-espanoles-y-mas-de-la-mitad-rechaza-las-acampadas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Una encuesta refleja que más de la mitad rechaza las acampadas y que la huelga divide a la población."
+    },
+    {
+     "titular": "El PP ampliará hasta los 50 años de edad el aval público para pagar la entrada de una casa",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-pp-ampliara-hasta-los-50-anos-de-edad-el-aval-publico-para-pagar-la-entrada-de-una-casa.html",
+     "seccion": "España",
+     "resumen": "El PP ampliará el aval público para la entrada de vivienda hasta los 50 años."
+    },
+    {
+     "titular": "Nvidia abre una investigación a su consejero delegado sobre su relación con una presunta espía china",
+     "url": "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Nvidia investiga a Jensen Huang, que reconoce una infidelidad a su mujer."
+    },
+    {
+     "titular": "Los helicópteros pioneros que salvaron vidas en el accidente de Urda: “Perdimos la cuenta de la gente a la que llegamos a atender”",
+     "url": "https://elpais.com/espana/2026-11-09/los-helicopteros-pioneros-que-salvaron-vidas-en-el-accidente-de-urda-perdimos-la-cuenta-de-la-gente-a-la-que-llegamos-a-atender.html",
+     "seccion": "España",
+     "resumen": "Los helicópteros de emergencia de Castilla-La Mancha, con capacidad de transfusión, evitaron más fallecidos en Urda."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la ventaja de PP y Vox en encuestas y en las propuestas del PP sobre el Estado en Cataluña y el País Vasco. También incluye la crisis migratoria en El Hierro y la investigación sobre Adif.",
+   "noticias": [
+    {
+     "titular": "PP y Vox suman 199 diputados con un 50,4% de los votos y Sánchez no remonta la tragedia de los trenes",
+     "url": "https://www.elmundo.es/espana/encuestas/2026/11/08/6af066bee85eceae5a8b4598.html",
+     "seccion": "PSOE",
+     "resumen": "PP y Vox sumarían 199 diputados según una encuesta, con Sánchez por detrás a las puertas de la campaña."
+    },
+    {
+     "titular": "El Supremo rechaza suspender el voto a los casi 190.000 hijos de los nacionalizados en la ley de nietos: \"Se nos ha pedido a una semana de la campaña\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1c361e9cf4ab4658b4571.html",
+     "seccion": "Tribunal Supremo",
+     "resumen": "El Supremo rechaza suspender el voto de los hijos de nacionalizados, pero mantiene la suspensión para sus padres."
+    },
+    {
+     "titular": "Adif confirma que su ex presidente aprobó horas antes de dimitir por la tragedia de Urda un plan de incentivos para su dirección",
+     "url": "https://www.elmundo.es/economia/2026/11/09/6af18df8e4d4d88f658b458c.html",
+     "seccion": "",
+     "resumen": "Adif confirma que su expresidente aprobó horas antes de dimitir un plan de incentivos para la dirección."
+    },
+    {
+     "titular": "El 'SOS' de El Hierro tras las 4.500 llegadas en siete días y el desguace de 30 cayucos",
+     "url": "https://www.elmundo.es/espana/2026/11/09/6af1cc3ae85ecebb328b4581.html",
+     "seccion": "Canarias",
+     "resumen": "El Gobierno convoca de urgencia la Comisión Interministerial de Inmigración por la llegada de migrantes a El Hierro."
+    },
+    {
+     "titular": "El PP recuperará la presencia del Estado en el País Vasco y Cataluña en seis meses: funcionarios, comisarías, Seguridad Social...",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af06581e85ece11488b4573.html",
+     "seccion": "PP",
+     "resumen": "El PP propone recuperar la presencia del Estado en el País Vasco y Cataluña en seis meses."
+    },
+    {
+     "titular": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por \"vulneración de derechos de la infancia\" tras detectarse abuso sexual infantil",
+     "url": "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html",
+     "seccion": "Tik Tok",
+     "resumen": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por abusos a menores."
+    },
+    {
+     "titular": "Muere en el hospital el autor del tiroteo de Cracovia que dejó seis muertos y quince heridos",
+     "url": "https://www.elmundo.es/internacional/2026/11/09/6af167b221efa0ff1f8b458e.html",
+     "seccion": "Polonia",
+     "resumen": "Muere el autor del tiroteo de Cracovia, y se confirma la muerte de sus familiares hallados en su casa."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Atiende a la actualidad institucional y social, con el censo electoral y la ley de nietos al frente. Incluye también el caso TikTok y la crisis de salarios en Barcelona.",
+   "noticias": [
+    {
+     "titular": "El Supremo rechaza suspender el voto de los hijos de los nacionalizados por la 'ley de nietos': otros 190.000 beneficiados",
+     "url": "https://www.abc.es/espana/tribunal-supremo-rechaza-suspender-voto-hijos-nacionalizados-20261109140336-nt.html",
+     "seccion": "",
+     "resumen": "El Supremo mantiene el voto de los hijos de nacionalizados y explica el censo electoral exterior."
+    },
+    {
+     "titular": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil",
+     "url": "https://www.abc.es/sociedad/gobierno-plantea-paralizar-servicios-tiktok-espana-permitir-20261109113857-nt.html",
+     "seccion": "",
+     "resumen": "El Gobierno estudia paralizar TikTok en España por vídeos de abuso sexual infantil."
+    },
+    {
+     "titular": "Las acciones de Nvidia caen en las plataformas tras la investigación a su CEO por una relación con una espía china",
+     "url": "https://www.abc.es/economia/acciones-nvidia-caen-plataformas-tras-investigacion-ceo-20261109135703-nt.html",
+     "seccion": "",
+     "resumen": "Las acciones de Nvidia caen tras la investigación abierta a su consejero delegado."
+    },
+    {
+     "titular": "Canarias pedirá a Moncloa perseguir penalmente a las mafias",
+     "url": "https://www.abc.es/espana/canarias/canarias-pedira-moncloa-perseguir-penalmente-mafias-20261109123601-nt.html",
+     "seccion": "",
+     "resumen": "Canarias pide al Gobierno central perseguir penalmente a las mafias de inmigración."
+    },
+    {
+     "titular": "Sánchez defiende la movilización social a dos días de la huelga general: «Los derechos nunca han caído del cielo»",
+     "url": "https://www.abc.es/espana/pedro-sanchez-defiende-movilizacion-social-dos-dias-20261109115018-nt.html",
+     "seccion": "",
+     "resumen": "Sánchez defiende la movilización social a dos días de la huelga general."
+    },
+    {
+     "titular": "Ayuso augura un cambio en España y exige que se respete y se acepte: «La gente no aguanta más»",
+     "url": "https://www.abc.es/espana/madrid/ayuso-augura-cambio-espana-exige-respete-acepte-20261109131419-nt.html",
+     "seccion": "",
+     "resumen": "Ayuso augura un cambio político y se reúne con la nueva delegada del Gobierno en Madrid."
+    },
+    {
+     "titular": "Muere en el hospital el autor del tiroteo que mató a seis personas en Cracovia",
+     "url": "https://www.abc.es/internacional/muere-hospital-autor-tiroteo-dejo-seis-muertos-20261109075621-nt.html",
+     "seccion": "",
+     "resumen": "Muere el autor del tiroteo que mató a seis personas en Cracovia."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Sigue la precampaña con foco en el 29-N, la huelga general y las propuestas de los partidos catalanes. Incluye también la política económica y el caso Nvidia.",
+   "noticias": [
+    {
+     "titular": "El Supremo rechaza suspender el voto de los hijos de los 'nietos'",
+     "url": "https://www.lavanguardia.com/politica/20261109/11680019/supremo-rechaza-suspender-voto-hijos-nietos.html",
+     "seccion": "Política",
+     "resumen": "El Supremo rechaza suspender el voto de los hijos de nacionalizados y reconoce el derecho a 901 descendientes de exiliados."
+    },
+    {
+     "titular": "Sánchez aparca su agenda internacional y prioriza la carrera electoral del 29-N",
+     "url": "https://www.lavanguardia.com/politica/20261109/11679649/sanchez-aparca-agenda-internacional-prioriza-carrera-electoral-29-n.html",
+     "seccion": "Política",
+     "resumen": "Sánchez aparca su agenda internacional y encadena cuatro mítines en cuatro días."
+    },
+    {
+     "titular": "Una huelga general inédita antes de votar",
+     "url": "https://www.lavanguardia.com/politica/20261109/11679302/huelga-general-inedita-votar.html",
+     "seccion": "Política",
+     "resumen": "Una huelga general inédita antes de votar, con la movilización como eje del debate."
+    },
+    {
+     "titular": "Junqueras pone el 29-N como un nuevo ciclo con el objetivo que ERC sea primera fuerza en Catalunya",
+     "url": "https://www.lavanguardia.com/politica/elecciones/20261109/11680015/junqueras-pone-29-n-nuevo-ciclo-objetivo-erc-sea-primera-fuerza-catalunya.html",
+     "seccion": "Elecciones",
+     "resumen": "Junqueras fija como objetivo que ERC sea primera fuerza en Cataluña el 29-N."
+    },
+    {
+     "titular": "Trump admite que fue “demasiado duro” con las deportaciones",
+     "url": "https://www.lavanguardia.com/internacional/20261109/11679565/trump-admite-politica-deportaciones-demasiado-dura-perjudico-republicanos.html",
+     "seccion": "Internacional",
+     "resumen": "Trump admite que fue demasiado duro con las deportaciones y se abre a una reforma migratoria con los demócratas."
+    },
+    {
+     "titular": "Las acciones de Nvidia caen tras la investigación a su CEO por su relación romántica con una espía china",
+     "url": "https://www.lavanguardia.com/economia/20261109/11679643/acciones-nvidia-caen-plataformas-investigacion-huang-supuesta-relacion-espia-china.html",
+     "seccion": "Economía",
+     "resumen": "Las acciones de Nvidia caen tras la investigación a su CEO, y Trump lo respalda."
+    },
+    {
+     "titular": "Retrasos generalizados y cancelaciones en Rodalies por un conflicto laboral con los maquinistas",
+     "url": "https://www.lavanguardia.com/local/catalunya/20261109/11677837/trafico-carreteras-cortes-trenes-rodalies-accesos-barcelona-cataluna-lunes-9-noviembre-en-directo.html",
+     "seccion": "Catalunya",
+     "resumen": "Huelga de maquinistas de Renfe el 10 de noviembre que afectará a Rodalies y alta velocidad."
+    }
+   ]
+  }
+ ]
+}
