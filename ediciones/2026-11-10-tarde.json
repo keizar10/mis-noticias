@@ -1,0 +1,476 @@
+{
+ "fecha": "2026-11-10",
+ "franja": "tarde",
+ "generada": "2026-11-10T14:51+01:00",
+ "con_ia": true,
+ "resumen_dia": "La entrevista de Santiago Abascal en 'La Revuelta' de TVE domina las portadas, con reacciones políticas y récord de audiencia. En la campaña del 29N, el PP presenta su programa de 249 medidas y el Gobierno aprueba medidas sociales y de igualdad. También destacan la explosión en Oviedo que causó la muerte de un policía y la huelga de maquinistas con caos de movilidad en Cataluña y Madrid.",
+ "temas_comunes": [
+  {
+   "titulo": "Entrevista de Abascal en 'La Revuelta'",
+   "resumen": "La entrevista del líder de Vox en TVE genera reacciones políticas, críticas al formato y un récord de audiencia. Vox denuncia que se recortaron 40 minutos de la emisión.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya las críticas políticas y de profesionales a la entrevista y a la actuación de Broncano.",
+     "noticias": [
+      {
+       "titular": "Tormenta política tras la visita de Abascal a Broncano en ‘La revuelta’: “Es terrible que TVE le diera espacio”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/tormenta-politica-tras-la-visita-de-abascal-a-broncano-en-la-revuelta-es-terrible-que-tve-le-diera-espacio.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Abascal en ‘La revuelta’ con Broncano: probablemente, la peor entrevista en la historia de nuestra televisión",
+       "url": "https://elpais.com/television/2026-11-10/abascal-en-la-revuelta-con-broncano-probablemente-la-peor-entrevista-en-la-historia-de-nuestra-television.html",
+       "seccion": "Televisión"
+      },
+      {
+       "titular": "“Entre mi mujer y yo te podríamos pagar un programa”: así fueron las respuestas de Abascal a las preguntas clásicas de Broncano que ‘La revuelta’ no emitió",
+       "url": "https://elpais.com/videos/2026-11-10/abascal-a-broncano-entre-mi-mujer-y-yo-te-podriamos-pagar-un-programa-asi-fueron-las-respuestas-de-abascal-a-las-preguntas-clasicas-que-la-revuelta-no-emitio.html",
+       "seccion": "Televisión"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca los datos de audiencia y la posición del Consejo de Informativos de TVE.",
+     "noticias": [
+      {
+       "titular": "El Consejo de Informativos de TVE, tras el programa: «Alguien debería asumir las responsabilidades»",
+       "url": "https://www.abc.es/play/television/noticias/consejo-informativos-tve-postula-tras-entrevista-abascal-20261110131849-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Broncano habló más que Abascal… y menos que Pedro Sánchez",
+       "url": "https://www.abc.es/play/television/noticias/broncano-hablo-abascal-entrevista-revuelta-20261110115207-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Compara la audiencia con la de la visita de Sánchez y recoge la queja de Vox por los minutos recortados.",
+     "noticias": [
+      {
+       "titular": "Vox lamenta que se recortaron 40 minutos de la entrevista con Broncano en 'La Revuelta'",
+       "url": "https://www.lavanguardia.com/politica/20261110/11680738/vox-queda-satisfecho-entrevista-broncano-critica-recortaron-40-minutos.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Santiago Abascal supera a Pedro Sánchez en 'La Revuelta': Broncano firma otro dato histórico de audiencia",
+       "url": "https://www.lavanguardia.com/television/20261110/11680535/abascal-supera-pedro-sanchez-audiencia-revuelta-broncano-firma-dato-historico-lider-vox.html",
+       "seccion": "Televisión"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "",
+   "resumen": "El PP presenta su programa de cara al 29N con 249 medidas, que incluyen cambios en vivienda, renta, educación y ayudas al acceso según arraigo.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Se centra en la sustitución del ingreso mínimo vital por una renta de activación y en cambios educativos.",
+     "noticias": [
+      {
+       "titular": "Feijóo promete sustituir el ingreso mínimo vital por una \"renta de activación\" que se les retirará a quienes rechacen empleos sin \"causa justificada\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af30c3ce4d4d8e0028b4589.html",
+       "seccion": "PP"
+      },
+      {
+       "titular": "Los alumnos no podrán pasar de curso con suspensos en la ESO y habrá nota mínima para estudiar Magisterio: así es el programa de Feijóo en Educación",
+       "url": "https://www.elmundo.es/espana/2026/11/09/6af1dc48fc6c835f188b4575.html",
+       "seccion": "Artículos Olga R. Sanmartín"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Resalta la rebaja del IVA de la vivienda para menores de 40 años y la premisa de cambio político.",
+     "noticias": [
+      {
+       "titular": "El PP se compromete a bajar el IVA de la vivienda al 4% a los jóvenes",
+       "url": "https://www.abc.es/economia/pp-compromete-bajar-iva-vivienda-jovenes-repartir-20261110141259-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Feijóo presenta el programa del PP para el 29N: «No haré un sanchismo de derechas ni vengo a administrar la decadencia»",
+       "url": "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en la vuelta a la reforma del Reglamento del Congreso sobre lenguas cooficiales y en el acceso a ayudas por arraigo.",
+     "noticias": [
+      {
+       "titular": "El PP lleva a su programa al concebido no nacido y la “prioridad” para el acceso a ayudas basada en el arraigo",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/el-pp-lleva-a-su-programa-las-ayudas-al-concebido-no-nacido-y-sustituye-la-ley-de-eutanasia-por-una-de-cuidados-paliativos.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Lo presenta como una enmienda a la totalidad al Gobierno de Sánchez.",
+     "noticias": [
+      {
+       "titular": "Feijóo convierte su programa electoral en una enmienda a la totalidad a Sánchez",
+       "url": "https://www.lavanguardia.com/politica/20261110/11680798/feijoo-convierte-programa-electoral-enmienda-totalidad-sanchez.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Explosión mortal en Oviedo",
+   "resumen": "Una mochila con explosivos mata a un policía y deja a otro herido grave; el presunto autor, de 64 años, permanece huido.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la muerte del policía y de un pastor alemán, y la búsqueda del hombre con antecedentes.",
+     "noticias": [
+      {
+       "titular": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
+       "url": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca que el agente herido ha perdido una pierna y que el autor sigue armado.",
+     "noticias": [
+      {
+       "titular": "Muere un policía y otro resulta herido con la amputación de una pierna por la explosión de una mochila en Oviedo tras un tiroteo cuyo autor permanece huido y armado",
+       "url": "https://www.elmundo.es/espana/2026/11/10/6af2d90ae85ecebb328b459d.html",
+       "seccion": "Policía Nacional"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Describe el aviso por conflicto vecinal en Villafría como origen de la intervención.",
+     "noticias": [
+      {
+       "titular": "Muere un policía y otro resulta herido de gravedad al explotar una mochila bomba en Oviedo",
+       "url": "https://www.abc.es/espana/asturias/muere-policia-resulta-herido-grave-explosion-oviedo-20261110093550-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Se centra en la investigación sobre una posible detonación a distancia.",
+     "noticias": [
+      {
+       "titular": "Muere un policía y otro pierde una pierna en una explosión en Oviedo",
+       "url": "https://www.lavanguardia.com/sucesos/20261110/11680608/muere-policia-especialista-guias-caninos-resulta-gravemente-herido-explosion-oviedo.html",
+       "seccion": "Sucesos"
+      },
+      {
+       "titular": "Última hora del tiroteo y explosión en Oviedo, en directo | Investigan si la bomba que ha matado a un policía fue detonada a distancia",
+       "url": "https://www.lavanguardia.com/sucesos/20261110/11680681/tiroteo-explosion-oviedo-muerte-policias-tedax-guia-canino-ultima-hora-hoy-en-directo.html",
+       "seccion": "Sucesos"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Familia monoparental y medidas de igualdad",
+   "resumen": "El Consejo de Ministros aprueba el título de familia monoparental, que equipara con la numerosa a las familias con dos hijos, y un plan de igualdad con más de 750 medidas hasta 2029.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Enfatiza el número de hogares afectados y el plan de igualdad con observatorio contra la misoginia digital.",
+     "noticias": [
+      {
+       "titular": "El Gobierno creará un título de familia monoparental: las que tengan dos hijos tendrán los mismos beneficios de las numerosas",
+       "url": "https://elpais.com/sociedad/2026-11-10/el-gobierno-creara-un-titulo-de-familia-monoparental-las-que-tengan-dos-hijos-tendran-los-mismos-beneficios-de-las-numerosas.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "El Gobierno aprueba medidas frente a la violencia política y las demandas que buscan silenciar a mujeres",
+       "url": "https://elpais.com/sociedad/2026-11-10/el-gobierno-aprueba-medidas-frente-a-la-violencia-politica-y-las-demandas-que-buscan-silenciar-a-mujeres.html",
+       "seccion": "Violencia género"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Explica la ampliación del concepto de familia numerosa mediante real decreto-ley.",
+     "noticias": [
+      {
+       "titular": "El Gobierno crea un título de familia monoparental y la equipara a familia numerosa cuando haya dos hijos",
+       "url": "https://www.abc.es/sociedad/gobierno-crea-titulo-familia-monoparental-reforzar-proteccion-20261110094402-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Huelga de maquinistas y caos en Rodalies",
+   "resumen": "Una huelga de maquinistas provoca caos de movilidad en Barcelona y Madrid, mientras el Govern reclama a Renfe expedientes por incumplir los servicios mínimos.",
+   "medios": [
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Sigue en directo el impacto en el tráfico y en Rodalies, y recoge la respuesta de Illa y de los sindicatos.",
+     "noticias": [
+      {
+       "titular": "Caos en la movilidad en Barcelona y Madrid por la huelga de maquinistas",
+       "url": "https://www.lavanguardia.com/local/catalunya/20261110/11680068/trafico-carreteras-cortes-huelga-renfe-maquinistas-trenes-rodalies-accesos-barcelona-cataluna-lunes-10-noviembre-en-directo.html",
+       "seccion": "Catalunya"
+      },
+      {
+       "titular": "Illa promete actuar ante el incumplimiento de los servicios mínimos en Rodalies",
+       "url": "https://www.lavanguardia.com/politica/20261110/11680643/illa-promete-actuar-incumplimiento-servicios-minimos-rodalies.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Los sindicatos prevén una respuesta “digna” en las empresas y “enorme” en la calle",
+       "url": "https://www.lavanguardia.com/economia/20261110/11680287/sindicatos-preven-respuesta-digna-empresas-enorme-calle.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge el testimonio de la maquinista del Iryo tras la colisión de Urda, sin relación directa con la huelga.",
+     "noticias": [
+      {
+       "titular": "La maquinista del Iryo alertó del riesgo para los pasajeros después de la colisión en Urda: \"Veo cable de la catenaria sobre la vía; ¡no salgan del tren!\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/09/6af2089321efa04e6a8b4595.html",
+       "seccion": "NLPremium"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la polémica por la entrevista de Abascal en 'La revuelta' y sus reacciones políticas, junto con la investigación sobre el grupo neonazi Núcleo Nacional y el caso del CNI. Incluye también varias medidas del Gobierno en materia social e igualdad.",
+   "noticias": [
+    {
+     "titular": "Tormenta política tras la visita de Abascal a Broncano en ‘La revuelta’: “Es terrible que TVE le diera espacio”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/tormenta-politica-tras-la-visita-de-abascal-a-broncano-en-la-revuelta-es-terrible-que-tve-le-diera-espacio.html",
+     "seccion": "España",
+     "resumen": "Los líderes políticos reaccionan horas después de la entrevista de Abascal en TVE, con críticas a que la cadena pública le diera espacio."
+    },
+    {
+     "titular": "Dos agentes y una ‘traición’ de casi 300 archivos en el CNI: culmina la investigación del caso que sacudió los cimientos de los servicios secretos",
+     "url": "https://elpais.com/espana/2026-11-10/dos-agentes-y-una-traicion-de-casi-300-archivos-en-el-cni-culmina-la-investigacion-del-caso-que-sacudio-los-cimientos-de-los-servicios-secretos.html",
+     "seccion": "España",
+     "resumen": "Culmina la instrucción del caso de la filtración de cerca de 300 archivos del CNI; un exjefe del área de Rusia y otro agente irán a juicio en la Audiencia de Madrid."
+    },
+    {
+     "titular": "Militantes de Núcleo Nacional recibieron formación paramilitar en Ucrania con fusiles",
+     "url": "https://elpais.com/espana/2026-11-10/militantes-de-nucleo-nacional-recibieron-formacion-paramilitar-en-ucrania-con-fusiles.html",
+     "seccion": "España",
+     "resumen": "La Policía sostiene que militantes de Núcleo Nacional recibieron formación paramilitar con fusiles en Ucrania y se reunieron con la unidad Azov."
+    },
+    {
+     "titular": "Ayuso pide a Feijóo acabar “con toda la basura sindical”",
+     "url": "https://elpais.com/espana/madrid/2026-11-10/ayuso-pide-a-feijoo-acabar-con-toda-la-basura-sindical.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "Ayuso pide a Feijóo acabar con 'la basura sindical' y critica la dirección de 'La revuelta' en una entrevista en Antena 3."
+    },
+    {
+     "titular": "El Gobierno creará un título de familia monoparental: las que tengan dos hijos tendrán los mismos beneficios de las numerosas",
+     "url": "https://elpais.com/sociedad/2026-11-10/el-gobierno-creara-un-titulo-de-familia-monoparental-las-que-tengan-dos-hijos-tendran-los-mismos-beneficios-de-las-numerosas.html",
+     "seccion": "Sociedad",
+     "resumen": "El Gobierno creará el título de familia monoparental, que equiparará con las numerosas a las familias con dos hijos; afecta a más de 760.000 hogares."
+    },
+    {
+     "titular": "El Gobierno aprueba medidas frente a la violencia política y las demandas que buscan silenciar a mujeres",
+     "url": "https://elpais.com/sociedad/2026-11-10/el-gobierno-aprueba-medidas-frente-a-la-violencia-politica-y-las-demandas-que-buscan-silenciar-a-mujeres.html",
+     "seccion": "Violencia género",
+     "resumen": "El Consejo de Ministros aprueba el cuarto plan de igualdad, con más de 750 medidas hasta 2029 y un observatorio contra la misoginia digital y la violencia política."
+    },
+    {
+     "titular": "El PP lleva a su programa al concebido no nacido y la “prioridad” para el acceso a ayudas basada en el arraigo",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/el-pp-lleva-a-su-programa-las-ayudas-al-concebido-no-nacido-y-sustituye-la-ley-de-eutanasia-por-una-de-cuidados-paliativos.html",
+     "seccion": "España",
+     "resumen": "El PP incluye en su programa la revocación de la reforma del Reglamento del Congreso sobre lenguas cooficiales y prioriza el arraigo para acceder a ayudas."
+    },
+    {
+     "titular": "La investigación vaticana del Sodalicio revela extracciones de ovarios y uso de psicofármacos para tratar la homosexualidad",
+     "url": "https://elpais.com/sociedad/2026-11-10/la-investigacion-vaticana-del-sodalicio-revela-extracciones-de-ovarios-y-uso-de-psicofarmacos-para-tratar-la-homosexualidad.html",
+     "seccion": "Sociedad",
+     "resumen": "Una investigación vaticana sobre el Sodalicio revela extracciones de ovarios y psicofármacos, coincidiendo con la visita del Papa a Perú."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Destaca la campaña electoral del 29N con el programa del PP y la agenda del Gobierno, además de la tragedia de Urda y la investigación a Zapatero. Mantiene también una atención notable a la política internacional.",
+   "noticias": [
+    {
+     "titular": "La maquinista del Iryo alertó del riesgo para los pasajeros después de la colisión en Urda: \"Veo cable de la catenaria sobre la vía; ¡no salgan del tren!\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/09/6af2089321efa04e6a8b4595.html",
+     "seccion": "NLPremium",
+     "resumen": "La maquinista del Iryo tras la colisión en Urda relata que alertó a los pasajeros de no bajar del tren por el cable de la catenaria sobre la vía."
+    },
+    {
+     "titular": "Feijóo promete sustituir el ingreso mínimo vital por una \"renta de activación\" que se les retirará a quienes rechacen empleos sin \"causa justificada\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af30c3ce4d4d8e0028b4589.html",
+     "seccion": "PP",
+     "resumen": "Feijóo propone sustituir el ingreso mínimo vital por una renta de activación que se retirará a quien rechace empleos sin causa justificada."
+    },
+    {
+     "titular": "Moncloa arrancará la campaña del 29-N aprobando medidas con un Consejo de Ministros extraordinario",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af30975e4d4d8fe788b459f.html",
+     "seccion": "Consejo de ministros",
+     "resumen": "El Gobierno celebrará un Consejo de Ministros extraordinario para arrancar la campaña del 29N con nuevas medidas de bienestar."
+    },
+    {
+     "titular": "Page muestra su \"respeto\" ante la ausencia de Sánchez en el funeral de las víctimas de Urda, pero advierte: \"Por mi responsabilidad, estoy obligado a acudir\"",
+     "url": "https://www.elmundo.es/espana/2026/11/10/6af30a2be85ecebb328b45b7.html",
+     "seccion": "Emiliano García-Page",
+     "resumen": "Page respeta la ausencia de Sánchez en el funeral de las víctimas de Urda, pero dice que él sí acudiría a un homenaje laico."
+    },
+    {
+     "titular": "La Audiencia avala investigar a Zapatero por presunto tráfico de influencias en Bolivia",
+     "url": "https://www.elmundo.es/espana/2026/11/10/6af3166a21efa0f1788b4590.html",
+     "seccion": "José Luis Rodríguez Zapatero",
+     "resumen": "La Audiencia Nacional avala investigar a Zapatero por presunto tráfico de influencias en Bolivia y rechaza su recurso sobre un informe policial."
+    },
+    {
+     "titular": "Muere un policía y otro resulta herido con la amputación de una pierna por la explosión de una mochila en Oviedo tras un tiroteo cuyo autor permanece huido y armado",
+     "url": "https://www.elmundo.es/espana/2026/11/10/6af2d90ae85ecebb328b459d.html",
+     "seccion": "Policía Nacional",
+     "resumen": "Un policía muere y otro pierde una pierna por la explosión de una mochila en Oviedo; el autor sigue huido y armado."
+    },
+    {
+     "titular": "Los alumnos no podrán pasar de curso con suspensos en la ESO y habrá nota mínima para estudiar Magisterio: así es el programa de Feijóo en Educación",
+     "url": "https://www.elmundo.es/espana/2026/11/09/6af1dc48fc6c835f188b4575.html",
+     "seccion": "Artículos Olga R. Sanmartín",
+     "resumen": "El programa del PP plantea que los alumnos no pasen de curso con suspensos en la ESO y exigir nota mínima para Magisterio."
+    },
+    {
+     "titular": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa de Horcajo por las lluvias de la borrasca Bruna",
+     "url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
+     "seccion": "Ávila",
+     "resumen": "Ordenan la evacuación de Piedralaves (Ávila) por riesgo de desbordamiento de la presa de Horcajo por las lluvias de la borrasca Bruna."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Pone el foco en el programa electoral del PP, con medidas de vivienda y la presentación de Feijóo, y en la repercusión de la entrevista de Abascal en TVE. Incluye también la nueva figura de familia monoparental.",
+   "noticias": [
+    {
+     "titular": "El PP se compromete a bajar el IVA de la vivienda al 4% a los jóvenes",
+     "url": "https://www.abc.es/economia/pp-compromete-bajar-iva-vivienda-jovenes-repartir-20261110141259-nt.html",
+     "seccion": "",
+     "resumen": "El PP propone aplicar un IVA del 4% a la compra de vivienda para menores de 40 años, dentro de un régimen fiscal de emergencia."
+    },
+    {
+     "titular": "Feijóo presenta el programa del PP para el 29N: «No haré un sanchismo de derechas ni vengo a administrar la decadencia»",
+     "url": "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo presenta el programa electoral del PP con 249 medidas, de las que ocho quedan pendientes de concretar durante la campaña."
+    },
+    {
+     "titular": "El Gobierno crea un título de familia monoparental y la equipara a familia numerosa cuando haya dos hijos",
+     "url": "https://www.abc.es/sociedad/gobierno-crea-titulo-familia-monoparental-reforzar-proteccion-20261110094402-nt.html",
+     "seccion": "",
+     "resumen": "El Consejo de Ministros aprueba un real decreto-ley que crea el título de familia monoparental y amplía la consideración de familia numerosa."
+    },
+    {
+     "titular": "El Consejo de Informativos de TVE, tras el programa: «Alguien debería asumir las responsabilidades»",
+     "url": "https://www.abc.es/play/television/noticias/consejo-informativos-tve-postula-tras-entrevista-abascal-20261110131849-nt.html",
+     "seccion": "",
+     "resumen": "El Consejo de Informativos de TVE exige responsabilidades tras la entrevista de Abascal en 'La Revuelta' y pide asumirlas."
+    },
+    {
+     "titular": "Broncano habló más que Abascal… y menos que Pedro Sánchez",
+     "url": "https://www.abc.es/play/television/noticias/broncano-hablo-abascal-entrevista-revuelta-20261110115207-nt.html",
+     "seccion": "",
+     "resumen": "La entrevista de Abascal en 'La Revuelta' logra la emisión más vista del programa, con 4,8 millones de espectadores y 33,6% de cuota."
+    },
+    {
+     "titular": "Muere un policía y otro resulta herido de gravedad al explotar una mochila bomba en Oviedo",
+     "url": "https://www.abc.es/espana/asturias/muere-policia-resulta-herido-grave-explosion-oviedo-20261110093550-nt.html",
+     "seccion": "",
+     "resumen": "Un policía muere y otro resulta herido grave por la explosión de una mochila en el barrio de Villafría, en Oviedo, tras un aviso por conflicto vecinal."
+    },
+    {
+     "titular": "Alquiler Seguro denuncia una vandalización en 25 oficinas de toda España y apunta al Sindicato de Inquilinas",
+     "url": "https://www.abc.es/economia/alquiler-seguro-denuncia-vandalizacion-oficinas-espana-apunta-20261110130908-nt.html",
+     "seccion": "",
+     "resumen": "Alquiler Seguro denuncia la vandalización de 25 oficinas antes de la huelga general por la vivienda convocada por los sindicatos."
+    },
+    {
+     "titular": "Una redada en discotecas y clubes de alterne en Fuenlabrada deja tres detenidos y casi 150 identificados",
+     "url": "https://www.abc.es/espana/madrid/redada-discotecas-clubes-alterne-fuenlabrada-deja-tres-20261110134307-nt.html",
+     "seccion": "",
+     "resumen": "La Policía detiene a tres personas e identifica a 147 en una redada en discotecas y clubes de Fuenlabrada."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Abre con el caos de movilidad en Cataluña y Madrid por la huelga de maquinistas y el seguimiento de Rodalies. Dedica también espacio a la campaña del 29N y a la entrevista de Abascal en TVE.",
+   "noticias": [
+    {
+     "titular": "Caos en la movilidad en Barcelona y Madrid por la huelga de maquinistas",
+     "url": "https://www.lavanguardia.com/local/catalunya/20261110/11680068/trafico-carreteras-cortes-huelga-renfe-maquinistas-trenes-rodalies-accesos-barcelona-cataluna-lunes-10-noviembre-en-directo.html",
+     "seccion": "Catalunya",
+     "resumen": "Huelga de maquinistas que provoca caos de movilidad en Barcelona y Madrid, con seguimiento en directo del tráfico y los transportes."
+    },
+    {
+     "titular": "Illa promete actuar ante el incumplimiento de los servicios mínimos en Rodalies",
+     "url": "https://www.lavanguardia.com/politica/20261110/11680643/illa-promete-actuar-incumplimiento-servicios-minimos-rodalies.html",
+     "seccion": "Política",
+     "resumen": "Illa avisa que actuará ante el incumplimiento de los servicios mínimos en Rodalies y reclama a Renfe que abra expedientes."
+    },
+    {
+     "titular": "Los sindicatos prevén una respuesta “digna” en las empresas y “enorme” en la calle",
+     "url": "https://www.lavanguardia.com/economia/20261110/11680287/sindicatos-preven-respuesta-digna-empresas-enorme-calle.html",
+     "seccion": "Economía",
+     "resumen": "CC.OO. y UGT anuncian movilizaciones en las empresas y en la calle en protesta por la huelga."
+    },
+    {
+     "titular": "Última hora del tiroteo y explosión en Oviedo, en directo | Investigan si la bomba que ha matado a un policía fue detonada a distancia",
+     "url": "https://www.lavanguardia.com/sucesos/20261110/11680681/tiroteo-explosion-oviedo-muerte-policias-tedax-guia-canino-ultima-hora-hoy-en-directo.html",
+     "seccion": "Sucesos",
+     "resumen": "La explosión en Oviedo que mató a un policía se investiga como posible detonación a distancia; el artefacto estaba en una mochila entreabierta."
+    },
+    {
+     "titular": "Vox lamenta que se recortaron 40 minutos de la entrevista con Broncano en 'La Revuelta'",
+     "url": "https://www.lavanguardia.com/politica/20261110/11680738/vox-queda-satisfecho-entrevista-broncano-critica-recortaron-40-minutos.html",
+     "seccion": "Política",
+     "resumen": "Vox lamenta que se recortaran 40 minutos de la entrevista con Broncano; Sánchez critica el tono de Abascal en el programa."
+    },
+    {
+     "titular": "Santiago Abascal supera a Pedro Sánchez en 'La Revuelta': Broncano firma otro dato histórico de audiencia",
+     "url": "https://www.lavanguardia.com/television/20261110/11680535/abascal-supera-pedro-sanchez-audiencia-revuelta-broncano-firma-dato-historico-lider-vox.html",
+     "seccion": "Televisión",
+     "resumen": "La entrevista a Abascal en 'La Revuelta' reúne 4,8 millones de espectadores, por encima de la visita previa de Sánchez, aunque este mantiene el récord de cuota."
+    },
+    {
+     "titular": "Feijóo convierte su programa electoral en una enmienda a la totalidad a Sánchez",
+     "url": "https://www.lavanguardia.com/politica/20261110/11680798/feijoo-convierte-programa-electoral-enmienda-totalidad-sanchez.html",
+     "seccion": "Política",
+     "resumen": "Feijóo presenta un programa de 249 medidas que plantea como alternativa al Gobierno para reparar el Estado y regenerar la democracia."
+    },
+    {
+     "titular": "Trump admite que su política de deportaciones fue “demasiado dura” y perjudicó a los republicanos",
+     "url": "https://www.lavanguardia.com/internacional/20261109/11679565/trump-admite-politica-deportaciones-demasiado-dura-perjudico-republicanos.html",
+     "seccion": "Internacional",
+     "resumen": "Trump admite que su política de deportaciones fue demasiado dura y se muestra dispuesto a negociar una reforma migratoria con los demócratas."
+    }
+   ]
+  }
+ ]
+}
