@@ -1,307 +1,262 @@
 {
- "fecha": "2026-11-10",
+ "fecha": "2026-11-11",
  "franja": "tarde",
- "generada": "2026-11-10T23:00+01:00",
+ "generada": "2026-11-11T14:02+01:00",
  "con_ia": true,
- "resumen_dia": "Las portadas de hoy se centran en la entrevista de Santiago Abascal en 'La Revuelta' y la polémica que ha generado, en el accidente ferroviario de Urda (funeral en Toledo y medidas de seguridad ferroviaria) y en el programa electoral del PP de cara al 29N. También destacan la explosión en Oviedo que causó la muerte de un policía y la negociación de paz entre Rusia y Ucrania en Abu Dabi.",
+ "resumen_dia": "La primera huelga general en catorce años se celebra el 11 de noviembre con seguimiento desigual según las fuentes: sindicatos y patronales dan valoraciones opuestas, con piquetes, cortes de carreteras y servicios mínimos en transporte. Hay al menos decenas de detenidos y denuncias de cargas policiales en varias ciudades. En paralelo, el PP la presenta como electoral y la polémica por la entrevista de Abascal en 'La revuelta' ocupa buena parte de la agenda política.",
  "temas_comunes": [
   {
-   "titulo": "Entrevista de Abascal en 'La Revuelta'",
-   "resumen": "La entrevista de Santiago Abascal en el programa de David Broncano en RTVE ha generado una polémica política. Broncano ha reconocido errores y se han publicado las preguntas que no se emitieron.",
+   "titulo": "Huelga general del 11N: seguimiento y piquetes",
+   "resumen": "La huelga general arranca con cortes en carreteras y servicios mínimos en transporte. Sindicatos y patronales discrepan sobre su seguimiento y se registran detenciones e incidentes.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Pone el foco en la rectificación de Broncano, en cómo RTVE y Vox acordaron la visita y en el análisis crítico del periodismo político.",
+     "enfoque": "Cobertura en directo con un recuento de detenidos y la lectura enfrentada de sindicatos y patronales.",
      "noticias": [
       {
-       "titular": "Broncano rectifica y vuelve al humor en ‘La revuelta’: “Soy la persona que más ha decepcionado a la izquierda después de Gabriel Rufián”",
+       "titular": "Huelga general 11N y actualidad política, en directo | “Los sindicatos hablan “éxito” y de un seguimiento “muy relevante” de la huelga, mientras que las patronales lo ven “bajo”",
+       "url": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Barcelona se queda sin metro más de 10 horas durante la huelga general",
+       "url": "https://elpais.com/espana/catalunya/2026-11-11/barcelona-se-queda-sin-metro-durante-siete-horas-durante-la-huelga-general.html",
+       "seccion": "Huelga 11N"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la participación en la industria y las acciones penales anunciadas por el uso de gas pimienta.",
+     "noticias": [
+      {
+       "titular": "La primera huelga general en 14 años por la vivienda y los salarios en plena precampaña: \"Van a petar las calles de España\"",
+       "url": "https://www.elmundo.es/economia/2026/11/11/6af4223ee4d4d8787d8b4593.html",
+       "seccion": "Huelgas"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Subraya que hubo más piquetes que seguimiento y las cargas denunciadas por sindicatos en Valladolid.",
+     "noticias": [
+      {
+       "titular": "La primera huelga general en 14 años se estrena con más piquetes que seguimiento",
+       "url": "https://www.abc.es/economia/cortes-carreteras-incidentes-primeras-horas-huelga-afectacion-20261111120911-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Los piquetes obligan a cerrar comercios y se enfrentan a la Policía: hay al menos 20 detenidos",
+       "url": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Cortes puntuales en carreteras, tranquilidad en las zonas industriales y el Metro 100% operativo el 11N",
+       "url": "https://www.abc.es/espana/madrid/cortes-carreteras-tranquilidad-zonas-industriales-metro-100-20261111114331-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Pone el acento en el seguimiento 'dispar', los atropellos y el centenar de cortes en Cataluña.",
+     "noticias": [
+      {
+       "titular": "Los sindicatos reconocen un seguimiento “dispar” de la huelga y la CEOE lo estima “bajo”",
+       "url": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Un centenar de cortes de carreteras y autopistas por la huelga colapsan la movilidad en Catalunya",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261111/11681449/centenar-cortes-carreteras-autopistas-huelga-colapsan-movilidad-catalunya.html",
+       "seccion": "Barcelona"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "El PP enmarca la huelga como electoral",
+   "resumen": "El PP cuestiona la huelga por su carácter preventivo y electoral, de cara a la campaña del 29-N. El Gobierno, por su parte, anula su agenda en respeto a la movilización.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la descalificación del PP como 'preventiva' junto con la respuesta de Vox y de la izquierda a la izquierda del PSOE.",
+     "noticias": [
+      {
+       "titular": "El PP descalifica la huelga como “preventiva” contra Feijóo y Vox como “circo general”",
+       "url": "https://elpais.com/espana/2026-11-11/el-pp-descalifica-la-huelga-como-preventiva-contra-feijoo-y-vox-como-circo-general.html",
+       "seccion": "Huelga 11N"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Atribuye a Tellado la idea de que la convocatoria busca incidir en la campaña y favorecer a la izquierda.",
+     "noticias": [
+      {
+       "titular": "El PP arremete contra la huelga general por \"electoral\", \"preventiva\" y por \"trabajar\" para la campaña de Sánchez",
+       "url": "https://www.elmundo.es/espana/2026/11/11/6af43da8e4d4d8f8248b45a8.html",
+       "seccion": "Miguel Tellado"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Incluye la reacción del PP y la decisión del Gobierno de anular su agenda.",
+     "noticias": [
+      {
+       "titular": "El PP denuncia una “huelga electoral” y “preventiva” contra el próximo Gobierno",
+       "url": "https://www.lavanguardia.com/politica/20261111/11681473/pp-denuncia-huelga-electoral-preventiva-proximo-gobierno.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "El Gobierno anula su agenda “por respeto” a una huelga cuyas reivindicaciones sociales comparte",
+       "url": "https://www.lavanguardia.com/politica/20261111/11681615/gobierno-anula-agenda-respeto-huelga-cuyas-reivindicaciones-sociales-comparte.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Polémica por la entrevista de Abascal en 'La revuelta'",
+   "resumen": "Vox cancela una entrevista con Jordi Wild tras la polémica por la edición de la entrevista de Abascal en 'La revuelta' de RTVE. El presentador Broncano ha rectificado en antena.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Sigue la cancelación de Vox y la rectificación de Broncano, con foco en las exigencias del partido.",
+     "noticias": [
+      {
+       "titular": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre los 40 minutos inéditos de ‘La revuelta’",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-11/vox-cancela-la-entrevista-de-abascal-con-jordi-wild-tras-la-polemica-por-los-40-minutos-ineditos-de-la-revuelta.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Broncano rectifica y vuelve al humor en ‘La revuelta’: “Soy la única persona que ha decepcionado a la izquierda más que Rufián”",
        "url": "https://elpais.com/television/2026-11-10/broncano-rectifica-y-vuelve-al-humor-en-la-revuelta-soy-la-persona-que-mas-ha-decepcionado-a-la-izquierda-despues-de-gabriel-rufian.html",
        "seccion": "Televisión"
       },
       {
-       "titular": "Así se gestó la visita de Abascal a ‘La revuelta’: “RTVE envió invitaciones a más programas; Vox solo aceptó ir a Broncano tras conocer los datos de audiencia de Pedro Sánchez”",
-       "url": "https://elpais.com/television/2026-11-10/asi-se-gesto-la-visita-de-abascal-a-la-revuelta-rtve-envio-invitaciones-a-mas-programas-vox-solo-acepto-ir-a-broncano-tras-conocer-los-datos-de-audiencia-de-pedro-sanchez.html",
-       "seccion": "Televisión"
-      },
-      {
-       "titular": "“Entre mi mujer y yo te podríamos pagar un programa”: así fueron las respuestas de Abascal a las preguntas clásicas de Broncano que ‘La revuelta’ no emitió",
-       "url": "https://elpais.com/videos/2026-11-10/abascal-a-broncano-entre-mi-mujer-y-yo-te-podriamos-pagar-un-programa-asi-fueron-las-respuestas-de-abascal-a-las-preguntas-clasicas-que-la-revuelta-no-emitio.html",
-       "seccion": "Televisión"
-      },
-      {
-       "titular": "Broncano y Abascal: catástrofe y muerte del periodismo político",
-       "url": "https://elpais.com/opinion/2026-11-11/broncano-y-abascal-catastrofe-y-muerte-del-periodismo-politico.html",
-       "seccion": "Opinión"
+       "titular": "Broncano está de luto y Colau no es humorista: el día después del ‘abascalazo’ en ‘La revuelta’",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/broncano-esta-de-luto-y-colau-no-es-humorista-el-dia-despues-del-abascalazo-en-la-revuelta.html",
+       "seccion": "Elecciones Generales"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Recoge la reacción de la izquierda y la polémica sobre la potestad que se dio a Vox para elegir el público.",
+     "enfoque": "Analiza la entrevista como un movimiento que favorece la estrategia de Vox hacia el voto del PP.",
      "noticias": [
       {
-       "titular": "\"Amenazar sonriendo no es hacer humor\": el paso de Abascal por 'La Revuelta' abre un choque político a las puertas de la campaña",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af345c4e85ece36278b459f.html",
-       "seccion": "Santiago Abascal Conde"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Destaca la autocrítica de Broncano, que admite haber cometido errores en la entrevista.",
-     "noticias": [
-      {
-       "titular": "Broncano admite que se arrepiente «de muchas cosas»: «La he cagado»",
-       "url": "https://www.abc.es/play/television/noticias/broncano-admite-arrepiente-entrevista-abascal-cagado-20261110194253-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "«Broncano y Abascal: la izquierda pidiendo las sales»",
-       "url": "https://www.abc.es/espana/broncano-abascal-izquierda-pidiendo-sales-20261110210547-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Subraya la pugna política entre PSOE, Vox y Podemos y el recorte de fragmentos de la entrevista.",
-     "noticias": [
-      {
-       "titular": "Las respuestas de Abascal a las preguntas clásicas de Broncano que no se vieron en ‘La Revuelta’",
-       "url": "https://www.lavanguardia.com/politica/20261110/11680863/respuestas-abascal-preguntas-clasicas-broncano-vieron-revuelta.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "La entrevista a Abascal en 'La Revuelta' desata una pugna política",
-       "url": "https://www.lavanguardia.com/politica/20261110/11680992/entrevista-abascal-revuelta-desata-pugna-politica-todos-todos.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "La Revuelta, ni complicidad ni escrutinio",
-       "url": "https://www.lavanguardia.com/opinion/20261110/11681086/revuelta-complicidad-escrutinio.html",
-       "seccion": "Opinión"
-      },
-      {
-       "titular": "El traje a medida para Abascal",
-       "url": "https://www.lavanguardia.com/opinion/20261110/11680735/traje-medida-abascal.html",
-       "seccion": "Opinión"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Accidente ferroviario de Urda",
-   "resumen": "Funeral de las 69 víctimas del accidente de tren de Urda en la catedral de Toledo, con la presencia de los Reyes y sin el presidente del Gobierno. El Gobierno ha aprobado un refuerzo de la seguridad ferroviaria.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge el funeral con la petición de respuestas de la Iglesia y las medidas aprobadas por el Gobierno, con el cese de la jefa de gabinete de Puente.",
-     "noticias": [
-      {
-       "titular": "El arzobispo de Toledo pide en el funeral de las víctimas del tren de Urda “que se asuman responsabilidades y se repare en justicia”",
-       "url": "https://elpais.com/espana/2026-11-10/el-arzobispo-de-toledo-pide-en-el-funeral-de-las-victimas-del-tren-de-urda-que-se-asuman-responsabilidades-y-se-repare-en-justicia.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "El dolor no cabía en la catedral de Toledo",
-       "url": "https://elpais.com/espana/2026-11-10/el-dolor-no-cabia-en-la-catedral-de-toledo.html",
-       "seccion": "Accidente trenes Urda"
-      },
-      {
-       "titular": "El Gobierno aprueba el refuerzo en la seguridad ferroviaria: más inspecciones de trenes y los maquinistas podrán parar si advierten riesgos",
-       "url": "https://elpais.com/espana/2026-11-10/el-gobierno-lanza-el-refuerzo-en-la-seguridad-ferroviaria-mas-inspecciones-y-los-maquinistas-podran-parar-si-advierten-riesgos.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Pone el acento en la ausencia de Sánchez y en la indignación de los asistentes, además de la denuncia de la Fiscalía por la difusión de conversaciones de controladores.",
-     "noticias": [
-      {
-       "titular": "Solemne despedida a las víctimas del accidente de Urda con la exigencia de que \"se esclarezcan las causas\"",
-       "url": "https://www.elmundo.es/espana/2026/11/10/6af34bbde9cf4aed4e8b4597.html",
-       "seccion": "Accidente tren Toledo"
-      },
-      {
-       "titular": "Toledo despide a las víctimas de Urda entre el luto, los aplausos a los Reyes y la indignación: \"Sánchez no viene porque tiene mucho miedo al pueblo\"",
-       "url": "https://www.elmundo.es/espana/2026/11/10/6af339c3fdddff9e3e8b45ae.html",
-       "seccion": "Casa Real"
-      },
-      {
-       "titular": "La Fiscalía aprecia indicios de delito en la difusión de las conversaciones de los controladores de Urda y presenta su propia denuncia ante los juzgados",
-       "url": "https://www.elmundo.es/economia/2026/11/10/6af337fde4d4d8e6268b45ac.html",
-       "seccion": "Artículos Marcos Iriarte"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Destaca el funeral y la exigencia de esclarecer las causas, además del cese de la jefa de gabinete de Puente por Cuerpo.",
-     "noticias": [
-      {
-       "titular": "España llora en la catedral",
-       "url": "https://www.abc.es/espana/espana-llora-catedral-20261110210030-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "El funeral por las víctimas exige «que se esclarezcan las causas y se asuman responsabilidades»",
-       "url": "https://www.abc.es/espana/funeral-victimas-urda-exige-esclarezcan-causas-asuman-20261110195633-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Cuerpo desmonta la cúpula de Óscar Puente: cesa a su jefa de gabinete y sopesa destituir al presidente de Renfe",
-       "url": "https://www.abc.es/espana/cuerpo-desmantela-cupula-puente-cesa-jefa-gabinete-20261110172900-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Toledo arropa a los pies de la Catedral a los familiares de las víctimas del accidente de Urda",
-       "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-arropa-pies-catedral-familiares-victimas-accidente-20261110195552-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Se centra en el funeral con el mensaje de consuelo a las familias y en la aprobación del decreto que aplaza la huelga de maquinistas.",
-     "noticias": [
-      {
-       "titular": "Los maquinistas aplazan la huelga del jueves tras la aprobación de un decreto que reabre la negociación",
-       "url": "https://www.lavanguardia.com/local/barcelona/20261110/11681091/maquinistas-aplazan-huelga-jueves-aprobacion-decreto-margen-negociacion.html",
-       "seccion": "Barcelona"
-      },
-      {
-       "titular": "Una misa solemne para despedir a las 69 víctimas de Urda y dar consuelo a las familias: “No estáis solos”",
-       "url": "https://www.lavanguardia.com/vida/20261110/11681121/cristo-milagros-69-velas-despedir-victimas-urda.html",
-       "seccion": "Sociedad"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Programa electoral del PP",
-   "resumen": "El PP ha presentado su programa para las elecciones generales del 29 de noviembre, con 249 medidas, rebajas fiscales, cambios en pensiones, inmigración y propuestas sobre renta y educación.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Destaca el compromiso de convocar elecciones si se prorrogan los Presupuestos dos veces y las propuestas en educación y en leyes como la ley trans.",
-     "noticias": [
-      {
-       "titular": "El PP lleva a su programa al concebido no nacido y la “prioridad” para el acceso a ayudas basada en el arraigo",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/el-pp-lleva-a-su-programa-las-ayudas-al-concebido-no-nacido-y-sustituye-la-ley-de-eutanasia-por-una-de-cuidados-paliativos.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "El PP se compromete a convocar elecciones si prorroga los Presupuestos en dos ocasiones",
-       "url": "https://elpais.com/economia/2026-11-10/el-pp-se-compromete-a-convocar-elecciones-si-prorroga-los-presupuestos-en-dos-ocasiones.html",
-       "seccion": "Economía"
-      },
-      {
-       "titular": "El PP promete endurecer los requisitos para pasar de curso y tumbar la ‘ley trans’",
-       "url": "https://elpais.com/sociedad/2026-11-10/el-pp-promete-endurecer-los-requisitos-para-pasar-de-curso-y-tumbar-la-ley-trans.html",
-       "seccion": "Educación"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge la propuesta de sustituir el ingreso mínimo vital por una renta de activación.",
-     "noticias": [
-      {
-       "titular": "Feijóo promete sustituir el ingreso mínimo vital por una \"renta de activación\" que se les retirará a quienes rechacen empleos sin \"causa justificada\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af30c3ce4d4d8e0028b4589.html",
+       "titular": "La entrevista de Broncano \"cambia\" el plan de Vox, que se lanza a por el voto útil del PP",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a3dfc6c83dc178b459b.html",
        "seccion": "PP"
       }
      ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Se centra en la política de inmigración como novedad y en su carácter de enmienda a la totalidad al Gobierno.",
-     "noticias": [
-      {
-       "titular": "Feijóo convierte la política de inmigración en la gran novedad de su programa electoral",
-       "url": "https://www.abc.es/espana/feijoo-convierte-politica-inmigracion-gran-novedad-programa-20261110201649-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Lo presenta como una enmienda a la totalidad a Sánchez, con 249 medidas.",
-     "noticias": [
-      {
-       "titular": "Feijóo convierte su programa electoral en una enmienda a la totalidad a Sánchez",
-       "url": "https://www.lavanguardia.com/politica/20261110/11680798/feijoo-convierte-programa-electoral-enmienda-totalidad-sanchez.html",
-       "seccion": "Política"
-      }
-     ]
     }
    ]
   },
   {
-   "titulo": "Explosión en Oviedo con un policía muerto",
-   "resumen": "Un policía ha muerto y otro ha resultado herido grave en una explosión en Oviedo. Se busca a un hombre de 64 años con antecedentes que habría dejado la mochila con explosivos.",
+   "titulo": "Búsqueda del fugitivo tras la explosión en Oviedo",
+   "resumen": "La Policía sigue buscando al fugitivo responsable de la explosión que mató a un agente en Oviedo, sin pistas concluyentes sobre su paradero.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Informa de la operación de búsqueda del sospechoso y de la muerte de un pastor alemán de la Policía.",
+     "enfoque": "Recoge los controles en carreteras y la identidad y antecedentes del buscado.",
      "noticias": [
       {
-       "titular": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
-       "url": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
-       "seccion": "España"
+       "titular": "Pistas falsas y controles en carreteras: continúa la búsqueda del fugitivo responsable del explosivo que mató a un policía en Oviedo",
+       "url": "https://elpais.com/espana/2026-11-11/pistas-falsas-y-controles-en-carreteras-continua-la-busqueda-del-fugitivo-responsable-del-explosivo-que-mato-a-un-policia-en-oviedo.html",
+       "seccion": "Sucesos"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Pone el foco en el despliegue de más de 100 policías y en los antecedentes del fugitivo, con disparos previos a una vecina.",
+     "enfoque": "Se centra en los registros, las falsas alarmas y el despliegue de los GEO.",
      "noticias": [
       {
-       "titular": "Más de 100 policías desplegados para cazar al 'Ruso', el ex legionario huido tras matar a un agente en Oviedo",
-       "url": "https://www.elmundo.es/espana/2026/11/10/6af36b8de85ece64448b45bf.html",
-       "seccion": "Artículos Gema Peñalosa"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Destaca el despliegue de la operación y los antecedentes del sospechoso.",
-     "noticias": [
+       "titular": "El 'Ruso' aterroriza Oviedo: \"Nadie se despierta una mañana y pone una bomba\"",
+       "url": "https://www.elmundo.es/espana/2026/11/10/6af36bc8e85ece27768b4575.html",
+       "seccion": "NLPremium"
+      },
       {
-       "titular": "Muere un policía y otro resulta herido grave en una explosión en Oviedo",
-       "url": "https://www.lavanguardia.com/sucesos/20261110/11680608/muere-policia-especialista-guias-caninos-resulta-gravemente-herido-explosion-oviedo.html",
-       "seccion": "Sucesos"
+       "titular": "Numerosos registros y falsas alarmas en la búsqueda de 'el Ruso', fugado tras la explosión que mató a un policía en Oviedo",
+       "url": "https://www.elmundo.es/espana/2026/11/11/6af42ebd21efa002098b45a0.html",
+       "seccion": "Policía Nacional"
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Negociación Rusia-Ucrania en Abu Dabi",
-   "resumen": "Rusia y Ucrania han celebrado en Abu Dabi su primera reunión con mediación de Estados Unidos, sin acuerdo. Las partes han acordado seguir negociando.",
+   "titulo": "Nuevo arzobispo de Barcelona",
+   "resumen": "El papa León XIV ha nombrado a Octavi Vilà arzobispo de Barcelona, en sustitución del cardenal Omella.",
    "medios": [
     {
      "medio": "elmundo",
-     "enfoque": "Subraya que no hay acuerdo y que el formato abre la puerta a la participación europea.",
+     "enfoque": "Destaca la relación de Vilà con Puigdemont en el titular.",
      "noticias": [
       {
-       "titular": "Concluye el primer encuentro Rusia-Ucrania en Abu Dabi, sin acuerdo pero con un formato que se abre a Europa",
-       "url": "https://www.elmundo.es/internacional/2026/11/10/6af2e814fc6c8379218b4577.html",
-       "seccion": "Ucrania"
+       "titular": "Octavi Vilà, el amigo de Puigdemont, nombrado nuevo arzobispo de Barcelona",
+       "url": "https://www.elmundo.es/cataluna/2026/11/11/6af45055e85ece4d6f8b4592.html",
+       "seccion": ""
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Recoge la falta de acuerdo al inicio de las conversaciones y el quinto año de guerra.",
+     "enfoque": "Recoge el perfil del nuevo arzobispo como obispo de Girona y antiguo abad de Poblet.",
      "noticias": [
       {
-       "titular": "Ucrania y Rusia, lejos del acuerdo en el comienzo de las conversaciones de paz en Abu Dabi",
-       "url": "https://www.abc.es/internacional/primera-jornada-conversaciones-paz-abu-dabi-salda-20261110201737-nt.html",
+       "titular": "El Papa nombra a Octavi Vilà, obispo de Gerona, nuevo arzobispo de Barcelona en sustitución del cardenal Omella",
+       "url": "https://www.abc.es/sociedad/papa-nombra-octavi-vila-obispo-gerona-nuevo-20261111104740-nt.html",
        "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Impacto de la huelga en las televisiones públicas",
+   "resumen": "La huelga altera las programaciones de televisiones públicas, con emisiones interrumpidas en Canal Sur y un piquete que interrumpe un programa en TVE.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Describe la interrupción en directo del programa de Gemma Nierga en TVE.",
+     "noticias": [
+      {
+       "titular": "Un piquete irrumpe en el plató y corta en directo la emisión del programa de Gemma Nierga en TVE",
+       "url": "https://elpais.com/espana/catalunya/2026-11-11/un-piquete-irrumpe-en-el-plato-y-corta-en-directo-la-emision-del-programa-de-gemma-nierga-en-tve.html",
+       "seccion": "Cataluña"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Señala las pantallas en negro y los cambios de parrilla en varias cadenas públicas.",
+     "noticias": [
+      {
+       "titular": "Pantalla en negro o cambios de parrilla: la jornada trastoca las programaciones de las televisiones públicas",
+       "url": "https://www.abc.es/play/television/huelga-general-trastoca-programaciones-televisiones-publicas-20261111131813-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge el apagón de Canal Sur y la interrupción del programa de Gemma Nierga en La 2 Cat.",
+     "noticias": [
+      {
+       "titular": "Canal Sur se va a negro: la huelga general corta en seco 'Despierta Andalucía'",
+       "url": "https://www.lavanguardia.com/local/andalucia/20261111/11681516/canal-sur-negro-huelga-general-corta-seco-despierta-andalucia.html",
+       "seccion": "Andalucía"
+      },
+      {
+       "titular": "Un piquete ocupa el plató de 'Cafè d'idees' e impide su emisión en directo en La 2 Cat",
+       "url": "https://www.lavanguardia.com/television/20261111/11681379/piquete-ocupa-plato-cafe-d-idees-e-impide-emision-2-cat.html",
+       "seccion": "Televisión"
       }
      ]
     }
@@ -312,220 +267,256 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la polémica de la entrevista de Abascal en 'La Revuelta' y su análisis crítico, además de la política en el programa del PP. También sigue el accidente de Urda y las medidas de seguridad ferroviaria.",
+   "resumen": "Prioriza la huelga general del 11N con cobertura en directo, desde el seguimiento y los incidentes hasta el impacto en el consumo eléctrico y el transporte. Dedica también espacio a la polémica por la entrevista de Abascal en 'La revuelta' y a la búsqueda del fugitivo en Oviedo.",
    "noticias": [
     {
-     "titular": "El PP se compromete a convocar elecciones si prorroga los Presupuestos en dos ocasiones",
-     "url": "https://elpais.com/economia/2026-11-10/el-pp-se-compromete-a-convocar-elecciones-si-prorroga-los-presupuestos-en-dos-ocasiones.html",
-     "seccion": "Economía",
-     "resumen": "El PP condiciona convocar elecciones a la prórroga de los Presupuestos en dos ocasiones, y anticipa rebajas fiscales sin cambios en pensiones."
-    },
-    {
-     "titular": "El Gobierno aprueba el refuerzo en la seguridad ferroviaria: más inspecciones de trenes y los maquinistas podrán parar si advierten riesgos",
-     "url": "https://elpais.com/espana/2026-11-10/el-gobierno-lanza-el-refuerzo-en-la-seguridad-ferroviaria-mas-inspecciones-y-los-maquinistas-podran-parar-si-advierten-riesgos.html",
+     "titular": "Huelga general 11N y actualidad política, en directo | “Los sindicatos hablan “éxito” y de un seguimiento “muy relevante” de la huelga, mientras que las patronales lo ven “bajo”",
+     "url": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
      "seccion": "España",
-     "resumen": "El Gobierno aprueba más inspecciones de trenes y permite a los maquinistas parar ante riesgos; Cuerpo cesa a la jefa de gabinete de Puente."
+     "resumen": "Sindicatos y patronales dan lecturas opuestas del seguimiento de la huelga, que arranca con cortes de carreteras y servicios mínimos en el transporte; al menos 39 detenidos en las primeras horas."
     },
     {
-     "titular": "El Gobierno aprueba medidas frente a la violencia política y las demandas que buscan silenciar a mujeres",
-     "url": "https://elpais.com/sociedad/2026-11-10/el-gobierno-aprueba-medidas-frente-a-la-violencia-politica-y-las-demandas-que-buscan-silenciar-a-mujeres.html",
-     "seccion": "Violencia género",
-     "resumen": "El Consejo de Ministros aprueba el cuarto plan de igualdad con más de 750 medidas hasta 2029 y un observatorio de misoginia digital."
+     "titular": "Barcelona se queda sin metro más de 10 horas durante la huelga general",
+     "url": "https://elpais.com/espana/catalunya/2026-11-11/barcelona-se-queda-sin-metro-durante-siete-horas-durante-la-huelga-general.html",
+     "seccion": "Huelga 11N",
+     "resumen": "Barcelona queda sin metro, Rodalies, autobuses y Ferrocarrils durante buena parte de la jornada, con paros entre las 9.30 y las 16.30 y de 21.00 a 24.00."
     },
     {
-     "titular": "El Gobierno creará un título de familia monoparental: las que tengan dos hijos tendrán los mismos beneficios que las numerosas",
-     "url": "https://elpais.com/sociedad/2026-11-10/el-gobierno-creara-un-titulo-de-familia-monoparental-las-que-tengan-dos-hijos-tendran-los-mismos-beneficios-de-las-numerosas.html",
-     "seccion": "Sociedad",
-     "resumen": "El Gobierno creará un título de familia monoparental con beneficios similares a los de las familias numerosas, que afectará a más de 760.000 hogares."
+     "titular": "El PP descalifica la huelga como “preventiva” contra Feijóo y Vox como “circo general”",
+     "url": "https://elpais.com/espana/2026-11-11/el-pp-descalifica-la-huelga-como-preventiva-contra-feijoo-y-vox-como-circo-general.html",
+     "seccion": "Huelga 11N",
+     "resumen": "El PP cuestiona la huelga como 'preventiva' y Vox la califica de 'circo', mientras Frente Amplio y Podemos la respaldan para reclamar cambios en vivienda, salarios y servicios públicos."
     },
     {
-     "titular": "El Gobierno multiplica las medidas sociales antes de las elecciones y apoya la huelga general",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/el-gobierno-multiplica-las-medidas-sociales-antes-de-las-elecciones-y-apoya-la-huelga-general.html",
-     "seccion": "España",
-     "resumen": "El Gobierno aprueba dos decretos de 1.800 millones y medidas sociales antes de las elecciones, con ministros que evitarán agenda por la huelga general."
+     "titular": "Diputados y dirigentes del Frente Amplio y de Adelante Andalucía denuncian agresiones policiales",
+     "url": "https://elpais.com/espana/2026-11-11/diputados-y-dirigentes-del-frente-amplio-y-de-adelante-andalucia-denuncian-agresiones-policiales.html",
+     "seccion": "Huelga 11N",
+     "resumen": "Dirigentes de Frente Amplio y Adelante Andalucía denuncian agresiones policiales durante piquetes en Granada y Málaga."
     },
     {
-     "titular": "Broncano rectifica y vuelve al humor en ‘La revuelta’: “Soy la persona que más ha decepcionado a la izquierda después de Gabriel Rufián”",
-     "url": "https://elpais.com/television/2026-11-10/broncano-rectifica-y-vuelve-al-humor-en-la-revuelta-soy-la-persona-que-mas-ha-decepcionado-a-la-izquierda-despues-de-gabriel-rufian.html",
-     "seccion": "Televisión",
-     "resumen": "Broncano pide disculpas por la entrevista a Abascal y afirma que RTVE nunca le ha presionado."
+     "titular": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre los 40 minutos inéditos de ‘La revuelta’",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-11/vox-cancela-la-entrevista-de-abascal-con-jordi-wild-tras-la-polemica-por-los-40-minutos-ineditos-de-la-revuelta.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Vox cancela la entrevista de Abascal con Jordi Wild tras exigir condiciones sobre la edición de las respuestas emitidas en 'La revuelta' y amenaza con suspender nuevas entrevistas."
     },
     {
-     "titular": "El arzobispo de Toledo pide en el funeral de las víctimas del tren de Urda “que se asuman responsabilidades y se repare en justicia”",
-     "url": "https://elpais.com/espana/2026-11-10/el-arzobispo-de-toledo-pide-en-el-funeral-de-las-victimas-del-tren-de-urda-que-se-asuman-responsabilidades-y-se-repare-en-justicia.html",
-     "seccion": "España",
-     "resumen": "El arzobispo de Toledo pide responsabilidades y reparación en el funeral de las víctimas de Urda, al que asisten los Reyes."
+     "titular": "Pistas falsas y controles en carreteras: continúa la búsqueda del fugitivo responsable del explosivo que mató a un policía en Oviedo",
+     "url": "https://elpais.com/espana/2026-11-11/pistas-falsas-y-controles-en-carreteras-continua-la-busqueda-del-fugitivo-responsable-del-explosivo-que-mato-a-un-policia-en-oviedo.html",
+     "seccion": "Sucesos",
+     "resumen": "La Policía busca al fugitivo tras la explosión que mató a un agente en Oviedo, con controles en carreteras y pistas falsas."
     },
     {
-     "titular": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
-     "url": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
-     "seccion": "España",
-     "resumen": "Un policía muerto y otro herido grave en Oviedo; se busca a un hombre de 64 años con antecedentes."
+     "titular": "Un piquete irrumpe en el plató y corta en directo la emisión del programa de Gemma Nierga en TVE",
+     "url": "https://elpais.com/espana/catalunya/2026-11-11/un-piquete-irrumpe-en-el-plato-y-corta-en-directo-la-emision-del-programa-de-gemma-nierga-en-tve.html",
+     "seccion": "Cataluña",
+     "resumen": "Un piquete interrumpe en directo el programa de Gemma Nierga en TVE, según relata la propia presentadora."
+    },
+    {
+     "titular": "¿Por qué hay convocada una huelga general este 11 de noviembre?",
+     "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-11/por-que-hay-convocada-una-huelga-general-este-11-de-noviembre.html",
+     "seccion": "Huelga 11N",
+     "resumen": "Repaso del contexto de la huelga: la primera en 14 años, convocada a pocos días de la campaña electoral y en un clima de malestar social."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Destaca la ausencia de Sánchez en el funeral de Urda y la reacción política a la entrevista de Abascal. También recoge el programa del PP y la búsqueda del fugitivo en Oviedo.",
+   "resumen": "",
    "noticias": [
     {
-     "titular": "Toledo despide a las víctimas de Urda entre el luto, los aplausos a los Reyes y la indignación: \"Sánchez no viene porque tiene mucho miedo al pueblo\"",
-     "url": "https://www.elmundo.es/espana/2026/11/10/6af339c3fdddff9e3e8b45ae.html",
-     "seccion": "Casa Real",
-     "resumen": "En el funeral de Toledo, vecinos critican la ausencia de Sánchez y expresan indignación ante el accidente."
+     "titular": "La primera huelga general en 14 años por la vivienda y los salarios en plena precampaña: \"Van a petar las calles de España\"",
+     "url": "https://www.elmundo.es/economia/2026/11/11/6af4223ee4d4d8787d8b4593.html",
+     "seccion": "Huelgas",
+     "resumen": ""
     },
     {
-     "titular": "Solemne despedida a las víctimas del accidente de Urda con la exigencia de que \"se esclarezcan las causas\"",
-     "url": "https://www.elmundo.es/espana/2026/11/10/6af34bbde9cf4aed4e8b4597.html",
-     "seccion": "Accidente tren Toledo",
-     "resumen": "Los Reyes asisten al funeral de las víctimas de Urda, con cerca de 150 familiares y heridos, y piden esclarecer las causas."
+     "titular": "El PP arremete contra la huelga general por \"electoral\", \"preventiva\" y por \"trabajar\" para la campaña de Sánchez",
+     "url": "https://www.elmundo.es/espana/2026/11/11/6af43da8e4d4d8f8248b45a8.html",
+     "seccion": "Miguel Tellado",
+     "resumen": ""
     },
     {
-     "titular": "\"Amenazar sonriendo no es hacer humor\": el paso de Abascal por 'La Revuelta' abre un choque político a las puertas de la campaña",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af345c4e85ece36278b459f.html",
-     "seccion": "Santiago Abascal Conde",
-     "resumen": "La izquierda critica la entrevista de Abascal en La Revuelta y la potestad dada a Vox sobre el público."
+     "titular": "Traducir Feijóo al politizado",
+     "url": "https://www.elmundo.es/espana/2026/11/10/6af39330e9cf4a67248b45a1.html",
+     "seccion": "Artículos Juan Diego Madueño",
+     "resumen": ""
     },
     {
-     "titular": "Feijóo promete sustituir el ingreso mínimo vital por una \"renta de activación\" que se les retirará a quienes rechacen empleos sin \"causa justificada\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af30c3ce4d4d8e0028b4589.html",
+     "titular": "La entrevista de Broncano \"cambia\" el plan de Vox, que se lanza a por el voto útil del PP",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a3dfc6c83dc178b459b.html",
      "seccion": "PP",
-     "resumen": "El PP propone sustituir el ingreso mínimo vital por una renta de activación con retirada a quienes rechacen empleo sin causa justificada."
+     "resumen": ""
     },
     {
-     "titular": "Más de 100 policías desplegados para cazar al 'Ruso', el ex legionario huido tras matar a un agente en Oviedo",
-     "url": "https://www.elmundo.es/espana/2026/11/10/6af36b8de85ece64448b45bf.html",
-     "seccion": "Artículos Gema Peñalosa",
-     "resumen": "Más de 100 policías buscan al fugitivo tras la muerte de un agente en Oviedo, que habría disparado antes a una vecina."
+     "titular": "El 'Ruso' aterroriza Oviedo: \"Nadie se despierta una mañana y pone una bomba\"",
+     "url": "https://www.elmundo.es/espana/2026/11/10/6af36bc8e85ece27768b4575.html",
+     "seccion": "NLPremium",
+     "resumen": ""
     },
     {
-     "titular": "La Fiscalía aprecia indicios de delito en la difusión de las conversaciones de los controladores de Urda y presenta su propia denuncia ante los juzgados",
-     "url": "https://www.elmundo.es/economia/2026/11/10/6af337fde4d4d8e6268b45ac.html",
-     "seccion": "Artículos Marcos Iriarte",
-     "resumen": "La Fiscalía aprecia indicios de delito en la difusión de conversaciones de controladores de Urda y presenta denuncia propia."
+     "titular": "Numerosos registros y falsas alarmas en la búsqueda de 'el Ruso', fugado tras la explosión que mató a un policía en Oviedo",
+     "url": "https://www.elmundo.es/espana/2026/11/11/6af42ebd21efa002098b45a0.html",
+     "seccion": "Policía Nacional",
+     "resumen": ""
     },
     {
-     "titular": "Concluye el primer encuentro Rusia-Ucrania en Abu Dabi, sin acuerdo pero con un formato que se abre a Europa",
-     "url": "https://www.elmundo.es/internacional/2026/11/10/6af2e814fc6c8379218b4577.html",
-     "seccion": "Ucrania",
-     "resumen": "La primera ronda Rusia-Ucrania en Abu Dabi acaba sin acuerdo, con Moscú condicionando una tregua a la seguridad europea."
+     "titular": "Rutte vuelve a atacar a España y también a Portugal por quitar importancia a la amenaza de Rusia y Lisboa responde con dureza: \"Es lamentable\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/11/6af41f6721efa0bc0b8b45a6.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": ""
     },
     {
-     "titular": "Sira Rego pide a TikTok que pare su actividad en España y, si no lo hace, insta a Protección de Datos a bloquearla: \"Vamos a ir con todo, esto tiene que terminar\"",
-     "url": "https://www.elmundo.es/espana/2026/11/10/6af33f12fc6c8332648b4593.html",
-     "seccion": "Artículos Olga R. Sanmartín",
-     "resumen": "Sira Rego pide a Protección de Datos bloquear TikTok en España por contenidos pedófilos."
+     "titular": "La consejera socialista de Justicia concede el tercer grado a un etarra condenado en 2023 a 19 años de cárcel por asesinar a Juan Priede",
+     "url": "https://www.elmundo.es/pais-vasco/2026/11/11/6af45751fdddff3f178b4577.html",
+     "seccion": "Artículos Josean Izarra",
+     "resumen": ""
+    },
+    {
+     "titular": "Octavi Vilà, el amigo de Puigdemont, nombrado nuevo arzobispo de Barcelona",
+     "url": "https://www.elmundo.es/cataluna/2026/11/11/6af45055e85ece4d6f8b4592.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Evacúan al menos 300 colegios en Italia tras recibir amenazas de bomba por correo electrónico",
+     "url": "https://www.elmundo.es/internacional/2026/11/11/6af4510de85ece8f298b4572.html",
+     "seccion": "Italia",
+     "resumen": ""
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Pone el foco en el funeral de Urda y en la autocrítica de Broncano tras la entrevista a Abascal. Incluye también el programa del PP y el cese en Transportes.",
+   "resumen": "",
    "noticias": [
     {
-     "titular": "España llora en la catedral",
-     "url": "https://www.abc.es/espana/espana-llora-catedral-20261110210030-nt.html",
+     "titular": "Asesinados dos candidatos municipales y un periodista en Ecuador",
+     "url": "https://www.abc.es/internacional/asesinados-dos-candidatos-municipales-periodista-ecuador-20261111093849-nt.html",
      "seccion": "",
-     "resumen": "Los Reyes presiden en Toledo el funeral por las 69 víctimas del accidente de tren de Urda."
+     "resumen": ""
     },
     {
-     "titular": "El funeral por las víctimas exige «que se esclarezcan las causas y se asuman responsabilidades»",
-     "url": "https://www.abc.es/espana/funeral-victimas-urda-exige-esclarezcan-causas-asuman-20261110195633-nt.html",
+     "titular": "La primera huelga general en 14 años se estrena con más piquetes que seguimiento",
+     "url": "https://www.abc.es/economia/cortes-carreteras-incidentes-primeras-horas-huelga-afectacion-20261111120911-nt.html",
      "seccion": "",
-     "resumen": "El funeral reclama esclarecer las causas y asumir responsabilidades; asisten unos 150 familiares y supervivientes."
+     "resumen": ""
     },
     {
-     "titular": "Broncano admite que se arrepiente «de muchas cosas»: «La he cagado»",
-     "url": "https://www.abc.es/play/television/noticias/broncano-admite-arrepiente-entrevista-abascal-cagado-20261110194253-nt.html",
+     "titular": "Sanidad demanda a la ONT por la gestión de subvenciones para la formación en trasplantes",
+     "url": "https://www.abc.es/sociedad/sanidad-revuelve-ont-demanda-gestion-subvenciones-formacion-20261107013711-nt.html",
      "seccion": "",
-     "resumen": "Broncano reconoce que se arrepiente de no haber usado más la comedia en la entrevista y de dejar que Vox eligiera al público."
+     "resumen": ""
     },
     {
-     "titular": "Feijóo convierte la política de inmigración en la gran novedad de su programa electoral",
-     "url": "https://www.abc.es/espana/feijoo-convierte-politica-inmigracion-gran-novedad-programa-20261110201649-nt.html",
+     "titular": "Pantalla en negro o cambios de parrilla: la jornada trastoca las programaciones de las televisiones públicas",
+     "url": "https://www.abc.es/play/television/huelga-general-trastoca-programaciones-televisiones-publicas-20261111131813-nt.html",
      "seccion": "",
-     "resumen": "El PP presenta su programa como enmienda a la totalidad a los ocho años de Gobierno de Sánchez, con la inmigración como novedad."
+     "resumen": ""
     },
     {
-     "titular": "Cuerpo desmonta la cúpula de Óscar Puente: cesa a su jefa de gabinete y sopesa destituir al presidente de Renfe",
-     "url": "https://www.abc.es/espana/cuerpo-desmantela-cupula-puente-cesa-jefa-gabinete-20261110172900-nt.html",
+     "titular": "'Elecciones 29N': apúntate para recibir la newsletter de ABC sobre la campaña",
+     "url": "https://www.abc.es/espana/elecciones-29n-apuntate-recibir-newsletter-abc-sobre-20261101102324-nt.html",
      "seccion": "",
-     "resumen": "Cuerpo cesa a la jefa de gabinete de Puente y evalúa relevar al presidente de Renfe."
+     "resumen": ""
     },
     {
-     "titular": "La Audiencia Nacional tumba la segunda semilibertad concedida a la exjefa de ETA 'Anboto' por el Gobierno vasco en un año",
-     "url": "https://www.abc.es/espana/pais-vasco/audiencia-nacional-tumba-segunda-semilibertad-concedida-exjefa-20261110193348-nt.html",
+     "titular": "Evacúan al menos 300 colegios en Italia tras recibir amenazas de bomba por correo electrónico",
+     "url": "https://www.abc.es/internacional/evacuan-300-colegios-italia-tras-recibir-amenazas-20261111123559-nt.html",
      "seccion": "",
-     "resumen": "La Audiencia Nacional anula la segunda semilibertad concedida a Anboto por el Gobierno vasco en un año."
+     "resumen": ""
     },
     {
-     "titular": "El Sindicato de Inquilinas monta un piquete dentro de la sede de Alquiler Seguro en Madrid",
-     "url": "https://www.abc.es/espana/madrid/sindicato-inquilinas-monta-piquete-dentro-sede-alquiler-20261110204234-nt.html",
+     "titular": "Cortes puntuales en carreteras, tranquilidad en las zonas industriales y el Metro 100% operativo el 11N",
+     "url": "https://www.abc.es/espana/madrid/cortes-carreteras-tranquilidad-zonas-industriales-metro-100-20261111114331-nt.html",
      "seccion": "",
-     "resumen": "El Sindicato de Inquilinas ocupa un piquete en la sede de Alquiler Seguro y la Policía desaloja a los participantes."
+     "resumen": ""
     },
     {
-     "titular": "Ucrania y Rusia, lejos del acuerdo en el comienzo de las conversaciones de paz en Abu Dabi",
-     "url": "https://www.abc.es/internacional/primera-jornada-conversaciones-paz-abu-dabi-salda-20261110201737-nt.html",
+     "titular": "Los piquetes obligan a cerrar comercios y se enfrentan a la Policía: hay al menos 20 detenidos",
+     "url": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
      "seccion": "",
-     "resumen": "Rusia y Ucrania inician en Abu Dabi conversaciones de paz con mediación de EEUU, sin acuerdo tras el primer día."
+     "resumen": ""
+    },
+    {
+     "titular": "El Papa nombra a Octavi Vilà, obispo de Gerona, nuevo arzobispo de Barcelona en sustitución del cardenal Omella",
+     "url": "https://www.abc.es/sociedad/papa-nombra-octavi-vila-obispo-gerona-nuevo-20261111104740-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Carlos, hijo de Bertín Osborne: «La relación con mi padre es muy cercana»",
+     "url": "https://www.abc.es/gente/carlos-hijo-bertin-osborne-fabiola-martinez-primera-20261111125714-nt.html",
+     "seccion": "",
+     "resumen": ""
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Prioriza la huelga de maquinistas de Renfe y Rodalies, la polémica por la entrevista de Abascal y el funeral de Urda. Recoge también la economía con el Ibex.",
+   "resumen": "",
    "noticias": [
     {
-     "titular": "Los maquinistas aplazan la huelga del jueves tras la aprobación de un decreto que reabre la negociación",
-     "url": "https://www.lavanguardia.com/local/barcelona/20261110/11681091/maquinistas-aplazan-huelga-jueves-aprobacion-decreto-margen-negociacion.html",
-     "seccion": "Barcelona",
-     "resumen": "El Gobierno aprueba un decreto de seguridad ferroviaria y los maquinistas aplazan la huelga al 23 de noviembre."
-    },
-    {
-     "titular": "La entrevista a Abascal en 'La Revuelta' desata una pugna política",
-     "url": "https://www.lavanguardia.com/politica/20261110/11680992/entrevista-abascal-revuelta-desata-pugna-politica-todos-todos.html",
-     "seccion": "Política",
-     "resumen": "Sánchez, Vox y Podemos cruzan posiciones tras la entrevista de Abascal en La Revuelta."
-    },
-    {
-     "titular": "Feijóo convierte su programa electoral en una enmienda a la totalidad a Sánchez",
-     "url": "https://www.lavanguardia.com/politica/20261110/11680798/feijoo-convierte-programa-electoral-enmienda-totalidad-sanchez.html",
-     "seccion": "Política",
-     "resumen": "Feijóo presenta un programa de 249 medidas que plantea como reparación del Estado y de la democracia."
-    },
-    {
-     "titular": "Una misa solemne para despedir a las 69 víctimas de Urda y dar consuelo a las familias: “No estáis solos”",
-     "url": "https://www.lavanguardia.com/vida/20261110/11681121/cristo-milagros-69-velas-despedir-victimas-urda.html",
-     "seccion": "Sociedad",
-     "resumen": "Misa solemne en Toledo por las 69 víctimas de Urda, con los Reyes presentes."
-    },
-    {
-     "titular": "Muere un policía y otro resulta herido grave en una explosión en Oviedo",
-     "url": "https://www.lavanguardia.com/sucesos/20261110/11680608/muere-policia-especialista-guias-caninos-resulta-gravemente-herido-explosion-oviedo.html",
-     "seccion": "Sucesos",
-     "resumen": "Un policía muere y otro resulta herido grave en una explosión en Oviedo; se busca al sospechoso."
-    },
-    {
-     "titular": "El Gobierno pide a la Agencia de Protección de Datos cerrar TikTok España",
-     "url": "https://www.lavanguardia.com/vida/20261110/11681067/gobierno-pide-agencia-proteccion-datos-paralizar-actividad-tiktok-espana.html",
-     "seccion": "Sociedad",
-     "resumen": "El Gobierno pide a Protección de Datos que cierre TikTok en España, aunque la empresa solo se ha comprometido a estudiar la situación."
-    },
-    {
-     "titular": "Los nazis de Núcleo Nacional tenían contacto con 20 organizaciones extranjeras",
-     "url": "https://www.lavanguardia.com/politica/20261110/11680977/nazis-nucleo-nacional-mantuvieron-contactos-20-organizaciones-extranjeras.html",
-     "seccion": "Política",
-     "resumen": "Investigación sobre los contactos de Núcleo Nacional con 20 organizaciones extranjeras, entre ellas una unidad militar ucraniana."
-    },
-    {
-     "titular": "El Ibex recupera el nivel de septiembre gracias al descenso del petróleo",
-     "url": "https://www.lavanguardia.com/economia/20261110/11681100/ibex-recupera-nivel-septiembre-gracias-descenso-petroleo.html",
+     "titular": "Los sindicatos reconocen un seguimiento “dispar” de la huelga y la CEOE lo estima “bajo”",
+     "url": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
      "seccion": "Economía",
-     "resumen": "El Ibex recupera el nivel de septiembre por la bajada del petróleo y se acerca a los 20.000 puntos."
+     "resumen": ""
+    },
+    {
+     "titular": "La huelga general, en imágenes",
+     "url": "https://www.lavanguardia.com/vida/20261111/11681386/huelga-general-imagenes.html",
+     "seccion": "Sociedad",
+     "resumen": ""
+    },
+    {
+     "titular": "Los piquetes informativos dificultan el acceso a la capital de Madrid por carretera",
+     "url": "https://www.lavanguardia.com/politica/20261111/11681367/piquetes-informativos-dificultan-acceso-capital-madrid-carretera.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "Basura acumulada en las calles de Barcelona por el paro del servicio de limpieza",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261111/11681471/basura-acumulada-calles-barcelona-paro-servicio-limpieza.html",
+     "seccion": "Barcelona",
+     "resumen": ""
+    },
+    {
+     "titular": "Huelga general 11 de noviembre, última hora hoy en directo: piquetes, servicios mínimos y horario de las manifestaciones",
+     "url": "https://www.lavanguardia.com/vida/20261111/11681344/huelga-general-espana-11n-movilizaciones-sindicatos-manifestaciones-ultima-hora-hoy-en-directo.html",
+     "seccion": "Sociedad",
+     "resumen": ""
+    },
+    {
+     "titular": "Última hora de los accesos a Barcelona, cortes de carretera, tráfico y afectación en los trenes de Renfe y Rodalies en Catalunya, hoy en directo",
+     "url": "https://www.lavanguardia.com/local/catalunya/20261111/11681148/trafico-carreteras-cortes-huelga-renfe-maquinistas-trenes-rodalies-accesos-barcelona-cataluna-miercoles-11-noviembre-en-directo.html",
+     "seccion": "Catalunya",
+     "resumen": ""
+    },
+    {
+     "titular": "Un centenar de cortes de carreteras y autopistas por la huelga colapsan la movilidad en Catalunya",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261111/11681449/centenar-cortes-carreteras-autopistas-huelga-colapsan-movilidad-catalunya.html",
+     "seccion": "Barcelona",
+     "resumen": ""
+    },
+    {
+     "titular": "Agitando que es gerundio",
+     "url": "https://www.lavanguardia.com/opinion/20261111/11681159/agitando-gerundio.html",
+     "seccion": "Opinión",
+     "resumen": ""
+    },
+    {
+     "titular": "El PP denuncia una “huelga electoral” y “preventiva” contra el próximo Gobierno",
+     "url": "https://www.lavanguardia.com/politica/20261111/11681473/pp-denuncia-huelga-electoral-preventiva-proximo-gobierno.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "El Gobierno anula su agenda “por respeto” a una huelga cuyas reivindicaciones sociales comparte",
+     "url": "https://www.lavanguardia.com/politica/20261111/11681615/gobierno-anula-agenda-respeto-huelga-cuyas-reivindicaciones-sociales-comparte.html",
+     "seccion": "Política",
+     "resumen": ""
     }
    ]
   }
