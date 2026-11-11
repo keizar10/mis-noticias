@@ -1,140 +1,171 @@
 {
- "fecha": "2026-11-11",
- "franja": "tarde",
- "generada": "2026-11-11T14:02+01:00",
+ "fecha": "2026-11-12",
+ "franja": "mañana",
+ "generada": "2026-11-12T00:09+01:00",
  "con_ia": true,
- "resumen_dia": "La primera huelga general en catorce años se celebra el 11 de noviembre con seguimiento desigual según las fuentes: sindicatos y patronales dan valoraciones opuestas, con piquetes, cortes de carreteras y servicios mínimos en transporte. Hay al menos decenas de detenidos y denuncias de cargas policiales en varias ciudades. En paralelo, el PP la presenta como electoral y la polémica por la entrevista de Abascal en 'La revuelta' ocupa buena parte de la agenda política.",
+ "resumen_dia": "La huelga general del 11 de noviembre tuvo un seguimiento desigual según los diarios y las fuentes: los sindicatos la calificaron de éxito y la CEOE de fracaso. Las manifestaciones por la vivienda reunieron a decenas de miles de personas en Madrid y Barcelona, donde los disturbios y saqueos dejaron detenidos y cargas policiales. En paralelo, la polémica entre Vox y RTVE por la entrevista de Abascal en 'La Revuelta' y las críticas al PP por sus mensajes sobre los sindicatos ocuparon buena parte de la agenda política de la jornada.",
  "temas_comunes": [
   {
-   "titulo": "Huelga general del 11N: seguimiento y piquetes",
-   "resumen": "La huelga general arranca con cortes en carreteras y servicios mínimos en transporte. Sindicatos y patronales discrepan sobre su seguimiento y se registran detenciones e incidentes.",
+   "titulo": "Balance y seguimiento de la huelga general",
+   "resumen": "La huelga general del 11N tuvo un seguimiento desigual: los sindicatos la valoran positivamente y la patronal la considera un fracaso. Hubo al menos un centenar de detenidos en toda España.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Cobertura en directo con un recuento de detenidos y la lectura enfrentada de sindicatos y patronales.",
+     "enfoque": "Destaca que el paro fue más visible en las calles que en los centros de trabajo, con más seguimiento en industria, automoción y puertos.",
      "noticias": [
       {
-       "titular": "Huelga general 11N y actualidad política, en directo | “Los sindicatos hablan “éxito” y de un seguimiento “muy relevante” de la huelga, mientras que las patronales lo ven “bajo”",
-       "url": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "Barcelona se queda sin metro más de 10 horas durante la huelga general",
-       "url": "https://elpais.com/espana/catalunya/2026-11-11/barcelona-se-queda-sin-metro-durante-siete-horas-durante-la-huelga-general.html",
-       "seccion": "Huelga 11N"
+       "titular": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
+       "url": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
+       "seccion": "Economía"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Destaca la participación en la industria y las acciones penales anunciadas por el uso de gas pimienta.",
+     "enfoque": "Recoge la estimación de la CEOE, que sitúa el seguimiento por debajo del 5%, y el impacto en las ventas de supermercados y comercios.",
      "noticias": [
       {
-       "titular": "La primera huelga general en 14 años por la vivienda y los salarios en plena precampaña: \"Van a petar las calles de España\"",
+       "titular": "CEOE certifica el \"fracaso\" de la huelga general y sitúa el seguimiento por debajo del 5%mientras los sindicatos se manifiestan bajo el fuerte temporal",
        "url": "https://www.elmundo.es/economia/2026/11/11/6af4223ee4d4d8787d8b4593.html",
        "seccion": "Huelgas"
+      },
+      {
+       "titular": "Los supermercados desploman sus ventas un 30% en una jornada de huelga marcada por la lluvia y los cierres de comercios por su seguridad",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/11/6af46861e4d4d8ee7c8b45b3.html",
+       "seccion": "Huelga general"
+      },
+      {
+       "titular": "El día en que Doña Manolita se quedó sin cola: \"No hay casi nadie en la fila por la huelga y por la lluvia\"",
+       "url": "https://www.elmundo.es/madrid/2026/11/11/6af4b14621efa070728b4596.html",
+       "seccion": "Huelga general"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Subraya que hubo más piquetes que seguimiento y las cargas denunciadas por sindicatos en Valladolid.",
+     "enfoque": "Subraya que la normalidad fue la tónica pese a los piquetes, según una fuente empresarial.",
      "noticias": [
       {
-       "titular": "La primera huelga general en 14 años se estrena con más piquetes que seguimiento",
-       "url": "https://www.abc.es/economia/cortes-carreteras-incidentes-primeras-horas-huelga-afectacion-20261111120911-nt.html",
+       "titular": "La dureza de los piquetes no logró parar el país en la primera huelga general en 14 años",
+       "url": "https://www.abc.es/economia/dureza-piquetes-logro-parar-pais-primera-huelga-20261111200454-nt.html",
        "seccion": ""
       },
       {
-       "titular": "Los piquetes obligan a cerrar comercios y se enfrentan a la Policía: hay al menos 20 detenidos",
+       "titular": "Las manifestaciones acaban en disturbios y cargas policiales en Madrid y Barcelona",
        "url": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Cortes puntuales en carreteras, tranquilidad en las zonas industriales y el Metro 100% operativo el 11N",
-       "url": "https://www.abc.es/espana/madrid/cortes-carreteras-tranquilidad-zonas-industriales-metro-100-20261111114331-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Pone el acento en el seguimiento 'dispar', los atropellos y el centenar de cortes en Cataluña.",
+     "enfoque": "Contrapone la valoración de los sindicatos, que hablan de superar expectativas, con la de la CEOE, que habla de fracaso.",
      "noticias": [
       {
-       "titular": "Los sindicatos reconocen un seguimiento “dispar” de la huelga y la CEOE lo estima “bajo”",
+       "titular": "Los sindicatos dicen que la huelga “supera las expectativas” y la CEOE la califica de “fracaso”",
        "url": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
        "seccion": "Economía"
       },
       {
-       "titular": "Un centenar de cortes de carreteras y autopistas por la huelga colapsan la movilidad en Catalunya",
-       "url": "https://www.lavanguardia.com/local/barcelona/20261111/11681449/centenar-cortes-carreteras-autopistas-huelga-colapsan-movilidad-catalunya.html",
-       "seccion": "Barcelona"
+       "titular": "Foment y Pimec apuntan a un seguimiento bajo y denuncian las afectaciones en el transporte",
+       "url": "https://www.lavanguardia.com/economia/20261111/11681655/foment-pimec-apuntan-seguimiento-denuncian-afectaciones-transporte.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "La huelga general y la frustración política",
+       "url": "https://www.lavanguardia.com/economia/20261111/11681611/huelga-general-frustracion-politica.html",
+       "seccion": "Economía"
       }
      ]
     }
    ]
   },
   {
-   "titulo": "El PP enmarca la huelga como electoral",
-   "resumen": "El PP cuestiona la huelga por su carácter preventivo y electoral, de cara a la campaña del 29-N. El Gobierno, por su parte, anula su agenda en respeto a la movilización.",
+   "titulo": "Manifestaciones por la vivienda y disturbios",
+   "resumen": "Decenas de miles de personas se manifestaron por la vivienda en Madrid y Barcelona. En Barcelona hubo saqueos, quema de contenedores y enfrentamientos con los Mossos, y en Madrid, cargas policiales.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Recoge la descalificación del PP como 'preventiva' junto con la respuesta de Vox y de la izquierda a la izquierda del PSOE.",
+     "enfoque": "Se centra en la protesta bajo la lluvia en Madrid y en las palabras de Salvador Illa condenando los altercados.",
      "noticias": [
       {
-       "titular": "El PP descalifica la huelga como “preventiva” contra Feijóo y Vox como “circo general”",
-       "url": "https://elpais.com/espana/2026-11-11/el-pp-descalifica-la-huelga-como-preventiva-contra-feijoo-y-vox-como-circo-general.html",
-       "seccion": "Huelga 11N"
+       "titular": "Decenas de miles de personas claman por la vivienda bajo la lluvia en toda España",
+       "url": "https://elpais.com/espana/2026-11-11/decenas-de-miles-de-personas-claman-por-la-vivienda-bajo-la-lluvia-en-toda-espana.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "La manifestación por la vivienda digna acaba con altercados en el centro de Barcelona",
+       "url": "https://elpais.com/espana/catalunya/2026-11-11/miles-de-personas-se-manifiestan-en-barcelona-por-una-vivienda-digna.html",
+       "seccion": "Cataluña"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Atribuye a Tellado la idea de que la convocatoria busca incidir en la campaña y favorecer a la izquierda.",
+     "enfoque": "Pone el foco en los saqueos y barricadas en Barcelona y en las cargas en Madrid.",
      "noticias": [
       {
-       "titular": "El PP arremete contra la huelga general por \"electoral\", \"preventiva\" y por \"trabajar\" para la campaña de Sánchez",
-       "url": "https://www.elmundo.es/espana/2026/11/11/6af43da8e4d4d8f8248b45a8.html",
-       "seccion": "Miguel Tellado"
+       "titular": "Saqueos y barricadas en Barcelona y cargas en Madrid en el final de la huelga con al menos un centenar detenidos en toda España",
+       "url": "https://www.elmundo.es/espana/2026/11/11/6af4d97dfc6c83e1258b459e.html",
+       "seccion": "Artículos Quico Alsedo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Titula con los disturbios y las cargas policiales en Madrid y Barcelona.",
+     "noticias": [
+      {
+       "titular": "Las manifestaciones acaban en disturbios y cargas policiales en Madrid y Barcelona",
+       "url": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
+       "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Incluye la reacción del PP y la decisión del Gobierno de anular su agenda.",
+     "enfoque": "Cifra en más de 100.000 los asistentes en Madrid y señala el gas pimienta y las cargas contra piquetes.",
      "noticias": [
       {
-       "titular": "El PP denuncia una “huelga electoral” y “preventiva” contra el próximo Gobierno",
-       "url": "https://www.lavanguardia.com/politica/20261111/11681473/pp-denuncia-huelga-electoral-preventiva-proximo-gobierno.html",
-       "seccion": "Política"
+       "titular": "Más de 100.000 personas recorren Madrid pese a la lluvia para pedir soluciones al problema de la vivienda",
+       "url": "https://www.lavanguardia.com/economia/20261111/11681915/mas-100-000-personas-recorren-madrid-pese-lluvia-pedir-soluciones-problema-vivienda.html",
+       "seccion": "Economía"
       },
       {
-       "titular": "El Gobierno anula su agenda “por respeto” a una huelga cuyas reivindicaciones sociales comparte",
-       "url": "https://www.lavanguardia.com/politica/20261111/11681615/gobierno-anula-agenda-respeto-huelga-cuyas-reivindicaciones-sociales-comparte.html",
-       "seccion": "Política"
+       "titular": "Las manifestaciones masivas en Madrid y Barcelona dan paso a altercados de grupos violentos",
+       "url": "https://www.lavanguardia.com/vida/20261111/11681344/huelga-general-espana-11n-movilizaciones-sindicatos-manifestaciones-ultima-hora-hoy-en-directo.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "“No podemos hacer nuestra labor”: el fuerte control policial y las cargas marcan el día de huelga en Madrid",
+       "url": "https://www.lavanguardia.com/economia/20261111/11681728/nuestra-labor-fuerte-control-policial-cargas-marcan-dia-huelga-madrid.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Los altercados empañan la jornada de huelga en Barcelona",
+       "url": "https://www.lavanguardia.com/fotos/20261111/11681920/altercados-empanan-jornada-huelga-barcelona.html",
+       "seccion": "Fotografía"
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Polémica por la entrevista de Abascal en 'La revuelta'",
-   "resumen": "Vox cancela una entrevista con Jordi Wild tras la polémica por la edición de la entrevista de Abascal en 'La revuelta' de RTVE. El presentador Broncano ha rectificado en antena.",
+   "titulo": "Polémica Vox y Abascal en 'La Revuelta'",
+   "resumen": "Vox canceló la entrevista de Santiago Abascal con Jordi Wild tras la emisión de 'La Revuelta' con Broncano, cuyo programa recortó unos 40 minutos.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Sigue la cancelación de Vox y la rectificación de Broncano, con foco en las exigencias del partido.",
+     "enfoque": "Recoge la cancelación de la entrevista con Wild y la reacción de Wild, y la visita de Colau al programa.",
      "noticias": [
       {
        "titular": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre los 40 minutos inéditos de ‘La revuelta’",
        "url": "https://elpais.com/espana/elecciones-generales/2026-11-11/vox-cancela-la-entrevista-de-abascal-con-jordi-wild-tras-la-polemica-por-los-40-minutos-ineditos-de-la-revuelta.html",
-       "seccion": "Elecciones Generales"
+       "seccion": "Santiago Abascal"
       },
       {
-       "titular": "Broncano rectifica y vuelve al humor en ‘La revuelta’: “Soy la única persona que ha decepcionado a la izquierda más que Rufián”",
-       "url": "https://elpais.com/television/2026-11-10/broncano-rectifica-y-vuelve-al-humor-en-la-revuelta-soy-la-persona-que-mas-ha-decepcionado-a-la-izquierda-despues-de-gabriel-rufian.html",
+       "titular": "Jordi Wild reacciona a la cancelación de Abascal de su entrevista: “Es una falta de respeto a mi trabajo”",
+       "url": "https://elpais.com/television/2026-11-11/jordi-wild-reacciona-a-la-cancelacion-de-abascal-de-su-entrevista-es-una-falta-de-respeto-a-mi-trabajo.html",
        "seccion": "Televisión"
       },
       {
@@ -146,117 +177,76 @@
     },
     {
      "medio": "elmundo",
-     "enfoque": "Analiza la entrevista como un movimiento que favorece la estrategia de Vox hacia el voto del PP.",
-     "noticias": [
-      {
-       "titular": "La entrevista de Broncano \"cambia\" el plan de Vox, que se lanza a por el voto útil del PP",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a3dfc6c83dc178b459b.html",
-       "seccion": "PP"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Búsqueda del fugitivo tras la explosión en Oviedo",
-   "resumen": "La Policía sigue buscando al fugitivo responsable de la explosión que mató a un agente en Oviedo, sin pistas concluyentes sobre su paradero.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge los controles en carreteras y la identidad y antecedentes del buscado.",
-     "noticias": [
-      {
-       "titular": "Pistas falsas y controles en carreteras: continúa la búsqueda del fugitivo responsable del explosivo que mató a un policía en Oviedo",
-       "url": "https://elpais.com/espana/2026-11-11/pistas-falsas-y-controles-en-carreteras-continua-la-busqueda-del-fugitivo-responsable-del-explosivo-que-mato-a-un-policia-en-oviedo.html",
-       "seccion": "Sucesos"
-      }
-     ]
+     "enfoque": "No recoge el asunto en su portada de hoy.",
+     "noticias": []
     },
     {
-     "medio": "elmundo",
-     "enfoque": "Se centra en los registros, las falsas alarmas y el despliegue de los GEO.",
+     "medio": "abc",
+     "enfoque": "Recoge las preguntas que no se emitieron de la entrevista de Broncano a Abascal y la selección del público por parte de Vox.",
      "noticias": [
       {
-       "titular": "El 'Ruso' aterroriza Oviedo: \"Nadie se despierta una mañana y pone una bomba\"",
-       "url": "https://www.elmundo.es/espana/2026/11/10/6af36bc8e85ece27768b4575.html",
-       "seccion": "NLPremium"
+       "titular": "Las preguntas clásicas de Broncano que La Revuelta no emitió",
+       "url": "https://www.abc.es/play/television/preguntas-clasicas-broncano-abascal-revuelta-emitio-intimas-20261110130727-nt.html",
+       "seccion": ""
       },
       {
-       "titular": "Numerosos registros y falsas alarmas en la búsqueda de 'el Ruso', fugado tras la explosión que mató a un policía en Oviedo",
-       "url": "https://www.elmundo.es/espana/2026/11/11/6af42ebd21efa002098b45a0.html",
-       "seccion": "Policía Nacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Nuevo arzobispo de Barcelona",
-   "resumen": "El papa León XIV ha nombrado a Octavi Vilà arzobispo de Barcelona, en sustitución del cardenal Omella.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Destaca la relación de Vilà con Puigdemont en el titular.",
-     "noticias": [
-      {
-       "titular": "Octavi Vilà, el amigo de Puigdemont, nombrado nuevo arzobispo de Barcelona",
-       "url": "https://www.elmundo.es/cataluna/2026/11/11/6af45055e85ece4d6f8b4592.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Recoge el perfil del nuevo arzobispo como obispo de Girona y antiguo abad de Poblet.",
-     "noticias": [
-      {
-       "titular": "El Papa nombra a Octavi Vilà, obispo de Gerona, nuevo arzobispo de Barcelona en sustitución del cardenal Omella",
-       "url": "https://www.abc.es/sociedad/papa-nombra-octavi-vila-obispo-gerona-nuevo-20261111104740-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Impacto de la huelga en las televisiones públicas",
-   "resumen": "La huelga altera las programaciones de televisiones públicas, con emisiones interrumpidas en Canal Sur y un piquete que interrumpe un programa en TVE.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Describe la interrupción en directo del programa de Gemma Nierga en TVE.",
-     "noticias": [
-      {
-       "titular": "Un piquete irrumpe en el plató y corta en directo la emisión del programa de Gemma Nierga en TVE",
-       "url": "https://elpais.com/espana/catalunya/2026-11-11/un-piquete-irrumpe-en-el-plato-y-corta-en-directo-la-emision-del-programa-de-gemma-nierga-en-tve.html",
-       "seccion": "Cataluña"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Señala las pantallas en negro y los cambios de parrilla en varias cadenas públicas.",
-     "noticias": [
-      {
-       "titular": "Pantalla en negro o cambios de parrilla: la jornada trastoca las programaciones de las televisiones públicas",
-       "url": "https://www.abc.es/play/television/huelga-general-trastoca-programaciones-televisiones-publicas-20261111131813-nt.html",
+       "titular": "Un ayuntamiento socialista sevillano capta al público que Sánchez tendrá en el ‘Perro Andaluz’",
+       "url": "https://www.abc.es/sevilla/provincia/ayuntamientos-sevillanos-psoe-ponen-autobuses-gratis-llevar-20261111181047-nts.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Recoge el apagón de Canal Sur y la interrupción del programa de Gemma Nierga en La 2 Cat.",
+     "enfoque": "No recoge el asunto en su portada de hoy.",
+     "noticias": []
+    }
+   ]
+  },
+  {
+   "titulo": "Críticas al PP por mensajes sobre los sindicatos",
+   "resumen": "Las Nuevas Generaciones del PP publicaron un mensaje sobre la huelga que generó críticas, y Feijóo pidió a partidos y sindicatos condenar la agresión a dos afiliados del PP en Barakaldo.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge las críticas al PP por tratar a los sindicatos de 'comegambas' y el mensaje de las Nuevas Generaciones.",
      "noticias": [
       {
-       "titular": "Canal Sur se va a negro: la huelga general corta en seco 'Despierta Andalucía'",
-       "url": "https://www.lavanguardia.com/local/andalucia/20261111/11681516/canal-sur-negro-huelga-general-corta-seco-despierta-andalucia.html",
-       "seccion": "Andalucía"
+       "titular": "Aluvión de críticas al PP por ridiculizar a los sindicatos como unos ‘comegambas’: “Este país y sus trabajadores os quedan grandes”",
+       "url": "https://elpais.com/espana/2026-11-11/aluvion-de-criticas-al-pp-por-ridiculizar-a-los-sindicatos-como-unos-comegambas-este-pais-y-sus-trabajadores-os-quedan-grandes.html",
+       "seccion": "Huelga 11N"
       },
       {
-       "titular": "Un piquete ocupa el plató de 'Cafè d'idees' e impide su emisión en directo en La 2 Cat",
-       "url": "https://www.lavanguardia.com/television/20261111/11681379/piquete-ocupa-plato-cafe-d-idees-e-impide-emision-2-cat.html",
-       "seccion": "Televisión"
+       "titular": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
+       "url": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la petición de Feijóo de condenar la agresión en Barakaldo.",
+     "noticias": [
+      {
+       "titular": "Feijóo espera de partidos y sindicatos una condena de la agresión a dos afiliados del PP en Barakaldo",
+       "url": "https://www.elmundo.es/espana/2026/11/11/6af4e0aae4d4d84a5d8b45b5.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "No recoge el asunto en su portada de hoy.",
+     "noticias": []
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la polémica de un policía que pidió identificarse a Ione Belarra en un piquete.",
+     "noticias": [
+      {
+       "titular": "Un policía pide identificarse a Ione Belarra en un piquete",
+       "url": "https://www.lavanguardia.com/politica/20261111/11681737/policia-pide-identificarse-ione-belarra-piquete.html",
+       "seccion": "Política"
       }
      ]
     }
@@ -267,256 +257,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la huelga general del 11N con cobertura en directo, desde el seguimiento y los incidentes hasta el impacto en el consumo eléctrico y el transporte. Dedica también espacio a la polémica por la entrevista de Abascal en 'La revuelta' y a la búsqueda del fugitivo en Oviedo.",
+   "resumen": "Prioriza la huelga general y la vivienda, con un enfoque en la protesta social y las reacciones políticas. Incluye también la polémica de Vox con Broncano y el auge de contenidos sobre redes y televisión.",
    "noticias": [
     {
-     "titular": "Huelga general 11N y actualidad política, en directo | “Los sindicatos hablan “éxito” y de un seguimiento “muy relevante” de la huelga, mientras que las patronales lo ven “bajo”",
-     "url": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
+     "titular": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
+     "url": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
+     "seccion": "Economía",
+     "resumen": "Balance de la huelga: seguimiento desigual, mayor visibilidad en la calle que en los centros de trabajo, y enfrentamiento del PP con las centrales sindicales."
+    },
+    {
+     "titular": "Decenas de miles de personas claman por la vivienda bajo la lluvia en toda España",
+     "url": "https://elpais.com/espana/2026-11-11/decenas-de-miles-de-personas-claman-por-la-vivienda-bajo-la-lluvia-en-toda-espana.html",
      "seccion": "España",
-     "resumen": "Sindicatos y patronales dan lecturas opuestas del seguimiento de la huelga, que arranca con cortes de carreteras y servicios mínimos en el transporte; al menos 39 detenidos en las primeras horas."
+     "resumen": "Manifestación multitudinaria por la vivienda bajo la lluvia en Madrid y otras ciudades."
     },
     {
-     "titular": "Barcelona se queda sin metro más de 10 horas durante la huelga general",
-     "url": "https://elpais.com/espana/catalunya/2026-11-11/barcelona-se-queda-sin-metro-durante-siete-horas-durante-la-huelga-general.html",
-     "seccion": "Huelga 11N",
-     "resumen": "Barcelona queda sin metro, Rodalies, autobuses y Ferrocarrils durante buena parte de la jornada, con paros entre las 9.30 y las 16.30 y de 21.00 a 24.00."
-    },
-    {
-     "titular": "El PP descalifica la huelga como “preventiva” contra Feijóo y Vox como “circo general”",
-     "url": "https://elpais.com/espana/2026-11-11/el-pp-descalifica-la-huelga-como-preventiva-contra-feijoo-y-vox-como-circo-general.html",
-     "seccion": "Huelga 11N",
-     "resumen": "El PP cuestiona la huelga como 'preventiva' y Vox la califica de 'circo', mientras Frente Amplio y Podemos la respaldan para reclamar cambios en vivienda, salarios y servicios públicos."
-    },
-    {
-     "titular": "Diputados y dirigentes del Frente Amplio y de Adelante Andalucía denuncian agresiones policiales",
-     "url": "https://elpais.com/espana/2026-11-11/diputados-y-dirigentes-del-frente-amplio-y-de-adelante-andalucia-denuncian-agresiones-policiales.html",
-     "seccion": "Huelga 11N",
-     "resumen": "Dirigentes de Frente Amplio y Adelante Andalucía denuncian agresiones policiales durante piquetes en Granada y Málaga."
+     "titular": "La manifestación por la vivienda digna acaba con altercados en el centro de Barcelona",
+     "url": "https://elpais.com/espana/catalunya/2026-11-11/miles-de-personas-se-manifiestan-en-barcelona-por-una-vivienda-digna.html",
+     "seccion": "Cataluña",
+     "resumen": "Altercados tras la marcha por la vivienda en Barcelona, con saqueos y quema de contenedores; Illa los condena."
     },
     {
      "titular": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre los 40 minutos inéditos de ‘La revuelta’",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-11/vox-cancela-la-entrevista-de-abascal-con-jordi-wild-tras-la-polemica-por-los-40-minutos-ineditos-de-la-revuelta.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Vox cancela la entrevista de Abascal con Jordi Wild tras exigir condiciones sobre la edición de las respuestas emitidas en 'La revuelta' y amenaza con suspender nuevas entrevistas."
+     "seccion": "Santiago Abascal",
+     "resumen": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre el material no emitido de 'La Revuelta'."
     },
     {
-     "titular": "Pistas falsas y controles en carreteras: continúa la búsqueda del fugitivo responsable del explosivo que mató a un policía en Oviedo",
-     "url": "https://elpais.com/espana/2026-11-11/pistas-falsas-y-controles-en-carreteras-continua-la-busqueda-del-fugitivo-responsable-del-explosivo-que-mato-a-un-policia-en-oviedo.html",
-     "seccion": "Sucesos",
-     "resumen": "La Policía busca al fugitivo tras la explosión que mató a un agente en Oviedo, con controles en carreteras y pistas falsas."
-    },
-    {
-     "titular": "Un piquete irrumpe en el plató y corta en directo la emisión del programa de Gemma Nierga en TVE",
-     "url": "https://elpais.com/espana/catalunya/2026-11-11/un-piquete-irrumpe-en-el-plato-y-corta-en-directo-la-emision-del-programa-de-gemma-nierga-en-tve.html",
-     "seccion": "Cataluña",
-     "resumen": "Un piquete interrumpe en directo el programa de Gemma Nierga en TVE, según relata la propia presentadora."
-    },
-    {
-     "titular": "¿Por qué hay convocada una huelga general este 11 de noviembre?",
-     "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-11/por-que-hay-convocada-una-huelga-general-este-11-de-noviembre.html",
+     "titular": "Samantha Hudson, Laura Weissmahr y María Barrier denuncian violencia policial en las cargas de la huelga general en Madrid",
+     "url": "https://elpais.com/videos/2026-11-11/samantha-hudson-laura-weissmahr-y-maria-barrier-denuncian-violencian-policial-en-las-cargas-de-la-huelga-general-en-madrid.html",
      "seccion": "Huelga 11N",
-     "resumen": "Repaso del contexto de la huelga: la primera en 14 años, convocada a pocos días de la campaña electoral y en un clima de malestar social."
+     "resumen": "Tres artistas denuncian violencia policial durante las cargas en la Gran Vía de Madrid."
+    },
+    {
+     "titular": "Aluvión de críticas al PP por ridiculizar a los sindicatos como unos ‘comegambas’: “Este país y sus trabajadores os quedan grandes”",
+     "url": "https://elpais.com/espana/2026-11-11/aluvion-de-criticas-al-pp-por-ridiculizar-a-los-sindicatos-como-unos-comegambas-este-pais-y-sus-trabajadores-os-quedan-grandes.html",
+     "seccion": "Huelga 11N",
+     "resumen": "Críticas al PP por llamar 'comegambas' a los sindicatos en redes y por el mensaje de Nuevas Generaciones."
+    },
+    {
+     "titular": "La revelación de una nueva relación extramarital del consejero delegado de Nvidia compromete su futuro en la compañía",
+     "url": "https://elpais.com/us/2026-11-11/la-revelacion-de-una-nueva-relacion-extramarital-del-consejero-delegado-de-nvidia-compromete-su-futuro-en-la-compania.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Una relación extramatrimonial del consejero delegado de Nvidia pone en duda su futuro; la junta se reúne hoy."
+    },
+    {
+     "titular": "¿Cuánto se nota la huelga? La caída del consumo eléctrico en tiempo real",
+     "url": "https://elpais.com/espana/2026-11-11/cuanto-se-nota-la-huelga-la-caida-del-consumo-electrico-en-tiempo-real.html",
+     "seccion": "Huelga 11N",
+     "resumen": "Seguimiento de la huelga medido a través de la caída del consumo eléctrico en tiempo real."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "",
+   "resumen": "Pone el foco en el balance económico y de orden público de la huelga, con la visión de la patronal. Dedica también espacio a la investigación judicial del caso Cloacas y a la búsqueda del autor del atentado de Oviedo.",
    "noticias": [
     {
-     "titular": "La primera huelga general en 14 años por la vivienda y los salarios en plena precampaña: \"Van a petar las calles de España\"",
+     "titular": "Saqueos y barricadas en Barcelona y cargas en Madrid en el final de la huelga con al menos un centenar detenidos en toda España",
+     "url": "https://www.elmundo.es/espana/2026/11/11/6af4d97dfc6c83e1258b459e.html",
+     "seccion": "Artículos Quico Alsedo",
+     "resumen": "Saqueos y barricadas en Barcelona y cargas en Madrid al final de la huelga, con un centenar de detenidos en el país."
+    },
+    {
+     "titular": "CEOE certifica el \"fracaso\" de la huelga general y sitúa el seguimiento por debajo del 5%mientras los sindicatos se manifiestan bajo el fuerte temporal",
      "url": "https://www.elmundo.es/economia/2026/11/11/6af4223ee4d4d8787d8b4593.html",
      "seccion": "Huelgas",
-     "resumen": ""
+     "resumen": "La CEOE califica la huelga de fracaso y sitúa el seguimiento por debajo del 5%, mientras los sindicatos se manifiestan."
     },
     {
-     "titular": "El PP arremete contra la huelga general por \"electoral\", \"preventiva\" y por \"trabajar\" para la campaña de Sánchez",
-     "url": "https://www.elmundo.es/espana/2026/11/11/6af43da8e4d4d8f8248b45a8.html",
-     "seccion": "Miguel Tellado",
-     "resumen": ""
+     "titular": "Los supermercados desploman sus ventas un 30% en una jornada de huelga marcada por la lluvia y los cierres de comercios por su seguridad",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/11/6af46861e4d4d8ee7c8b45b3.html",
+     "seccion": "Huelga general",
+     "resumen": "Las ventas de supermercados caen un 30% y el pago con tarjeta baja con fuerza en grandes ciudades; la CEOE habla de seguimiento reducido."
     },
     {
-     "titular": "Traducir Feijóo al politizado",
-     "url": "https://www.elmundo.es/espana/2026/11/10/6af39330e9cf4a67248b45a1.html",
-     "seccion": "Artículos Juan Diego Madueño",
-     "resumen": ""
+     "titular": "El juez del 'caso Cloacas' detecta un pago de 105.000 euros entre un ex abogado del PSOE y el histórico socialista Gaspar Zarrías, imputados por financiar a la 'fontanera'",
+     "url": "https://www.elmundo.es/espana/2026/11/11/6af462a5e9cf4a0e668b4575.html",
+     "seccion": "Artículos Manuel Marraco",
+     "resumen": "El juez del caso Cloacas detecta un pago de 105.000 euros entre un exabogado del PSOE y Gaspar Zarrías."
     },
     {
-     "titular": "La entrevista de Broncano \"cambia\" el plan de Vox, que se lanza a por el voto útil del PP",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a3dfc6c83dc178b459b.html",
-     "seccion": "PP",
-     "resumen": ""
-    },
-    {
-     "titular": "El 'Ruso' aterroriza Oviedo: \"Nadie se despierta una mañana y pone una bomba\"",
-     "url": "https://www.elmundo.es/espana/2026/11/10/6af36bc8e85ece27768b4575.html",
-     "seccion": "NLPremium",
-     "resumen": ""
-    },
-    {
-     "titular": "Numerosos registros y falsas alarmas en la búsqueda de 'el Ruso', fugado tras la explosión que mató a un policía en Oviedo",
-     "url": "https://www.elmundo.es/espana/2026/11/11/6af42ebd21efa002098b45a0.html",
+     "titular": "Oviedo despide al subinspector 'Jota' y a su perro Deny, muertos en la explosión de Villafría, mientras 'el Ruso' sigue fugado: \"Lo fundamental es detener al objetivo\"",
+     "url": "https://www.elmundo.es/espana/2026/11/11/6af472c6e4d4d8df2b8b458b.html",
      "seccion": "Policía Nacional",
-     "resumen": ""
+     "resumen": "Oviedo despide a un subinspector y a su perro muertos en la explosión de Villafría, mientras el presunto autor sigue huido."
     },
     {
-     "titular": "Rutte vuelve a atacar a España y también a Portugal por quitar importancia a la amenaza de Rusia y Lisboa responde con dureza: \"Es lamentable\"",
-     "url": "https://www.elmundo.es/internacional/2026/11/11/6af41f6721efa0bc0b8b45a6.html",
-     "seccion": "Artículos Daniel Viaña",
-     "resumen": ""
-    },
-    {
-     "titular": "La consejera socialista de Justicia concede el tercer grado a un etarra condenado en 2023 a 19 años de cárcel por asesinar a Juan Priede",
-     "url": "https://www.elmundo.es/pais-vasco/2026/11/11/6af45751fdddff3f178b4577.html",
-     "seccion": "Artículos Josean Izarra",
-     "resumen": ""
-    },
-    {
-     "titular": "Octavi Vilà, el amigo de Puigdemont, nombrado nuevo arzobispo de Barcelona",
-     "url": "https://www.elmundo.es/cataluna/2026/11/11/6af45055e85ece4d6f8b4592.html",
+     "titular": "Feijóo espera de partidos y sindicatos una condena de la agresión a dos afiliados del PP en Barakaldo",
+     "url": "https://www.elmundo.es/espana/2026/11/11/6af4e0aae4d4d84a5d8b45b5.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Feijóo pide a partidos y sindicatos que condenen la agresión a dos afiliados del PP en Barakaldo."
     },
     {
-     "titular": "Evacúan al menos 300 colegios en Italia tras recibir amenazas de bomba por correo electrónico",
-     "url": "https://www.elmundo.es/internacional/2026/11/11/6af4510de85ece8f298b4572.html",
-     "seccion": "Italia",
-     "resumen": ""
+     "titular": "La borrasca Charles provoca vientos de hasta 124 km/h y obliga a suspender clases, vuelos y conexiones marítimas",
+     "url": "https://www.elmundo.es/espana/2026/11/11/6af419f0fc6c83465a8b457a.html",
+     "seccion": "AEMET",
+     "resumen": "La borrasca Charles deja vientos de hasta 124 km/h y obliga a suspender clases, vuelos y conexiones."
+    },
+    {
+     "titular": "Acuerdo de mínimos en Abu Dabi entre Rusia y Ucrania: \"el mayor intercambio humanitario\" de prisioneros de la guerra",
+     "url": "https://www.elmundo.es/internacional/2026/11/11/6af494aefdddffb6388b4581.html",
+     "seccion": "Guerra Ucrania Rusia",
+     "resumen": "Acuerdo entre Rusia y Ucrania en Abu Dabi para el mayor intercambio de prisioneros, mientras la seguridad europea avanza poco."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "",
+   "resumen": "Combina el seguimiento de la huelga y los disturbios con la carrera electoral y la política de defensa. Incluye además la agenda cultural y gastronómica y el sorteo de la ONCE.",
    "noticias": [
     {
-     "titular": "Asesinados dos candidatos municipales y un periodista en Ecuador",
-     "url": "https://www.abc.es/internacional/asesinados-dos-candidatos-municipales-periodista-ecuador-20261111093849-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "La primera huelga general en 14 años se estrena con más piquetes que seguimiento",
-     "url": "https://www.abc.es/economia/cortes-carreteras-incidentes-primeras-horas-huelga-afectacion-20261111120911-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Sanidad demanda a la ONT por la gestión de subvenciones para la formación en trasplantes",
-     "url": "https://www.abc.es/sociedad/sanidad-revuelve-ont-demanda-gestion-subvenciones-formacion-20261107013711-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Pantalla en negro o cambios de parrilla: la jornada trastoca las programaciones de las televisiones públicas",
-     "url": "https://www.abc.es/play/television/huelga-general-trastoca-programaciones-televisiones-publicas-20261111131813-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "'Elecciones 29N': apúntate para recibir la newsletter de ABC sobre la campaña",
-     "url": "https://www.abc.es/espana/elecciones-29n-apuntate-recibir-newsletter-abc-sobre-20261101102324-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Evacúan al menos 300 colegios en Italia tras recibir amenazas de bomba por correo electrónico",
-     "url": "https://www.abc.es/internacional/evacuan-300-colegios-italia-tras-recibir-amenazas-20261111123559-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Cortes puntuales en carreteras, tranquilidad en las zonas industriales y el Metro 100% operativo el 11N",
-     "url": "https://www.abc.es/espana/madrid/cortes-carreteras-tranquilidad-zonas-industriales-metro-100-20261111114331-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Los piquetes obligan a cerrar comercios y se enfrentan a la Policía: hay al menos 20 detenidos",
+     "titular": "Las manifestaciones acaban en disturbios y cargas policiales en Madrid y Barcelona",
      "url": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Las manifestaciones acaban en disturbios y cargas policiales en Madrid y Barcelona durante la jornada de huelga."
     },
     {
-     "titular": "El Papa nombra a Octavi Vilà, obispo de Gerona, nuevo arzobispo de Barcelona en sustitución del cardenal Omella",
-     "url": "https://www.abc.es/sociedad/papa-nombra-octavi-vila-obispo-gerona-nuevo-20261111104740-nt.html",
+     "titular": "La dureza de los piquetes no logró parar el país en la primera huelga general en 14 años",
+     "url": "https://www.abc.es/economia/dureza-piquetes-logro-parar-pais-primera-huelga-20261111200454-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "La huelga no paró el país según una fuente empresarial, que la describe como normal pese a los piquetes."
     },
     {
-     "titular": "Carlos, hijo de Bertín Osborne: «La relación con mi padre es muy cercana»",
-     "url": "https://www.abc.es/gente/carlos-hijo-bertin-osborne-fabiola-martinez-primera-20261111125714-nt.html",
+     "titular": "Sánchez compromete 'in extremis' y de tapadillo 19.000 millones en defensa",
+     "url": "https://www.abc.es/espana/sanchez-compromete-extremis-19000-millones-defensa-pese-20261111171909-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "El Gobierno compromete cerca de 19.000 millones en modernización de armamento antes de las elecciones del 29N."
+    },
+    {
+     "titular": "¿Dónde se esconde El Ruso? La búsqueda del asesino de la mochila bomba de Oviedo se traslada al campo",
+     "url": "https://www.abc.es/espana/esconde-ruso-busqueda-asesino-mochila-bomba-oviedo-20261111190234-nt.html",
+     "seccion": "",
+     "resumen": "La búsqueda de 'El Ruso', sospechoso del atentado con mochila bomba en Oviedo, se extiende a zonas rurales."
+    },
+    {
+     "titular": "Las preguntas clásicas de Broncano que La Revuelta no emitió",
+     "url": "https://www.abc.es/play/television/preguntas-clasicas-broncano-abascal-revuelta-emitio-intimas-20261110130727-nt.html",
+     "seccion": "",
+     "resumen": "Las preguntas que no se emitieron de la entrevista de Broncano a Abascal, con unos 40 minutos recortados."
+    },
+    {
+     "titular": "Feijóo, sobre su infancia: «No había lavadora, ni nevera, ni agua corriente. En mi casa había cerdos y gallinas»",
+     "url": "https://www.abc.es/gente/feijoo-sobre-infancia-humilde-aldea-habitantes-lavadora-20261111190631-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo habla de su infancia en 'El Hormiguero' en plena campaña para las elecciones del 29 de noviembre."
+    },
+    {
+     "titular": "Dos eurodiputados de Vox viajan a Venezuela y ponen a prueba la apertura de Delcy",
+     "url": "https://www.abc.es/internacional/dos-eurodiputados-vox-viajan-venezuela-ponen-prueba-20261110200210-nt.html",
+     "seccion": "",
+     "resumen": "Dos eurodiputados de Vox viajan a Venezuela para comprobar la apertura política del régimen de Delcy Rodríguez."
+    },
+    {
+     "titular": "Valladolid se corona campeona nacional y mundial de tapas con las propuestas de Jiapan y Habanero Taquería",
+     "url": "https://www.abc.es/espana/castilla-leon/valladolid-corona-campeona-nacional-mundial-tapas-propuestas-20261111212815-nt.html",
+     "seccion": "",
+     "resumen": "Valladolid gana el Concurso Nacional y Mundial de Tapas con propuestas de Jiapan y Habanero Taquería."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "",
+   "resumen": "Centra la portada en los altercados y el control policial en Madrid y Barcelona, y en la lectura política de la huelga. Destaca también la cobertura de la huelga en medios públicos y en la cultura.",
    "noticias": [
     {
-     "titular": "Los sindicatos reconocen un seguimiento “dispar” de la huelga y la CEOE lo estima “bajo”",
-     "url": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
-     "seccion": "Economía",
-     "resumen": ""
-    },
-    {
-     "titular": "La huelga general, en imágenes",
-     "url": "https://www.lavanguardia.com/vida/20261111/11681386/huelga-general-imagenes.html",
-     "seccion": "Sociedad",
-     "resumen": ""
-    },
-    {
-     "titular": "Los piquetes informativos dificultan el acceso a la capital de Madrid por carretera",
-     "url": "https://www.lavanguardia.com/politica/20261111/11681367/piquetes-informativos-dificultan-acceso-capital-madrid-carretera.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "Basura acumulada en las calles de Barcelona por el paro del servicio de limpieza",
-     "url": "https://www.lavanguardia.com/local/barcelona/20261111/11681471/basura-acumulada-calles-barcelona-paro-servicio-limpieza.html",
-     "seccion": "Barcelona",
-     "resumen": ""
-    },
-    {
-     "titular": "Huelga general 11 de noviembre, última hora hoy en directo: piquetes, servicios mínimos y horario de las manifestaciones",
+     "titular": "Las manifestaciones masivas en Madrid y Barcelona dan paso a altercados de grupos violentos",
      "url": "https://www.lavanguardia.com/vida/20261111/11681344/huelga-general-espana-11n-movilizaciones-sindicatos-manifestaciones-ultima-hora-hoy-en-directo.html",
      "seccion": "Sociedad",
-     "resumen": ""
+     "resumen": "Las manifestaciones masivas en Madrid y Barcelona dan paso a altercados de grupos violentos y a incendios que atienden los Bombers."
     },
     {
-     "titular": "Última hora de los accesos a Barcelona, cortes de carretera, tráfico y afectación en los trenes de Renfe y Rodalies en Catalunya, hoy en directo",
-     "url": "https://www.lavanguardia.com/local/catalunya/20261111/11681148/trafico-carreteras-cortes-huelga-renfe-maquinistas-trenes-rodalies-accesos-barcelona-cataluna-miercoles-11-noviembre-en-directo.html",
-     "seccion": "Catalunya",
-     "resumen": ""
+     "titular": "Los sindicatos dicen que la huelga “supera las expectativas” y la CEOE la califica de “fracaso”",
+     "url": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
+     "seccion": "Economía",
+     "resumen": "Sindicatos hablan de una huelga que supera expectativas y la CEOE de fracaso; hay dos atropellos y detenciones en la primera jornada."
     },
     {
-     "titular": "Un centenar de cortes de carreteras y autopistas por la huelga colapsan la movilidad en Catalunya",
-     "url": "https://www.lavanguardia.com/local/barcelona/20261111/11681449/centenar-cortes-carreteras-autopistas-huelga-colapsan-movilidad-catalunya.html",
-     "seccion": "Barcelona",
-     "resumen": ""
+     "titular": "“No podemos hacer nuestra labor”: el fuerte control policial y las cargas marcan el día de huelga en Madrid",
+     "url": "https://www.lavanguardia.com/economia/20261111/11681728/nuestra-labor-fuerte-control-policial-cargas-marcan-dia-huelga-madrid.html",
+     "seccion": "Economía",
+     "resumen": "Unos 13 heridos por gas pimienta en Mercamadrid y cargas en Gran Vía y en las cocheras de la EMT."
     },
     {
-     "titular": "Agitando que es gerundio",
-     "url": "https://www.lavanguardia.com/opinion/20261111/11681159/agitando-gerundio.html",
-     "seccion": "Opinión",
-     "resumen": ""
+     "titular": "Más de 100.000 personas recorren Madrid pese a la lluvia para pedir soluciones al problema de la vivienda",
+     "url": "https://www.lavanguardia.com/economia/20261111/11681915/mas-100-000-personas-recorren-madrid-pese-lluvia-pedir-soluciones-problema-vivienda.html",
+     "seccion": "Economía",
+     "resumen": "Más de 100.000 personas marchan en Madrid por la vivienda sin que los líderes de CCOO y UGT encabecen la protesta."
     },
     {
-     "titular": "El PP denuncia una “huelga electoral” y “preventiva” contra el próximo Gobierno",
-     "url": "https://www.lavanguardia.com/politica/20261111/11681473/pp-denuncia-huelga-electoral-preventiva-proximo-gobierno.html",
+     "titular": "La huelga general y la frustración política",
+     "url": "https://www.lavanguardia.com/economia/20261111/11681611/huelga-general-frustracion-politica.html",
+     "seccion": "Economía",
+     "resumen": "El seguimiento desigual de la huelga refleja, según el diario, una insatisfacción social matizada."
+    },
+    {
+     "titular": "Un policía pide identificarse a Ione Belarra en un piquete",
+     "url": "https://www.lavanguardia.com/politica/20261111/11681737/policia-pide-identificarse-ione-belarra-piquete.html",
      "seccion": "Política",
-     "resumen": ""
+     "resumen": "Un policía pide identificarse a Ione Belarra en un piquete; Irene Montero acusa al Gobierno de enviar a la Policía a dar 'palos'."
     },
     {
-     "titular": "El Gobierno anula su agenda “por respeto” a una huelga cuyas reivindicaciones sociales comparte",
-     "url": "https://www.lavanguardia.com/politica/20261111/11681615/gobierno-anula-agenda-respeto-huelga-cuyas-reivindicaciones-sociales-comparte.html",
-     "seccion": "Política",
-     "resumen": ""
+     "titular": "Un piquete ocupa el plató de 'Cafè d'idees' e impide su emisión en directo en La 2 Cat",
+     "url": "https://www.lavanguardia.com/television/20261111/11681379/piquete-ocupa-plato-cafe-d-idees-e-impide-emision-2-cat.html",
+     "seccion": "Televisión",
+     "resumen": "Un piquete ocupa el plató de 'Cafè d'idees' y altera la emisión en directo de La 2 Cat."
+    },
+    {
+     "titular": "Canal Sur se va a negro: la huelga general corta en seco 'Despierta Andalucía'",
+     "url": "https://www.lavanguardia.com/local/andalucia/20261111/11681516/canal-sur-negro-huelga-general-corta-seco-despierta-andalucia.html",
+     "seccion": "Andalucía",
+     "resumen": "Canal Sur interrumpe su programación matinal por la huelga general."
     }
    ]
   }
