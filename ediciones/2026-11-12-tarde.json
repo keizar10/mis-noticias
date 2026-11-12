@@ -1,0 +1,206 @@
+{
+ "fecha": "2026-11-12",
+ "franja": "tarde",
+ "generada": "2026-11-12T15:04+01:00",
+ "con_ia": true,
+ "resumen_dia": "La huelga general del 11-N y la campaña para las elecciones del 29-N dominan la agenda, con el decreto de vivienda convalidado en parte por la Diputación Permanente. En el ámbito internacional, la dimisión del consejero delegado de Nvidia, Jensen Huang, tras conocerse sus relaciones extramatrimoniales y el caso de espionaje centra la atención económica. También destacan la imputación del exdelegado del Gobierno en Ceuta y la investigación de la UCO sobre la financiación del PSOE, con la Fiscalía Europea actuando sobre las pulseras antimaltrato.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\":\"Decreto de vivienda en la Diputación Permanente\",\"resumen\":\"La Diputación Permanente convalida la medida que prohíbe los desahucios, pero rechaza la prórroga automática e indefinida de los alquileres. Otras medidas del decreto siguen en vigor.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Subraya que la norma principal del Gobierno sigue adelante junto a un amplio paquete de cambios para inquilinos, propietarios y empresas.\",\"ids\":[\"elpais-6\",\"elpais-7\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Pone el foco en el efecto del decreto en el mercado del alquiler, con anuncios retirados y contratos paralizados.\",\"ids\":[\"elmundo-4\",\"elmundo-5\"]},{\"medio\":\"abc\",\"enfoque\":\"Explica qué ocurre ahora con las prórrogas de los alquileres tras la caída de una de las normas.\",\"ids\":[\"abc-16\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Destaca el mecanismo parlamentario que salva el decreto antidesahucios pese al rechazo de Junts y resume las claves de la norma.\",\"ids\":[\"lavanguardia-0\",\"lavanguardia-3\"]}]},{\"titulo\":\"Huelga general del 11-N y cargas policiales\",\"resumen\":\"La huelga general del 11-N deja protestas masivas y cargas policiales en las manifestaciones. El ministro del Interior ordena una investigación y prohíbe el uso de gas lacrimógeno para controlar protestas.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Recoge la promesa de investigación de Marlaska junto a la petición de dimisión de la izquierda y las críticas de Ayuso al sindicalismo.\",\"ids\":[\"elpais-8\",\"elpais-9\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Recoge la valoración de la izquierda, que califica la huelga de éxito histórico, frente a la derecha, que la considera hipócrita.\",\"ids\":[\"elmundo-4\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Interpreta la huelga como reflejo de un malestar de fondo dividido por la polarización, con paralelismos con la de 2012.\",\"ids\":[\"lavanguardia-8\",\"lavanguardia-9\"]}]},{\"titulo\":\"Caso Nvidia: dimisión de Jensen Huang\",\"resumen\":\"Jensen Huang deja el cargo de consejero delegado de Nvidia tras conocerse sus relaciones extramatrimoniales, una de ellas con una presunta espía china. Colette Kress asume la dirección.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Se centra en la dimisión por las relaciones y el caso de espionaje, y en las dudas sobre la gobernanza por el ascenso de sus hijos y su yerno en la empresa.\",\"ids\":[\"elpais-4\",\"elpais-5\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Destaca el nombramiento de Colette Kress y el episodio del supuesto marido de una de las amantes.\",\"ids\":[\"elmundo-7\",\"elmundo-8\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Enfoca la caída bursátil de casi un 8% y la discusión del consejo sobre su destitución, con la reacción de Elon Musk.\",\"ids\":[\"lavanguardia-15\",\"lavanguardia-16\",\"lavanguardia-17\"]}]},{\"titulo\":\"Investigación de la UCO sobre el PSOE y pulseras antimaltrato\",\"resumen\":\"La UCO acude al Tribunal de Cuentas en el marco de la investigación sobre la financiación del PSOE. La Fiscalía Europea investiga un presunto fraude en la compra de pulseras antimaltrato con sedes del Ministerio de Igualdad y del Tribunal de Cuentas.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"No recoge esta información en su portada seleccionada.\",\"ids\":[]},{\"medio\":\"elmundo\",\"enfoque\":\"Vincula la Fiscalía Europea con el envío de la UCO al Ministerio de Igualdad y subraya la presunta financiación irregular del partido.\",\"ids\":[\"elmundo-0\",\"elmundo-1\"]},{\"medio\":\"abc\",\"enfoque\":\"Pone el acento en la nueva petición de información de la UCO al Tribunal de Cuentas y en el fraude de las pulseras.\",\"ids\":[\"abc-0\",\"abc-12\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Destaca la orden del juez Ismael Moreno sobre los gastos del partido y las declaraciones de Leire Díez.\",\"ids\":[\"lavanguardia-13\",\"lavanguardia-14\"]}]},{\"titulo\":\"Campaña electoral del 29-N\",\"resumen\":\"La precampaña avanza con el debate sobre inmigración, vivienda y el papel de los candidatos. Vox cancela su entrevista con Jordi Wild, lo que genera críticas entre youtubers.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Recoge el mapa electoral con simulaciones, el debate de candidatos catalanes y las críticas de youtubers a Vox.\",\"ids\":[\"elpais-0\",\"elpais-3\",\"elpais-15\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Analiza las dificultades de Frente Amplio frente al voto útil al PSOE.\",\"ids\":[\"elmundo-3\",\"elmundo-11\"]},{\"medio\":\"abc\",\"enfoque\":\"Recoge la explicación de Abascal sobre la cancelación de la entrevista con Jordi Wild.\",\"ids\":[\"abc-2\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Sitúa a Sánchez como movilizador de la campaña y recoge la reacción de youtubers ante la negativa de Vox.\",\"ids\":[\"lavanguardia-6\",\"lavanguardia-11\"]}]}]",
+ "temas_comunes": [],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña electoral, con encuestas y el mapa de escaños, y la huelga general con sus consecuencias políticas. Incluye también el caso Nvidia y el decreto de vivienda.",
+   "noticias": [
+    {
+     "titular": "El Congreso se divide sobre dos decretos de vivienda en la resaca de la huelga y el arranque de la campaña electoral",
+     "url": "https://elpais.com/espana/2026-11-12/el-congreso-se-divide-sobre-dos-decretos-de-vivienda-en-la-resaca-de-la-huelga-y-el-arranque-de-la-campana-electoral.html",
+     "seccion": "España",
+     "resumen": "El Congreso se divide: la Diputación Permanente convalida la prohibición de desahucios pero rechaza la prórroga automática de alquileres."
+    },
+    {
+     "titular": "Desahucios, alquileres y ayudas para comprar: las medidas del decreto de vivienda que siguen adelante",
+     "url": "https://elpais.com/economia/vivienda/2026-11-12/desahucios-alquileres-y-ayudas-para-comprar-las-medidas-del-decreto-de-vivienda-que-siguen-adelante.html",
+     "seccion": "Vivienda",
+     "resumen": "Detalla las medidas del decreto que siguen en vigor: desahucios, alquileres y ayudas para la compra de vivienda."
+    },
+    {
+     "titular": "Marlaska promete investigar las cargas policiales mientras la izquierda le pide la dimisión",
+     "url": "https://elpais.com/espana/2026-11-12/marlaska-ordena-una-investigacion-sobre-las-cargas-policiales-en-las-manifestaciones-y-pide-que-no-se-use-gas-lacrimogeno.html",
+     "seccion": "España",
+     "resumen": "Marlaska anuncia una investigación sobre las cargas policiales y prohíbe el gas lacrimógeno en protestas."
+    },
+    {
+     "titular": "Jensen Huang dimite como consejero delegado de Nvidia tras destaparse el escándalo sobre sus infidelidades y el caso de espionaje",
+     "url": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Jensen Huang deja la dirección de Nvidia tras conocerse sus relaciones y un caso de espionaje."
+    },
+    {
+     "titular": "El mapa electoral: ¿Qué dicen las encuestas en cada provincia?",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/el-mapa-electoral-los-escanos-en-juego-en-cada-provincia-segun-las-encuestas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Un modelo de simulación electoral reparte los escaños entre los que parecen decididos y los que siguen en el aire."
+    },
+    {
+     "titular": "Ayuso habla de “terror sindical” por la huelga y la oposición le responde que ella es una enchufada del PP",
+     "url": "https://elpais.com/espana/madrid/2026-11-12/ayuso-se-enfrenta-a-la-asamblea-de-madrid-con-la-resaca-de-la-huelga-general-y-tras-llamar-a-los-sindicatos-basura.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "Ayuso habla de terror sindical por la huelga y la oposición responde con críticas a su gestión."
+    },
+    {
+     "titular": "El ascenso de los hijos de Huang en Nvidia aviva las dudas por la gobernanza: de chef y barman a ejecutivos de la mayor compañía del mundo",
+     "url": "https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Analiza el ascenso de los hijos y el yerno de Huang en Nvidia y las dudas sobre gobernanza."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la investigación judicial sobre financiación del PSOE y en el caso Nvidia. También recoge el efecto del decreto de vivienda y la campaña de la izquierda alternativa.",
+   "noticias": [
+    {
+     "titular": "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en la compra de pulseras antimaltrato",
+     "url": "https://www.elmundo.es/espana/2026/11/12/6af59511e85ecef6528b457a.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en pulseras antimaltrato."
+    },
+    {
+     "titular": "La UCO acude al Tribunal de Cuentas a por información sobre presuntas irregularidades en donaciones al PSOE",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5a9e2fdddff03488b459e.html",
+     "seccion": "Koldo García",
+     "resumen": "La UCO pide información al Tribunal de Cuentas sobre donaciones al PSOE en una causa de la Audiencia Nacional."
+    },
+    {
+     "titular": "La Diputación Permanente enmienda la plana al Pleno del Congreso y convalida el decreto de vivienda impulsado por los socialistas en medio de un agrio combate electoral",
+     "url": "https://www.elmundo.es/elecciones/2026/11/12/6af574fee9cf4a3f318b4571.html",
+     "seccion": "Artículos Marisa Cruz",
+     "resumen": "La Diputación Permanente convalida el decreto de vivienda en un clima de enfrentamiento sobre la huelga del 11-N."
+    },
+    {
+     "titular": "La factura de los 'decretos Maricarmen' en el alquiler: anuncios retirados, contratos paralizados e inquilinos con más dificultades para encontrar casa",
+     "url": "https://www.elmundo.es/economia/vivienda/2026/11/12/6af59b8fe4d4d85e378b45bf.html",
+     "seccion": "economía",
+     "resumen": "El decreto de alquiler ha retirado anuncios y paralizado contratos, según la información sobre el mercado."
+    },
+    {
+     "titular": "Dimite el consejero delegado de Nvidia, Jensen Huang",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/12/6af5c551fdddff03488b45ad.html",
+     "seccion": "Nvidia",
+     "resumen": "Jensen Huang deja el cargo de consejero delegado de Nvidia y Colette Kress lo sustituye."
+    },
+    {
+     "titular": "La juez Tardón imputa al ex delegado del Gobierno en Ceuta y le cita en la Audiencia Nacional el próximo 18 de noviembre",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5afbbfdddff8d358b4574.html",
+     "seccion": "España",
+     "resumen": "La jueza imputa al exdelegado del Gobierno en Ceuta y lo cita el 18 de noviembre."
+    },
+    {
+     "titular": "La desesperada lucha de Frente Amplio contra el voto útil al PSOE: \"Sólo nos queda votar 'al Perro' y cruzar los dedos\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af352d121efa0855e8b45aa.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Frente Amplio afronta el voto útil al PSOE con encuestas desfavorables y cambios de siglas."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Destaca la investigación de la UCO y la Fiscalía Europea sobre el PSOE y el Ministerio de Igualdad, junto a la imputación en el caso de Ceuta. Mezcla con noticias de ocio y consumo, como sorteos y ofertas.",
+   "noticias": [
+    {
+     "titular": "La UCO requiere más información al Tribunal de Cuentas sobre la financiación del PSOE",
+     "url": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html",
+     "seccion": "",
+     "resumen": "La UCO vuelve al Tribunal de Cuentas para pedir más información sobre la financiación del PSOE."
+    },
+    {
+     "titular": "La Fiscalía Europea investiga un presunto fraude en las pulseras antimaltrato en España",
+     "url": "https://www.abc.es/espana/fiscalia-europea-investiga-presunto-fraude-fondos-ue-20261112114442-nt.html",
+     "seccion": "",
+     "resumen": "La Fiscalía Europea investiga un presunto fraude en la compra de pulseras antimaltrato en sedes del Ministerio de Igualdad."
+    },
+    {
+     "titular": "La jueza que investiga la invasión de Ceuta imputa al exdelegado del Gobierno y le cita el 18 de noviembre",
+     "url": "https://www.abc.es/espana/jueza-investiga-invasion-ceuta-imputa-exdelegado-gobierno-20261112133303-nt.html",
+     "seccion": "",
+     "resumen": "La jueza que investiga la entrada masiva en Ceuta imputa al exdelegado del Gobierno y lo cita en noviembre."
+    },
+    {
+     "titular": "Adiós a las prórrogas indefinidas del alquiler: qué pasa ahora tras la caída del decreto",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/pasa-alquiler-inquilino-propietario-sale-adelante-decreto-20261112123915-nt.html",
+     "seccion": "",
+     "resumen": "Explica qué pasa con los alquileres tras la caída de uno de los decretos de vivienda."
+    },
+    {
+     "titular": "Abascal: «Ni soy un héroe después de 'La Revuelta' ni soy un villano tras no ir con Jordi Wild»",
+     "url": "https://www.abc.es/espana/abascal-heroe-despues-salir-revuelta-villano-tras-20261112105235-nt.html",
+     "seccion": "",
+     "resumen": "Abascal rechaza ser héroe o villano tras la cancelación de su entrevista con Jordi Wild."
+    },
+    {
+     "titular": "La exabogada de Koldo García confirma que Okdiario asumió el pago total de la defensa del exasesor",
+     "url": "https://www.abc.es/espana/exabogada-koldo-garcia-confirma-okdiario-asumio-pago-20261112140842-nt.html",
+     "seccion": "",
+     "resumen": "La exabogada de Koldo García confirma ante el juez que Okdiario pagó su defensa."
+    },
+    {
+     "titular": "Al menos ocho muertos y 17 heridos tras derrumbarse un edificio en Nueva York",
+     "url": "https://www.abc.es/internacional/dos-muertos-heridos-tras-derrumbarse-edificio-nueva-20261112071830-nt.html",
+     "seccion": "",
+     "resumen": "Un edificio residencial de Brooklyn se derrumba y deja al menos ocho muertos y 17 heridos."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza la política nacional y la precampaña, con foco en el decreto de vivienda y la negociación parlamentaria. Incluye también el caso Nvidia desde la perspectiva económica.",
+   "noticias": [
+    {
+     "titular": "La Diputación Permanente salva el decreto antidesahucios pero tumba la prórroga de los alquileres",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682472/diputacion-permanente-salva-decreto-principal-vivienda-tumba-prorroga-alquileres.html",
+     "seccion": "Política",
+     "resumen": "La Diputación Permanente salva el decreto antidesahucios pero tumba la prórroga de alquileres gracias a una particular aritmética parlamentaria."
+    },
+    {
+     "titular": "Marlaska ordena una investigación sobre las cargas policiales en las manifestaciones de la huelga general",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682251/marlaska-ordena-investigacion-sobre-cargas-policiales-manifestaciones-huelga-general.html",
+     "seccion": "Política",
+     "resumen": "Marlaska ordena investigar las cargas policiales en la huelga general y prohíbe el gas lacrimógeno."
+    },
+    {
+     "titular": "Sánchez se echa la campaña a cuestas como gran “movilizador” sin Zapatero ni Puente",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682396/sanchez-echa-campana-cuestas-gran-movilizador-psoe-zapatero-puente.html",
+     "seccion": "Política",
+     "resumen": "Sánchez inicia la campaña en Sevilla y promete sorpresas, con un gran acto final en Madrid."
+    },
+    {
+     "titular": "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682461/agentes-uco-acuden-tribunal-cuentas-pieza-financiacion-poe.html",
+     "seccion": "Política",
+     "resumen": "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE, por orden del juez Ismael Moreno."
+    },
+    {
+     "titular": "Leire Díez dice también que le ofrecieron dos millones por inventarse acusaciones contra Pedro Sánchez",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682212/leire-diez-dice-le-ofrecieron-dos-millones-inventarse-acusaciones-pedro-sanchez.html",
+     "seccion": "Política",
+     "resumen": "Leire Díez asegura en su libro que le ofrecieron dos millones por inventar acusaciones contra Sánchez."
+    },
+    {
+     "titular": "Nvidia prepara el despido de Huang al descubrirse que tenía otra amante, además de la espía china",
+     "url": "https://www.lavanguardia.com/economia/20261112/11682155/nvidia-prepara-despido-jensen-huang-descubrirse-tenia-amante-espia.html",
+     "seccion": "Economía",
+     "resumen": "Nvidia prepara la salida de Huang tras conocerse otra relación, según WSJ y NYT."
+    },
+    {
+     "titular": "La huelga recoge un malestar de fondo, pero dividido por la polarización política",
+     "url": "https://www.lavanguardia.com/politica/20261111/11681895/huelga-recoge-malestar-fondo-dividido-polarizacion-politica.html",
+     "seccion": "Política",
+     "resumen": "La huelga del 11-N refleja un malestar de fondo, dividido por la polarización política."
+    }
+   ]
+  }
+ ]
+}

@@ -1,476 +1,204 @@
 {
  "fecha": "2026-11-12",
- "franja": "mañana",
- "generada": "2026-11-12T00:09+01:00",
+ "franja": "tarde",
+ "generada": "2026-11-12T15:04+01:00",
  "con_ia": true,
- "resumen_dia": "La huelga general del 11 de noviembre tuvo un seguimiento desigual según los diarios y las fuentes: los sindicatos la calificaron de éxito y la CEOE de fracaso. Las manifestaciones por la vivienda reunieron a decenas de miles de personas en Madrid y Barcelona, donde los disturbios y saqueos dejaron detenidos y cargas policiales. En paralelo, la polémica entre Vox y RTVE por la entrevista de Abascal en 'La Revuelta' y las críticas al PP por sus mensajes sobre los sindicatos ocuparon buena parte de la agenda política de la jornada.",
- "temas_comunes": [
-  {
-   "titulo": "Balance y seguimiento de la huelga general",
-   "resumen": "La huelga general del 11N tuvo un seguimiento desigual: los sindicatos la valoran positivamente y la patronal la considera un fracaso. Hubo al menos un centenar de detenidos en toda España.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Destaca que el paro fue más visible en las calles que en los centros de trabajo, con más seguimiento en industria, automoción y puertos.",
-     "noticias": [
-      {
-       "titular": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
-       "url": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
-       "seccion": "Economía"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge la estimación de la CEOE, que sitúa el seguimiento por debajo del 5%, y el impacto en las ventas de supermercados y comercios.",
-     "noticias": [
-      {
-       "titular": "CEOE certifica el \"fracaso\" de la huelga general y sitúa el seguimiento por debajo del 5%mientras los sindicatos se manifiestan bajo el fuerte temporal",
-       "url": "https://www.elmundo.es/economia/2026/11/11/6af4223ee4d4d8787d8b4593.html",
-       "seccion": "Huelgas"
-      },
-      {
-       "titular": "Los supermercados desploman sus ventas un 30% en una jornada de huelga marcada por la lluvia y los cierres de comercios por su seguridad",
-       "url": "https://www.elmundo.es/economia/empresas/2026/11/11/6af46861e4d4d8ee7c8b45b3.html",
-       "seccion": "Huelga general"
-      },
-      {
-       "titular": "El día en que Doña Manolita se quedó sin cola: \"No hay casi nadie en la fila por la huelga y por la lluvia\"",
-       "url": "https://www.elmundo.es/madrid/2026/11/11/6af4b14621efa070728b4596.html",
-       "seccion": "Huelga general"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Subraya que la normalidad fue la tónica pese a los piquetes, según una fuente empresarial.",
-     "noticias": [
-      {
-       "titular": "La dureza de los piquetes no logró parar el país en la primera huelga general en 14 años",
-       "url": "https://www.abc.es/economia/dureza-piquetes-logro-parar-pais-primera-huelga-20261111200454-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Las manifestaciones acaban en disturbios y cargas policiales en Madrid y Barcelona",
-       "url": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Contrapone la valoración de los sindicatos, que hablan de superar expectativas, con la de la CEOE, que habla de fracaso.",
-     "noticias": [
-      {
-       "titular": "Los sindicatos dicen que la huelga “supera las expectativas” y la CEOE la califica de “fracaso”",
-       "url": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
-       "seccion": "Economía"
-      },
-      {
-       "titular": "Foment y Pimec apuntan a un seguimiento bajo y denuncian las afectaciones en el transporte",
-       "url": "https://www.lavanguardia.com/economia/20261111/11681655/foment-pimec-apuntan-seguimiento-denuncian-afectaciones-transporte.html",
-       "seccion": "Economía"
-      },
-      {
-       "titular": "La huelga general y la frustración política",
-       "url": "https://www.lavanguardia.com/economia/20261111/11681611/huelga-general-frustracion-politica.html",
-       "seccion": "Economía"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Manifestaciones por la vivienda y disturbios",
-   "resumen": "Decenas de miles de personas se manifestaron por la vivienda en Madrid y Barcelona. En Barcelona hubo saqueos, quema de contenedores y enfrentamientos con los Mossos, y en Madrid, cargas policiales.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Se centra en la protesta bajo la lluvia en Madrid y en las palabras de Salvador Illa condenando los altercados.",
-     "noticias": [
-      {
-       "titular": "Decenas de miles de personas claman por la vivienda bajo la lluvia en toda España",
-       "url": "https://elpais.com/espana/2026-11-11/decenas-de-miles-de-personas-claman-por-la-vivienda-bajo-la-lluvia-en-toda-espana.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "La manifestación por la vivienda digna acaba con altercados en el centro de Barcelona",
-       "url": "https://elpais.com/espana/catalunya/2026-11-11/miles-de-personas-se-manifiestan-en-barcelona-por-una-vivienda-digna.html",
-       "seccion": "Cataluña"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Pone el foco en los saqueos y barricadas en Barcelona y en las cargas en Madrid.",
-     "noticias": [
-      {
-       "titular": "Saqueos y barricadas en Barcelona y cargas en Madrid en el final de la huelga con al menos un centenar detenidos en toda España",
-       "url": "https://www.elmundo.es/espana/2026/11/11/6af4d97dfc6c83e1258b459e.html",
-       "seccion": "Artículos Quico Alsedo"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Titula con los disturbios y las cargas policiales en Madrid y Barcelona.",
-     "noticias": [
-      {
-       "titular": "Las manifestaciones acaban en disturbios y cargas policiales en Madrid y Barcelona",
-       "url": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Cifra en más de 100.000 los asistentes en Madrid y señala el gas pimienta y las cargas contra piquetes.",
-     "noticias": [
-      {
-       "titular": "Más de 100.000 personas recorren Madrid pese a la lluvia para pedir soluciones al problema de la vivienda",
-       "url": "https://www.lavanguardia.com/economia/20261111/11681915/mas-100-000-personas-recorren-madrid-pese-lluvia-pedir-soluciones-problema-vivienda.html",
-       "seccion": "Economía"
-      },
-      {
-       "titular": "Las manifestaciones masivas en Madrid y Barcelona dan paso a altercados de grupos violentos",
-       "url": "https://www.lavanguardia.com/vida/20261111/11681344/huelga-general-espana-11n-movilizaciones-sindicatos-manifestaciones-ultima-hora-hoy-en-directo.html",
-       "seccion": "Sociedad"
-      },
-      {
-       "titular": "“No podemos hacer nuestra labor”: el fuerte control policial y las cargas marcan el día de huelga en Madrid",
-       "url": "https://www.lavanguardia.com/economia/20261111/11681728/nuestra-labor-fuerte-control-policial-cargas-marcan-dia-huelga-madrid.html",
-       "seccion": "Economía"
-      },
-      {
-       "titular": "Los altercados empañan la jornada de huelga en Barcelona",
-       "url": "https://www.lavanguardia.com/fotos/20261111/11681920/altercados-empanan-jornada-huelga-barcelona.html",
-       "seccion": "Fotografía"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Polémica Vox y Abascal en 'La Revuelta'",
-   "resumen": "Vox canceló la entrevista de Santiago Abascal con Jordi Wild tras la emisión de 'La Revuelta' con Broncano, cuyo programa recortó unos 40 minutos.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge la cancelación de la entrevista con Wild y la reacción de Wild, y la visita de Colau al programa.",
-     "noticias": [
-      {
-       "titular": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre los 40 minutos inéditos de ‘La revuelta’",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-11/vox-cancela-la-entrevista-de-abascal-con-jordi-wild-tras-la-polemica-por-los-40-minutos-ineditos-de-la-revuelta.html",
-       "seccion": "Santiago Abascal"
-      },
-      {
-       "titular": "Jordi Wild reacciona a la cancelación de Abascal de su entrevista: “Es una falta de respeto a mi trabajo”",
-       "url": "https://elpais.com/television/2026-11-11/jordi-wild-reacciona-a-la-cancelacion-de-abascal-de-su-entrevista-es-una-falta-de-respeto-a-mi-trabajo.html",
-       "seccion": "Televisión"
-      },
-      {
-       "titular": "Broncano está de luto y Colau no es humorista: el día después del ‘abascalazo’ en ‘La revuelta’",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/broncano-esta-de-luto-y-colau-no-es-humorista-el-dia-despues-del-abascalazo-en-la-revuelta.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "No recoge el asunto en su portada de hoy.",
-     "noticias": []
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Recoge las preguntas que no se emitieron de la entrevista de Broncano a Abascal y la selección del público por parte de Vox.",
-     "noticias": [
-      {
-       "titular": "Las preguntas clásicas de Broncano que La Revuelta no emitió",
-       "url": "https://www.abc.es/play/television/preguntas-clasicas-broncano-abascal-revuelta-emitio-intimas-20261110130727-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Un ayuntamiento socialista sevillano capta al público que Sánchez tendrá en el ‘Perro Andaluz’",
-       "url": "https://www.abc.es/sevilla/provincia/ayuntamientos-sevillanos-psoe-ponen-autobuses-gratis-llevar-20261111181047-nts.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "No recoge el asunto en su portada de hoy.",
-     "noticias": []
-    }
-   ]
-  },
-  {
-   "titulo": "Críticas al PP por mensajes sobre los sindicatos",
-   "resumen": "Las Nuevas Generaciones del PP publicaron un mensaje sobre la huelga que generó críticas, y Feijóo pidió a partidos y sindicatos condenar la agresión a dos afiliados del PP en Barakaldo.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge las críticas al PP por tratar a los sindicatos de 'comegambas' y el mensaje de las Nuevas Generaciones.",
-     "noticias": [
-      {
-       "titular": "Aluvión de críticas al PP por ridiculizar a los sindicatos como unos ‘comegambas’: “Este país y sus trabajadores os quedan grandes”",
-       "url": "https://elpais.com/espana/2026-11-11/aluvion-de-criticas-al-pp-por-ridiculizar-a-los-sindicatos-como-unos-comegambas-este-pais-y-sus-trabajadores-os-quedan-grandes.html",
-       "seccion": "Huelga 11N"
-      },
-      {
-       "titular": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
-       "url": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
-       "seccion": "Economía"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge la petición de Feijóo de condenar la agresión en Barakaldo.",
-     "noticias": [
-      {
-       "titular": "Feijóo espera de partidos y sindicatos una condena de la agresión a dos afiliados del PP en Barakaldo",
-       "url": "https://www.elmundo.es/espana/2026/11/11/6af4e0aae4d4d84a5d8b45b5.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "No recoge el asunto en su portada de hoy.",
-     "noticias": []
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge la polémica de un policía que pidió identificarse a Ione Belarra en un piquete.",
-     "noticias": [
-      {
-       "titular": "Un policía pide identificarse a Ione Belarra en un piquete",
-       "url": "https://www.lavanguardia.com/politica/20261111/11681737/policia-pide-identificarse-ione-belarra-piquete.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  }
- ],
+ "resumen_dia": "La huelga general del 11-N y la campaña para las elecciones del 29-N dominan la agenda, con el decreto de vivienda convalidado en parte por la Diputación Permanente. En el ámbito internacional, la dimisión del consejero delegado de Nvidia, Jensen Huang, tras conocerse sus relaciones extramatrimoniales y el caso de espionaje centra la atención económica. También destacan la imputación del exdelegado del Gobierno en Ceuta y la investigación de la UCO sobre la financiación del PSOE, con la Fiscalía Europea actuando sobre las pulseras antimaltrato.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\":\"Decreto de vivienda en la Diputación Permanente\",\"resumen\":\"La Diputación Permanente convalida la medida que prohíbe los desahucios, pero rechaza la prórroga automática e indefinida de los alquileres. Otras medidas del decreto siguen en vigor.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Subraya que la norma principal del Gobierno sigue adelante junto a un amplio paquete de cambios para inquilinos, propietarios y empresas.\",\"ids\":[\"elpais-6\",\"elpais-7\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Pone el foco en el efecto del decreto en el mercado del alquiler, con anuncios retirados y contratos paralizados.\",\"ids\":[\"elmundo-4\",\"elmundo-5\"]},{\"medio\":\"abc\",\"enfoque\":\"Explica qué ocurre ahora con las prórrogas de los alquileres tras la caída de una de las normas.\",\"ids\":[\"abc-16\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Destaca el mecanismo parlamentario que salva el decreto antidesahucios pese al rechazo de Junts y resume las claves de la norma.\",\"ids\":[\"lavanguardia-0\",\"lavanguardia-3\"]}]},{\"titulo\":\"Huelga general del 11-N y cargas policiales\",\"resumen\":\"La huelga general del 11-N deja protestas masivas y cargas policiales en las manifestaciones. El ministro del Interior ordena una investigación y prohíbe el uso de gas lacrimógeno para controlar protestas.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Recoge la promesa de investigación de Marlaska junto a la petición de dimisión de la izquierda y las críticas de Ayuso al sindicalismo.\",\"ids\":[\"elpais-8\",\"elpais-9\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Recoge la valoración de la izquierda, que califica la huelga de éxito histórico, frente a la derecha, que la considera hipócrita.\",\"ids\":[\"elmundo-4\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Interpreta la huelga como reflejo de un malestar de fondo dividido por la polarización, con paralelismos con la de 2012.\",\"ids\":[\"lavanguardia-8\",\"lavanguardia-9\"]}]},{\"titulo\":\"Caso Nvidia: dimisión de Jensen Huang\",\"resumen\":\"Jensen Huang deja el cargo de consejero delegado de Nvidia tras conocerse sus relaciones extramatrimoniales, una de ellas con una presunta espía china. Colette Kress asume la dirección.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Se centra en la dimisión por las relaciones y el caso de espionaje, y en las dudas sobre la gobernanza por el ascenso de sus hijos y su yerno en la empresa.\",\"ids\":[\"elpais-4\",\"elpais-5\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Destaca el nombramiento de Colette Kress y el episodio del supuesto marido de una de las amantes.\",\"ids\":[\"elmundo-7\",\"elmundo-8\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Enfoca la caída bursátil de casi un 8% y la discusión del consejo sobre su destitución, con la reacción de Elon Musk.\",\"ids\":[\"lavanguardia-15\",\"lavanguardia-16\",\"lavanguardia-17\"]}]},{\"titulo\":\"Investigación de la UCO sobre el PSOE y pulseras antimaltrato\",\"resumen\":\"La UCO acude al Tribunal de Cuentas en el marco de la investigación sobre la financiación del PSOE. La Fiscalía Europea investiga un presunto fraude en la compra de pulseras antimaltrato con sedes del Ministerio de Igualdad y del Tribunal de Cuentas.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"No recoge esta información en su portada seleccionada.\",\"ids\":[]},{\"medio\":\"elmundo\",\"enfoque\":\"Vincula la Fiscalía Europea con el envío de la UCO al Ministerio de Igualdad y subraya la presunta financiación irregular del partido.\",\"ids\":[\"elmundo-0\",\"elmundo-1\"]},{\"medio\":\"abc\",\"enfoque\":\"Pone el acento en la nueva petición de información de la UCO al Tribunal de Cuentas y en el fraude de las pulseras.\",\"ids\":[\"abc-0\",\"abc-12\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Destaca la orden del juez Ismael Moreno sobre los gastos del partido y las declaraciones de Leire Díez.\",\"ids\":[\"lavanguardia-13\",\"lavanguardia-14\"]}]},{\"titulo\":\"Campaña electoral del 29-N\",\"resumen\":\"La precampaña avanza con el debate sobre inmigración, vivienda y el papel de los candidatos. Vox cancela su entrevista con Jordi Wild, lo que genera críticas entre youtubers.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Recoge el mapa electoral con simulaciones, el debate de candidatos catalanes y las críticas de youtubers a Vox.\",\"ids\":[\"elpais-0\",\"elpais-3\",\"elpais-15\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Analiza las dificultades de Frente Amplio frente al voto útil al PSOE.\",\"ids\":[\"elmundo-3\",\"elmundo-11\"]},{\"medio\":\"abc\",\"enfoque\":\"Recoge la explicación de Abascal sobre la cancelación de la entrevista con Jordi Wild.\",\"ids\":[\"abc-2\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Sitúa a Sánchez como movilizador de la campaña y recoge la reacción de youtubers ante la negativa de Vox.\",\"ids\":[\"lavanguardia-6\",\"lavanguardia-11\"]}]}]",
+ "temas_comunes": [],
  "medios": [
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la huelga general y la vivienda, con un enfoque en la protesta social y las reacciones políticas. Incluye también la polémica de Vox con Broncano y el auge de contenidos sobre redes y televisión.",
+   "resumen": "Prioriza la campaña electoral, con encuestas y el mapa de escaños, y la huelga general con sus consecuencias políticas. Incluye también el caso Nvidia y el decreto de vivienda.",
    "noticias": [
     {
-     "titular": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
-     "url": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
-     "seccion": "Economía",
-     "resumen": "Balance de la huelga: seguimiento desigual, mayor visibilidad en la calle que en los centros de trabajo, y enfrentamiento del PP con las centrales sindicales."
-    },
-    {
-     "titular": "Decenas de miles de personas claman por la vivienda bajo la lluvia en toda España",
-     "url": "https://elpais.com/espana/2026-11-11/decenas-de-miles-de-personas-claman-por-la-vivienda-bajo-la-lluvia-en-toda-espana.html",
+     "titular": "El Congreso se divide sobre dos decretos de vivienda en la resaca de la huelga y el arranque de la campaña electoral",
+     "url": "https://elpais.com/espana/2026-11-12/el-congreso-se-divide-sobre-dos-decretos-de-vivienda-en-la-resaca-de-la-huelga-y-el-arranque-de-la-campana-electoral.html",
      "seccion": "España",
-     "resumen": "Manifestación multitudinaria por la vivienda bajo la lluvia en Madrid y otras ciudades."
+     "resumen": "El Congreso se divide: la Diputación Permanente convalida la prohibición de desahucios pero rechaza la prórroga automática de alquileres."
     },
     {
-     "titular": "La manifestación por la vivienda digna acaba con altercados en el centro de Barcelona",
-     "url": "https://elpais.com/espana/catalunya/2026-11-11/miles-de-personas-se-manifiestan-en-barcelona-por-una-vivienda-digna.html",
-     "seccion": "Cataluña",
-     "resumen": "Altercados tras la marcha por la vivienda en Barcelona, con saqueos y quema de contenedores; Illa los condena."
+     "titular": "Desahucios, alquileres y ayudas para comprar: las medidas del decreto de vivienda que siguen adelante",
+     "url": "https://elpais.com/economia/vivienda/2026-11-12/desahucios-alquileres-y-ayudas-para-comprar-las-medidas-del-decreto-de-vivienda-que-siguen-adelante.html",
+     "seccion": "Vivienda",
+     "resumen": "Detalla las medidas del decreto que siguen en vigor: desahucios, alquileres y ayudas para la compra de vivienda."
     },
     {
-     "titular": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre los 40 minutos inéditos de ‘La revuelta’",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-11/vox-cancela-la-entrevista-de-abascal-con-jordi-wild-tras-la-polemica-por-los-40-minutos-ineditos-de-la-revuelta.html",
-     "seccion": "Santiago Abascal",
-     "resumen": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre el material no emitido de 'La Revuelta'."
+     "titular": "Marlaska promete investigar las cargas policiales mientras la izquierda le pide la dimisión",
+     "url": "https://elpais.com/espana/2026-11-12/marlaska-ordena-una-investigacion-sobre-las-cargas-policiales-en-las-manifestaciones-y-pide-que-no-se-use-gas-lacrimogeno.html",
+     "seccion": "España",
+     "resumen": "Marlaska anuncia una investigación sobre las cargas policiales y prohíbe el gas lacrimógeno en protestas."
     },
     {
-     "titular": "Samantha Hudson, Laura Weissmahr y María Barrier denuncian violencia policial en las cargas de la huelga general en Madrid",
-     "url": "https://elpais.com/videos/2026-11-11/samantha-hudson-laura-weissmahr-y-maria-barrier-denuncian-violencian-policial-en-las-cargas-de-la-huelga-general-en-madrid.html",
-     "seccion": "Huelga 11N",
-     "resumen": "Tres artistas denuncian violencia policial durante las cargas en la Gran Vía de Madrid."
-    },
-    {
-     "titular": "Aluvión de críticas al PP por ridiculizar a los sindicatos como unos ‘comegambas’: “Este país y sus trabajadores os quedan grandes”",
-     "url": "https://elpais.com/espana/2026-11-11/aluvion-de-criticas-al-pp-por-ridiculizar-a-los-sindicatos-como-unos-comegambas-este-pais-y-sus-trabajadores-os-quedan-grandes.html",
-     "seccion": "Huelga 11N",
-     "resumen": "Críticas al PP por llamar 'comegambas' a los sindicatos en redes y por el mensaje de Nuevas Generaciones."
-    },
-    {
-     "titular": "La revelación de una nueva relación extramarital del consejero delegado de Nvidia compromete su futuro en la compañía",
-     "url": "https://elpais.com/us/2026-11-11/la-revelacion-de-una-nueva-relacion-extramarital-del-consejero-delegado-de-nvidia-compromete-su-futuro-en-la-compania.html",
+     "titular": "Jensen Huang dimite como consejero delegado de Nvidia tras destaparse el escándalo sobre sus infidelidades y el caso de espionaje",
+     "url": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
      "seccion": "Estados Unidos",
-     "resumen": "Una relación extramatrimonial del consejero delegado de Nvidia pone en duda su futuro; la junta se reúne hoy."
+     "resumen": "Jensen Huang deja la dirección de Nvidia tras conocerse sus relaciones y un caso de espionaje."
     },
     {
-     "titular": "¿Cuánto se nota la huelga? La caída del consumo eléctrico en tiempo real",
-     "url": "https://elpais.com/espana/2026-11-11/cuanto-se-nota-la-huelga-la-caida-del-consumo-electrico-en-tiempo-real.html",
-     "seccion": "Huelga 11N",
-     "resumen": "Seguimiento de la huelga medido a través de la caída del consumo eléctrico en tiempo real."
+     "titular": "El mapa electoral: ¿Qué dicen las encuestas en cada provincia?",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/el-mapa-electoral-los-escanos-en-juego-en-cada-provincia-segun-las-encuestas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Un modelo de simulación electoral reparte los escaños entre los que parecen decididos y los que siguen en el aire."
+    },
+    {
+     "titular": "Ayuso habla de “terror sindical” por la huelga y la oposición le responde que ella es una enchufada del PP",
+     "url": "https://elpais.com/espana/madrid/2026-11-12/ayuso-se-enfrenta-a-la-asamblea-de-madrid-con-la-resaca-de-la-huelga-general-y-tras-llamar-a-los-sindicatos-basura.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "Ayuso habla de terror sindical por la huelga y la oposición responde con críticas a su gestión."
+    },
+    {
+     "titular": "El ascenso de los hijos de Huang en Nvidia aviva las dudas por la gobernanza: de chef y barman a ejecutivos de la mayor compañía del mundo",
+     "url": "https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Analiza el ascenso de los hijos y el yerno de Huang en Nvidia y las dudas sobre gobernanza."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en el balance económico y de orden público de la huelga, con la visión de la patronal. Dedica también espacio a la investigación judicial del caso Cloacas y a la búsqueda del autor del atentado de Oviedo.",
+   "resumen": "Pone el foco en la investigación judicial sobre financiación del PSOE y en el caso Nvidia. También recoge el efecto del decreto de vivienda y la campaña de la izquierda alternativa.",
    "noticias": [
     {
-     "titular": "Saqueos y barricadas en Barcelona y cargas en Madrid en el final de la huelga con al menos un centenar detenidos en toda España",
-     "url": "https://www.elmundo.es/espana/2026/11/11/6af4d97dfc6c83e1258b459e.html",
-     "seccion": "Artículos Quico Alsedo",
-     "resumen": "Saqueos y barricadas en Barcelona y cargas en Madrid al final de la huelga, con un centenar de detenidos en el país."
+     "titular": "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en la compra de pulseras antimaltrato",
+     "url": "https://www.elmundo.es/espana/2026/11/12/6af59511e85ecef6528b457a.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en pulseras antimaltrato."
     },
     {
-     "titular": "CEOE certifica el \"fracaso\" de la huelga general y sitúa el seguimiento por debajo del 5%mientras los sindicatos se manifiestan bajo el fuerte temporal",
-     "url": "https://www.elmundo.es/economia/2026/11/11/6af4223ee4d4d8787d8b4593.html",
-     "seccion": "Huelgas",
-     "resumen": "La CEOE califica la huelga de fracaso y sitúa el seguimiento por debajo del 5%, mientras los sindicatos se manifiestan."
+     "titular": "La UCO acude al Tribunal de Cuentas a por información sobre presuntas irregularidades en donaciones al PSOE",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5a9e2fdddff03488b459e.html",
+     "seccion": "Koldo García",
+     "resumen": "La UCO pide información al Tribunal de Cuentas sobre donaciones al PSOE en una causa de la Audiencia Nacional."
     },
     {
-     "titular": "Los supermercados desploman sus ventas un 30% en una jornada de huelga marcada por la lluvia y los cierres de comercios por su seguridad",
-     "url": "https://www.elmundo.es/economia/empresas/2026/11/11/6af46861e4d4d8ee7c8b45b3.html",
-     "seccion": "Huelga general",
-     "resumen": "Las ventas de supermercados caen un 30% y el pago con tarjeta baja con fuerza en grandes ciudades; la CEOE habla de seguimiento reducido."
+     "titular": "La Diputación Permanente enmienda la plana al Pleno del Congreso y convalida el decreto de vivienda impulsado por los socialistas en medio de un agrio combate electoral",
+     "url": "https://www.elmundo.es/elecciones/2026/11/12/6af574fee9cf4a3f318b4571.html",
+     "seccion": "Artículos Marisa Cruz",
+     "resumen": "La Diputación Permanente convalida el decreto de vivienda en un clima de enfrentamiento sobre la huelga del 11-N."
     },
     {
-     "titular": "El juez del 'caso Cloacas' detecta un pago de 105.000 euros entre un ex abogado del PSOE y el histórico socialista Gaspar Zarrías, imputados por financiar a la 'fontanera'",
-     "url": "https://www.elmundo.es/espana/2026/11/11/6af462a5e9cf4a0e668b4575.html",
-     "seccion": "Artículos Manuel Marraco",
-     "resumen": "El juez del caso Cloacas detecta un pago de 105.000 euros entre un exabogado del PSOE y Gaspar Zarrías."
+     "titular": "La factura de los 'decretos Maricarmen' en el alquiler: anuncios retirados, contratos paralizados e inquilinos con más dificultades para encontrar casa",
+     "url": "https://www.elmundo.es/economia/vivienda/2026/11/12/6af59b8fe4d4d85e378b45bf.html",
+     "seccion": "economía",
+     "resumen": "El decreto de alquiler ha retirado anuncios y paralizado contratos, según la información sobre el mercado."
     },
     {
-     "titular": "Oviedo despide al subinspector 'Jota' y a su perro Deny, muertos en la explosión de Villafría, mientras 'el Ruso' sigue fugado: \"Lo fundamental es detener al objetivo\"",
-     "url": "https://www.elmundo.es/espana/2026/11/11/6af472c6e4d4d8df2b8b458b.html",
-     "seccion": "Policía Nacional",
-     "resumen": "Oviedo despide a un subinspector y a su perro muertos en la explosión de Villafría, mientras el presunto autor sigue huido."
+     "titular": "Dimite el consejero delegado de Nvidia, Jensen Huang",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/12/6af5c551fdddff03488b45ad.html",
+     "seccion": "Nvidia",
+     "resumen": "Jensen Huang deja el cargo de consejero delegado de Nvidia y Colette Kress lo sustituye."
     },
     {
-     "titular": "Feijóo espera de partidos y sindicatos una condena de la agresión a dos afiliados del PP en Barakaldo",
-     "url": "https://www.elmundo.es/espana/2026/11/11/6af4e0aae4d4d84a5d8b45b5.html",
-     "seccion": "",
-     "resumen": "Feijóo pide a partidos y sindicatos que condenen la agresión a dos afiliados del PP en Barakaldo."
+     "titular": "La juez Tardón imputa al ex delegado del Gobierno en Ceuta y le cita en la Audiencia Nacional el próximo 18 de noviembre",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5afbbfdddff8d358b4574.html",
+     "seccion": "España",
+     "resumen": "La jueza imputa al exdelegado del Gobierno en Ceuta y lo cita el 18 de noviembre."
     },
     {
-     "titular": "La borrasca Charles provoca vientos de hasta 124 km/h y obliga a suspender clases, vuelos y conexiones marítimas",
-     "url": "https://www.elmundo.es/espana/2026/11/11/6af419f0fc6c83465a8b457a.html",
-     "seccion": "AEMET",
-     "resumen": "La borrasca Charles deja vientos de hasta 124 km/h y obliga a suspender clases, vuelos y conexiones."
-    },
-    {
-     "titular": "Acuerdo de mínimos en Abu Dabi entre Rusia y Ucrania: \"el mayor intercambio humanitario\" de prisioneros de la guerra",
-     "url": "https://www.elmundo.es/internacional/2026/11/11/6af494aefdddffb6388b4581.html",
-     "seccion": "Guerra Ucrania Rusia",
-     "resumen": "Acuerdo entre Rusia y Ucrania en Abu Dabi para el mayor intercambio de prisioneros, mientras la seguridad europea avanza poco."
+     "titular": "La desesperada lucha de Frente Amplio contra el voto útil al PSOE: \"Sólo nos queda votar 'al Perro' y cruzar los dedos\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af352d121efa0855e8b45aa.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Frente Amplio afronta el voto útil al PSOE con encuestas desfavorables y cambios de siglas."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Combina el seguimiento de la huelga y los disturbios con la carrera electoral y la política de defensa. Incluye además la agenda cultural y gastronómica y el sorteo de la ONCE.",
+   "resumen": "Destaca la investigación de la UCO y la Fiscalía Europea sobre el PSOE y el Ministerio de Igualdad, junto a la imputación en el caso de Ceuta. Mezcla con noticias de ocio y consumo, como sorteos y ofertas.",
    "noticias": [
     {
-     "titular": "Las manifestaciones acaban en disturbios y cargas policiales en Madrid y Barcelona",
-     "url": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
+     "titular": "La UCO requiere más información al Tribunal de Cuentas sobre la financiación del PSOE",
+     "url": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html",
      "seccion": "",
-     "resumen": "Las manifestaciones acaban en disturbios y cargas policiales en Madrid y Barcelona durante la jornada de huelga."
+     "resumen": "La UCO vuelve al Tribunal de Cuentas para pedir más información sobre la financiación del PSOE."
     },
     {
-     "titular": "La dureza de los piquetes no logró parar el país en la primera huelga general en 14 años",
-     "url": "https://www.abc.es/economia/dureza-piquetes-logro-parar-pais-primera-huelga-20261111200454-nt.html",
+     "titular": "La Fiscalía Europea investiga un presunto fraude en las pulseras antimaltrato en España",
+     "url": "https://www.abc.es/espana/fiscalia-europea-investiga-presunto-fraude-fondos-ue-20261112114442-nt.html",
      "seccion": "",
-     "resumen": "La huelga no paró el país según una fuente empresarial, que la describe como normal pese a los piquetes."
+     "resumen": "La Fiscalía Europea investiga un presunto fraude en la compra de pulseras antimaltrato en sedes del Ministerio de Igualdad."
     },
     {
-     "titular": "Sánchez compromete 'in extremis' y de tapadillo 19.000 millones en defensa",
-     "url": "https://www.abc.es/espana/sanchez-compromete-extremis-19000-millones-defensa-pese-20261111171909-nt.html",
+     "titular": "La jueza que investiga la invasión de Ceuta imputa al exdelegado del Gobierno y le cita el 18 de noviembre",
+     "url": "https://www.abc.es/espana/jueza-investiga-invasion-ceuta-imputa-exdelegado-gobierno-20261112133303-nt.html",
      "seccion": "",
-     "resumen": "El Gobierno compromete cerca de 19.000 millones en modernización de armamento antes de las elecciones del 29N."
+     "resumen": "La jueza que investiga la entrada masiva en Ceuta imputa al exdelegado del Gobierno y lo cita en noviembre."
     },
     {
-     "titular": "¿Dónde se esconde El Ruso? La búsqueda del asesino de la mochila bomba de Oviedo se traslada al campo",
-     "url": "https://www.abc.es/espana/esconde-ruso-busqueda-asesino-mochila-bomba-oviedo-20261111190234-nt.html",
+     "titular": "Adiós a las prórrogas indefinidas del alquiler: qué pasa ahora tras la caída del decreto",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/pasa-alquiler-inquilino-propietario-sale-adelante-decreto-20261112123915-nt.html",
      "seccion": "",
-     "resumen": "La búsqueda de 'El Ruso', sospechoso del atentado con mochila bomba en Oviedo, se extiende a zonas rurales."
+     "resumen": "Explica qué pasa con los alquileres tras la caída de uno de los decretos de vivienda."
     },
     {
-     "titular": "Las preguntas clásicas de Broncano que La Revuelta no emitió",
-     "url": "https://www.abc.es/play/television/preguntas-clasicas-broncano-abascal-revuelta-emitio-intimas-20261110130727-nt.html",
+     "titular": "Abascal: «Ni soy un héroe después de 'La Revuelta' ni soy un villano tras no ir con Jordi Wild»",
+     "url": "https://www.abc.es/espana/abascal-heroe-despues-salir-revuelta-villano-tras-20261112105235-nt.html",
      "seccion": "",
-     "resumen": "Las preguntas que no se emitieron de la entrevista de Broncano a Abascal, con unos 40 minutos recortados."
+     "resumen": "Abascal rechaza ser héroe o villano tras la cancelación de su entrevista con Jordi Wild."
     },
     {
-     "titular": "Feijóo, sobre su infancia: «No había lavadora, ni nevera, ni agua corriente. En mi casa había cerdos y gallinas»",
-     "url": "https://www.abc.es/gente/feijoo-sobre-infancia-humilde-aldea-habitantes-lavadora-20261111190631-nt.html",
+     "titular": "La exabogada de Koldo García confirma que Okdiario asumió el pago total de la defensa del exasesor",
+     "url": "https://www.abc.es/espana/exabogada-koldo-garcia-confirma-okdiario-asumio-pago-20261112140842-nt.html",
      "seccion": "",
-     "resumen": "Feijóo habla de su infancia en 'El Hormiguero' en plena campaña para las elecciones del 29 de noviembre."
+     "resumen": "La exabogada de Koldo García confirma ante el juez que Okdiario pagó su defensa."
     },
     {
-     "titular": "Dos eurodiputados de Vox viajan a Venezuela y ponen a prueba la apertura de Delcy",
-     "url": "https://www.abc.es/internacional/dos-eurodiputados-vox-viajan-venezuela-ponen-prueba-20261110200210-nt.html",
+     "titular": "Al menos ocho muertos y 17 heridos tras derrumbarse un edificio en Nueva York",
+     "url": "https://www.abc.es/internacional/dos-muertos-heridos-tras-derrumbarse-edificio-nueva-20261112071830-nt.html",
      "seccion": "",
-     "resumen": "Dos eurodiputados de Vox viajan a Venezuela para comprobar la apertura política del régimen de Delcy Rodríguez."
-    },
-    {
-     "titular": "Valladolid se corona campeona nacional y mundial de tapas con las propuestas de Jiapan y Habanero Taquería",
-     "url": "https://www.abc.es/espana/castilla-leon/valladolid-corona-campeona-nacional-mundial-tapas-propuestas-20261111212815-nt.html",
-     "seccion": "",
-     "resumen": "Valladolid gana el Concurso Nacional y Mundial de Tapas con propuestas de Jiapan y Habanero Taquería."
+     "resumen": "Un edificio residencial de Brooklyn se derrumba y deja al menos ocho muertos y 17 heridos."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Centra la portada en los altercados y el control policial en Madrid y Barcelona, y en la lectura política de la huelga. Destaca también la cobertura de la huelga en medios públicos y en la cultura.",
+   "resumen": "Prioriza la política nacional y la precampaña, con foco en el decreto de vivienda y la negociación parlamentaria. Incluye también el caso Nvidia desde la perspectiva económica.",
    "noticias": [
     {
-     "titular": "Las manifestaciones masivas en Madrid y Barcelona dan paso a altercados de grupos violentos",
-     "url": "https://www.lavanguardia.com/vida/20261111/11681344/huelga-general-espana-11n-movilizaciones-sindicatos-manifestaciones-ultima-hora-hoy-en-directo.html",
-     "seccion": "Sociedad",
-     "resumen": "Las manifestaciones masivas en Madrid y Barcelona dan paso a altercados de grupos violentos y a incendios que atienden los Bombers."
-    },
-    {
-     "titular": "Los sindicatos dicen que la huelga “supera las expectativas” y la CEOE la califica de “fracaso”",
-     "url": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
-     "seccion": "Economía",
-     "resumen": "Sindicatos hablan de una huelga que supera expectativas y la CEOE de fracaso; hay dos atropellos y detenciones en la primera jornada."
-    },
-    {
-     "titular": "“No podemos hacer nuestra labor”: el fuerte control policial y las cargas marcan el día de huelga en Madrid",
-     "url": "https://www.lavanguardia.com/economia/20261111/11681728/nuestra-labor-fuerte-control-policial-cargas-marcan-dia-huelga-madrid.html",
-     "seccion": "Economía",
-     "resumen": "Unos 13 heridos por gas pimienta en Mercamadrid y cargas en Gran Vía y en las cocheras de la EMT."
-    },
-    {
-     "titular": "Más de 100.000 personas recorren Madrid pese a la lluvia para pedir soluciones al problema de la vivienda",
-     "url": "https://www.lavanguardia.com/economia/20261111/11681915/mas-100-000-personas-recorren-madrid-pese-lluvia-pedir-soluciones-problema-vivienda.html",
-     "seccion": "Economía",
-     "resumen": "Más de 100.000 personas marchan en Madrid por la vivienda sin que los líderes de CCOO y UGT encabecen la protesta."
-    },
-    {
-     "titular": "La huelga general y la frustración política",
-     "url": "https://www.lavanguardia.com/economia/20261111/11681611/huelga-general-frustracion-politica.html",
-     "seccion": "Economía",
-     "resumen": "El seguimiento desigual de la huelga refleja, según el diario, una insatisfacción social matizada."
-    },
-    {
-     "titular": "Un policía pide identificarse a Ione Belarra en un piquete",
-     "url": "https://www.lavanguardia.com/politica/20261111/11681737/policia-pide-identificarse-ione-belarra-piquete.html",
+     "titular": "La Diputación Permanente salva el decreto antidesahucios pero tumba la prórroga de los alquileres",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682472/diputacion-permanente-salva-decreto-principal-vivienda-tumba-prorroga-alquileres.html",
      "seccion": "Política",
-     "resumen": "Un policía pide identificarse a Ione Belarra en un piquete; Irene Montero acusa al Gobierno de enviar a la Policía a dar 'palos'."
+     "resumen": "La Diputación Permanente salva el decreto antidesahucios pero tumba la prórroga de alquileres gracias a una particular aritmética parlamentaria."
     },
     {
-     "titular": "Un piquete ocupa el plató de 'Cafè d'idees' e impide su emisión en directo en La 2 Cat",
-     "url": "https://www.lavanguardia.com/television/20261111/11681379/piquete-ocupa-plato-cafe-d-idees-e-impide-emision-2-cat.html",
-     "seccion": "Televisión",
-     "resumen": "Un piquete ocupa el plató de 'Cafè d'idees' y altera la emisión en directo de La 2 Cat."
+     "titular": "Marlaska ordena una investigación sobre las cargas policiales en las manifestaciones de la huelga general",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682251/marlaska-ordena-investigacion-sobre-cargas-policiales-manifestaciones-huelga-general.html",
+     "seccion": "Política",
+     "resumen": "Marlaska ordena investigar las cargas policiales en la huelga general y prohíbe el gas lacrimógeno."
     },
     {
-     "titular": "Canal Sur se va a negro: la huelga general corta en seco 'Despierta Andalucía'",
-     "url": "https://www.lavanguardia.com/local/andalucia/20261111/11681516/canal-sur-negro-huelga-general-corta-seco-despierta-andalucia.html",
-     "seccion": "Andalucía",
-     "resumen": "Canal Sur interrumpe su programación matinal por la huelga general."
+     "titular": "Sánchez se echa la campaña a cuestas como gran “movilizador” sin Zapatero ni Puente",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682396/sanchez-echa-campana-cuestas-gran-movilizador-psoe-zapatero-puente.html",
+     "seccion": "Política",
+     "resumen": "Sánchez inicia la campaña en Sevilla y promete sorpresas, con un gran acto final en Madrid."
+    },
+    {
+     "titular": "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682461/agentes-uco-acuden-tribunal-cuentas-pieza-financiacion-poe.html",
+     "seccion": "Política",
+     "resumen": "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE, por orden del juez Ismael Moreno."
+    },
+    {
+     "titular": "Leire Díez dice también que le ofrecieron dos millones por inventarse acusaciones contra Pedro Sánchez",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682212/leire-diez-dice-le-ofrecieron-dos-millones-inventarse-acusaciones-pedro-sanchez.html",
+     "seccion": "Política",
+     "resumen": "Leire Díez asegura en su libro que le ofrecieron dos millones por inventar acusaciones contra Sánchez."
+    },
+    {
+     "titular": "Nvidia prepara el despido de Huang al descubrirse que tenía otra amante, además de la espía china",
+     "url": "https://www.lavanguardia.com/economia/20261112/11682155/nvidia-prepara-despido-jensen-huang-descubrirse-tenia-amante-espia.html",
+     "seccion": "Economía",
+     "resumen": "Nvidia prepara la salida de Huang tras conocerse otra relación, según WSJ y NYT."
+    },
+    {
+     "titular": "La huelga recoge un malestar de fondo, pero dividido por la polarización política",
+     "url": "https://www.lavanguardia.com/politica/20261111/11681895/huelga-recoge-malestar-fondo-dividido-polarizacion-politica.html",
+     "seccion": "Política",
+     "resumen": "La huelga del 11-N refleja un malestar de fondo, dividido por la polarización política."
     }
    ]
   }
