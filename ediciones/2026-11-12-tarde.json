@@ -1,204 +1,584 @@
 {
  "fecha": "2026-11-12",
  "franja": "tarde",
- "generada": "2026-11-12T15:04+01:00",
+ "generada": "2026-11-12T23:28+01:00",
  "con_ia": true,
- "resumen_dia": "La huelga general del 11-N y la campaña para las elecciones del 29-N dominan la agenda, con el decreto de vivienda convalidado en parte por la Diputación Permanente. En el ámbito internacional, la dimisión del consejero delegado de Nvidia, Jensen Huang, tras conocerse sus relaciones extramatrimoniales y el caso de espionaje centra la atención económica. También destacan la imputación del exdelegado del Gobierno en Ceuta y la investigación de la UCO sobre la financiación del PSOE, con la Fiscalía Europea actuando sobre las pulseras antimaltrato.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\":\"Decreto de vivienda en la Diputación Permanente\",\"resumen\":\"La Diputación Permanente convalida la medida que prohíbe los desahucios, pero rechaza la prórroga automática e indefinida de los alquileres. Otras medidas del decreto siguen en vigor.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Subraya que la norma principal del Gobierno sigue adelante junto a un amplio paquete de cambios para inquilinos, propietarios y empresas.\",\"ids\":[\"elpais-6\",\"elpais-7\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Pone el foco en el efecto del decreto en el mercado del alquiler, con anuncios retirados y contratos paralizados.\",\"ids\":[\"elmundo-4\",\"elmundo-5\"]},{\"medio\":\"abc\",\"enfoque\":\"Explica qué ocurre ahora con las prórrogas de los alquileres tras la caída de una de las normas.\",\"ids\":[\"abc-16\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Destaca el mecanismo parlamentario que salva el decreto antidesahucios pese al rechazo de Junts y resume las claves de la norma.\",\"ids\":[\"lavanguardia-0\",\"lavanguardia-3\"]}]},{\"titulo\":\"Huelga general del 11-N y cargas policiales\",\"resumen\":\"La huelga general del 11-N deja protestas masivas y cargas policiales en las manifestaciones. El ministro del Interior ordena una investigación y prohíbe el uso de gas lacrimógeno para controlar protestas.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Recoge la promesa de investigación de Marlaska junto a la petición de dimisión de la izquierda y las críticas de Ayuso al sindicalismo.\",\"ids\":[\"elpais-8\",\"elpais-9\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Recoge la valoración de la izquierda, que califica la huelga de éxito histórico, frente a la derecha, que la considera hipócrita.\",\"ids\":[\"elmundo-4\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Interpreta la huelga como reflejo de un malestar de fondo dividido por la polarización, con paralelismos con la de 2012.\",\"ids\":[\"lavanguardia-8\",\"lavanguardia-9\"]}]},{\"titulo\":\"Caso Nvidia: dimisión de Jensen Huang\",\"resumen\":\"Jensen Huang deja el cargo de consejero delegado de Nvidia tras conocerse sus relaciones extramatrimoniales, una de ellas con una presunta espía china. Colette Kress asume la dirección.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Se centra en la dimisión por las relaciones y el caso de espionaje, y en las dudas sobre la gobernanza por el ascenso de sus hijos y su yerno en la empresa.\",\"ids\":[\"elpais-4\",\"elpais-5\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Destaca el nombramiento de Colette Kress y el episodio del supuesto marido de una de las amantes.\",\"ids\":[\"elmundo-7\",\"elmundo-8\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Enfoca la caída bursátil de casi un 8% y la discusión del consejo sobre su destitución, con la reacción de Elon Musk.\",\"ids\":[\"lavanguardia-15\",\"lavanguardia-16\",\"lavanguardia-17\"]}]},{\"titulo\":\"Investigación de la UCO sobre el PSOE y pulseras antimaltrato\",\"resumen\":\"La UCO acude al Tribunal de Cuentas en el marco de la investigación sobre la financiación del PSOE. La Fiscalía Europea investiga un presunto fraude en la compra de pulseras antimaltrato con sedes del Ministerio de Igualdad y del Tribunal de Cuentas.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"No recoge esta información en su portada seleccionada.\",\"ids\":[]},{\"medio\":\"elmundo\",\"enfoque\":\"Vincula la Fiscalía Europea con el envío de la UCO al Ministerio de Igualdad y subraya la presunta financiación irregular del partido.\",\"ids\":[\"elmundo-0\",\"elmundo-1\"]},{\"medio\":\"abc\",\"enfoque\":\"Pone el acento en la nueva petición de información de la UCO al Tribunal de Cuentas y en el fraude de las pulseras.\",\"ids\":[\"abc-0\",\"abc-12\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Destaca la orden del juez Ismael Moreno sobre los gastos del partido y las declaraciones de Leire Díez.\",\"ids\":[\"lavanguardia-13\",\"lavanguardia-14\"]}]},{\"titulo\":\"Campaña electoral del 29-N\",\"resumen\":\"La precampaña avanza con el debate sobre inmigración, vivienda y el papel de los candidatos. Vox cancela su entrevista con Jordi Wild, lo que genera críticas entre youtubers.\",\"medios\":[{\"medio\":\"elpais\",\"enfoque\":\"Recoge el mapa electoral con simulaciones, el debate de candidatos catalanes y las críticas de youtubers a Vox.\",\"ids\":[\"elpais-0\",\"elpais-3\",\"elpais-15\"]},{\"medio\":\"elmundo\",\"enfoque\":\"Analiza las dificultades de Frente Amplio frente al voto útil al PSOE.\",\"ids\":[\"elmundo-3\",\"elmundo-11\"]},{\"medio\":\"abc\",\"enfoque\":\"Recoge la explicación de Abascal sobre la cancelación de la entrevista con Jordi Wild.\",\"ids\":[\"abc-2\"]},{\"medio\":\"lavanguardia\",\"enfoque\":\"Sitúa a Sánchez como movilizador de la campaña y recoge la reacción de youtubers ante la negativa de Vox.\",\"ids\":[\"lavanguardia-6\",\"lavanguardia-11\"]}]}]",
- "temas_comunes": [],
+ "resumen_dia": "La campaña para las elecciones generales del 29 de noviembre arranca con mítines de PSOE, PP, Vox, Frente Amplio y Podemos, y con la intervención de Begoña Gómez como novedad. Las encuestas dominan el debate: el CIS y el tracking de Sigma Dos para El Mundo dan lecturas distintas sobre PP, Vox y PSOE. En el ámbito judicial y político, la UCO vincula a Sánchez con su exchófer Cristian Corvillo y detecta un descuadre en las cuentas del PSOE. Además, la dimisión de Jensen Huang como consejero delegado de Nvidia copa la información económica internacional.",
+ "temas_comunes": [
+  {
+   "titulo": "Arranque oficial de la campaña electoral",
+   "resumen": "Los principales partidos inician la campaña para las elecciones del 29 de noviembre con mítines y actos en distintas ciudades. Begoña Gómez interviene por primera vez en un acto del PSOE.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca la participación de Begoña Gómez como activo electoral del PSOE y los ataques cruzados de Sánchez, Feijóo y Abascal.",
+     "noticias": [
+      {
+       "titular": "Begoña Gómez se estrena en un mitin del PSOE para captar el voto de las mujeres",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/begona-gomez-se-estrena-en-un-mitin-del-psoe-para-captar-el-voto-de-las-mujeres.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Feijóo se presenta como “gestor” para “resolver los problemas” frente al “saqueo” de Sánchez",
+       "url": "https://elpais.com/espana/2026-11-12/feijoo-se-presenta-como-gestor-para-resolver-los-problemas-frente-al-saqueo-de-sanchez.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Abascal culmina la precampaña con 22 provincias visitadas y 25 actos en dos semanas",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/abascal-culmina-la-precampana-con-22-provincias-visitadas-y-25-actos-en-dos-semanas.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya el mitin de Sevilla y el discurso de Sánchez con Begoña Gómez, y la campaña de Feijóo en Cataluña.",
+     "noticias": [
+      {
+       "titular": "Pedro Sánchez le da la voz a Begoña Gómez en el mitin de arranque de la campaña: \"El tiempo de las 'señoras de' ya ha pasado; somos las autoras de nuestras vidas\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5e5ede9cf4aea7e8b45b5.html",
+       "seccion": "Andalucía"
+      },
+      {
+       "titular": "Feijóo arranca en Cataluña su carrera hacia La Moncloa: \"El cambio es imparable. Por Urda, por Ceuta, por España\"",
+       "url": "https://www.elmundo.es/cataluna/2026/11/12/6af6099321efa070728b45ce.html",
+       "seccion": "Artículos Víctor Mondelo"
+      },
+      {
+       "titular": "Abascal señala que Sánchez es \"chusma\" por darle voz a Begoña Gómez en el inicio de la campaña",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af61c69fc6c83561f8b45a2.html",
+       "seccion": "Vox"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge la promesa de Feijóo de una auditoría del 'saqueo' y el mitin de Sánchez en Sevilla con el voto feminista.",
+     "noticias": [
+      {
+       "titular": "Feijóo promete una «auditoría del saqueo y de la decadencia» de los años del sanchismo",
+       "url": "https://www.abc.es/espana/cataluna/feijoo-promete-auditoria-saqueo-decadencia-anos-sanchismo-20261112203649-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Pedro Sánchez vuelve a bailar en Sevilla y reclama el voto feminista: «Cuando las mujeres dan un paso al frente, toda España va detrás»",
+       "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-vuelve-bailar-sevilla-reclama-voto-20261112211051-nts.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Presenta la intervención de Begoña Gómez y las críticas de Abascal, y la apertura de Feijóo en Cataluña.",
+     "noticias": [
+      {
+       "titular": "Begoña Gómez debuta en campaña y reivindica la causa feminista: “Esta es la España de las mujeres”",
+       "url": "https://www.lavanguardia.com/politica/20261112/11682889/begona-gomez-debuta-campana-reivindica-causa-feminista-espana-mujeres.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Feijóo abre su campaña en Catalunya, clave en la ruta para llegar a la Moncloa",
+       "url": "https://www.lavanguardia.com/politica/20261112/11682913/feijoo-abre-campana-catalunya-clave-ruta-llegar-moncloa.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Abascal carga contra la intervención de Begoña Gómez en campaña: “No tienen vergüenza”",
+       "url": "https://www.lavanguardia.com/politica/20261112/11682914/abascal-carga-intervencion-begona-gomez-campana-vergueenza.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Encuestas y sondeos preelectorales",
+   "resumen": "Se publican varios sondeos que dan lecturas distintas sobre el reparto de escaños. El CIS da mayoría al bloque de Sánchez, mientras que Sigma Dos sitúa a PP y Vox con mayoría absoluta.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Presenta un mapa provincial de encuestas con un modelo de simulación y resalta los escaños indecisos.",
+     "noticias": [
+      {
+       "titular": "El mapa electoral: ¿Qué dicen las encuestas en cada provincia?",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/el-mapa-electoral-los-escanos-en-juego-en-cada-provincia-segun-las-encuestas.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca el tracking diario de Sigma Dos que da a PP y Vox entre 189 y 202 escaños.",
+     "noticias": [
+      {
+       "titular": "El PP y Vox arrancan la campaña con una sólida mayoría absoluta y siguen sacando a votantes de la abstención",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60b3ee4d4d8845c8b4577.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge el CIS preelectoral con el PSOE como ganador y la caída del PP.",
+     "noticias": [
+      {
+       "titular": "El CIS preelectoral de Tezanos infla al PSOE con hasta 143 escaños y hunde al PP",
+       "url": "https://www.abc.es/espana/cis-preelectoral-tezanos-infla-psoe-143-escanos-20261112174821-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya que el CIS deja sin opciones a PP y Vox y permitiría a Sánchez gobernar sin Junts.",
+     "noticias": [
+      {
+       "titular": "El CIS deja a PP y Vox sin opciones de gobernar, al inicio de la campaña",
+       "url": "https://www.lavanguardia.com/politica/20261112/11682736/cis-deja-pp-vox-opciones-gobernar-inicio-campana.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Caso Corvillo y financiación del PSOE",
+   "resumen": "La UCO sitúa a Sánchez en una reunión en 2023 con su exchófer Cristian Corvillo, detenido en una trama de contratos públicos. Además, detecta un descuadre contable en la documentación sobre las cuentas del PSOE.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "No aborda este asunto en su portada.",
+     "noticias": []
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca que Sánchez se reunió 35 minutos con Corvillo, a quien había negado conocer.",
+     "noticias": [
+      {
+       "titular": "La UCO señala que Sánchez se reunió 35 minutos en 2023 con el chófer detenido de la trama Koldo, a quien negó conocer",
+       "url": "https://www.elmundo.es/espana/2026/11/12/6af5ea88fc6c83c6308b45ca.html",
+       "seccion": "Pedro Sánchez"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Subraya el encuentro de 2023 en Córdoba y el descuadre contable detectado por la UCO en las cuentas del PSOE.",
+     "noticias": [
+      {
+       "titular": "El exchófer de Sánchez se reunió con el presidente en 2023 para hablar de Ábalos",
+       "url": "https://www.abc.es/espana/uco-revela-exchofer-sanchez-reunio-presidente-2023-20261112174546-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "La UCO detecta un «descuadre contable» entre la documentación del Tribunal de Cuentas y las cuentas del PSOE",
+       "url": "https://www.abc.es/espana/uco-detecta-descuadre-contable-documentacion-tribunal-cuentas-20261112214453-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "No aborda este asunto en su portada.",
+     "noticias": []
+    }
+   ]
+  },
+  {
+   "titulo": "Dimisión del consejero delegado de Nvidia",
+   "resumen": "Jensen Huang deja la dirección ejecutiva de Nvidia tras conocerse sus relaciones extramatrimoniales, una de ellas con una presunta espía china. Colette Kress asume el cargo de forma interina.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en la gobernanza de la empresa, con el ascenso de los hijos y el yerno de Huang en la compañía.",
+     "noticias": [
+      {
+       "titular": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
+       "url": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
+       "seccion": "Estados Unidos"
+      },
+      {
+       "titular": "Jensen Huang mantuvo una tercera relación extramarital con otra empleada de Nvidia",
+       "url": "https://elpais.com/us/2026-11-12/jensen-huang-mantuvo-una-tercera-relacion-extramarital-con-una-empleada-de-nvidia.html",
+       "seccion": "Estados Unidos"
+      },
+      {
+       "titular": "El ascenso de los hijos de Huang en Nvidia aviva las dudas por la gobernanza: de chef y barman a ejecutivos de la mayor compañía del mundo",
+       "url": "https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html",
+       "seccion": "Estados Unidos"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca el impacto en bolsa y la propuesta de Trump de Tim Cook como posible sustituto.",
+     "noticias": [
+      {
+       "titular": "Dimite el consejero delegado de Nvidia, Jensen Huang, arrastrado por unos romances que han desangrado a la compañía en bolsa",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/12/6af5c551fdddff03488b45ad.html",
+       "seccion": "Nvidia"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Se centra en las relaciones de Huang con dos empleadas y en el perfil de Colette Kress como sucesora interina.",
+     "noticias": [
+      {
+       "titular": "El CEO de Nvidia, Jensen Huang, dimite tras los escándalos de su relación con una espía china y una compañera de trabajo",
+       "url": "https://www.lavanguardia.com/economia/20261112/11682618/ceo-nvidia-jensen-huang-dimite-escandalos-relacion-espia-china-companera-trabajo.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Quién es Kimberly Powell, la ejecutiva de Nvidia señalada como la segunda amante de Jensen Huang",
+       "url": "https://www.lavanguardia.com/internacional/20261112/11682334/kimberly-powell-ejecutiva-nvidia-mantendria-relacion-jensen-huang.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Quién es Colette Kress, la nueva consejera delegada de Nvidia tras la polémica renuncia de Jensen Huang",
+       "url": "https://www.lavanguardia.com/economia/20261112/11682658/colette-kress-consejera-delegada-nvidia-jensen-huang.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Huelga general y campaña de Frente Amplio",
+   "resumen": "La huelga general convocada en vísperas electorales marca el arranque de la campaña de Frente Amplio, que abre en Vallecas con el objetivo de superar las encuestas. Podemos también critica al Gobierno por la actuación policial durante la huelga.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el acto de Colau en Puente de Vallecas y la crítica de Belarra a la actuación policial en la huelga.",
+     "noticias": [
+      {
+       "titular": "Colau se conjura para “desmentir” las encuestas y se compromete a conformar un Gobierno “contra la especulación”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/colau-se-conjura-para-desmentir-las-encuestas-y-se-compromete-a-conformar-un-gobierno-contra-la-especulacion.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Podemos termina su precampaña con cargas contra el PSOE y el Frente Amplio: “Tienen como proyecto que las cosas sigan como están”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/podemos-termina-su-precampana-con-cargas-contra-el-psoe-y-el-frente-amplio-tienen-como-proyecto-que-las-cosas-sigan-como-estan.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la lucha de Frente Amplio contra el voto útil al PSOE y la fractura de la izquierda alternativa.",
+     "noticias": [
+      {
+       "titular": "La desesperada lucha de Frente Amplio contra el voto útil al PSOE: \"Sólo nos queda votar 'al Perro' y cruzar los dedos\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af352d121efa0855e8b45aa.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Colau se lanza con la vivienda para reactivar a la izquierda: \"El siguiente gobierno será contra la especulación o no será\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60f3c21efa059588b45b3.html",
+       "seccion": "Frente Amplio"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge la meta de Colau de superar el 8% y el balance sindical de la huelga, que según el titular tuvo menos seguimiento que la afiliación de UGT y CC.OO.",
+     "noticias": [
+      {
+       "titular": "Colau se conjura para desafiar a las encuestas: «Vamos a darle la vuelta. Necesitamos superar el 8%»",
+       "url": "https://www.abc.es/espana/colau-conjura-desafiar-encuestas-vamos-darle-vuelta-20261112205209-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "El fracaso de la huelga política: la secundaron menos trabajadores que afiliados a UGT y CC.OO.",
+       "url": "https://www.abc.es/economia/gran-fracaso-huelga-politica-secundaron-trabajadores-afiliados-20261113185308-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Presenta la victoria en el Congreso del decreto antidesahucios como impulso del arranque de Frente Amplio en Vallecas.",
+     "noticias": [
+      {
+       "titular": "El Frente Amplio arranca la campaña en Vallecas al calor de la victoria del 'decreto Maricarmen'",
+       "url": "https://www.lavanguardia.com/politica/20261112/11682867/frente-amplio-arranca-campana-vallecas-calor-victoria-decreto-maricarmen.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "La Diputación Permanente salva el decreto antidesahucios pero tumba los contratos indefinidos",
+       "url": "https://www.lavanguardia.com/politica/20261112/11682472/diputacion-permanente-salva-decreto-principal-vivienda-tumba-prorroga-alquileres.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  }
+ ],
  "medios": [
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña electoral, con encuestas y el mapa de escaños, y la huelga general con sus consecuencias políticas. Incluye también el caso Nvidia y el decreto de vivienda.",
+   "resumen": "Prioriza la campaña electoral con el foco en las declaraciones de los candidatos y en el análisis de sus afirmaciones. Incluye además la crisis de Nvidia y un estudio científico sobre la criosfera.",
    "noticias": [
     {
-     "titular": "El Congreso se divide sobre dos decretos de vivienda en la resaca de la huelga y el arranque de la campaña electoral",
-     "url": "https://elpais.com/espana/2026-11-12/el-congreso-se-divide-sobre-dos-decretos-de-vivienda-en-la-resaca-de-la-huelga-y-el-arranque-de-la-campana-electoral.html",
-     "seccion": "España",
-     "resumen": "El Congreso se divide: la Diputación Permanente convalida la prohibición de desahucios pero rechaza la prórroga automática de alquileres."
-    },
-    {
-     "titular": "Desahucios, alquileres y ayudas para comprar: las medidas del decreto de vivienda que siguen adelante",
-     "url": "https://elpais.com/economia/vivienda/2026-11-12/desahucios-alquileres-y-ayudas-para-comprar-las-medidas-del-decreto-de-vivienda-que-siguen-adelante.html",
-     "seccion": "Vivienda",
-     "resumen": "Detalla las medidas del decreto que siguen en vigor: desahucios, alquileres y ayudas para la compra de vivienda."
-    },
-    {
-     "titular": "Marlaska promete investigar las cargas policiales mientras la izquierda le pide la dimisión",
-     "url": "https://elpais.com/espana/2026-11-12/marlaska-ordena-una-investigacion-sobre-las-cargas-policiales-en-las-manifestaciones-y-pide-que-no-se-use-gas-lacrimogeno.html",
-     "seccion": "España",
-     "resumen": "Marlaska anuncia una investigación sobre las cargas policiales y prohíbe el gas lacrimógeno en protestas."
-    },
-    {
-     "titular": "Jensen Huang dimite como consejero delegado de Nvidia tras destaparse el escándalo sobre sus infidelidades y el caso de espionaje",
-     "url": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
-     "seccion": "Estados Unidos",
-     "resumen": "Jensen Huang deja la dirección de Nvidia tras conocerse sus relaciones y un caso de espionaje."
+     "titular": "Begoña Gómez se estrena en un mitin del PSOE para captar el voto de las mujeres",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/begona-gomez-se-estrena-en-un-mitin-del-psoe-para-captar-el-voto-de-las-mujeres.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Begoña Gómez interviene en un mitin del PSOE como nuevo apoyo electoral, y Sánchez responde a los ataques de la derecha."
     },
     {
      "titular": "El mapa electoral: ¿Qué dicen las encuestas en cada provincia?",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/el-mapa-electoral-los-escanos-en-juego-en-cada-provincia-segun-las-encuestas.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Un modelo de simulación electoral reparte los escaños entre los que parecen decididos y los que siguen en el aire."
+     "resumen": "Un mapa de encuestas por provincias basado en 20.000 simulaciones deja unos 50 escaños sin decidir."
     },
     {
-     "titular": "Ayuso habla de “terror sindical” por la huelga y la oposición le responde que ella es una enchufada del PP",
-     "url": "https://elpais.com/espana/madrid/2026-11-12/ayuso-se-enfrenta-a-la-asamblea-de-madrid-con-la-resaca-de-la-huelga-general-y-tras-llamar-a-los-sindicatos-basura.html",
-     "seccion": "Comunidad de Madrid",
-     "resumen": "Ayuso habla de terror sindical por la huelga y la oposición responde con críticas a su gestión."
+     "titular": "Feijóo se presenta como “gestor” para “resolver los problemas” frente al “saqueo” de Sánchez",
+     "url": "https://elpais.com/espana/2026-11-12/feijoo-se-presenta-como-gestor-para-resolver-los-problemas-frente-al-saqueo-de-sanchez.html",
+     "seccion": "España",
+     "resumen": "Feijóo inicia su campaña en Badalona con Albiol y centra su mensaje en la gestión frente al supuesto saqueo del Gobierno."
+    },
+    {
+     "titular": "Abascal culmina la precampaña con 22 provincias visitadas y 25 actos en dos semanas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/abascal-culmina-la-precampana-con-22-provincias-visitadas-y-25-actos-en-dos-semanas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Abascal cierra la precampaña tras visitar 22 provincias y critica la participación de Begoña Gómez en el mitin socialista."
+    },
+    {
+     "titular": "Colau se conjura para “desmentir” las encuestas y se compromete a conformar un Gobierno “contra la especulación”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/colau-se-conjura-para-desmentir-las-encuestas-y-se-compromete-a-conformar-un-gobierno-contra-la-especulacion.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Colau abre la campaña de Frente Amplio en Puente de Vallecas con la promesa de un Gobierno contra la especulación y el reto de desmentir las encuestas."
+    },
+    {
+     "titular": "Podemos termina su precampaña con cargas contra el PSOE y el Frente Amplio: “Tienen como proyecto que las cosas sigan como están”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/podemos-termina-su-precampana-con-cargas-contra-el-psoe-y-el-frente-amplio-tienen-como-proyecto-que-las-cosas-sigan-como-estan.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Podemos cierra su precampaña criticando al PSOE y a Frente Amplio, y Belarra denuncia cargas policiales durante la huelga general."
+    },
+    {
+     "titular": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
+     "url": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Jensen Huang deja la dirección de Nvidia presionado por sus infidelidades, incluida una relación con una presunta espía china."
     },
     {
      "titular": "El ascenso de los hijos de Huang en Nvidia aviva las dudas por la gobernanza: de chef y barman a ejecutivos de la mayor compañía del mundo",
      "url": "https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html",
      "seccion": "Estados Unidos",
-     "resumen": "Analiza el ascenso de los hijos y el yerno de Huang en Nvidia y las dudas sobre gobernanza."
+     "resumen": "La presencia de los hijos de Huang y de su yerno en cargos clave de Nvidia reabre las dudas sobre la gobernanza."
+    },
+    {
+     "titular": "El ‘error Wild’ de Vox: Abascal tropieza ante el grupo de votantes que más lo apoya",
+     "url": "https://elpais.com/espana/2026-11-12/el-error-wild-de-vox-abascal-tropieza-ante-el-grupo-de-votantes-que-mas-lo-apoya.html",
+     "seccion": "España",
+     "resumen": "Analistas debaten si la negativa de Abascal a acudir al programa de Jordi Wild supone un error con su electorado joven."
+    },
+    {
+     "titular": "Las zonas heladas de la Tierra han traspasado los umbrales seguros para la humanidad",
+     "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-12/las-zonas-heladas-de-la-tierra-han-traspasado-los-umbrales-seguros-para-la-humanidad.html",
+     "seccion": "Medio ambiente",
+     "resumen": "Un estudio en Science sostiene que las zonas heladas de la Tierra han superado un umbral de seguridad planetario."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en la investigación judicial sobre financiación del PSOE y en el caso Nvidia. También recoge el efecto del decreto de vivienda y la campaña de la izquierda alternativa.",
+   "resumen": "",
    "noticias": [
     {
-     "titular": "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en la compra de pulseras antimaltrato",
-     "url": "https://www.elmundo.es/espana/2026/11/12/6af59511e85ecef6528b457a.html",
-     "seccion": "Artículos Daniel Viaña",
-     "resumen": "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en pulseras antimaltrato."
+     "titular": "La UCO señala que Sánchez se reunió 35 minutos en 2023 con el chófer detenido de la trama Koldo, a quien negó conocer",
+     "url": "https://www.elmundo.es/espana/2026/11/12/6af5ea88fc6c83c6308b45ca.html",
+     "seccion": "Pedro Sánchez",
+     "resumen": ""
     },
     {
-     "titular": "La UCO acude al Tribunal de Cuentas a por información sobre presuntas irregularidades en donaciones al PSOE",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5a9e2fdddff03488b459e.html",
-     "seccion": "Koldo García",
-     "resumen": "La UCO pide información al Tribunal de Cuentas sobre donaciones al PSOE en una causa de la Audiencia Nacional."
+     "titular": "El PP y Vox arrancan la campaña con una sólida mayoría absoluta y siguen sacando a votantes de la abstención",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60b3ee4d4d8845c8b4577.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
     },
     {
-     "titular": "La Diputación Permanente enmienda la plana al Pleno del Congreso y convalida el decreto de vivienda impulsado por los socialistas en medio de un agrio combate electoral",
-     "url": "https://www.elmundo.es/elecciones/2026/11/12/6af574fee9cf4a3f318b4571.html",
-     "seccion": "Artículos Marisa Cruz",
-     "resumen": "La Diputación Permanente convalida el decreto de vivienda en un clima de enfrentamiento sobre la huelga del 11-N."
+     "titular": "Pedro Sánchez le da la voz a Begoña Gómez en el mitin de arranque de la campaña: \"El tiempo de las 'señoras de' ya ha pasado; somos las autoras de nuestras vidas\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5e5ede9cf4aea7e8b45b5.html",
+     "seccion": "Andalucía",
+     "resumen": ""
     },
     {
-     "titular": "La factura de los 'decretos Maricarmen' en el alquiler: anuncios retirados, contratos paralizados e inquilinos con más dificultades para encontrar casa",
-     "url": "https://www.elmundo.es/economia/vivienda/2026/11/12/6af59b8fe4d4d85e378b45bf.html",
-     "seccion": "economía",
-     "resumen": "El decreto de alquiler ha retirado anuncios y paralizado contratos, según la información sobre el mercado."
-    },
-    {
-     "titular": "Dimite el consejero delegado de Nvidia, Jensen Huang",
-     "url": "https://www.elmundo.es/economia/empresas/2026/11/12/6af5c551fdddff03488b45ad.html",
-     "seccion": "Nvidia",
-     "resumen": "Jensen Huang deja el cargo de consejero delegado de Nvidia y Colette Kress lo sustituye."
-    },
-    {
-     "titular": "La juez Tardón imputa al ex delegado del Gobierno en Ceuta y le cita en la Audiencia Nacional el próximo 18 de noviembre",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af5afbbfdddff8d358b4574.html",
-     "seccion": "España",
-     "resumen": "La jueza imputa al exdelegado del Gobierno en Ceuta y lo cita el 18 de noviembre."
+     "titular": "Feijóo arranca en Cataluña su carrera hacia La Moncloa: \"El cambio es imparable. Por Urda, por Ceuta, por España\"",
+     "url": "https://www.elmundo.es/cataluna/2026/11/12/6af6099321efa070728b45ce.html",
+     "seccion": "Artículos Víctor Mondelo",
+     "resumen": ""
     },
     {
      "titular": "La desesperada lucha de Frente Amplio contra el voto útil al PSOE: \"Sólo nos queda votar 'al Perro' y cruzar los dedos\"",
      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af352d121efa0855e8b45aa.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Frente Amplio afronta el voto útil al PSOE con encuestas desfavorables y cambios de siglas."
+     "resumen": ""
+    },
+    {
+     "titular": "Abascal señala que Sánchez es \"chusma\" por darle voz a Begoña Gómez en el inicio de la campaña",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af61c69fc6c83561f8b45a2.html",
+     "seccion": "Vox",
+     "resumen": ""
+    },
+    {
+     "titular": "Colau se lanza con la vivienda para reactivar a la izquierda: \"El siguiente gobierno será contra la especulación o no será\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60f3c21efa059588b45b3.html",
+     "seccion": "Frente Amplio",
+     "resumen": ""
+    },
+    {
+     "titular": "Ayuso y Almeida lanzan con Álvarez de Toledo la campaña \"más decisiva\": \"Es un punto de no retorno para la España constitucional. O ganamos o se acabó\"",
+     "url": "https://www.elmundo.es/madrid/2026/11/12/6af60710e4d4d8cc658b4578.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "España gana hasta cuando le da igual: vence en Praga y le basta un punto contra Inglaterra el domingo para ser primera",
+     "url": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/11/12/6af6075221efa05b5e8b45c0.html",
+     "seccion": "deportes",
+     "resumen": ""
+    },
+    {
+     "titular": "Procida pide paso en la paliza del Real Madrid al Estrella Roja de Ibon Navarro",
+     "url": "https://www.elmundo.es/deportes/baloncesto/euroliga/2026/11/12/6af6043afdddff121d8b45a4.html",
+     "seccion": "deportes",
+     "resumen": ""
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Destaca la investigación de la UCO y la Fiscalía Europea sobre el PSOE y el Ministerio de Igualdad, junto a la imputación en el caso de Ceuta. Mezcla con noticias de ocio y consumo, como sorteos y ofertas.",
+   "resumen": "",
    "noticias": [
     {
-     "titular": "La UCO requiere más información al Tribunal de Cuentas sobre la financiación del PSOE",
-     "url": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html",
+     "titular": "Agobiante victoria de España en la jaula de Praga",
+     "url": "https://www.abc.es/deportes/futbol/agobiante-victoria-espana-jaula-praga-20261112224552-nt.html",
      "seccion": "",
-     "resumen": "La UCO vuelve al Tribunal de Cuentas para pedir más información sobre la financiación del PSOE."
+     "resumen": ""
     },
     {
-     "titular": "La Fiscalía Europea investiga un presunto fraude en las pulseras antimaltrato en España",
-     "url": "https://www.abc.es/espana/fiscalia-europea-investiga-presunto-fraude-fondos-ue-20261112114442-nt.html",
+     "titular": "Esposito rompe a la Francia de Mbappé y Zidane",
+     "url": "https://www.abc.es/deportes/futbol/esposito-rompe-francia-mbappe-zidane-20261112224712-nt.html",
      "seccion": "",
-     "resumen": "La Fiscalía Europea investiga un presunto fraude en la compra de pulseras antimaltrato en sedes del Ministerio de Igualdad."
+     "resumen": ""
     },
     {
-     "titular": "La jueza que investiga la invasión de Ceuta imputa al exdelegado del Gobierno y le cita el 18 de noviembre",
-     "url": "https://www.abc.es/espana/jueza-investiga-invasion-ceuta-imputa-exdelegado-gobierno-20261112133303-nt.html",
+     "titular": "Feijóo promete una «auditoría del saqueo y de la decadencia» de los años del sanchismo",
+     "url": "https://www.abc.es/espana/cataluna/feijoo-promete-auditoria-saqueo-decadencia-anos-sanchismo-20261112203649-nt.html",
      "seccion": "",
-     "resumen": "La jueza que investiga la entrada masiva en Ceuta imputa al exdelegado del Gobierno y lo cita en noviembre."
+     "resumen": ""
     },
     {
-     "titular": "Adiós a las prórrogas indefinidas del alquiler: qué pasa ahora tras la caída del decreto",
-     "url": "https://www.abc.es/economia/cuentas-corrientes/pasa-alquiler-inquilino-propietario-sale-adelante-decreto-20261112123915-nt.html",
+     "titular": "Pedro Sánchez vuelve a bailar en Sevilla y reclama el voto feminista: «Cuando las mujeres dan un paso al frente, toda España va detrás»",
+     "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-vuelve-bailar-sevilla-reclama-voto-20261112211051-nts.html",
      "seccion": "",
-     "resumen": "Explica qué pasa con los alquileres tras la caída de uno de los decretos de vivienda."
+     "resumen": ""
     },
     {
-     "titular": "Abascal: «Ni soy un héroe después de 'La Revuelta' ni soy un villano tras no ir con Jordi Wild»",
-     "url": "https://www.abc.es/espana/abascal-heroe-despues-salir-revuelta-villano-tras-20261112105235-nt.html",
+     "titular": "Colau se conjura para desafiar a las encuestas: «Vamos a darle la vuelta. Necesitamos superar el 8%»",
+     "url": "https://www.abc.es/espana/colau-conjura-desafiar-encuestas-vamos-darle-vuelta-20261112205209-nt.html",
      "seccion": "",
-     "resumen": "Abascal rechaza ser héroe o villano tras la cancelación de su entrevista con Jordi Wild."
+     "resumen": ""
     },
     {
-     "titular": "La exabogada de Koldo García confirma que Okdiario asumió el pago total de la defensa del exasesor",
-     "url": "https://www.abc.es/espana/exabogada-koldo-garcia-confirma-okdiario-asumio-pago-20261112140842-nt.html",
+     "titular": "«Lo mejor de la huelga es que se redujo el absentismo laboral»",
+     "url": "https://www.abc.es/espana/mejor-huelga-redujo-absentismo-laboral-20261112202602-nt.html",
      "seccion": "",
-     "resumen": "La exabogada de Koldo García confirma ante el juez que Okdiario pagó su defensa."
+     "resumen": ""
     },
     {
-     "titular": "Al menos ocho muertos y 17 heridos tras derrumbarse un edificio en Nueva York",
-     "url": "https://www.abc.es/internacional/dos-muertos-heridos-tras-derrumbarse-edificio-nueva-20261112071830-nt.html",
+     "titular": "Abascal despide la precampaña con debates menos «superficiales» que el de La Revuelta: «Si ganan el 29N, se considerarán impunes»",
+     "url": "https://www.abc.es/espana/aragon/29n-abascal-despide-precampana-huesca-debates-esteriles-20261112204017-nt.html",
      "seccion": "",
-     "resumen": "Un edificio residencial de Brooklyn se derrumba y deja al menos ocho muertos y 17 heridos."
+     "resumen": ""
+    },
+    {
+     "titular": "La UCO detecta un «descuadre contable» entre la documentación del Tribunal de Cuentas y las cuentas del PSOE",
+     "url": "https://www.abc.es/espana/uco-detecta-descuadre-contable-documentacion-tribunal-cuentas-20261112214453-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Vox propone ingreso mínimo vital solo para españoles y que los ilegales no puedan alquilar ni acceder a la sanidad pública",
+     "url": "https://www.abc.es/espana/vox-propone-ingreso-minimo-vital-solo-espanoles-20261112185446-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Lista de premios de Lotería Nacional del jueves 12 de noviembre",
+     "url": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-jueves-directo-comprobar-resultados-numeros-sorteo-20261112183000-di.html",
+     "seccion": "",
+     "resumen": ""
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Prioriza la política nacional y la precampaña, con foco en el decreto de vivienda y la negociación parlamentaria. Incluye también el caso Nvidia desde la perspectiva económica.",
+   "resumen": "",
    "noticias": [
     {
-     "titular": "La Diputación Permanente salva el decreto antidesahucios pero tumba la prórroga de los alquileres",
+     "titular": "La Diputación Permanente salva el decreto antidesahucios pero tumba los contratos indefinidos",
      "url": "https://www.lavanguardia.com/politica/20261112/11682472/diputacion-permanente-salva-decreto-principal-vivienda-tumba-prorroga-alquileres.html",
      "seccion": "Política",
-     "resumen": "La Diputación Permanente salva el decreto antidesahucios pero tumba la prórroga de alquileres gracias a una particular aritmética parlamentaria."
+     "resumen": ""
     },
     {
-     "titular": "Marlaska ordena una investigación sobre las cargas policiales en las manifestaciones de la huelga general",
-     "url": "https://www.lavanguardia.com/politica/20261112/11682251/marlaska-ordena-investigacion-sobre-cargas-policiales-manifestaciones-huelga-general.html",
+     "titular": "Las claves del decreto de vivienda convalidado: ¿Cómo te afecta como propietario y como inquilino?",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682366/claves-decreto-vivienda-convalidado-como-te-afecta-propietario-inquilino.html",
      "seccion": "Política",
-     "resumen": "Marlaska ordena investigar las cargas policiales en la huelga general y prohíbe el gas lacrimógeno."
+     "resumen": ""
     },
     {
-     "titular": "Sánchez se echa la campaña a cuestas como gran “movilizador” sin Zapatero ni Puente",
-     "url": "https://www.lavanguardia.com/politica/20261112/11682396/sanchez-echa-campana-cuestas-gran-movilizador-psoe-zapatero-puente.html",
+     "titular": "Begoña Gómez debuta en campaña y reivindica la causa feminista: “Esta es la España de las mujeres”",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682889/begona-gomez-debuta-campana-reivindica-causa-feminista-espana-mujeres.html",
      "seccion": "Política",
-     "resumen": "Sánchez inicia la campaña en Sevilla y promete sorpresas, con un gran acto final en Madrid."
+     "resumen": ""
     },
     {
-     "titular": "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE",
-     "url": "https://www.lavanguardia.com/politica/20261112/11682461/agentes-uco-acuden-tribunal-cuentas-pieza-financiacion-poe.html",
+     "titular": "Feijóo abre su campaña en Catalunya, clave en la ruta para llegar a la Moncloa",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682913/feijoo-abre-campana-catalunya-clave-ruta-llegar-moncloa.html",
      "seccion": "Política",
-     "resumen": "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE, por orden del juez Ismael Moreno."
+     "resumen": ""
     },
     {
-     "titular": "Leire Díez dice también que le ofrecieron dos millones por inventarse acusaciones contra Pedro Sánchez",
-     "url": "https://www.lavanguardia.com/politica/20261112/11682212/leire-diez-dice-le-ofrecieron-dos-millones-inventarse-acusaciones-pedro-sanchez.html",
+     "titular": "Abascal carga contra la intervención de Begoña Gómez en campaña: “No tienen vergüenza”",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682914/abascal-carga-intervencion-begona-gomez-campana-vergueenza.html",
      "seccion": "Política",
-     "resumen": "Leire Díez asegura en su libro que le ofrecieron dos millones por inventar acusaciones contra Sánchez."
+     "resumen": ""
     },
     {
-     "titular": "Nvidia prepara el despido de Huang al descubrirse que tenía otra amante, además de la espía china",
-     "url": "https://www.lavanguardia.com/economia/20261112/11682155/nvidia-prepara-despido-jensen-huang-descubrirse-tenia-amante-espia.html",
-     "seccion": "Economía",
-     "resumen": "Nvidia prepara la salida de Huang tras conocerse otra relación, según WSJ y NYT."
-    },
-    {
-     "titular": "La huelga recoge un malestar de fondo, pero dividido por la polarización política",
-     "url": "https://www.lavanguardia.com/politica/20261111/11681895/huelga-recoge-malestar-fondo-dividido-polarizacion-politica.html",
+     "titular": "El Frente Amplio arranca la campaña en Vallecas al calor de la victoria del 'decreto Maricarmen'",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682867/frente-amplio-arranca-campana-vallecas-calor-victoria-decreto-maricarmen.html",
      "seccion": "Política",
-     "resumen": "La huelga del 11-N refleja un malestar de fondo, dividido por la polarización política."
+     "resumen": ""
+    },
+    {
+     "titular": "ERC se erige en el freno a la derecha para disputar la hegemonía al PSC",
+     "url": "https://www.lavanguardia.com/politica/elecciones/20261112/11682864/erc-erige-freno-derecha-disputar-hegemonia-psc.html",
+     "seccion": "Elecciones",
+     "resumen": ""
+    },
+    {
+     "titular": "Junts quiere aglutinar el voto catalán para volver a influir en Madrid tras las elecciones del 29-N",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682905/junts-quiere-aglutinar-voto-catalan-volver-influir-madrid-elecciones-29-n.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "El CIS deja a PP y Vox sin opciones de gobernar, al inicio de la campaña",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682736/cis-deja-pp-vox-opciones-gobernar-inicio-campana.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "La negativa de Vox a acudir al programa de Jordi Wild amenaza con volverse contra Abascal",
+     "url": "https://www.lavanguardia.com/politica/20261112/11682469/negativa-vox-acudir-progama-jordi-wild-amenaza-volverse-abascal.html",
+     "seccion": "Política",
+     "resumen": ""
     }
    ]
   }
