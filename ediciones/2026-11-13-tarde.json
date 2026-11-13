@@ -1,276 +1,228 @@
 {
  "fecha": "2026-11-13",
  "franja": "tarde",
- "generada": "2026-11-13T14:30+01:00",
+ "generada": "2026-11-13T23:16+01:00",
  "con_ia": true,
- "resumen_dia": "La campaña para las elecciones generales del 29-N arrancó con los primeros mítines y entrevistas en formatos digitales, y con el Gobierno aprobando el trámite de urgencia para revalorizar las pensiones (subida prevista del 3,6% según El País, entre el 3% y el 4% según El Mundo). Una caída global de Microsoft (Outlook, Teams y Copilot) lleva más de 12 horas sin resolverse, sin que la compañía atribuya el fallo a un ciberataque. El Gobierno cesó a los presidentes de Renfe y Adif tras la huelga de maquinistas, y el Tribunal de Cuentas ordenó investigar la compra de un ático por la Comunidad de Madrid. En los Latin Grammy, Rosalía ganó el premio al disco del año.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\": \"Arranque de la campaña del 29-N\", \"resumen\": \"Las generales del 29 de noviembre inician campaña con los primeros mítines y entrevistas de los candidatos, y con sondeos que sitúan a la derecha con amplia ventaja. Sánchez, Feijóo y Abascal han concentrado la atención en el primer día.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Destaca el primer tracking diario de 40dB, que sitúa a la derecha en torno a 190 escaños y subraya la fortaleza de Vox.\", \"ids\": [\"elpais-2\", \"elpais-4\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Centra el foco en la entrevista de Feijóo con Jordi Wild y en la búsqueda del voto joven.\", \"ids\": [\"elmundo-0\", \"elmundo-1\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge las propuestas de Vox como el impuesto a las remesas y el ingreso mínimo solo para españoles.\", \"ids\": [\"abc-5\", \"abc-10\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Ofrece la crónica en directo del arranque y se fija en la estrategia de Sánchez con Begoña Gómez y la movilización del voto.\", \"ids\": [\"lavanguardia-5\", \"lavanguardia-6\"]}]}, {\"titulo\": \"Revalorización de las pensiones\", \"resumen\": \"El Consejo de Ministros aprobó por la vía de urgencia el trámite para revalorizar las pensiones con el IPC. La cuantía se conocerá el día 27 y las estimaciones que se citan rondan el 3% y el 4%.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Concreta la cifra que apunta al 3,6% y el día en que se conocerá la cuantía.\", \"ids\": [\"elpais-3\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Recoge la horquilla que anticipa la portavoz del Gobierno, entre el 3% y el 4%.\", \"ids\": [\"elmundo-5\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Destaca el primer paso del Consejo de Ministros y la horquilla del 3 al 4%.\", \"ids\": [\"lavanguardia-10\"]}]}, {\"titulo\": \"Caída global de Microsoft\", \"resumen\": \"Outlook, Teams y Copilot siguen con problemas de funcionamiento tras más de doce horas de fallos. La compañía descarta un ciberataque y atribuye el problema a una carga elevada o fallo interno de infraestructura.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Señala que no hay incidencias reseñables en España y que los afectados incluyen administraciones de Australia y Japón.\", \"ids\": [\"elpais-0\", \"elpais-1\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Ofrece una guía práctica y subraya que las soluciones habituales no funcionan.\", \"ids\": [\"elmundo-7\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge que la caída supera las 15 horas y empieza a afectar al servicio de salud británico.\", \"ids\": [\"abc-13\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Cuantifica el alcance en más de 70 países y se fija en el impacto en empresas, que recurren al WhatsApp y al papel.\", \"ids\": [\"lavanguardia-0\", \"lavanguardia-1\", \"lavanguardia-2\"]}]}, {\"titulo\": \"Cese de cargos en Renfe y Adif\", \"resumen\": \"El Gobierno ha cesado al presidente de Renfe, Álvaro Fernández Heredia, y ha nombrado a Inmaculada Gutiérrez para la operadora y a Joaquim Hortalà para Adif. El relevo llega tras la huelga de maquinistas y la dimisión de Óscar Puente como ministro de Transportes.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Destaca el perfil técnico de los nuevos presidentes y la relación con la huelga de maquinistas.\", \"ids\": [\"elpais-16\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Señala que el cese busca calmar el malestar del sector y que el cesado era afín a Puente.\", \"ids\": [\"elmundo-6\"]}, {\"medio\": \"abc\", \"enfoque\": \"Menciona a Carlos Cuerpo como nuevo ministro de Transportes y el cese también del presidente de Adif.\", \"ids\": [\"abc-1\"]}]}, {\"titulo\": \"Caso del ático de Madrid en el Tribunal de Cuentas\", \"resumen\": \"El Tribunal de Cuentas aprecia indicios de uso indebido de fondos en la compra de un ático por 6,3 millones de euros por la empresa pública Planifica Madrid. El caso pasa a una investigación a fondo.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Subraya que la denuncia ha superado el primer filtro y pasará a investigación.\", \"ids\": [\"elpais-15\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Detalla que la compra se formalizó sin encargo previo ni memoria justificativa.\", \"ids\": [\"elmundo-8\"]}, {\"medio\": \"abc\", \"enfoque\": \"Atribuye la compra al Gobierno de Ayuso y cita el precio de 6,3 millones.\", \"ids\": [\"abc-17\"]}]}]</parameter>\n<parameter name=\"medios\">[{\"medio\": \"elpais\", \"resumen\": \"Prioriza la campaña electoral, con un tracking demoscópico y la denuncia del PSOE contra Okdiario, junto con la caída de Microsoft y la gala de los Latin Grammy. Mantiene también la información sobre la investigación de la muerte de Isak Andic y el caso del ático de Madrid.\", \"noticias\": [{\"id\": \"elpais-2\", \"resumen\": \"Primer tracking diario de 40dB para El País y la SER, que sitúa a la derecha en unos 190 escaños y a Vox con fuerza creciente.\"}, {\"id\": \"elpais-3\", \"resumen\": \"El Gobierno activa el trámite de urgencia para revalorizar las pensiones con el IPC; la cuantía se conocerá el día 27 y apunta al 3,6%.\"}, {\"id\": \"elpais-0\", \"resumen\": \"Microsoft no recupera sus servicios tras más de 12 horas de caída; descarta un ciberataque y no hay incidencias reseñables en España.\"}, {\"id\": \"elpais-6\", \"resumen\": \"Feijóo duda de que pueda bajar impuestos por el estado de las cuentas públicas y plantea suprimir el Ingreso Mínimo Vital a inmigrantes que no trabajen.\"}, {\"id\": \"elpais-4\", \"resumen\": \"Resumen en directo de la campaña: el PSOE denuncia a Okdiario y al PP por los pagos a la defensa de Koldo García.\"}, {\"id\": \"elpais-15\", \"resumen\": \"El Tribunal de Cuentas aprecia indicios de uso indebido de fondos en la compra del ático y el caso pasa a investigación.\"}, {\"id\": \"elpais-16\", \"resumen\": \"Cuerpo nombra nuevos presidentes de Renfe y Adif tras la huelga de maquinistas y cesa al de Renfe.\"}, {\"id\": \"elpais-17\", \"resumen\": \"Los mossos no pueden determinar si la caída de Isak Andic en Montserrat fue provocada ni la antigüedad de una huella clave.\"}]}, {\"medio\": \"elmundo\", \"resumen\": \"Pone el foco en la entrevista de Sánchez y Feijóo con Jordi Wild, en la investigación de la UCO sobre el chófer Cristian Corvillo y en la caída de Microsoft. Incluye también asuntos de Interior y de la extrema derecha.\", \"noticias\": [{\"id\": \"elmundo-3\", \"resumen\": \"Mensajes de la UCO que sitúan a Óscar López como impulsor de la reunión de Sánchez con Corvillo en Córdoba, que Moncloa habría promovido.\"}, {\"id\": \"elmundo-4\", \"resumen\": \"Una sociedad ligada a Corvillo envió 65.000 euros a la pareja de Ábalos para la compra de un piso.\"}, {\"id\": \"elmundo-1\", \"resumen\": \"Sánchez, en la entrevista con Jordi Wild, responde sobre Ceuta, Ábalos y Zapatero.\"}, {\"id\": \"elmundo-0\", \"resumen\": \"Feijóo, en el pódcast de Jordi Wild, se dirige al voto joven y habla del narco Marcial Dorado.\"}, {\"id\": \"elmundo-9\", \"resumen\": \"Crece la desconfianza en el PSOE hacia Marlaska por su control de sectores de las Fuerzas de Seguridad.\"}, {\"id\": \"elmundo-11\", \"resumen\": \"Núcleo Nacional desafía la orden judicial de cesar su actividad en redes y pide dinero por Instagram para su partido.\"}, {\"id\": \"elmundo-12\", \"resumen\": \"Irán asegura haber destruido un radar estadounidense en Baréin, en el pulso por el estrecho de Ormuz.\"}, {\"id\": \"elmundo-17\", \"resumen\": \"Multa de 11 millones de euros a Tinder impuesta por la autoridad irlandesa de protección de datos.\"}]}, {\"medio\": \"abc\", \"resumen\": \"Da prioridad a la campaña, con foco en las propuestas de Vox y la entrevista de Feijóo con Jordi Wild, y en el cese de cargos ferroviarios. Mezcla temas de sociedad y deportes en su portada.\", \"noticias\": [{\"id\": \"abc-1\", \"resumen\": \"Carlos Cuerpo, nuevo ministro de Transportes, cesa al presidente de Renfe y nombra a dos altos funcionarios en la cúpula ferroviaria.\"}, {\"id\": \"abc-10\", \"resumen\": \"Vox propone que el ingreso mínimo vital sea solo para españoles y que los inmigrantes ilegales no puedan alquilar ni acceder a la sanidad pública.\"}, {\"id\": \"abc-5\", \"resumen\": \"Vox plantea un gravamen sobre las remesas enviadas al extranjero dentro de su programa de prioridad nacional.\"}, {\"id\": \"abc-8\", \"resumen\": \"Feijóo, en el pódcast de Jordi Wild, afirma que no sabe inglés pero sabe gobernar.\"}, {\"id\": \"abc-9\", \"resumen\": \"Los mossos aseguran ante la jueza que no pueden certificar que terceras personas participaran en la caída de Isak Andic.\"}, {\"id\": \"abc-13\", \"resumen\": \"La caída de Microsoft supera las 15 horas y empieza a afectar al servicio de salud británico.\"}, {\"id\": \"abc-16\", \"resumen\": \"Alice Huang, la espía china con la que tuvo un romance Jensen Huang, llegó a él a través de un empresario chino.\"}, {\"id\": \"abc-17\", \"resumen\": \"El Tribunal de Cuentas ordena investigar la compra por 6,3 millones de un ático por Planifica Madrid.\"}]}, {\"medio\": \"lavanguardia\", \"resumen\": \"Combina la cobertura en directo de la campaña con temas económicos y tecnológicos, y pone el acento en las demandas catalanas y en el impacto de la caída de Microsoft en las empresas.\", \"noticias\": [{\"id\": \"lavanguardia-6\", \"resumen\": \"Crónica en directo del arranque de la campaña, con los primeros mítines de Sánchez, Feijóo y otros candidatos.\"}, {\"id\": \"lavanguardia-13\", \"resumen\": \"Junts reclama que el dinero recaudado en Cataluña se quede en la comunidad y salir de la Lofca, y exige un concierto económico.\"}, {\"id\": \"lavanguardia-12\", \"resumen\": \"ERC propone por ley destinar el 30% de la inversión ferroviaria a mantenimiento y seguridad, y critica la lentitud en el traspaso de Rodalies.\"}, {\"id\": \"lavanguardia-14\", \"resumen\": \"Abascal critica la intervención de Begoña Gómez en la campaña y denuncia la pérdida de poder adquisitivo.\"}, {\"id\": \"lavanguardia-9\", \"resumen\": \"Sánchez, en su pódcast con Jordi Wild, sostiene que las decisiones de Puente no influyeron en la tragedia de Urda.\"}, {\"id\": \"lavanguardia-0\", \"resumen\": \"La caída de Outlook obliga a muchas empresas a usar WhatsApp, llamadas y el papel en la logística.\"}, {\"id\": \"lavanguardia-1\", \"resumen\": \"Microsoft atribuye la caída a una carga elevada en su infraestructura, afecta a más de 70 países y descarta un ciberataque.\"}, {\"id\": \"lavanguardia-17\", \"resumen\": \"Jensen Huang dimite como consejero delegado de Nvidia; Colette Kress asume el cargo de forma interina.\"}]}]</parameter>\n",
+ "resumen_dia": "La FAA de EE UU paralizó este viernes todos los vuelos del país por un problema de comunicación en los centros de control aéreo, y Microsoft restableció tras más de 18 horas una caída global de sus servicios. En política, arranca la campaña del 29-N con Sánchez pidiendo un 75% de participación, Feijóo proponiendo bajadas de impuestos y el Gobierno anunciando la revalorización de pensiones. En el plano internacional, Alemania y Francia negocian la presidencia del BCE con Hernández de Cos como favorito y Europa define su equipo para negociar con Rusia.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\": \"Suspensión de vuelos en todo EE UU\", \"resumen\": \"La FAA ordenó la paralización de los vuelos en el país por razones de seguridad, atribuidas por el secretario de Transporte a un fallo de comunicación en los centros de control aéreo.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Destaca la orden de la FAA y la explicación oficial del secretario de Transporte sobre el fallo de comunicación.\", \"ids\": [\"elpais-0\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya la prohibición de despegar en todo el país y la cita del ministro de Transporte.\", \"ids\": [\"elmundo-3\"]}, {\"medio\": \"abc\", \"enfoque\": \"Enfatiza el carácter extraordinario y poco habitual de la medida, con la cifra de vuelos afectados.\", \"ids\": [\"abc-0\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Señala que se desconoce si el fallo se debe a una avería generalizada o a un sabotaje.\", \"ids\": [\"lavanguardia-0\"]}]}, {\"titulo\": \"Campaña electoral del 29-N arranca\", \"resumen\": \"Con el inicio oficial de la campaña, los partidos presentan sus primeras propuestas y los líderes se dirigen a sus electorados; Sánchez pide un 75% de participación.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Prioriza los sondeos diarios que dan fortaleza a Vox y a la derecha, y las propuestas de Feijóo sobre impuestos y el Ingreso Mínimo Vital.\", \"ids\": [\"elpais-2\", \"elpais-3\", \"elpais-5\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Destaca el crecimiento de PP y Vox hasta el 50,7% y la petición de Sánchez de un 75% de participación en La Rioja.\", \"ids\": [\"elmundo-0\", \"elmundo-1\", \"elmundo-5\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge el acto de Abascal en la plaza de Colón y el tono de la campaña con referencias históricas.\", \"ids\": [\"abc-4\", \"abc-11\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Recoge la propuesta de bajada de impuestos a jóvenes de Feijóo y el objetivo de 176 escaños de Sánchez, con Cuerpo como vicepresidente.\", \"ids\": [\"lavanguardia-2\", \"lavanguardia-3\", \"lavanguardia-6\"]}]}, {\"titulo\": \"Entrevistas de Jordi Wild a los candidatos\", \"resumen\": \"Los candidatos Sánchez, Feijóo y Colau respondieron a las entrevistas del podcaster Jordi Wild, en las que abordaron el caso Zapatero, la foto de Feijóo con un narco y sus mutuas críticas.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Se centra en la duración de la entrevista y en la declaración de Sánchez sobre Zapatero.\", \"ids\": [\"elpais-4\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Destaca la justificación de Sánchez sobre su ausencia tras la crisis de Ceuta y su cambio de opinión.\", \"ids\": [\"elmundo-4\"]}, {\"medio\": \"abc\", \"enfoque\": \"Enfoca la entrevista a Colau y su postura sobre la corrupción y la permanencia de Sumar en el Gobierno.\", \"ids\": [\"abc-9\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Recoge cómo los tres líderes describen a sus rivales.\", \"ids\": [\"lavanguardia-4\"]}]}, {\"titulo\": \"Tribunal de Cuentas y el ático de la Comunidad de Madrid\", \"resumen\": \"El Tribunal de Cuentas aprecia indicios de posible uso indebido de fondos en la compra de un ático en Chamberí por 6,3 millones de euros y abre investigación.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Señala que la denuncia supera el primer filtro y pasará a investigación a fondo.\", \"ids\": [\"elpais-6\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Recoge la segunda tasación aportada por la Comunidad para defender la compra.\", \"ids\": [\"elmundo-8\"]}, {\"medio\": \"abc\", \"enfoque\": \"Indica que la denuncia procede de Más Madrid y PSOE y que el asunto pasa a una sección del órgano.\", \"ids\": [\"abc-17\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Refiere el caso como investigación del ático de Ayuso y los indicios de menoscabo de fondos.\", \"ids\": [\"lavanguardia-17\"]}]}, {\"titulo\": \"Nombramientos en el BCE y pacto franco-alemán\", \"resumen\": \"Alemania y Francia ultiman un acuerdo para la cúpula del BCE, con Hernández de Cos como candidato favorito a la presidencia; Merz prevé presentar la propuesta la próxima semana.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Presenta el pacto como ultimado entre Alemania y Francia con Hernández de Cos como favorito, con cita de Merz.\", \"ids\": [\"elpais-16\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya que Merz quiere cerrar el reparto la semana próxima tras un acuerdo con los socialistas alemanes.\", \"ids\": [\"elmundo-16\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Destaca que Merz habla de acuerdos a punto de alcanzarse pendientes de los otros dos cargos vacantes.\", \"ids\": [\"lavanguardia-12\"]}]}, {\"titulo\": \"Negociación europea con Rusia sobre Ucrania\", \"resumen\": \"Europa elige un equipo de cinco países y dos instituciones para negociar con Rusia sobre la guerra de Ucrania; España queda fuera del grupo.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Subraya que España no forma parte del equipo, único gran socio de la UE excluido.\", \"ids\": [\"elmundo-9\", \"elmundo-14\"]}, {\"medio\": \"abc\", \"enfoque\": \"Señala que el Kremlin ha aceptado parcialmente la participación europea y que la lista se decidió en el Consejo de Dublín.\", \"ids\": [\"abc-12\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Indica que el Kremlin enfría la voluntad europea de participar en el proceso de paz.\", \"ids\": [\"lavanguardia-13\"]}]}, {\"titulo\": \"Caída de servicios de Microsoft\", \"resumen\": \"Microsoft restableció sus servicios tras una caída global de más de 18 horas, que descarta vinculada a un ciberataque.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Recoge las disculpas de la compañía y la negativa a un ciberataque, sin incidencias en España.\", \"ids\": [\"elpais-1\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Señala la carga elevada en la infraestructura y el impacto en más de 70 países.\", \"ids\": [\"lavanguardia-1\"]}]}, {\"titulo\": \"Escándalo y salida de Jensen Huang en Nvidia\", \"resumen\": \"El fundador de Nvidia abandonó la compañía tras conocerse sus infidelidades y un caso de supuesto espionaje; la salida abre un debate en la Casa Blanca sobre exportación de chips a China.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Centra el relato en la salida de Huang tras las revelaciones personales y el caso de espionaje.\", \"ids\": [\"elpais-15\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Se fija en el trato de Huang hacia Colette Kress, su sucesora interina.\", \"ids\": [\"elmundo-6\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca el debate interno en la Casa Blanca sobre los controles de exportación de chips a China.\", \"ids\": [\"abc-2\"]}]}]",
  "temas_comunes": [],
  "medios": [
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "",
+   "resumen": "Prioriza la campaña electoral con sondeos propios y las declaraciones de los candidatos, junto con la crisis aérea en EE UU y la caída de Microsoft. Incluye también la denuncia de la Fiscalía contra TikTok.",
    "noticias": [
     {
-     "titular": "Microsoft no logra recuperar la normalidad de sus servicios tras una caída global de más de 12 horas",
-     "url": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
-     "seccion": "Tecnología",
-     "resumen": ""
+     "titular": "La FAA ordena una suspensión nacional de los vuelos debido a “circunstancias extraordinarias y motivos de seguridad”",
+     "url": "https://elpais.com/us/2026-11-13/la-faa-ordena-una-suspension-nacional-de-los-vuelos-debido-a-circunstancias-extraordinarias-y-motivos-de-seguridad.html",
+     "seccion": "Estados Unidos",
+     "resumen": "La FAA ordena suspender los vuelos en todo el país y el secretario de Transporte atribuye la medida a un fallo de comunicación en los centros de control."
     },
     {
-     "titular": "Claves | Qué ha ocurrido con Microsoft y por qué lleva tantas horas fuera de juego",
-     "url": "https://elpais.com/tecnologia/2026-11-13/claves-que-ha-ocurrido-con-microsoft-y-por-que-lleva-tantas-horas-fuera-de-juego.html",
-     "seccion": "Microsoft",
-     "resumen": ""
+     "titular": "La Fiscalía denuncia a TikTok por la difusión de vídeos de abuso sexual infantil y pide su retirada urgente",
+     "url": "https://elpais.com/sociedad/2026-11-13/la-fiscalia-denuncia-a-tiktok-en-el-juzgado-por-los-videos-de-abuso-sexual-infantil.html",
+     "seccion": "Sociedad",
+     "resumen": "La Fiscalía pide la retirada urgente de miles de vídeos de abuso infantil en TikTok, tras una investigación de Maldita.es, y el Gobierno pide el cese de la actividad de la red."
     },
     {
      "titular": "La campaña arranca con la derecha en el horizonte de los 190 escaños",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/la-campana-arranca-con-la-derecha-en-el-horizonte-de-los-190-escanos.html",
      "seccion": "Elecciones Generales",
-     "resumen": ""
+     "resumen": "Un primer tracking diario sitúa a la derecha cerca de los 190 escaños y destaca la fortaleza de Vox."
     },
     {
-     "titular": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
-     "url": "https://elpais.com/economia/2026-11-13/el-gobierno-aprueba-el-tramite-de-urgencia-para-la-revalorizacion-de-las-pensiones.html",
-     "seccion": "Economía",
-     "resumen": ""
-    },
-    {
-     "titular": "Campaña elecciones 29-N y actualidad política, en directo | El PSOE presenta una denuncia contra ‘Okdiario’ y el PP por los pagos de la defensa de Koldo García",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
-     "seccion": "Elecciones Generales",
-     "resumen": ""
-    },
-    {
-     "titular": "¿Cómo es Jordi Wild? Esto es lo que dice un análisis de 9.000 vídeos de su canal",
-     "url": "https://elpais.com/tecnologia/2026-11-13/como-es-jordi-wild-esto-es-lo-que-dice-un-analisis-de-9000-videos-de-su-canal.html",
-     "seccion": "Tecnología",
-     "resumen": ""
-    },
-    {
-     "titular": "Feijóo pone en duda que pueda bajar los impuestos por el estado de las cuentas públicas: “No me creo los datos”",
+     "titular": "Feijóo enfría las bajadas de impuestos por el estado de las cuentas públicas: “No me creo los datos”",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html",
      "seccion": "Elecciones Generales",
-     "resumen": ""
+     "resumen": "Feijóo pone en duda los datos económicos que sustentan posibles bajadas de impuestos y propone retirar el Ingreso Mínimo Vital a inmigrantes que no trabajen."
     },
     {
-     "titular": "El día que Abascal gritó “¡Visca Catalunya!\" y se rodeó de senyeras",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/el-dia-que-abascal-grito-visca-catalunya-y-se-rodeo-de-senyeras.html",
+     "titular": "Sánchez insta a una participación del 75% el 29-N para reeditar un Gobierno progresista que llegue “más lejos y antes en las conquistas sociales”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/sanchez-insta-a-una-participacion-del-75-el-29-n-para-reeditar-un-gobierno-progresista-que-llegue-mas-lejos-y-antes-en-las-conquistas-sociales.html",
      "seccion": "Elecciones Generales",
-     "resumen": ""
+     "resumen": "Sánchez pide una participación del 75% el 29-N y critica las palabras de Abascal sobre Franco."
     },
     {
-     "titular": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’",
-     "url": "https://elpais.com/us/entretenimiento/2026-11-13/rosalia-reina-de-los-latin-grammy-gana-el-premio-a-disco-del-ano-por-lux-y-a-cancion-del-ano-por-la-perla.html",
+     "titular": "El Tribunal de Cuentas aprecia indicios de indebido uso de fondos en la compra del ático de la Comunidad de Madrid",
+     "url": "https://elpais.com/espana/madrid/2026-11-13/el-tribunal-de-cuentas-aprecia-indicios-de-indebido-uso-de-fondos-en-la-compra-del-atico-de-la-comunidad-de-madrid-y-nombra-un-instructor.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": "El Tribunal de Cuentas investigará a fondo la compra del ático de la Comunidad de Madrid tras encontrar indicios de uso indebido de fondos."
+    },
+    {
+     "titular": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
+     "url": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
+     "seccion": "Tecnología",
+     "resumen": "Microsoft recupera sus servicios tras una caída de más de 18 horas, pide disculpas y descarta un ciberataque."
+    },
+    {
+     "titular": "Las últimas horas de Jensen Huang en Nvidia: “Soy un pedazo de mierda”",
+     "url": "https://elpais.com/us/2026-11-13/las-ultimas-horas-de-jensen-huang-en-nvidia-soy-un-pedazo-de-mierda.html",
      "seccion": "Estados Unidos",
-     "resumen": ""
-    },
-    {
-     "titular": "Todos los ‘looks’ de la alfombra roja de los Latin Grammy 2026",
-     "url": "https://elpais.com/smoda/moda/2026-11-12/todos-los-looks-de-la-alfombra-roja-de-los-latin-grammy.html",
-     "seccion": "Latin Grammy",
-     "resumen": ""
+     "resumen": "Jensen Huang deja Nvidia tras conocerse sus infidelidades y un caso de supuesto espionaje."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "",
+   "resumen": "Pone el foco en la campaña electoral, con el avance de PP y Vox en votos y la petición de Sánchez de movilización. Mantiene temas internacionales como la negociación con Rusia y la crisis de seguridad en Madrid.",
    "noticias": [
     {
-     "titular": "Feijóo se pone la capa de 'Anotop At' frente a Jordi Wild para conquistar a la Generación Z: \"Yo no sé inglés, pero sé gobernar\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6e315fdddff705e8b4593.html",
-     "seccion": "PP",
-     "resumen": ""
+     "titular": "La izquierda no encuentra revulsivo y PP y Vox crecen en votos hasta el 50,7% tras la huelga general",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af73a35fdddffb36c8b45a0.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "PP y Vox suben hasta el 50,7% tras la huelga general, mientras la izquierda no encuentra un impulso en el arranque de campaña."
     },
     {
-     "titular": "Sánchez pierde la memoria con Jordi Wild: \"No me fui de vacaciones\" tras la crisis de Ceuta",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6ee63fc6c83fa038b4580.html",
-     "seccion": "Pedro Sánchez",
-     "resumen": ""
-    },
-    {
-     "titular": "Colau tacha de \"cruel\" al ausente Abascal en su paso por el pódcast de Jordi Wild para buscar el voto joven: \"Las izquierdas hemos sido demasiado moralistas\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6ef66e9cf4ad4438b4588.html",
-     "seccion": "España",
-     "resumen": ""
-    },
-    {
-     "titular": "Los mensajes desvelados por la UCO sitúan a Óscar López como impulsor de la reunión de Sánchez con el chófer de la trama: \"Todo es raro\"",
-     "url": "https://www.elmundo.es/espana/2026/11/12/6af61ead21efa0bb048b458b.html",
-     "seccion": "PSOE",
-     "resumen": ""
-    },
-    {
-     "titular": "\"Nuestro amigo Cristian\": el ex chofer de Sánchez fue la solución para comprarle un piso a la novia de Ábalos",
-     "url": "https://www.elmundo.es/espana/2026/11/13/6af62229e4d4d85c5f8b45b1.html",
-     "seccion": "Pedro Sánchez",
-     "resumen": ""
+     "titular": "Estados Unidos ordena suspender los vuelos en todo el país por razones de seguridad",
+     "url": "https://www.elmundo.es/economia/2026/11/13/6af7806bfc6c83c8238b456e.html",
+     "seccion": "Estados Unidos",
+     "resumen": "EE UU suspende todos los vuelos del país y el ministro de Transporte atribuye la medida a un problema de comunicación en los centros de control."
     },
     {
      "titular": "El Gobierno inicia el camino para revalorizar las pensiones en el primer día de campaña electoral",
      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6fb2121efa0c94b8b457a.html",
      "seccion": "Artículos Raúl Piña",
-     "resumen": ""
+     "resumen": "El Gobierno inicia la revalorización de pensiones con una subida prevista entre el 3% y el 4%."
     },
     {
-     "titular": "Cuerpo destituye al presidente de Renfe afín a Puente para tratar de apaciguar el malestar del sector y recupera a Joaquim Hortalà para dirigir Adif",
-     "url": "https://www.elmundo.es/economia/empresas/2026/11/13/6af706bae4d4d85b4d8b4574.html",
-     "seccion": "Artículos Marcos Iriarte",
-     "resumen": ""
+     "titular": "España no estará en el \"equipo europeo\" de negociación con Rusia y es la única gran economía de la UE que se queda fuera",
+     "url": "https://www.elmundo.es/internacional/2026/11/13/6af754ecfdddff742b8b45ca.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "España queda fuera del equipo europeo de negociación con Rusia, formado por Alemania, Francia, Italia, Polonia, Reino Unido y las instituciones."
     },
     {
-     "titular": "Microsoft sufre una caída mundial: Outlook, Teams y Copilot llevan más de 17 horas sin funcionar. ¿Qué puedo hacer?",
-     "url": "https://www.elmundo.es/economia/empresas/2026/11/13/6af6b987fdddfff22c8b4587.html",
-     "seccion": "Microsoft",
-     "resumen": ""
+     "titular": "Oleada de avisos de bomba falsos en Madrid: se registran 30 en el último día y medio, y las autoridades investigan las causas",
+     "url": "https://www.elmundo.es/espana/2026/11/13/6af6f56a21efa0e33c8b458e.html",
+     "seccion": "Sucesos",
+     "resumen": "Madrid registra 30 avisos de bomba falsos en día y medio, en un contexto de psicosis tras un atentado mortal en Oviedo."
     },
     {
      "titular": "El Tribunal de Cuentas ordena investigar el caso del ático al detectar indicios de perjuicio a fondos públicos",
      "url": "https://www.elmundo.es/madrid/2026/11/13/6af7022afdddff3a7f8b45fa.html",
      "seccion": "Comunidad de Madrid",
-     "resumen": ""
+     "resumen": "El Tribunal de Cuentas ordena investigar el ático de la Comunidad, que aporta una segunda tasación para defender el precio."
     },
     {
-     "titular": "La desconfianza con Marlaska crece en el PSOE por la sensación de que no controla sectores de las Fuerzas de Seguridad",
-     "url": "https://www.elmundo.es/espana/2026/11/13/6af617bee4d4d8845c8b457f.html",
-     "seccion": "Fernando Grande-Marlaska",
-     "resumen": ""
+     "titular": "Merz quiere cerrar ya la semana que viene el reparto de la cúpula del BCE con Hernández de Cos como favorito para presidente: \"Hay acuerdos que están a punto\"",
+     "url": "https://www.elmundo.es/economia/2026/11/13/6af713b2e85ece21708b4573.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "Merz busca cerrar la semana que viene el reparto de la cúpula del BCE, con Hernández de Cos como candidato favorito."
+    },
+    {
+     "titular": "Una bomba llegada en globo, un sospechoso con rastas y una fuga a Moldavia: dos atentados sacuden Rusia en 48 horas",
+     "url": "https://www.elmundo.es/internacional/2026/11/13/6af7447ffc6c83a60b8b4581.html",
+     "seccion": "Vladimir Putin",
+     "resumen": "Dos atentados en Rusia en 48 horas, uno con una bomba llegada en globo y otro contra un exportavoz de Azarov."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "",
+   "resumen": "Abre con la parálisis aérea en EE UU y la campaña electoral, con cobertura de las entrevistas de Jordi Wild. Incluye noticias de sucesos y economía como la situación de Plus Ultra.",
    "noticias": [
     {
-     "titular": "Ainhoa Martínez: «Sánchez asfixia a su izquierda para conseguir la remontada»",
-     "url": "https://www.abc.es/espana/sanchez-asfixia-izquierda-conseguir-remontada-20261113133049-nt.html",
+     "titular": "EE.UU. paraliza todos los vuelos del país por «circunstancias extraordinarias» y «razones de seguridad»",
+     "url": "https://www.abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "La FAA paraliza todos los vuelos del país por circunstancias extraordinarias y razones de seguridad, una medida poco habitual."
     },
     {
-     "titular": "Cuerpo cesa también al presidente de Renfe y coloca en la cúpula ferroviaria a dos altos funcionarios",
-     "url": "https://www.abc.es/economia/cuerpo-cesa-presidente-renfe-coloca-cupula-ferroviaria-20261113134416-nt.html",
+     "titular": "Un petrolero choca y hunde un crucero con más de 130 personas en Nueva Orleans",
+     "url": "https://www.abc.es/internacional/petrolero-hude-ferry-129-personas-bordo-rio-20261113213950-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Un petrolero embiste un crucero amarrado en Nueva Orleans, con más de 130 personas a bordo."
     },
     {
-     "titular": "David Serrato, marido de Irene Villa, revela que tiene cáncer: «Ha regresado golpeando con más fuerza»",
-     "url": "https://www.abc.es/gente/david-serrato-marido-irene-villa-revela-cancer-20261113123604-nt.html",
+     "titular": "Abascal se conjura con sus socios internacionales para el 29N: «Estas elecciones son existenciales para España»",
+     "url": "https://www.abc.es/espana/abascal-conjura-socios-internacionales-29n-elecciones-existenciales-20261113220250-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Abascal inicia la campaña del 29N en Colón con llamadas a una elección existencial y el apoyo de aliados internacionales."
     },
     {
-     "titular": "Sancet, internacional con España: «Ojalá jugar un Mundial con la selección de nuestro país, Euskadi»",
-     "url": "https://www.abc.es/deportes/futbol/sancet-internacional-espanol-ojala-podamos-jugar-mundial-20261113093808-nt.html",
+     "titular": "Europa designa a un equipo de cinco países para negociar con Rusia sobre la guerra de Ucrania",
+     "url": "https://www.abc.es/internacional/ue-busca-representante-negociacion-rusia-sobre-guerra-20261113184434-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "La reunión informal del Consejo Europeo en Dublín aborda quiénes negociarán con Rusia sobre Ucrania, tras la aceptación parcial de Moscú."
     },
     {
-     "titular": "Pochettino, el enésimo elegido para sacar al Manchester United de la ruina deportiva",
-     "url": "https://www.abc.es/deportes/futbol/pochettino-enesimo-elegido-sacar-manchester-united-ruina-20261112020937-nt.html",
+     "titular": "Plus Ultra entra en preconcurso de acreedores, reduce rutas y prepara un ERE sobre su plantilla",
+     "url": "https://www.abc.es/economia/plus-ultra-entra-preconcurso-acreedores-reduce-rutas-20261113144909-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Plus Ultra entra en preconcurso de acreedores, reduce rutas y prepara un ERE, con el rescate público aún por devolver."
     },
     {
-     "titular": "Vox propone un impuesto a las remesas de dinero enviadas al extranjero",
-     "url": "https://www.abc.es/economia/cuentas-corrientes/vox-propone-impuesto-remesas-dinero-enviadas-extranjero-20261113132628-nt.html",
+     "titular": "El escándalo de Nvidia abre una guerra interna en la Casa Blanca por la fuga de microchips a China",
+     "url": "https://www.abc.es/internacional/guerra-interna-casa-blanca-fuga-chips-nvidia-20261113174842-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "La salida de Huang en Nvidia abre un debate en la Casa Blanca sobre los controles a la exportación de chips a China."
     },
     {
-     "titular": "Pavo real",
-     "url": "https://www.abc.es/deportes/futbol/pavo-real-20261112020718-nt.html",
+     "titular": "El Tribunal de Cuentas investigará la compra del ático de Chamberí por el Gobierno de Ayuso",
+     "url": "https://www.abc.es/espana/madrid/tribunal-cuentas-ordena-investigar-atico-detectar-indicios-20261113125828-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "El Tribunal de Cuentas estudiará si la compra del ático de Chamberí por 6,3 millones supuso un desvío de fondos, a raíz de denuncias de Más Madrid y PSOE."
     },
     {
-     "titular": "Un nuevo jardinillo",
-     "url": "https://www.abc.es/cultura/cultural/andres-trapiello-nuevo-jardinillo-20261113135201-nt.html",
+     "titular": "Un millón y medio de personas reciben al Papa en su antigua diócesis de Chiclayo",
+     "url": "https://www.abc.es/internacional/multitudinaria-bienvenida-papa-antigua-diocesis-chiclayo-20261113182113-nt.html",
      "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Feijóo, con Jordi Wild: «Yo no sé inglés, pero sé gobernar. Y no insulto en ningún idioma»",
-     "url": "https://www.abc.es/espana/feijoo-jordi-wild-encabronaria-aliados-europeos-decir-20261113121544-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Los Mossos aseguran ante la juez que no pueden certificar que en la caída de Andic participasen terceras personas",
-     "url": "https://www.abc.es/espana/cataluna/mossos-aseguran-ante-juez-pueden-certificar-caida-20261113133447-nt.html",
-     "seccion": "",
-     "resumen": ""
+     "resumen": "Más de un millón y medio de personas reciben al Papa en Chiclayo, su antigua diócesis."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "",
+   "resumen": "Prioriza la campaña electoral con enfoque en Cataluña, como las propuestas de Junts y ERC sobre financiación y Rodalies. Incluye también la crisis aérea en EE UU y la negociación europea con Rusia.",
    "noticias": [
     {
-     "titular": "La caída de Outlook impacta en las empresas: del “tiramos como podemos” a estar paralizados",
-     "url": "https://www.lavanguardia.com/economia/20261113/11683458/outlook-correo-caida-microsoft-copilot-empresas.html",
-     "seccion": "Economía",
-     "resumen": ""
+     "titular": "Estados Unidos suspende las operaciones aéreas por la caída de los sistemas de comunicación",
+     "url": "https://www.lavanguardia.com/internacional/20261113/11683874/estados-unidos-suspende-operaciones-aereas-caida-sistemas-comunicacion.html",
+     "seccion": "Internacional",
+     "resumen": "EE UU suspende sus operaciones aéreas por la caída de los sistemas de comunicación, sin que se sepa si hubo avería o sabotaje."
     },
     {
-     "titular": "Microsoft sigue sin resolver la caída mundial de Outlook, Teams y Copilot",
+     "titular": "Sánchez anuncia que Cuerpo volverá a ser su vicepresidente si logra la reelección",
+     "url": "https://www.lavanguardia.com/politica/20261113/11683755/sanchez-anuncia-cuerpo-volvera-vicepresidente-logra-reeleccion-29-n.html",
+     "seccion": "Política",
+     "resumen": "Sánchez anuncia que Carlos Cuerpo será su vicepresidente si gana y reclama un 75% de participación para lograr 176 escaños."
+    },
+    {
+     "titular": "Feijóo promete bajada de impuestos a los jóvenes: “No quiero ser vuestro influencer”",
+     "url": "https://www.lavanguardia.com/politica/20261113/11683561/feijoo-promete-bajada-impuestos-jovenes-quiero-vuestro-influencer-colaborare-crezcais.html",
+     "seccion": "Política",
+     "resumen": "Feijóo ofrece bajadas de impuestos para jóvenes en un acto con Ayuso y plantea cuatro medidas económicas."
+    },
+    {
+     "titular": "Junts exige que el dinero de los catalanes se quede en Catalunya y salir de la Lofca",
+     "url": "https://www.lavanguardia.com/politica/20261113/11683377/junts-exige-dinero-catalanes-quede-catalunya-salir-lofca.html",
+     "seccion": "Política",
+     "resumen": "Junts reclama que el dinero recaudado en Cataluña se quede allí y plantea salir de la Lofca, con un concierto económico."
+    },
+    {
+     "titular": "ERC propone blindar por ley que se destine el 30% de la inversión ferroviaria a mantenimiento y seguridad",
+     "url": "https://www.lavanguardia.com/politica/elecciones/20261113/11683554/erc-propone-blindar-ley-destine-30-inversion-ferroviaria-mantenimiento-seguridad.html",
+     "seccion": "Elecciones",
+     "resumen": "ERC propone destinar por ley el 30% de la inversión ferroviaria a mantenimiento y seguridad, y critica la lentitud del traspaso de Rodalies."
+    },
+    {
+     "titular": "Europa elige a su equipo para las negociaciones de Ucrania: cinco países y dos instituciones",
+     "url": "https://www.lavanguardia.com/internacional/20261113/11683788/cinco-paises-ue-representaran-europa-negociaciones-ucrania.html",
+     "seccion": "Internacional",
+     "resumen": "Europa designa cinco países y dos instituciones para negociar con Rusia, mientras el Kremlin enfría la iniciativa."
+    },
+    {
+     "titular": "El Tribunal de Cuentas ordena investigar el ático de Ayuso",
+     "url": "https://www.lavanguardia.com/politica/20261113/11683464/tribunal-cuentas-ordena-investigar-atico-ayuso.html",
+     "seccion": "Política",
+     "resumen": "El Tribunal de Cuentas ordena investigar el ático de Chamberí por 6,3 millones de euros por posible menoscabo de fondos públicos."
+    },
+    {
+     "titular": "Microsoft avanza hacia una recuperación de servicios y descarta un problema de seguridad",
      "url": "https://www.lavanguardia.com/vida/20261113/11683225/microsoft-dificultades-reparar-caida-mundial-outlook.html",
      "seccion": "Sociedad",
-     "resumen": ""
-    },
-    {
-     "titular": "¿Por qué ha caído Microsoft? Estas son las (pocas) explicaciones de la compañía",
-     "url": "https://www.lavanguardia.com/vida/20261113/11683263/microsoft-asegura-causa-caida-servicios-sido-ciberataque.html",
-     "seccion": "Sociedad",
-     "resumen": ""
-    },
-    {
-     "titular": "Microsoft sufre una caída mundial: Outlook, Teams y Copilot, sin servicio: última hora en directo",
-     "url": "https://www.lavanguardia.com/vida/20261113/11683265/caida-mundial-outlook-teams-copilot-microsoft-ultima-hora-hoy-en-directo.html",
-     "seccion": "Sociedad",
-     "resumen": ""
-    },
-    {
-     "titular": "Copilot, SharePoint, Planner y el resto de servicios de Microsoft afectados por la caída",
-     "url": "https://www.lavanguardia.com/vida/20261113/11683414/copilot-sharepoint-planner-resto-servicios-microsoft-afectados-caida.html",
-     "seccion": "Sociedad",
-     "resumen": ""
-    },
-    {
-     "titular": "Sánchez o Feijóo: última oportunidad",
-     "url": "https://www.lavanguardia.com/politica/20261113/11682906/sanchez-feijoo-ultima-oportunidad.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "Elecciones generales del 29N, en directo: última hora del arranque de la campaña electoral con los primeros mítines de Sánchez, Feijóo y otros candidatos",
-     "url": "https://www.lavanguardia.com/politica/20261113/11682241/elecciones-generales-campana-electoral-candidatos-ultima-hora-en-directo.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "Cómo se hace una entrevista",
-     "url": "https://www.lavanguardia.com/politica/20261113/11682868/como-entrevista.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "Feijóo suprimirá Vivienda como ministerio propio para elevarla a vicepresidencia",
-     "url": "https://www.lavanguardia.com/politica/20261113/11683368/feijoo-suprimira-ministerios-propios-vivienda-e-igualdad-agrupara-competencias.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "Sánchez: “Las decisiones de Puente no han afectado en la tragedia de Urda”",
-     "url": "https://www.lavanguardia.com/politica/20261113/11683433/pedro-sanchez-frente-jordi-wild-creo-decisiones-ministro-transportes-hayan-afectado-directamente-tragedia-urda.html",
-     "seccion": "Política",
-     "resumen": ""
+     "resumen": "Microsoft avanza en la recuperación de sus servicios, descarta un ciberataque y atribuye la caída a una carga elevada en su infraestructura."
     }
    ]
   }
