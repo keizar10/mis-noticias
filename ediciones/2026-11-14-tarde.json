@@ -1,0 +1,519 @@
+{
+ "fecha": "2026-11-14",
+ "franja": "tarde",
+ "generada": "2026-11-14T13:36+01:00",
+ "con_ia": true,
+ "resumen_dia": "La campaña para las elecciones generales del 29 de noviembre domina las portadas de los cuatro diarios, con foco en el PSOE, el PP, Vox y en la UCO y el caso Koldo. En EE UU, un fallo informático en el control aéreo obligó a suspender vuelos durante más de cuatro horas y provocó miles de cancelaciones. La salida de Jensen Huang de Nvidia por un escándalo de presunto espionaje y vida privada centra la atención económica y su impacto en la rivalidad con China.",
+ "temas_comunes": [
+  {
+   "titulo": "Campaña electoral del 29N",
+   "resumen": "Los partidos intensifican sus actos a dos semanas de las elecciones generales del 29 de noviembre. Las encuestas sitúan el PP y el PSOE cada vez más cerca, según un seguimiento diario citado por El País.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el llamamiento del PSOE al voto útil frente a Vox y las 18 provincias prioritarias de los socialistas.",
+     "noticias": [
+      {
+       "titular": "Campaña elecciones 29N y actualidad política, en directo | Sánchez pide “el voto de todos los que quieren más Europa” para frenar a Abascal",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "El PSOE pelea las elecciones en 18 provincias que tiene identificadas como prioritarias",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/el-psoe-pelea-las-elecciones-en-18-provincias-que-tiene-identificadas-como-prioritarias.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/la-diferencia-entre-pp-y-psoe-se-estrecha-segun-el-tracking-diario-de-40db.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la estrategia de Moncloa y Ferraz de campañas de impacto y el legado de la legislatura sin presupuestos.",
+     "noticias": [
+      {
+       "titular": "Últimos fusibles de Sánchez",
+       "url": "https://www.elmundo.es/espana/2026/11/14/6af75bf0fc6c837f278b4595.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Moncloa y Ferraz proyectan una campaña de golpes de efecto como Begoña o Lula que aísle al PSOE de la UCO: \"Habrá sorpresas\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af7685ae4d4d848758b4587.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge las propuestas de Feijóo sobre Marruecos y el posible acuerdo de gobierno entre PP y Vox.",
+     "noticias": [
+      {
+       "titular": "Vicente Vallés: «Pedro Sánchez recurre a Begoña Gómez cuando no puede contar ni con Zapatero ni con Óscar Puente»",
+       "url": "https://www.abc.es/play/television/noticias/vicente-valles-pedro-sanchez-recurre-begona-gomez-20261114093000-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Alberto Núñez Feijóo: «Si Marruecos no nos respeta, aplicaría la Constitución para desplegar el Ejército en la frontera»",
+       "url": "https://www.abc.es/espana/feijoo-sobre-relacion-espana-marruecos-podemos-considerarlo-20261113050000-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Los programas electorales de PP y Vox allanan el futuro acuerdo de Gobierno",
+       "url": "https://www.abc.es/espana/programas-electorales-pp-vox-allanan-futuro-acuerdo-20261114025204-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Se centra en el tono de la campaña, con entrevistas en formatos de pódcast y la verificación de sus afirmaciones.",
+     "noticias": [
+      {
+       "titular": "El show de la campaña: superhéroes, youtubers y comediantes para ganar votos",
+       "url": "https://www.lavanguardia.com/politica/20261114/11683800/afan-llegar-politica-importa-poco-convierte-campana-show.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Imprecisiones sobre delincuencia, inseguridad y crecimiento económico: los ‘fact-checks’ de las entrevistas de Jordi Wild a Colau, Feijóo y Sánchez",
+       "url": "https://www.lavanguardia.com/politica/20261114/11684132/imprecisiones-sobre-delincuencia-inseguridad-crecimiento-economico-fact-checks-entrevistas-jordi-wild-colau-feijoo-sanchez.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Son elecciones de época",
+       "url": "https://www.lavanguardia.com/politica/20261114/11683954/son-elecciones-epoca.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Caída del control aéreo en EE UU",
+   "resumen": "Un fallo en el sistema de control de tráfico aéreo obligó a suspender los vuelos en el país durante unas cuatro o cinco horas. Se cancelaron miles de vuelos y el Gobierno atribuye la incidencia a un sistema anticuado.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la petición del secretario de Transporte al Congreso de 30.000 millones de dólares para modernizar el sistema.",
+     "noticias": [
+      {
+       "titular": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
+       "url": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html",
+       "seccion": "América"
+      },
+      {
+       "titular": "“Los parches no funcionan”: el Gobierno de EE UU culpa al “anticuado” sistema de control aéreo por la suspensión de vuelos",
+       "url": "https://elpais.com/us/2026-11-14/los-parches-no-funcionan-el-gobierno-de-ee-uu-culpa-al-anticuado-sistema-de-control-aereo-por-la-suspension-de-vuelos.html",
+       "seccion": "Estados Unidos"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Atribuye la caída a un sistema antiguo que se cayó durante una actualización.",
+     "noticias": [
+      {
+       "titular": "Estados Unidos reabre sus aeropuertos cinco horas después tras cancelar miles de vuelos por un fallo en los sistemas de control",
+       "url": "https://www.elmundo.es/economia/2026/11/13/6af7806bfc6c83c8238b456e.html",
+       "seccion": "Estados Unidos"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Describe el caos en la jornada y la suspensión de la mayoría de vuelos en todo el país.",
+     "noticias": [
+      {
+       "titular": "Caos aéreo en EE.UU.: todos los vuelos cancelados durante más de cuatro horas por la saturación del sistema de control",
+       "url": "https://www.abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Cuantifica más de 10.000 vuelos afectados y muestra el impacto en los viajeros.",
+     "noticias": [
+      {
+       "titular": "Caos y más de 10.000 vuelos afectados en EE.UU. por el cierre de operaciones durante cuatro horas",
+       "url": "https://www.lavanguardia.com/internacional/20261113/11683874/estados-unidos-suspende-operaciones-aereas-caida-sistemas-comunicacion.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Las imágenes del caos: aviones en tierra, pasajeros desconcertados y equipajes perdidos",
+       "url": "https://www.lavanguardia.com/internacional/20261114/11684110/imagenes-interrupcion-trafico-aereo-estados-unidos.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "“Voy a perder la cabeza”: el caos aéreo deja a miles de viajeros buscando una salida en EE.UU.",
+       "url": "https://www.lavanguardia.com/internacional/20261114/11684136/perder-cabeza-caos-aereo-deja-miles-viajeros-buscando-salida-ee-uu.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Salida de Jensen Huang de Nvidia",
+   "resumen": "La salida del fundador de Nvidia se produce en medio de un escándalo de presunto espionaje y de infidelidades. Se debate su efecto en la industria de chips y en las relaciones comerciales entre EE UU y China.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Analiza el futuro incierto de la empresa y sus consecuencias para la industria de la inteligencia artificial.",
+     "noticias": [
+      {
+       "titular": "El fulgor de Nvidia se oscurece sin su rey Midas: así es el tortuoso camino que le espera a la empresa clave para la IA",
+       "url": "https://elpais.com/economia/negocios/2026-11-14/el-fulgor-de-nvidia-se-oscurece-sin-su-rey-midas.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Vincula el caso con una posible nueva guerra de chips y tierras raras entre EE UU y China.",
+     "noticias": [
+      {
+       "titular": "La caída del fundador de Nvidia amenaza con desatar una nueva guerra de los chips (y de las tierras raras) entre EEUU y China",
+       "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/14/6af7b060e4d4d829148b4599.html",
+       "seccion": "China"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Señala el cruce de acusaciones dentro de la Casa Blanca sobre las ventas a China.",
+     "noticias": [
+      {
+       "titular": "Juego de culpas en la Casa Blanca ante el caso de espionaje en Nvidia",
+       "url": "https://www.lavanguardia.com/economia/20261114/11684109/juego-culpas-casa-blanca-caso-espionaje-nvidia.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Peligro: amor en la oficina",
+       "url": "https://www.lavanguardia.com/economia/20261114/11683760/peligro-amor-oficina.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Cumbre Trump, Xi y Putin",
+   "resumen": "La Casa Blanca anunció un encuentro entre Trump, Xi y Putin en China la próxima semana. Según las fuentes, se abordarían armas nucleares, Irán y tierras raras, pero no Ucrania.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Indica que no se tratará Ucrania, como sugirió Rusia, pero sí armas nucleares, Irán y tierras raras.",
+     "noticias": [
+      {
+       "titular": "Trump, Xi y Putin celebrarán una minicumbre inédita la semana que viene en China",
+       "url": "https://www.elmundo.es/internacional/2026/11/14/6af7fe21e85ecea3138b456f.html",
+       "seccion": "Donald Trump"
+      },
+      {
+       "titular": "Zelenski revela que EEUU planteó la entrada de Ucrania en la OTAN a cambio del Donbás",
+       "url": "https://www.elmundo.es/internacional/2026/11/14/6af849f2e85ece3c7f8b4576.html",
+       "seccion": "Guerra Ucrania Rusia"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Señala la intención de Trump de abordar la guerra de Irán y la ausencia prevista de Ucrania en la agenda.",
+     "noticias": [
+      {
+       "titular": "La Casa Blanca anuncia un encuentro entre Trump, Xi y Putin",
+       "url": "https://www.lavanguardia.com/internacional/20261114/11684235/casa-blanca-anuncia-encuentro-trump-xi-putin-rusia-china-aun-han-confirmado.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "El regreso del fantasma nuclear iraní",
+       "url": "https://www.lavanguardia.com/internacional/20261114/11683746/regreso-fantasma-nuclear-irani.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Caso Koldo y vínculos con el PSOE",
+   "resumen": "Nuevos informes de la UCO sitúan a Cristian Corvillo en reuniones en Ferraz y en contacto con Pedro Sánchez. El Gobierno y el PSOE no han dado una respuesta detallada en las portadas recogidas.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Señala una cita de 35 minutos de Sánchez con Corvillo en 2023 y lo vincula al grupo Leer.",
+     "noticias": [
+      {
+       "titular": "Sánchez favoreció la reactivación de la trama corrupta en el PSOE",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af7793ffdddffc5748b45ba.html",
+       "seccion": "Koldo García"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge que el exchófer de Sánchez se movía en Ferraz y en las listas al Congreso, según la UCO.",
+     "noticias": [
+      {
+       "titular": "La UCO desmiente a la Moncloa: el exchófer de Sánchez se paseaba por Ferraz",
+       "url": "https://www.abc.es/espana/corvillo-movia-hilos-psoe-reuniones-ferraz-amigo-20261114025054-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Crisis en Renfe y Adif tras el accidente de Toledo",
+   "resumen": "El Gobierno ha relevado a los responsables de Renfe y Adif con perfiles técnicos. Los sindicatos mantienen protestas y huelgas convocadas para los días 17 y 23.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Detalla los nuevos responsables técnicos y las movilizaciones sindicales convocadas.",
+     "noticias": [
+      {
+       "titular": "Cuerpo entierra la herencia de Puente en Renfe y Adif: así son los nuevos responsables de perfil técnico a los que ha encomendado apaciguar el malestar interno",
+       "url": "https://www.elmundo.es/economia/2026/11/14/6af756e321efa0c94b8b458f.html",
+       "seccion": "Accidente tren Toledo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Interpreta el relevo como una operación de Carlos Cuerpo para limpiar perfiles vinculados a Óscar Puente.",
+     "noticias": [
+      {
+       "titular": "Cuerpo pasa factura a Puente y «limpia» los perfiles políticos de su equipo en Transportes",
+       "url": "https://www.abc.es/espana/cuerpo-pasa-factura-puente-limpia-perfiles-politicos-20261114025149-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña electoral, con datos de encuestas y la estrategia del PSOE en provincias clave. Dedica espacio también a la política internacional, como la caída aérea en EE UU y el caso Nvidia.",
+   "noticias": [
+    {
+     "titular": "El PSOE pelea las elecciones en 18 provincias que tiene identificadas como prioritarias",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/el-psoe-pelea-las-elecciones-en-18-provincias-que-tiene-identificadas-como-prioritarias.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El PSOE busca casi una veintena de escaños en 18 provincias prioritarias, apelando al voto útil y al desgaste de Vox sobre el PP."
+    },
+    {
+     "titular": "Campaña elecciones 29N y actualidad política, en directo | Sánchez pide “el voto de todos los que quieren más Europa” para frenar a Abascal",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Sánchez pide el voto de quienes quieren más Europa para frenar a Vox, y Feijóo critica la gestión del Ministerio de Transportes."
+    },
+    {
+     "titular": "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/la-diferencia-entre-pp-y-psoe-se-estrecha-segun-el-tracking-diario-de-40db.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El seguimiento diario de 40dB muestra que la distancia entre PP y PSOE se reduce y que aumenta la participación."
+    },
+    {
+     "titular": "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/vox-considera-fraudulenta-la-nacionalizacion-de-mas-de-300000-espanoles-originarios-de-marruecos.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Vox plantea revisar la nacionalización de unos 300.000 españoles de origen marroquí y gravar las remesas de inmigrantes."
+    },
+    {
+     "titular": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
+     "url": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html",
+     "seccion": "América",
+     "resumen": "EE UU reanuda el tráfico aéreo tras más de cuatro horas de parón, con 6.000 vuelos cancelados por fallos informáticos."
+    },
+    {
+     "titular": "“Los parches no funcionan”: el Gobierno de EE UU culpa al “anticuado” sistema de control aéreo por la suspensión de vuelos",
+     "url": "https://elpais.com/us/2026-11-14/los-parches-no-funcionan-el-gobierno-de-ee-uu-culpa-al-anticuado-sistema-de-control-aereo-por-la-suspension-de-vuelos.html",
+     "seccion": "Estados Unidos",
+     "resumen": "El secretario de Transporte pide al Congreso al menos 30.000 millones de dólares para modernizar el control aéreo."
+    },
+    {
+     "titular": "El fulgor de Nvidia se oscurece sin su rey Midas: así es el tortuoso camino que le espera a la empresa clave para la IA",
+     "url": "https://elpais.com/economia/negocios/2026-11-14/el-fulgor-de-nvidia-se-oscurece-sin-su-rey-midas.html",
+     "seccion": "Economía",
+     "resumen": "La salida de Jensen Huang abre un futuro incierto para Nvidia y para la industria de la IA."
+    },
+    {
+     "titular": "Las elecciones miden el techo de la derecha en Andalucía y la fortaleza del PSOE en su bastión de Sevilla",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/las-elecciones-miden-el-techo-de-la-derecha-en-andalucia-y-la-fortaleza-del-psoe-en-su-bastion-de-sevilla.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Las elecciones medirán el techo de la derecha en Andalucía y la fuerza del PSOE en Sevilla, con Adelante irrumpiendo."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en las informaciones sobre el PSOE y el caso Koldo, junto con la estrategia electoral del Gobierno. También destaca temas de política exterior y de seguridad.",
+   "noticias": [
+    {
+     "titular": "Sánchez favoreció la reactivación de la trama corrupta en el PSOE",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af7793ffdddffc5748b45ba.html",
+     "seccion": "Koldo García",
+     "resumen": "Una reunión de 35 minutos de Sánchez con Corvillo en 2023 vincula al presidente con los movimientos del grupo Leer."
+    },
+    {
+     "titular": "Moncloa y Ferraz proyectan una campaña de golpes de efecto como Begoña o Lula que aísle al PSOE de la UCO: \"Habrá sorpresas\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af7685ae4d4d848758b4587.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Moncloa y Ferraz preparan una campaña de golpes de efecto para que el debate se aísle de las actuaciones judiciales."
+    },
+    {
+     "titular": "Últimos fusibles de Sánchez",
+     "url": "https://www.elmundo.es/espana/2026/11/14/6af75bf0fc6c837f278b4595.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El artículo sitúa la legislatura sin presupuestos como legado del presidente en el cierre de su mandato."
+    },
+    {
+     "titular": "Vox también se quiere parecer al PP: modera sus metas en aborto, eutanasia, autonomías y LGTBI",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af72340e4d4d8ce338b459d.html",
+     "seccion": "Santiago Abascal Conde",
+     "resumen": "Vox modera algunas de sus propuestas en aborto, eutanasia, autonomías y LGTBI al inicio de su campaña."
+    },
+    {
+     "titular": "Estados Unidos reabre sus aeropuertos cinco horas después tras cancelar miles de vuelos por un fallo en los sistemas de control",
+     "url": "https://www.elmundo.es/economia/2026/11/13/6af7806bfc6c83c8238b456e.html",
+     "seccion": "Estados Unidos",
+     "resumen": "EE UU reabre sus aeropuertos tras cancelar miles de vuelos por un fallo en un sistema de control antiguo."
+    },
+    {
+     "titular": "La caída del fundador de Nvidia amenaza con desatar una nueva guerra de los chips (y de las tierras raras) entre EEUU y China",
+     "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/14/6af7b060e4d4d829148b4599.html",
+     "seccion": "China",
+     "resumen": "La caída de Huang puede reavivar la rivalidad tecnológica entre EE UU y China en chips y tierras raras."
+    },
+    {
+     "titular": "Trump, Xi y Putin celebrarán una minicumbre inédita la semana que viene en China",
+     "url": "https://www.elmundo.es/internacional/2026/11/14/6af7fe21e85ecea3138b456f.html",
+     "seccion": "Donald Trump",
+     "resumen": "Trump, Xi y Putin se reunirán en China; según la información, se hablará de armas nucleares, Irán y tierras raras."
+    },
+    {
+     "titular": "Cuerpo entierra la herencia de Puente en Renfe y Adif: así son los nuevos responsables de perfil técnico a los que ha encomendado apaciguar el malestar interno",
+     "url": "https://www.elmundo.es/economia/2026/11/14/6af756e321efa0c94b8b458f.html",
+     "seccion": "Accidente tren Toledo",
+     "resumen": "Renfe y Adif incorporan responsables técnicos tras el accidente de Toledo, y los sindicatos mantienen huelgas el 17 y 23."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la campaña electoral con propuestas de PP y Vox y con el caso UCO sobre el PSOE. Incluye también información de sociedad y crónica de sucesos.",
+   "noticias": [
+    {
+     "titular": "Alberto Núñez Feijóo: «Si Marruecos no nos respeta, aplicaría la Constitución para desplegar el Ejército en la frontera»",
+     "url": "https://www.abc.es/espana/feijoo-sobre-relacion-espana-marruecos-podemos-considerarlo-20261113050000-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo plantea aplicar la Constitución y desplegar el Ejército en la frontera si Marruecos no respeta a España."
+    },
+    {
+     "titular": "Los programas electorales de PP y Vox allanan el futuro acuerdo de Gobierno",
+     "url": "https://www.abc.es/espana/programas-electorales-pp-vox-allanan-futuro-acuerdo-20261114025204-nt.html",
+     "seccion": "",
+     "resumen": "Los programas de PP y Vox apuntan a una negociación para un futuro gobierno conjunto tras el 29 de noviembre."
+    },
+    {
+     "titular": "La UCO desmiente a la Moncloa: el exchófer de Sánchez se paseaba por Ferraz",
+     "url": "https://www.abc.es/espana/corvillo-movia-hilos-psoe-reuniones-ferraz-amigo-20261114025054-nt.html",
+     "seccion": "",
+     "resumen": "Un informe de la UCO sitúa a Corvillo en reuniones en Ferraz y en la colocación de personas en las listas del PSOE."
+    },
+    {
+     "titular": "Cuerpo pasa factura a Puente y «limpia» los perfiles políticos de su equipo en Transportes",
+     "url": "https://www.abc.es/espana/cuerpo-pasa-factura-puente-limpia-perfiles-politicos-20261114025149-nt.html",
+     "seccion": "",
+     "resumen": "Los nuevos presidentes de Adif y Renfe son perfiles técnicos, en una reorganización impulsada por Carlos Cuerpo."
+    },
+    {
+     "titular": "Caos aéreo en EE.UU.: todos los vuelos cancelados durante más de cuatro horas por la saturación del sistema de control",
+     "url": "https://www.abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html",
+     "seccion": "",
+     "resumen": "La suspensión de vuelos en EE UU dejó a numerosos pasajeros afectados durante más de cuatro horas."
+    },
+    {
+     "titular": "El SMI se dispara... ¿por qué mi sueldo no?",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/smi-dispara-sueldo-20261114024212-nt.html",
+     "seccion": "",
+     "resumen": "Pese a las subidas del SMI, gran parte de los sueldos en España siguen siendo bajos, según el análisis de ABC."
+    },
+    {
+     "titular": "Vicente Vallés: «Pedro Sánchez recurre a Begoña Gómez cuando no puede contar ni con Zapatero ni con Óscar Puente»",
+     "url": "https://www.abc.es/play/television/noticias/vicente-valles-pedro-sanchez-recurre-begona-gomez-20261114093000-nt.html",
+     "seccion": "",
+     "resumen": "Vallés sostiene que Sánchez recurre a Begoña Gómez ante la falta de apoyos de Zapatero y Óscar Puente."
+    },
+    {
+     "titular": "Elon Musk renuncia a recuperar la primera etapa del Starship y lo jugará todo a la parte más difícil: atrapar la nave a su vuelta",
+     "url": "https://www.abc.es/ciencia/previa-starship-vuelo-20261113182525-nt.html",
+     "seccion": "",
+     "resumen": "SpaceX prepara un nuevo ensayo de Starship con el objetivo de recuperar la nave en su retorno."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Da protagonismo a la caída aérea y al impacto de Microsoft, junto con la campaña electoral y su formato en medios. Incluye también análisis político de Cataluña y del País Vasco.",
+   "noticias": [
+    {
+     "titular": "Caos y más de 10.000 vuelos afectados en EE.UU. por el cierre de operaciones durante cuatro horas",
+     "url": "https://www.lavanguardia.com/internacional/20261113/11683874/estados-unidos-suspende-operaciones-aereas-caida-sistemas-comunicacion.html",
+     "seccion": "Internacional",
+     "resumen": "Más de 10.000 vuelos afectados en EE UU tras el cierre de operaciones de cuatro horas."
+    },
+    {
+     "titular": "Microsoft restablece todos sus servicios tras una caída global que afectó a gobiernos y empresas",
+     "url": "https://www.lavanguardia.com/vida/20261114/11684237/microsoft-restablece-todos-servicios-caida-global-afecto-gobiernos-empresas.html",
+     "seccion": "Sociedad",
+     "resumen": "Microsoft restablece sus servicios tras una caída global que afectó a gobiernos y empresas."
+    },
+    {
+     "titular": "Juego de culpas en la Casa Blanca ante el caso de espionaje en Nvidia",
+     "url": "https://www.lavanguardia.com/economia/20261114/11684109/juego-culpas-casa-blanca-caso-espionaje-nvidia.html",
+     "seccion": "Economía",
+     "resumen": "Secretarios del Tesoro y de Comercio de EE UU se acusan mutuamente por las ventas de chips a China en el caso Nvidia."
+    },
+    {
+     "titular": "Aitor Esteban: “Con el PP y Vox, los primeros meses serán una ofensiva total, en especial contra el PNV”",
+     "url": "https://www.lavanguardia.com/politica/20261114/11683730/aitor-esteban-pp-vox-primeros-meses-seran-ofensiva-total-especial-pnv.html",
+     "seccion": "Política",
+     "resumen": "Aitor Esteban avisa de una ofensiva contra el PNV si PP y Vox gobiernan y no quiere repetir la legislatura actual."
+    },
+    {
+     "titular": "Son elecciones de época",
+     "url": "https://www.lavanguardia.com/politica/20261114/11683954/son-elecciones-epoca.html",
+     "seccion": "Política",
+     "resumen": "España vota por primera vez desde 1977 con el proyecto europeo en cuestión, según el análisis del diario."
+    },
+    {
+     "titular": "El show de la campaña: superhéroes, youtubers y comediantes para ganar votos",
+     "url": "https://www.lavanguardia.com/politica/20261114/11683800/afan-llegar-politica-importa-poco-convierte-campana-show.html",
+     "seccion": "Política",
+     "resumen": "Los partidos recurren a entrevistas en pódcast y formatos de entretenimiento para llegar a los votantes."
+    },
+    {
+     "titular": "Imprecisiones sobre delincuencia, inseguridad y crecimiento económico: los ‘fact-checks’ de las entrevistas de Jordi Wild a Colau, Feijóo y Sánchez",
+     "url": "https://www.lavanguardia.com/politica/20261114/11684132/imprecisiones-sobre-delincuencia-inseguridad-crecimiento-economico-fact-checks-entrevistas-jordi-wild-colau-feijoo-sanchez.html",
+     "seccion": "Política",
+     "resumen": "Verificat revisa las entrevistas de Jordi Wild a Colau, Feijóo y Sánchez y señala imprecisiones en las tres."
+    },
+    {
+     "titular": "El regreso del fantasma nuclear iraní",
+     "url": "https://www.lavanguardia.com/internacional/20261114/11683746/regreso-fantasma-nuclear-irani.html",
+     "seccion": "Internacional",
+     "resumen": "El jefe del Mosad viaja a Washington para convencer a Trump de volver a la guerra con Irán."
+    }
+   ]
+  }
+ ]
+}
