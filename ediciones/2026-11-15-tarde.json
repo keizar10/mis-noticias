@@ -1,0 +1,479 @@
+{
+ "fecha": "2026-11-15",
+ "franja": "tarde",
+ "generada": "2026-11-15T14:02+01:00",
+ "con_ia": true,
+ "resumen_dia": "La campaña para las elecciones generales del 29N domina las portadas: el PSOE y el PP se cruzan acusaciones y los sondeos sitúan a PP y Vox cerca de la mayoría, mientras el PSOE se mantiene estancado. Las llegadas de migrantes a Canarias baten récord en un solo día, con cerca de 1.500 personas rescatadas el sábado. En economía, la salida de Jensen Huang de Nvidia y los riesgos de concentración de poder en la IA ocupan espacio en varios diarios. También destaca la investigación sobre el grupo neonazi Núcleo Nacional.",
+ "temas_comunes": [
+  {
+   "titulo": "Campaña electoral del 29N y sondeos",
+   "resumen": "Los partidos intensifican la campaña a las generales del 29 de noviembre. Los sondeos recogidos sitúan a PP y Vox en torno al 51% de los votos y muestran al PSOE estancado, con dudas sobre su electorado de izquierda y de centro.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca un tracking según el cual el PSOE gana por la izquierda y pierde por la derecha, con riesgo de perder un millón de votos conservadores.",
+     "noticias": [
+      {
+       "titular": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Campaña electoral 29N y actualidad política, en directo | Feijóo, a Sánchez: “Dígale a sus socios que no violenten la campaña, que no peguen patadas y puñetazos”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya que PP y Vox se aferran al 51% y 199 escaños con un PSOE estancado, y que el PSOE roba dos décimas al Frente Amplio.",
+     "noticias": [
+      {
+       "titular": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Sánchez busca ahora el voto de centro tras dejar a sus socios en los huesos: \"No podemos crecer sólo a costa de nuestra izquierda\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af8a30b21efa064668b457c.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge las intervenciones de dirigentes sobre la presencia de Begoña Gómez en la campaña del PSOE.",
+     "noticias": [
+      {
+       "titular": "Iñaki López, sobre la presencia de Begoña Gómez en la campaña del PSOE: «Zapatero y Puente no van a poder estar»",
+       "url": "https://www.abc.es/play/television/noticias/inaki-lopez-dice-pedro-sanchez-piensan-sobre-20261114123928-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Susana Díaz, sobre la estrategia de Sánchez de incluir a Begoña Gómez en la campaña: «Corren el riesgo de no movilizar votos»",
+       "url": "https://www.abc.es/play/television/noticias/susana-diaz-contundente-sobre-estrategia-pedro-sanchez-20261115120520-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enmarca la campaña en el cruce de acusaciones de escándalos entre PSOE y PP.",
+     "noticias": [
+      {
+       "titular": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Cruce de acusaciones entre PSOE y PP",
+   "resumen": "PSOE y PP se acusan mutuamente de escándalos y de violencia en la campaña, tras agresiones en Hernani. Feijóo y Sánchez intercambian reproches públicos.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge las palabras de Feijóo a Sánchez sobre la violencia en la campaña y la condena del PSOE a las agresiones en Hernani.",
+     "noticias": [
+      {
+       "titular": "Campaña electoral 29N y actualidad política, en directo | Feijóo, a Sánchez: “Dígale a sus socios que no violenten la campaña, que no peguen patadas y puñetazos”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Describe que ambos partidos se amenazan con escándalos, aunque mantienen pactos en Europa.",
+     "noticias": [
+      {
+       "titular": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Propuestas económicas y sociales de los partidos",
+   "resumen": "Los partidos presentan propuestas sobre vivienda, familias, autónomos y energía. El PSOE plantea destinar el 1% del PIB a vivienda social y una prestación por crianza; el Frente Amplio, una tarifa plana para autónomos.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Describe el programa del PSOE con vivienda social, prestación por crianza y objetivo de renovables del 81% en 2030.",
+     "noticias": [
+      {
+       "titular": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la propuesta de Ada Colau de reconocer permisos retribuidos para la familia elegida, y el programa del PSOE sobre la figura de 'unidad de amistad'.",
+     "noticias": [
+      {
+       "titular": "Ada Colau propone reconocer legalmente a la familia elegida a través de \"permisos retribuidos\" a amigos",
+       "url": "https://www.elmundo.es/espana/2026/11/15/6af990c1e9cf4a301c8b4585.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Sánchez avanza el programa electoral del PSOE y se compromete a crear la figura de \"la unidad de amistad\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af99b29e9cf4a7a4b8b456e.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la entrevista a Colau sobre vivienda y la propuesta de tarifa plana y declaración anual para autónomos con ingresos bajos.",
+     "noticias": [
+      {
+       "titular": "Ada Colau: “Pedro Sánchez nos ha fallado en vivienda, ha suspendido”",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684357/ada-colau-pedro-sanchez-fallado-vivienda-suspendido.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "El Frente Amplio plantea una tarifa plana indefinida y menos burocracia para los autónomos",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684685/frente-amplio-plantea-tarifa-plana-indefinida-burocracia-autonomos.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Llegadas récord de migrantes a Canarias",
+   "resumen": "Un sábado de llegadas récord a Canarias deja cerca de 1.500 personas rescatadas en un día, sobre todo en El Hierro. El ministro Ángel Víctor Torres visita La Restinga.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en el récord de 1.500 llegadas en un día y en la visita del ministro Torres a La Restinga.",
+     "noticias": [
+      {
+       "titular": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con 1.500 personas",
+       "url": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Ofrece el balance de dos días, con 2.331 personas en 22 cayucos, y la cifra más alta en 32 años.",
+     "noticias": [
+      {
+       "titular": "Un sábado de rescates sin pausa hace historia en la Ruta Canaria: 1.488 personas en un día, la cifra más alta en 32 años",
+       "url": "https://www.elmundo.es/espana/2026/11/15/6af97162fdddff6c338b4599.html",
+       "seccion": "Canarias"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca el sábado récord con 1.488 inmigrantes, 1.235 de ellos en El Hierro.",
+     "noticias": [
+      {
+       "titular": "Sábado de récord histórico en Canarias: 14 cayucos con 1.488 inmigrantes rescatados",
+       "url": "https://www.abc.es/espana/canarias/hierro-recibe-790-migrantes-dos-dias-rescate-20261114152734-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Núcleo Nacional y radicalización neonazi",
+   "resumen": "Diarios investigan al grupo ultra Núcleo Nacional, detenido por la policía. Se describen su captación de menores, su estructura y su ideología.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge un análisis policial sobre el grupo, su estética como reclamo y su carácter de antesala de la radicalización.",
+     "noticias": [
+      {
+       "titular": "Los ultras de Núcleo Nacional: Isabel Peralta como \"cara bonita, pero sin peso real\", 1.000 afiliados y la \"antesala de la radicalización\"",
+       "url": "https://www.elmundo.es/espana/2026/11/14/6af75bd2fdddffb36c8b45ad.html",
+       "seccion": "A fondo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Publica una infiltración en la sede del grupo, con referencias a peleas y a militares entre sus miembros.",
+     "noticias": [
+      {
+       "titular": "ABC se infiltra en Núcleo Nacional (II): peleas con cuchillo, militares y ultras",
+       "url": "https://www.abc.es/espana/peleas-cuchillo-militares-ultras-20261115020208-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Describe cómo el grupo captaba menores a través de padres, amigos o videojuegos.",
+     "noticias": [
+      {
+       "titular": "Así reclutaba cachorros neonazis 'El Jefe' de Núcleo Nacional para preparar el “alzamiento”",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684323/asi-reclutaba-cachorros-neonazis-jefe-nucleo-nacional-preparar-alzamiento.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Salida de Jensen Huang de Nvidia",
+   "resumen": "La salida de Jensen Huang de Nvidia en medio de un caso de supuesto espionaje y adulterio abre un debate sobre la concentración de poder en la IA en Estados Unidos y sobre la regulación tecnológica.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Enmarca la caída del directivo en los riesgos de concentración de poder en Estados Unidos.",
+     "noticias": [
+      {
+       "titular": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+       "url": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya el vacío que deja en Silicon Valley y el enfrentamiento con la regulación tecnológica.",
+     "noticias": [
+      {
+       "titular": "El ‘Jexit’ hace temblar a la inteligencia artificial",
+       "url": "https://www.lavanguardia.com/economia/20261115/11684389/jexit-temblar-ia.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña electoral, con seguimiento en directo, sondeos y el formato de podcasts de los candidatos. Incluye también la migración a Canarias y temas sociales como la generación de jóvenes que vota por primera vez.",
+   "noticias": [
+    {
+     "titular": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Tercer tracking de la campaña: el PSOE gana votos a la izquierda y al centro, pero corre el riesgo de perder un millón de votos conservadores."
+    },
+    {
+     "titular": "Campaña electoral 29N y actualidad política, en directo | Feijóo, a Sánchez: “Dígale a sus socios que no violenten la campaña, que no peguen patadas y puñetazos”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Directo de la campaña con el cruce de reproches entre Feijóo y Sánchez y las agresiones en Hernani."
+    },
+    {
+     "titular": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Programa del PSOE: 1% del PIB para vivienda social, prestación por crianza y renovables hasta el 81% de generación en 2030."
+    },
+    {
+     "titular": "Miriam Nogueras, candidata de Junts: “No me presento para poner o quitar presidentes españoles”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/miriam-nogueras-candidata-de-junts-no-me-presento-para-poner-o-quitar-presidentes-espanoles.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Miriam Nogueras, de Junts, afirma que no se presenta para decidir presidentes y veta a Sánchez para una reelección."
+    },
+    {
+     "titular": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con 1.500 personas",
+     "url": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
+     "seccion": "España",
+     "resumen": "La ruta a Canarias bate su récord diario con 1.500 llegadas; el ministro Torres visita La Restinga tras un acuerdo con el Gobierno canario."
+    },
+    {
+     "titular": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+     "url": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+     "seccion": "Economía",
+     "resumen": "Caída de Jensen Huang de Nvidia en un caso de supuesto espionaje y adulterio, que expone riesgos de concentración de poder en EEUU."
+    },
+    {
+     "titular": "Retrato de la Generación 08: los hijos de las crisis y de TikTok estrenan mayoría de edad y voto el 29-N",
+     "url": "https://elpais.com/eps/2026-11-15/retrato-de-la-generacion-08-los-hijos-de-las-crisis-y-de-tiktok-estrenan-mayoria-de-edad-y-voto-el-29-n.html",
+     "seccion": "Jóvenes",
+     "resumen": "Retrato de los jóvenes nacidos en 2008, que votan por primera vez el 29N, con sus preocupaciones."
+    },
+    {
+     "titular": "El drama de las víctimas de fraude que no pueden recuperar su dinero: “El banco me dijo que era culpa mía”",
+     "url": "https://elpais.com/economia/2026-11-15/el-drama-de-las-victimas-de-fraude-que-no-pueden-recuperar-su-dinero-el-banco-me-dijo-que-era-culpa-mia.html",
+     "seccion": "Economía",
+     "resumen": "Víctimas de estafas bancarias que no logran recuperar su dinero y se quejan de falta de protección de sus bancos."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la encuesta del PP y Vox frente al PSOE y en el programa de cada partido. Dedica también espacio a la IA, la fiabilidad de sistemas tecnológicos y a la Ruta Canaria.",
+   "noticias": [
+    {
+     "titular": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Sondeo que sitúa a PP y Vox en el 51% y 199 escaños, con el PSOE estancado y sin ganar a costa del Frente Amplio."
+    },
+    {
+     "titular": "Sánchez busca ahora el voto de centro tras dejar a sus socios en los huesos: \"No podemos crecer sólo a costa de nuestra izquierda\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af8a30b21efa064668b457c.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Sánchez busca el voto de centro tras la salida de Óscar Puente; Cuerpo y Bolaños aparecen como imágenes de campaña."
+    },
+    {
+     "titular": "Por qué estos 12 fieles votantes de Pedro Sánchez le darán la espalda el 29-N: \"Traicionó mi confianza. Me ha mentido una y otra vez. Constantemente\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af6e2b2fc6c838d7f8b45ad.html",
+     "seccion": "Artículos Gonzalo Suárez",
+     "resumen": "Doce votantes socialistas explican por qué abandonarán al PSOE el 29N, según el reportaje."
+    },
+    {
+     "titular": "Un sábado de rescates sin pausa hace historia en la Ruta Canaria: 1.488 personas en un día, la cifra más alta en 32 años",
+     "url": "https://www.elmundo.es/espana/2026/11/15/6af97162fdddff6c338b4599.html",
+     "seccion": "Canarias",
+     "resumen": "Un sábado de rescates deja 1.488 personas en un día; en dos días suman 2.331 llegadas en 22 cayucos."
+    },
+    {
+     "titular": "Aviones en tierra, caída de Microsoft y caos de la IA, ¿puede romperse todo?: \"Las guerras ya no se hacen con bombas\"",
+     "url": "https://www.elmundo.es/economia/2026/11/15/6af950d5e4d4d834768b456e.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Caída de servicios de Microsoft, aviones retenidos en EEUU y caos en Silicon Valley reabren el debate sobre la fiabilidad de los sistemas."
+    },
+    {
+     "titular": "Los ultras de Núcleo Nacional: Isabel Peralta como \"cara bonita, pero sin peso real\", 1.000 afiliados y la \"antesala de la radicalización\"",
+     "url": "https://www.elmundo.es/espana/2026/11/14/6af75bd2fdddffb36c8b45ad.html",
+     "seccion": "A fondo",
+     "resumen": "Análisis policial de Núcleo Nacional: 1.000 afiliados, el peso de la estética y la deriva hacia la radicalización violenta."
+    },
+    {
+     "titular": "La mesa nuclear de Shenzhen: Trump, Putin y Xi buscan evitar que la IA tenga el poder de lanzar bombas atómicas",
+     "url": "https://www.elmundo.es/internacional/2026/11/14/6af84019e9cf4acf528b4595.html",
+     "seccion": "China",
+     "resumen": "Trump, Putin y Xi debaten un acuerdo para que la IA no pueda lanzar armas nucleares, según la propuesta de EEUU."
+    },
+    {
+     "titular": "El coste de legislar mal: Hacienda reserva 13.618 millones para indemnizar por litigios perdidos",
+     "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/15/6af5f19fe85eceed7a8b4588.html",
+     "seccion": "Artículos Carlos Segovia",
+     "resumen": "Hacienda reserva 13.618 millones para indemnizar litigios perdidos, según la Cuenta General de 2025."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la campaña con reportajes de sociedad y entrevistas a dirigentes de otros partidos. Dedica espacio a la migración en Canarias y a la infiltración en Núcleo Nacional.",
+   "noticias": [
+    {
+     "titular": "Sábado de récord histórico en Canarias: 14 cayucos con 1.488 inmigrantes rescatados",
+     "url": "https://www.abc.es/espana/canarias/hierro-recibe-790-migrantes-dos-dias-rescate-20261114152734-nt.html",
+     "seccion": "",
+     "resumen": "Sábado récord en Canarias con 1.488 inmigrantes rescatados en 12 cayucos, 1.235 de ellos en El Hierro."
+    },
+    {
+     "titular": "Las familias sufren con Sánchez la mayor subida de los precios en 35 años",
+     "url": "https://www.abc.es/economia/cesta-compra-cara-llego-pedro-sanchez-gobierno-20261115012552-nt.html",
+     "seccion": "",
+     "resumen": "Las familias sufren la mayor subida de precios en 35 años, según la publicación de datos sobre la compra, el alquiler y la energía."
+    },
+    {
+     "titular": "García Albiol, sobre la relación de España con Marruecos: «El Gobierno de Sánchez destina 750 millones a mejorar sus trenes mientras nuestra red ferroviaria se cae a pedazos»",
+     "url": "https://www.abc.es/espana/cataluna/garcia-albiol-sobre-relacion-espana-marruecos-gobierno-20261115120226-nt.html",
+     "seccion": "",
+     "resumen": "García Albiol critica la relación con Marruecos y la inversión en trenes frente a la red ferroviaria."
+    },
+    {
+     "titular": "Iñaki López, sobre la presencia de Begoña Gómez en la campaña del PSOE: «Zapatero y Puente no van a poder estar»",
+     "url": "https://www.abc.es/play/television/noticias/inaki-lopez-dice-pedro-sanchez-piensan-sobre-20261114123928-nt.html",
+     "seccion": "",
+     "resumen": "Iñaki López señala que Zapatero y Puente no podrán estar en la presencia de Begoña Gómez en la campaña del PSOE."
+    },
+    {
+     "titular": "ABC se infiltra en Núcleo Nacional (II): peleas con cuchillo, militares y ultras",
+     "url": "https://www.abc.es/espana/peleas-cuchillo-militares-ultras-20261115020208-nt.html",
+     "seccion": "",
+     "resumen": "Infiltración en la sede de Núcleo Nacional, con peleas con cuchillo y presencia de militares entre sus miembros."
+    },
+    {
+     "titular": "Varios consulados siguen ofreciendo citas para hacer trámites pese a que el plazo finalizó hace un año",
+     "url": "https://www.abc.es/espana/varios-consulados-siguen-ofreciendo-citas-tramites-ley-20261029024200-nt.html",
+     "seccion": "",
+     "resumen": "Varios consulados siguen dando citas para la nacionalidad por ley de memoria pese a haber vencido el plazo hace un año."
+    },
+    {
+     "titular": "La Infanta Margarita de Borbón, hermana del Rey Juan Carlos I, ingresada en Madrid por una infección",
+     "url": "https://www.abc.es/gente/infanta-margarita-borbon-hermana-rey-juan-carlos-20261115110041-nt.html",
+     "seccion": "",
+     "resumen": "La Infanta Margarita, hermana de Juan Carlos I, ingresada en Madrid por una infección, con evolución estable."
+    },
+    {
+     "titular": "SpaceX hace historia al conseguir atrapar la nave Starship tras 22 horas orbitando la Tierra",
+     "url": "https://www.abc.es/ciencia/spacex-historia-conseguir-atrapar-nave-starship-tras-20261114223955-nt.html",
+     "seccion": "",
+     "resumen": "SpaceX logra recuperar la nave Starship tras pasar 22 horas en órbita."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Destaca la política con PSOE y PP cruzándose escándalos y un enfoque sobre propuestas del Frente Amplio. Incluye también la seguridad frente a la guerra híbrida rusa y la investigación sobre Núcleo Nacional.",
+   "noticias": [
+    {
+     "titular": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
+     "url": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html",
+     "seccion": "Política",
+     "resumen": "PSOE y PP se amenazan con escándalos, pero mantienen pactos en el Parlamento Europeo."
+    },
+    {
+     "titular": "Ada Colau: “Pedro Sánchez nos ha fallado en vivienda, ha suspendido”",
+     "url": "https://www.lavanguardia.com/politica/20261115/11684357/ada-colau-pedro-sanchez-fallado-vivienda-suspendido.html",
+     "seccion": "Política",
+     "resumen": "Entrevista a Ada Colau, que critica la gestión de Sánchez en vivienda y expone el programa de la izquierda para el 29N."
+    },
+    {
+     "titular": "El Frente Amplio plantea una tarifa plana indefinida y menos burocracia para los autónomos",
+     "url": "https://www.lavanguardia.com/politica/20261115/11684685/frente-amplio-plantea-tarifa-plana-indefinida-burocracia-autonomos.html",
+     "seccion": "Política",
+     "resumen": "El Frente Amplio propone una tarifa plana indefinida para autónomos y una única declaración anual para ingresos inferiores a 85.000 euros."
+    },
+    {
+     "titular": "Así reclutaba cachorros neonazis 'El Jefe' de Núcleo Nacional para preparar el “alzamiento”",
+     "url": "https://www.lavanguardia.com/politica/20261115/11684323/asi-reclutaba-cachorros-neonazis-jefe-nucleo-nacional-preparar-alzamiento.html",
+     "seccion": "Política",
+     "resumen": "Investigación sobre cómo Núcleo Nacional captaba menores y los adoctrinaba para un supuesto alzamiento."
+    },
+    {
+     "titular": "Así responden los países bálticos a la guerra híbrida rusa",
+     "url": "https://www.lavanguardia.com/internacional/20261115/11684359/paises-balticos-guerra-hibrida-rusa-estonia-letonia-lituania-ciberataques-drones-sabotajes.html",
+     "seccion": "Internacional",
+     "resumen": "Estonia, Letonia y Lituania responden a ciberataques, sabotajes y drones rusos con digitalización y contrainteligencia."
+    },
+    {
+     "titular": "Sanna Marin: “Europa no puede ser ingenua, debe prepararse ante Rusia”",
+     "url": "https://www.lavanguardia.com/internacional/20261115/11684115/europa-ingenua-debe-prepararse-rusia.html",
+     "seccion": "Internacional",
+     "resumen": "Sanna Marin pide que Europa se prepare ante Rusia y no dependa de Estados Unidos."
+    },
+    {
+     "titular": "El ‘Jexit’ hace temblar a la inteligencia artificial",
+     "url": "https://www.lavanguardia.com/economia/20261115/11684389/jexit-temblar-ia.html",
+     "seccion": "Economía",
+     "resumen": "La marcha de Jensen Huang deja un vacío en Silicon Valley, que pierde a su líder en plena pugna regulatoria."
+    },
+    {
+     "titular": "Crisis entre la Generalitat y la Fira por la gestión del circuito de Montmeló",
+     "url": "https://www.lavanguardia.com/economia/20261115/11682859/crisis-govern-fira-gestion-circuito-montmelo.html",
+     "seccion": "Economía",
+     "resumen": "La Generalitat plantea rescindir su acuerdo con la Fira sobre la gestión del circuito de Montmeló antes del 1 de diciembre."
+    }
+   ]
+  }
+ ]
+}

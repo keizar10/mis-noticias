@@ -1,229 +1,69 @@
 {
- "fecha": "2026-11-14",
+ "fecha": "2026-11-15",
  "franja": "tarde",
- "generada": "2026-11-14T21:59+01:00",
+ "generada": "2026-11-15T14:02+01:00",
  "con_ia": true,
- "resumen_dia": "La campaña de las elecciones generales del 29 de noviembre marca la jornada, con mensajes cruzados entre Sánchez, Feijóo y Abascal sobre el voto útil y la mayoría de la derecha. Se suman la agresión a un candidato del PP en Hernani y la suspensión de su ruta en Gipuzkoa. En internacional, EE UU atribuye la parada del tráfico aéreo a un problema con cableado de fibra óptica, y Zelenski denuncia una propuesta estadounidense sobre el Donbás a cambio de la entrada en la OTAN.",
+ "resumen_dia": "La campaña para las elecciones generales del 29N domina las portadas: el PSOE y el PP se cruzan acusaciones y los sondeos sitúan a PP y Vox cerca de la mayoría, mientras el PSOE se mantiene estancado. Las llegadas de migrantes a Canarias baten récord en un solo día, con cerca de 1.500 personas rescatadas el sábado. En economía, la salida de Jensen Huang de Nvidia y los riesgos de concentración de poder en la IA ocupan espacio en varios diarios. También destaca la investigación sobre el grupo neonazi Núcleo Nacional.",
  "temas_comunes": [
   {
-   "titulo": "Caos aéreo en Estados Unidos",
-   "resumen": "Una parada de los vuelos en EE UU durante más de cuatro horas se atribuye al cambio de cableado de cobre a fibra óptica en sistemas de control obsoletos. Las autoridades descartan, según los diarios, un ciberataque.",
+   "titulo": "Campaña electoral del 29N y sondeos",
+   "resumen": "Los partidos intensifican la campaña a las generales del 29 de noviembre. Los sondeos recogidos sitúan a PP y Vox en torno al 51% de los votos y muestran al PSOE estancado, con dudas sobre su electorado de izquierda y de centro.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Subraya la explicación oficial del cableado y la descarta de un ciberataque.",
+     "enfoque": "Destaca un tracking según el cual el PSOE gana por la izquierda y pierde por la derecha, con riesgo de perder un millón de votos conservadores.",
      "noticias": [
       {
-       "titular": "Washington atribuye el parón aéreo a un problema con un nuevo cableado de fibra óptica",
-       "url": "https://elpais.com/us/2026-11-14/washington-atribuye-el-paron-aereo-a-un-problema-con-un-nuevo-cableado-de-fibra-optica.html",
-       "seccion": "Estados Unidos"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Destaca la cifra de más de 3.000 vuelos cancelados y la posible responsabilidad de una empresa contratista.",
-     "noticias": [
-      {
-       "titular": "EEUU culpa a una empresa que instalaba fibra óptica del mayor cierre del espacio aéreo desde el 11S: \"Estamos investigando si fue una cuestión de incompetencia o si instalaron un router defectuoso\"",
-       "url": "https://www.elmundo.es/economia/2026/11/14/6af88ca7fdddff35408b456e.html",
-       "seccion": "Artículos Pablo R. Suanzes"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Recoge la versión del Gobierno de Trump sobre el cambio de cableado en una instalación anticuada.",
-     "noticias": [
-      {
-       "titular": "El 'viernes negro' aéreo en EE.UU. fue provocado por un cambio de cables de cobre a fibra óptica, según el Gobierno",
-       "url": "https://www.abc.es/internacional/viernes-negro-aereo-eeuu-provocado-cambio-cables-20261114185945-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Pone el foco en el sistema obsoleto y en el contratista L3Harris.",
-     "noticias": [
-      {
-       "titular": "La Casa Blanca atribuye el caos aéreo a un sistema “obsoleto” y señala a un contratista",
-       "url": "https://www.lavanguardia.com/internacional/20261114/11684337/casa-blanca-atribuye-caos-aereo-sistema-obsoleto-contratista-estuvo-altura.html",
-       "seccion": "Internacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Propuesta de EE UU sobre Ucrania y el Donbás",
-   "resumen": "Zelenski asegura que Washington ha planteado admitir a Ucrania en la OTAN a cambio de ceder el Donbás a Rusia, propuesta que él rechaza. Moscú, según El Mundo, exige también a la OTAN retirar fuerzas a posiciones de 1997.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge el rechazo de Zelenski y la exigencia de un referéndum si la oferta se concreta.",
-     "noticias": [
-      {
-       "titular": "Zelenski asegura que EE UU sugiere admitir a Ucrania en la OTAN a cambio de entregar el Donbás a Rusia",
-       "url": "https://elpais.com/internacional/2026-11-14/zelenski-asegura-que-ee-uu-sugiere-admitir-a-ucrania-en-la-otan-a-cambio-de-entregar-el-donbas-a-rusia.html",
-       "seccion": "Guerra de Rusia en Ucrania"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Añade el documento ruso que pide retirar fuerzas de la OTAN y suspender el suministro de armas a Ucrania.",
-     "noticias": [
-      {
-       "titular": "Zelenski revela que EEUU planteó la entrada de Ucrania en la OTAN a cambio del Donbás",
-       "url": "https://www.elmundo.es/internacional/2026/11/14/6af849f2e85ece3c7f8b4576.html",
-       "seccion": "Guerra Ucrania Rusia"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Presenta la propuesta como un plan de EE UU para que Kiev ceda el Donbás a Moscú.",
-     "noticias": [
-      {
-       "titular": "Zelenski asegura que EE.UU. ha planteado admitir a Ucrania en la OTAN si cede el Donbass",
-       "url": "https://www.lavanguardia.com/internacional/20261114/11684271/rusia-condiciona-la-paz-en-ucrania-a-que-la-otan-se-retire-del-este-de-europa.html",
-       "seccion": "Internacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Choque entre Sánchez y Feijóo por la campaña",
-   "resumen": "Sánchez pide el voto europeísta y que se acepte el resultado electoral, mientras Feijóo presenta su programa en Santiago con promesas de auditoría y limpieza. Ambos candidatos se dirigen a los electores en sus respectivos actos del fin de semana.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Enfatiza el llamamiento de Sánchez al voto europeísta frente a Abascal y la lista de alianzas de Vox.",
-     "noticias": [
-      {
-       "titular": "Sánchez pide “el voto europeísta” para frenar a Abascal",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html",
+       "titular": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html",
        "seccion": "Elecciones Generales"
       },
       {
-       "titular": "Feijóo reclama en Galicia el impulso para llegar a La Moncloa: “Sigo siendo el mismo”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/feijoo-reclama-en-galicia-el-impulso-para-llegar-a-la-moncloa-sigo-siendo-el-mismo.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge la promesa de Feijóo de acabar con ocho años de corrupción y la respuesta de Sánchez en Palma.",
-     "noticias": [
-      {
-       "titular": "Feijóo promete acabar con los \"ocho años de corrupción, machismo, incompetencia y soberbia\" de Sánchez: \"Habrá limpieza\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af85c61fdddff4d488b456f.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Un Pedro Sánchez muy confiado pese a las encuestas en contra pide a Feijóo que \"respete el resultado de las elecciones\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af8563be85ece10768b4595.html",
-       "seccion": "PSOE"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Destaca el acto de Feijóo en Santiago y la movilización que pide Sánchez en Palma.",
-     "noticias": [
-      {
-       "titular": "Feijóo: «A la Moncloa son 600 kilómetros y 15 días. Ayudadme a culminar este viaje»",
-       "url": "https://www.abc.es/espana/feijoo-gran-mitin-galicia-moncloa-600-kilometros-20261114135957-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Sánchez llama a la movilización ante más de 3.000 personas: «Vamos a seguir gobernando»",
-       "url": "https://www.abc.es/espana/baleares/sanchez-llama-movilizacion-masiva-ante-3000-personas-20261114132503-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Sitúa a Sánchez pidiendo aceptar el resultado y a Feijóo prometiendo cambiar la financiación autonómica.",
-     "noticias": [
-      {
-       "titular": "Sánchez advierte a PP y Vox: “Espero que al menos acepten el resultado electoral”",
-       "url": "https://www.lavanguardia.com/politica/20261114/11684286/sanchez-advierte-pp-vox-espero-acepten-resultado-electoral.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Feijóo promete en Santiago que con él “no habrá corrupción, habrá auditoría y limpieza”",
-       "url": "https://www.lavanguardia.com/local/valencia/20261114/11684273/feijoo-anuncia-santiago-habra-corrupcion-habra-auditoria-limpieza.html",
-       "seccion": "Comunidad Valenciana"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Violencia contra el PP en Gipuzkoa",
-   "resumen": "El cabeza de lista del PP por Gipuzkoa, Jon Echeverría, fue agredido en Hernani y el partido canceló la ruta por pueblos de la provincia. El PP vincula la decisión a la falta de condiciones democráticas.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge la reacción de Feijóo y la condición de seguridad del PP para seguir la campaña en Euskadi, junto con el mensaje de Otegi.",
-     "noticias": [
-      {
-       "titular": "Agreden con piedras y petardos a Jon Echeverría en Hernani y Feijóo reclama: \"Ni un paso atrás. Con todas las ganas de ganarles también a los socios de Sánchez\"",
-       "url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af863cae85ecedc3b8b457b.html",
-       "seccion": "País Vasco"
-      },
-      {
-       "titular": "Otegi reclama el apoyo del \"pueblo de Euskal Herria\" para darle una \"paliza democrática\" a los \"fascistas\" de PP y de Vox",
-       "url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af89830e4d4d83e758b4595.html",
-       "seccion": "Artículos Josean Izarra"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Recoge la cancelación de la ruta por parte del PP tras la agresión en Hernani.",
-     "noticias": [
-      {
-       "titular": "El PP cancela su ruta por Guipúzcoa después de que Jon Echeverría sea apedreado en Hernani",
-       "url": "https://www.abc.es/espana/pais-vasco/pp-cancela-ruta-campana-guipuzcoa-despues-jon-20261114140347-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Prioridad nacional y choque PP-Vox",
-   "resumen": "Abascal defiende la prioridad nacional y responde a Feijóo, que la califica de ilegal. Vox propone revisar la nacionalización de unos 300.000 españoles de origen marroquí.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge la respuesta de Abascal a Feijóo y la propuesta de revisar nacionalizaciones.",
-     "noticias": [
-      {
-       "titular": "Abascal defiende la prioridad nacional: “Nos presentamos a las elecciones para hacer legal lo que hoy nos dicen que es ilegal”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/abascal-defiende-la-prioridad-nacional-nos-presentamos-a-las-elecciones-para-hacer-legal-lo-que-hoy-nos-dicen-que-es-ilegal.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/vox-considera-fraudulenta-la-nacionalizacion-de-mas-de-300000-espanoles-originarios-de-marruecos.html",
+       "titular": "Campaña electoral 29N y actualidad política, en directo | Feijóo, a Sánchez: “Dígale a sus socios que no violenten la campaña, que no peguen patadas y puñetazos”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
        "seccion": "Elecciones Generales"
       }
      ]
     },
     {
-     "medio": "lavanguardia",
-     "enfoque": "Pone el foco en la advertencia de Aitor Esteban sobre una ofensiva contra el PNV con PP y Vox.",
+     "medio": "elmundo",
+     "enfoque": "Subraya que PP y Vox se aferran al 51% y 199 escaños con un PSOE estancado, y que el PSOE roba dos décimas al Frente Amplio.",
      "noticias": [
       {
-       "titular": "Aitor Esteban: “Con el PP y Vox, los primeros meses serán una ofensiva total, en especial contra el PNV”",
-       "url": "https://www.lavanguardia.com/politica/20261114/11683730/aitor-esteban-pp-vox-primeros-meses-seran-ofensiva-total-especial-pnv.html",
+       "titular": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Sánchez busca ahora el voto de centro tras dejar a sus socios en los huesos: \"No podemos crecer sólo a costa de nuestra izquierda\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af8a30b21efa064668b457c.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge las intervenciones de dirigentes sobre la presencia de Begoña Gómez en la campaña del PSOE.",
+     "noticias": [
+      {
+       "titular": "Iñaki López, sobre la presencia de Begoña Gómez en la campaña del PSOE: «Zapatero y Puente no van a poder estar»",
+       "url": "https://www.abc.es/play/television/noticias/inaki-lopez-dice-pedro-sanchez-piensan-sobre-20261114123928-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Susana Díaz, sobre la estrategia de Sánchez de incluir a Begoña Gómez en la campaña: «Corren el riesgo de no movilizar votos»",
+       "url": "https://www.abc.es/play/television/noticias/susana-diaz-contundente-sobre-estrategia-pedro-sanchez-20261115120520-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Enmarca la campaña en el cruce de acusaciones de escándalos entre PSOE y PP.",
+     "noticias": [
+      {
+       "titular": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html",
        "seccion": "Política"
       }
      ]
@@ -231,27 +71,182 @@
    ]
   },
   {
-   "titulo": "Nvidia, espionaje y tensión EE UU-China",
-   "resumen": "La salida del fundador de Nvidia por un escándalo de presunto espionaje abre un debate en EE UU sobre la venta de chips a China. Los diarios recogen también las acusaciones cruzadas dentro del Gobierno estadounidense.",
+   "titulo": "Cruce de acusaciones entre PSOE y PP",
+   "resumen": "PSOE y PP se acusan mutuamente de escándalos y de violencia en la campaña, tras agresiones en Hernani. Feijóo y Sánchez intercambian reproches públicos.",
    "medios": [
     {
-     "medio": "elmundo",
-     "enfoque": "Vincula el caso con una posible guerra de chips y tierras raras y con la autosuficiencia de Xi Jinping.",
+     "medio": "elpais",
+     "enfoque": "Recoge las palabras de Feijóo a Sánchez sobre la violencia en la campaña y la condena del PSOE a las agresiones en Hernani.",
      "noticias": [
       {
-       "titular": "La caída del fundador de Nvidia amenaza con desatar una nueva guerra de los chips (y de las tierras raras) entre EEUU y China",
-       "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/14/6af7b060e4d4d829148b4599.html",
-       "seccion": "China"
+       "titular": "Campaña electoral 29N y actualidad política, en directo | Feijóo, a Sánchez: “Dígale a sus socios que no violenten la campaña, que no peguen patadas y puñetazos”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
+       "seccion": "Elecciones Generales"
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Destaca el choque dentro de la Casa Blanca entre el Tesoro y Comercio por las ventas a China.",
+     "enfoque": "Describe que ambos partidos se amenazan con escándalos, aunque mantienen pactos en Europa.",
      "noticias": [
       {
-       "titular": "Juego de culpas en la Casa Blanca ante el caso de espionaje en Nvidia",
-       "url": "https://www.lavanguardia.com/economia/20261114/11684109/juego-culpas-casa-blanca-caso-espionaje-nvidia.html",
+       "titular": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Propuestas económicas y sociales de los partidos",
+   "resumen": "Los partidos presentan propuestas sobre vivienda, familias, autónomos y energía. El PSOE plantea destinar el 1% del PIB a vivienda social y una prestación por crianza; el Frente Amplio, una tarifa plana para autónomos.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Describe el programa del PSOE con vivienda social, prestación por crianza y objetivo de renovables del 81% en 2030.",
+     "noticias": [
+      {
+       "titular": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la propuesta de Ada Colau de reconocer permisos retribuidos para la familia elegida, y el programa del PSOE sobre la figura de 'unidad de amistad'.",
+     "noticias": [
+      {
+       "titular": "Ada Colau propone reconocer legalmente a la familia elegida a través de \"permisos retribuidos\" a amigos",
+       "url": "https://www.elmundo.es/espana/2026/11/15/6af990c1e9cf4a301c8b4585.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Sánchez avanza el programa electoral del PSOE y se compromete a crear la figura de \"la unidad de amistad\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af99b29e9cf4a7a4b8b456e.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la entrevista a Colau sobre vivienda y la propuesta de tarifa plana y declaración anual para autónomos con ingresos bajos.",
+     "noticias": [
+      {
+       "titular": "Ada Colau: “Pedro Sánchez nos ha fallado en vivienda, ha suspendido”",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684357/ada-colau-pedro-sanchez-fallado-vivienda-suspendido.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "El Frente Amplio plantea una tarifa plana indefinida y menos burocracia para los autónomos",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684685/frente-amplio-plantea-tarifa-plana-indefinida-burocracia-autonomos.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Llegadas récord de migrantes a Canarias",
+   "resumen": "Un sábado de llegadas récord a Canarias deja cerca de 1.500 personas rescatadas en un día, sobre todo en El Hierro. El ministro Ángel Víctor Torres visita La Restinga.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en el récord de 1.500 llegadas en un día y en la visita del ministro Torres a La Restinga.",
+     "noticias": [
+      {
+       "titular": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con 1.500 personas",
+       "url": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Ofrece el balance de dos días, con 2.331 personas en 22 cayucos, y la cifra más alta en 32 años.",
+     "noticias": [
+      {
+       "titular": "Un sábado de rescates sin pausa hace historia en la Ruta Canaria: 1.488 personas en un día, la cifra más alta en 32 años",
+       "url": "https://www.elmundo.es/espana/2026/11/15/6af97162fdddff6c338b4599.html",
+       "seccion": "Canarias"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca el sábado récord con 1.488 inmigrantes, 1.235 de ellos en El Hierro.",
+     "noticias": [
+      {
+       "titular": "Sábado de récord histórico en Canarias: 14 cayucos con 1.488 inmigrantes rescatados",
+       "url": "https://www.abc.es/espana/canarias/hierro-recibe-790-migrantes-dos-dias-rescate-20261114152734-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Núcleo Nacional y radicalización neonazi",
+   "resumen": "Diarios investigan al grupo ultra Núcleo Nacional, detenido por la policía. Se describen su captación de menores, su estructura y su ideología.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge un análisis policial sobre el grupo, su estética como reclamo y su carácter de antesala de la radicalización.",
+     "noticias": [
+      {
+       "titular": "Los ultras de Núcleo Nacional: Isabel Peralta como \"cara bonita, pero sin peso real\", 1.000 afiliados y la \"antesala de la radicalización\"",
+       "url": "https://www.elmundo.es/espana/2026/11/14/6af75bd2fdddffb36c8b45ad.html",
+       "seccion": "A fondo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Publica una infiltración en la sede del grupo, con referencias a peleas y a militares entre sus miembros.",
+     "noticias": [
+      {
+       "titular": "ABC se infiltra en Núcleo Nacional (II): peleas con cuchillo, militares y ultras",
+       "url": "https://www.abc.es/espana/peleas-cuchillo-militares-ultras-20261115020208-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Describe cómo el grupo captaba menores a través de padres, amigos o videojuegos.",
+     "noticias": [
+      {
+       "titular": "Así reclutaba cachorros neonazis 'El Jefe' de Núcleo Nacional para preparar el “alzamiento”",
+       "url": "https://www.lavanguardia.com/politica/20261115/11684323/asi-reclutaba-cachorros-neonazis-jefe-nucleo-nacional-preparar-alzamiento.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Salida de Jensen Huang de Nvidia",
+   "resumen": "La salida de Jensen Huang de Nvidia en medio de un caso de supuesto espionaje y adulterio abre un debate sobre la concentración de poder en la IA en Estados Unidos y sobre la regulación tecnológica.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Enmarca la caída del directivo en los riesgos de concentración de poder en Estados Unidos.",
+     "noticias": [
+      {
+       "titular": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+       "url": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya el vacío que deja en Silicon Valley y el enfrentamiento con la regulación tecnológica.",
+     "noticias": [
+      {
+       "titular": "El ‘Jexit’ hace temblar a la inteligencia artificial",
+       "url": "https://www.lavanguardia.com/economia/20261115/11684389/jexit-temblar-ia.html",
        "seccion": "Economía"
       }
      ]
@@ -263,226 +258,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña electoral, con foco en el choque entre PSOE y Vox y en el voto útil. También incluye internacional (Estados Unidos y Ucrania) y varios temas de sociedad y cultura.",
+   "resumen": "Prioriza la campaña electoral, con seguimiento en directo, sondeos y el formato de podcasts de los candidatos. Incluye también la migración a Canarias y temas sociales como la generación de jóvenes que vota por primera vez.",
    "noticias": [
     {
-     "titular": "Sánchez pide “el voto europeísta” para frenar a Abascal",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html",
+     "titular": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Sánchez pide el voto europeísta frente a Abascal y pone en el mismo bloque a Feijóo y a su socio potencial, mientras señala las alianzas del líder de Vox con dirigentes ultras europeos y de EE UU."
+     "resumen": "Tercer tracking de la campaña: el PSOE gana votos a la izquierda y al centro, pero corre el riesgo de perder un millón de votos conservadores."
     },
     {
-     "titular": "Feijóo reclama en Galicia el impulso para llegar a La Moncloa: “Sigo siendo el mismo”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/feijoo-reclama-en-galicia-el-impulso-para-llegar-a-la-moncloa-sigo-siendo-el-mismo.html",
+     "titular": "Campaña electoral 29N y actualidad política, en directo | Feijóo, a Sánchez: “Dígale a sus socios que no violenten la campaña, que no peguen patadas y puñetazos”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Directo de la campaña con el cruce de reproches entre Feijóo y Sánchez y las agresiones en Hernani."
+    },
+    {
+     "titular": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Programa del PSOE: 1% del PIB para vivienda social, prestación por crianza y renovables hasta el 81% de generación en 2030."
+    },
+    {
+     "titular": "Miriam Nogueras, candidata de Junts: “No me presento para poner o quitar presidentes españoles”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/miriam-nogueras-candidata-de-junts-no-me-presento-para-poner-o-quitar-presidentes-espanoles.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Miriam Nogueras, de Junts, afirma que no se presenta para decidir presidentes y veta a Sánchez para una reelección."
+    },
+    {
+     "titular": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con 1.500 personas",
+     "url": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
      "seccion": "España",
-     "resumen": "Feijóo busca el impulso de su tierra natal para llegar a la Moncloa y anuncia que, si gobierna, la cartera de Vivienda pasaría a una vicepresidencia."
+     "resumen": "La ruta a Canarias bate su récord diario con 1.500 llegadas; el ministro Torres visita La Restinga tras un acuerdo con el Gobierno canario."
     },
     {
-     "titular": "Abascal defiende la prioridad nacional: “Nos presentamos a las elecciones para hacer legal lo que hoy nos dicen que es ilegal”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/abascal-defiende-la-prioridad-nacional-nos-presentamos-a-las-elecciones-para-hacer-legal-lo-que-hoy-nos-dicen-que-es-ilegal.html",
-     "seccion": "España",
-     "resumen": "Abascal defiende la prioridad nacional y responde a Feijóo, que la había calificado de ilegal, asegurando que Vox concurre para legalizarla."
+     "titular": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+     "url": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+     "seccion": "Economía",
+     "resumen": "Caída de Jensen Huang de Nvidia en un caso de supuesto espionaje y adulterio, que expone riesgos de concentración de poder en EEUU."
     },
     {
-     "titular": "El PSOE pelea las elecciones en 18 provincias que tiene identificadas como prioritarias",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/el-psoe-pelea-las-elecciones-en-18-provincias-que-tiene-identificadas-como-prioritarias.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "El PSOE centra su esfuerzo en 18 provincias prioritarias, donde busca casi veinte escaños apelando al voto útil y al avance de Vox a costa del PP."
+     "titular": "Retrato de la Generación 08: los hijos de las crisis y de TikTok estrenan mayoría de edad y voto el 29-N",
+     "url": "https://elpais.com/eps/2026-11-15/retrato-de-la-generacion-08-los-hijos-de-las-crisis-y-de-tiktok-estrenan-mayoria-de-edad-y-voto-el-29-n.html",
+     "seccion": "Jóvenes",
+     "resumen": "Retrato de los jóvenes nacidos en 2008, que votan por primera vez el 29N, con sus preocupaciones."
     },
     {
-     "titular": "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/la-diferencia-entre-pp-y-psoe-se-estrecha-segun-el-tracking-diario-de-40db.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Según el seguimiento diario de 40dB, la distancia entre PP y PSOE se reduce y la campaña impulsa la participación."
-    },
-    {
-     "titular": "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/vox-considera-fraudulenta-la-nacionalizacion-de-mas-de-300000-espanoles-originarios-de-marruecos.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Vox plantea revisar la nacionalización de unos 300.000 españoles de origen marroquí y gravar las remesas enviadas a sus familias."
-    },
-    {
-     "titular": "Washington atribuye el parón aéreo a un problema con un nuevo cableado de fibra óptica",
-     "url": "https://elpais.com/us/2026-11-14/washington-atribuye-el-paron-aereo-a-un-problema-con-un-nuevo-cableado-de-fibra-optica.html",
-     "seccion": "Estados Unidos",
-     "resumen": "Washington atribuye la parada aérea a un problema con nuevo cableado de fibra óptica y descarta, según las autoridades aeronáuticas, un ciberataque."
-    },
-    {
-     "titular": "Zelenski asegura que EE UU sugiere admitir a Ucrania en la OTAN a cambio de entregar el Donbás a Rusia",
-     "url": "https://elpais.com/internacional/2026-11-14/zelenski-asegura-que-ee-uu-sugiere-admitir-a-ucrania-en-la-otan-a-cambio-de-entregar-el-donbas-a-rusia.html",
-     "seccion": "Guerra de Rusia en Ucrania",
-     "resumen": "Zelenski afirma que EE UU sugiere admitir a Ucrania en la OTAN a cambio de ceder el Donbás a Rusia, propuesta que rechaza y que, dice, requeriría referéndum."
+     "titular": "El drama de las víctimas de fraude que no pueden recuperar su dinero: “El banco me dijo que era culpa mía”",
+     "url": "https://elpais.com/economia/2026-11-15/el-drama-de-las-victimas-de-fraude-que-no-pueden-recuperar-su-dinero-el-banco-me-dijo-que-era-culpa-mia.html",
+     "seccion": "Economía",
+     "resumen": "Víctimas de estafas bancarias que no logran recuperar su dinero y se quejan de falta de protección de sus bancos."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Destaca el mensaje de corrupción y responsabilidades en la campaña, con Feijóo y Sánchez como protagonistas y la violencia en Euskadi como tema político. Mezcla política con internacional, deportes y cultura.",
+   "resumen": "Pone el foco en la encuesta del PP y Vox frente al PSOE y en el programa de cada partido. Dedica también espacio a la IA, la fiabilidad de sistemas tecnológicos y a la Ruta Canaria.",
    "noticias": [
     {
-     "titular": "Feijóo promete acabar con los \"ocho años de corrupción, machismo, incompetencia y soberbia\" de Sánchez: \"Habrá limpieza\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af85c61fdddff4d488b456f.html",
+     "titular": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Feijóo presenta su programa en Santiago ante más de 8.000 personas y anuncia una auditoría en su primer Consejo de Ministros para revisar, dice, ocho años de gestión del Gobierno."
+     "resumen": "Sondeo que sitúa a PP y Vox en el 51% y 199 escaños, con el PSOE estancado y sin ganar a costa del Frente Amplio."
     },
     {
-     "titular": "Sánchez favoreció la reactivación de la trama corrupta en el PSOE",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af7793ffdddffc5748b45ba.html",
-     "seccion": "Koldo García",
-     "resumen": "Sostiene que una reunión de Sánchez en 2023 con un detenido vinculado a la trama de Koldo García apunta a una implicación del presidente en la reactivación del grupo en el PSOE."
+     "titular": "Sánchez busca ahora el voto de centro tras dejar a sus socios en los huesos: \"No podemos crecer sólo a costa de nuestra izquierda\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af8a30b21efa064668b457c.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Sánchez busca el voto de centro tras la salida de Óscar Puente; Cuerpo y Bolaños aparecen como imágenes de campaña."
     },
     {
-     "titular": "Un Pedro Sánchez muy confiado pese a las encuestas en contra pide a Feijóo que \"respete el resultado de las elecciones\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af8563be85ece10768b4595.html",
-     "seccion": "PSOE",
-     "resumen": "Sánchez, en un mitin en Palma, pide a Feijóo que respete el resultado electoral y reclama el voto europeísta frente a Abascal."
+     "titular": "Por qué estos 12 fieles votantes de Pedro Sánchez le darán la espalda el 29-N: \"Traicionó mi confianza. Me ha mentido una y otra vez. Constantemente\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af6e2b2fc6c838d7f8b45ad.html",
+     "seccion": "Artículos Gonzalo Suárez",
+     "resumen": "Doce votantes socialistas explican por qué abandonarán al PSOE el 29N, según el reportaje."
     },
     {
-     "titular": "Otegi reclama el apoyo del \"pueblo de Euskal Herria\" para darle una \"paliza democrática\" a los \"fascistas\" de PP y de Vox",
-     "url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af89830e4d4d83e758b4595.html",
-     "seccion": "Artículos Josean Izarra",
-     "resumen": "Otegi llama a una movilización de la izquierda abertzale con un discurso antifascista contra PP y Vox, en una manifestación en Bilbao."
+     "titular": "Un sábado de rescates sin pausa hace historia en la Ruta Canaria: 1.488 personas en un día, la cifra más alta en 32 años",
+     "url": "https://www.elmundo.es/espana/2026/11/15/6af97162fdddff6c338b4599.html",
+     "seccion": "Canarias",
+     "resumen": "Un sábado de rescates deja 1.488 personas en un día; en dos días suman 2.331 llegadas en 22 cayucos."
     },
     {
-     "titular": "Agreden con piedras y petardos a Jon Echeverría en Hernani y Feijóo reclama: \"Ni un paso atrás. Con todas las ganas de ganarles también a los socios de Sánchez\"",
-     "url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af863cae85ecedc3b8b457b.html",
-     "seccion": "País Vasco",
-     "resumen": "El cabeza de lista del PP en Gipuzkoa es agredido con piedras y petardos en Hernani; el PP condiciona la campaña en el País Vasco a unas condiciones de seguridad."
+     "titular": "Aviones en tierra, caída de Microsoft y caos de la IA, ¿puede romperse todo?: \"Las guerras ya no se hacen con bombas\"",
+     "url": "https://www.elmundo.es/economia/2026/11/15/6af950d5e4d4d834768b456e.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Caída de servicios de Microsoft, aviones retenidos en EEUU y caos en Silicon Valley reabren el debate sobre la fiabilidad de los sistemas."
     },
     {
-     "titular": "Zelenski revela que EEUU planteó la entrada de Ucrania en la OTAN a cambio del Donbás",
-     "url": "https://www.elmundo.es/internacional/2026/11/14/6af849f2e85ece3c7f8b4576.html",
-     "seccion": "Guerra Ucrania Rusia",
-     "resumen": "Zelenski dice que EE UU planteó la entrada de Ucrania en la OTAN a cambio del Donbás, y un documento ruso exige a la OTAN retirar fuerzas a posiciones de 1997."
+     "titular": "Los ultras de Núcleo Nacional: Isabel Peralta como \"cara bonita, pero sin peso real\", 1.000 afiliados y la \"antesala de la radicalización\"",
+     "url": "https://www.elmundo.es/espana/2026/11/14/6af75bd2fdddffb36c8b45ad.html",
+     "seccion": "A fondo",
+     "resumen": "Análisis policial de Núcleo Nacional: 1.000 afiliados, el peso de la estética y la deriva hacia la radicalización violenta."
     },
     {
-     "titular": "EEUU culpa a una empresa que instalaba fibra óptica del mayor cierre del espacio aéreo desde el 11S: \"Estamos investigando si fue una cuestión de incompetencia o si instalaron un router defectuoso\"",
-     "url": "https://www.elmundo.es/economia/2026/11/14/6af88ca7fdddff35408b456e.html",
-     "seccion": "Artículos Pablo R. Suanzes",
-     "resumen": "EE UU atribuye el mayor cierre del espacio aéreo desde el 11-S a una empresa que instalaba fibra óptica, investigando si hubo incompetencia o un equipo defectuoso, con más de 3.000 vuelos cancelados."
-    },
-    {
-     "titular": "La caída del fundador de Nvidia amenaza con desatar una nueva guerra de los chips (y de las tierras raras) entre EEUU y China",
-     "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/14/6af7b060e4d4d829148b4599.html",
+     "titular": "La mesa nuclear de Shenzhen: Trump, Putin y Xi buscan evitar que la IA tenga el poder de lanzar bombas atómicas",
+     "url": "https://www.elmundo.es/internacional/2026/11/14/6af84019e9cf4acf528b4595.html",
      "seccion": "China",
-     "resumen": "La salida del fundador de Nvidia, por un escándalo de presunto espionaje, reaviva las tensiones tecnológicas entre EE UU y China en materia de chips y tierras raras."
+     "resumen": "Trump, Putin y Xi debaten un acuerdo para que la IA no pueda lanzar armas nucleares, según la propuesta de EEUU."
+    },
+    {
+     "titular": "El coste de legislar mal: Hacienda reserva 13.618 millones para indemnizar por litigios perdidos",
+     "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/15/6af5f19fe85eceed7a8b4588.html",
+     "seccion": "Artículos Carlos Segovia",
+     "resumen": "Hacienda reserva 13.618 millones para indemnizar litigios perdidos, según la Cuenta General de 2025."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Pone el foco en la campaña del PP y la violencia contra su candidato en Euskadi, en la contestación a Sánchez y en la investigación sobre las pulseras antimaltrato. Combina también sucesos y deportes con mayor peso que otros diarios.",
+   "resumen": "Combina la campaña con reportajes de sociedad y entrevistas a dirigentes de otros partidos. Dedica espacio a la migración en Canarias y a la infiltración en Núcleo Nacional.",
    "noticias": [
     {
-     "titular": "El PP cancela su ruta por Guipúzcoa después de que Jon Echeverría sea apedreado en Hernani",
-     "url": "https://www.abc.es/espana/pais-vasco/pp-cancela-ruta-campana-guipuzcoa-despues-jon-20261114140347-nt.html",
+     "titular": "Sábado de récord histórico en Canarias: 14 cayucos con 1.488 inmigrantes rescatados",
+     "url": "https://www.abc.es/espana/canarias/hierro-recibe-790-migrantes-dos-dias-rescate-20261114152734-nt.html",
      "seccion": "",
-     "resumen": "El PP cancela su ruta por Gipuzkoa tras la agresión a su cabeza de lista en Hernani, al considerar que no hay condiciones democráticas suficientes."
+     "resumen": "Sábado récord en Canarias con 1.488 inmigrantes rescatados en 12 cayucos, 1.235 de ellos en El Hierro."
     },
     {
-     "titular": "Sánchez llama a la movilización ante más de 3.000 personas: «Vamos a seguir gobernando»",
-     "url": "https://www.abc.es/espana/baleares/sanchez-llama-movilizacion-masiva-ante-3000-personas-20261114132503-nt.html",
+     "titular": "Las familias sufren con Sánchez la mayor subida de los precios en 35 años",
+     "url": "https://www.abc.es/economia/cesta-compra-cara-llego-pedro-sanchez-gobierno-20261115012552-nt.html",
      "seccion": "",
-     "resumen": "Sánchez llama a la movilización del electorado socialista en un mitin en Palma ante más de 3.000 personas, con la vista puesta en las elecciones del 29 de noviembre."
+     "resumen": "Las familias sufren la mayor subida de precios en 35 años, según la publicación de datos sobre la compra, el alquiler y la energía."
     },
     {
-     "titular": "Feijóo: «A la Moncloa son 600 kilómetros y 15 días. Ayudadme a culminar este viaje»",
-     "url": "https://www.abc.es/espana/feijoo-gran-mitin-galicia-moncloa-600-kilometros-20261114135957-nt.html",
+     "titular": "García Albiol, sobre la relación de España con Marruecos: «El Gobierno de Sánchez destina 750 millones a mejorar sus trenes mientras nuestra red ferroviaria se cae a pedazos»",
+     "url": "https://www.abc.es/espana/cataluna/garcia-albiol-sobre-relacion-espana-marruecos-gobierno-20261115120226-nt.html",
      "seccion": "",
-     "resumen": "Feijóo inicia la campaña en Santiago, donde pide apoyo para llegar a la Moncloa en un acto que el propio candidato vincula a su trayectoria."
+     "resumen": "García Albiol critica la relación con Marruecos y la inversión en trenes frente a la red ferroviaria."
     },
     {
-     "titular": "Europa pone el foco en la deficiente contratación de pulseras de la era Montero",
-     "url": "https://www.abc.es/espana/uco-requisa-informes-cercan-irene-montero-fiscalia-20261114024704-nt.html",
+     "titular": "Iñaki López, sobre la presencia de Begoña Gómez en la campaña del PSOE: «Zapatero y Puente no van a poder estar»",
+     "url": "https://www.abc.es/play/television/noticias/inaki-lopez-dice-pedro-sanchez-piensan-sobre-20261114123928-nt.html",
      "seccion": "",
-     "resumen": "La Fiscalía Europea investiga los contratos de las pulseras antimaltrato adjudicados durante la etapa de Irene Montero al frente de Igualdad."
+     "resumen": "Iñaki López señala que Zapatero y Puente no podrán estar en la presencia de Begoña Gómez en la campaña del PSOE."
     },
     {
-     "titular": "El 'viernes negro' aéreo en EE.UU. fue provocado por un cambio de cables de cobre a fibra óptica, según el Gobierno",
-     "url": "https://www.abc.es/internacional/viernes-negro-aereo-eeuu-provocado-cambio-cables-20261114185945-nt.html",
+     "titular": "ABC se infiltra en Núcleo Nacional (II): peleas con cuchillo, militares y ultras",
+     "url": "https://www.abc.es/espana/peleas-cuchillo-militares-ultras-20261115020208-nt.html",
      "seccion": "",
-     "resumen": "El Gobierno de EE UU atribuye el caos aéreo del viernes a un cambio de cableado de cobre a fibra óptica en una instalación de control anticuada."
+     "resumen": "Infiltración en la sede de Núcleo Nacional, con peleas con cuchillo y presencia de militares entre sus miembros."
     },
     {
-     "titular": "Aparecen millones de dólares enterrados en un bosque durante la investigación a un exministro de Orbán en Hungría",
-     "url": "https://www.abc.es/internacional/aparecen-millones-dolares-enterrados-bosque-investigacion-exministro-20261114202423-nt.html",
+     "titular": "Varios consulados siguen ofreciendo citas para hacer trámites pese a que el plazo finalizó hace un año",
+     "url": "https://www.abc.es/espana/varios-consulados-siguen-ofreciendo-citas-tramites-ley-20261029024200-nt.html",
      "seccion": "",
-     "resumen": "La nueva autoridad anticorrupción de Hungría halla 18 millones de dólares en metálico durante la investigación a un exministro de Orbán."
+     "resumen": "Varios consulados siguen dando citas para la nacionalidad por ley de memoria pese a haber vencido el plazo hace un año."
     },
     {
-     "titular": "Un menor de 12 años apuñala a otro de 14 a la salida de un instituto de Aluche al grito de «¡baja patria!»",
-     "url": "https://www.abc.es/espana/madrid/adolescente-apunala-puertas-instituto-aluche-20261114193417-nt.html",
+     "titular": "La Infanta Margarita de Borbón, hermana del Rey Juan Carlos I, ingresada en Madrid por una infección",
+     "url": "https://www.abc.es/gente/infanta-margarita-borbon-hermana-rey-juan-carlos-20261115110041-nt.html",
      "seccion": "",
-     "resumen": "Un menor de 14 años resulta apuñalado a la salida de un instituto de Aluche por otro grupo de menores, en un episodio que la noticia vincula a un ataque con consigna xenófoba."
+     "resumen": "La Infanta Margarita, hermana de Juan Carlos I, ingresada en Madrid por una infección, con evolución estable."
     },
     {
-     "titular": "León XIV cumple su promesa y vuelve en helicóptero al pueblo aislado de los Andes peruanos al que iba como obispo",
-     "url": "https://www.abc.es/internacional/leon-xiv-cumple-promesa-vuelve-pueblo-aislado-20261113184007-nt.html",
+     "titular": "SpaceX hace historia al conseguir atrapar la nave Starship tras 22 horas orbitando la Tierra",
+     "url": "https://www.abc.es/ciencia/spacex-historia-conseguir-atrapar-nave-starship-tras-20261114223955-nt.html",
      "seccion": "",
-     "resumen": "El papa León XIV viaja en helicóptero a un pueblo aislado de los Andes peruanos donde fue obispo y pide a los campesinos que no cedan a la violencia."
+     "resumen": "SpaceX logra recuperar la nave Starship tras pasar 22 horas en órbita."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Sitúa en primer plano la campaña electoral y el impacto de las decisiones sobre Junts y el PNV, junto con la crisis aérea y la guerra de Ucrania en Internacional. Prioriza el análisis político y las opiniones sobre temas de la campaña.",
+   "resumen": "Destaca la política con PSOE y PP cruzándose escándalos y un enfoque sobre propuestas del Frente Amplio. Incluye también la seguridad frente a la guerra híbrida rusa y la investigación sobre Núcleo Nacional.",
    "noticias": [
     {
-     "titular": "La Casa Blanca atribuye el caos aéreo a un sistema “obsoleto” y señala a un contratista",
-     "url": "https://www.lavanguardia.com/internacional/20261114/11684337/casa-blanca-atribuye-caos-aereo-sistema-obsoleto-contratista-estuvo-altura.html",
+     "titular": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
+     "url": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html",
+     "seccion": "Política",
+     "resumen": "PSOE y PP se amenazan con escándalos, pero mantienen pactos en el Parlamento Europeo."
+    },
+    {
+     "titular": "Ada Colau: “Pedro Sánchez nos ha fallado en vivienda, ha suspendido”",
+     "url": "https://www.lavanguardia.com/politica/20261115/11684357/ada-colau-pedro-sanchez-fallado-vivienda-suspendido.html",
+     "seccion": "Política",
+     "resumen": "Entrevista a Ada Colau, que critica la gestión de Sánchez en vivienda y expone el programa de la izquierda para el 29N."
+    },
+    {
+     "titular": "El Frente Amplio plantea una tarifa plana indefinida y menos burocracia para los autónomos",
+     "url": "https://www.lavanguardia.com/politica/20261115/11684685/frente-amplio-plantea-tarifa-plana-indefinida-burocracia-autonomos.html",
+     "seccion": "Política",
+     "resumen": "El Frente Amplio propone una tarifa plana indefinida para autónomos y una única declaración anual para ingresos inferiores a 85.000 euros."
+    },
+    {
+     "titular": "Así reclutaba cachorros neonazis 'El Jefe' de Núcleo Nacional para preparar el “alzamiento”",
+     "url": "https://www.lavanguardia.com/politica/20261115/11684323/asi-reclutaba-cachorros-neonazis-jefe-nucleo-nacional-preparar-alzamiento.html",
+     "seccion": "Política",
+     "resumen": "Investigación sobre cómo Núcleo Nacional captaba menores y los adoctrinaba para un supuesto alzamiento."
+    },
+    {
+     "titular": "Así responden los países bálticos a la guerra híbrida rusa",
+     "url": "https://www.lavanguardia.com/internacional/20261115/11684359/paises-balticos-guerra-hibrida-rusa-estonia-letonia-lituania-ciberataques-drones-sabotajes.html",
      "seccion": "Internacional",
-     "resumen": "La Casa Blanca atribuye el caos aéreo a un sistema obsoleto y señala a un contratista que sustituía cables de cobre por fibra óptica."
+     "resumen": "Estonia, Letonia y Lituania responden a ciberataques, sabotajes y drones rusos con digitalización y contrainteligencia."
     },
     {
-     "titular": "Zelenski asegura que EE.UU. ha planteado admitir a Ucrania en la OTAN si cede el Donbass",
-     "url": "https://www.lavanguardia.com/internacional/20261114/11684271/rusia-condiciona-la-paz-en-ucrania-a-que-la-otan-se-retire-del-este-de-europa.html",
+     "titular": "Sanna Marin: “Europa no puede ser ingenua, debe prepararse ante Rusia”",
+     "url": "https://www.lavanguardia.com/internacional/20261115/11684115/europa-ingenua-debe-prepararse-rusia.html",
      "seccion": "Internacional",
-     "resumen": "Zelenski asegura que EE UU propone que Kiev ceda el Donbás a Moscú a cambio de entrar en la OTAN."
+     "resumen": "Sanna Marin pide que Europa se prepare ante Rusia y no dependa de Estados Unidos."
     },
     {
-     "titular": "Sánchez advierte a PP y Vox: “Espero que al menos acepten el resultado electoral”",
-     "url": "https://www.lavanguardia.com/politica/20261114/11684286/sanchez-advierte-pp-vox-espero-acepten-resultado-electoral.html",
-     "seccion": "Política",
-     "resumen": "Sánchez pide a PP y Vox que acepten el resultado electoral y asegura que Feijóo y Abascal no sumarán una mayoría absoluta."
-    },
-    {
-     "titular": "Feijóo promete en Santiago que con él “no habrá corrupción, habrá auditoría y limpieza”",
-     "url": "https://www.lavanguardia.com/local/valencia/20261114/11684273/feijoo-anuncia-santiago-habra-corrupcion-habra-auditoria-limpieza.html",
-     "seccion": "Comunidad Valenciana",
-     "resumen": "Feijóo promete en Santiago limpieza y auditoría, y plantea un cambio del modelo de financiación autonómica para que la igualdad sea igual para todos."
-    },
-    {
-     "titular": "Aitor Esteban: “Con el PP y Vox, los primeros meses serán una ofensiva total, en especial contra el PNV”",
-     "url": "https://www.lavanguardia.com/politica/20261114/11683730/aitor-esteban-pp-vox-primeros-meses-seran-ofensiva-total-especial-pnv.html",
-     "seccion": "Política",
-     "resumen": "Aitor Esteban advierte de que un gobierno del PP con Vox endurecería la ofensiva contra el PNV en los primeros meses."
-    },
-    {
-     "titular": "Junts empuña la bandera de la seguridad en Manresa e interpela a Jordi Wild en su ciudad",
-     "url": "https://www.lavanguardia.com/politica/20261114/11684233/junts-empuna-bandera-seguridad-manresa-e-interpela-jordi-wild-ciudad.html",
-     "seccion": "Política",
-     "resumen": "Junts coloca la seguridad en Manresa como eje de campaña y reta a Jordi Wild con la ley contra la multirreincidencia aprobada en el Congreso."
-    },
-    {
-     "titular": "ERC critica que Junts se sitúe “en medio” y pide un castigo en las urnas para Nogueras, el PSC y los comunes",
-     "url": "https://www.lavanguardia.com/politica/20261114/11684287/erc-critica-junts-situe-medio-pide-castigo-urnas.html",
-     "seccion": "Política",
-     "resumen": "ERC pide un castigo en las urnas para Junts, PSC y comuns por el fracaso del nuevo modelo de financiación, que cayó con la convocatoria electoral."
-    },
-    {
-     "titular": "Meloni evita atacar a Sánchez en un prudente apoyo a Vox",
-     "url": "https://www.lavanguardia.com/politica/20261114/11684309/meloni-evita-atacar-sanchez-prudente-apoyo-vox.html",
-     "seccion": "Política",
-     "resumen": "Meloni envía un breve vídeo al acto de Vox en Colón centrado en su gestión, sin atacar a Sánchez."
-    },
-    {
-     "titular": "Juego de culpas en la Casa Blanca ante el caso de espionaje en Nvidia",
-     "url": "https://www.lavanguardia.com/economia/20261114/11684109/juego-culpas-casa-blanca-caso-espionaje-nvidia.html",
+     "titular": "El ‘Jexit’ hace temblar a la inteligencia artificial",
+     "url": "https://www.lavanguardia.com/economia/20261115/11684389/jexit-temblar-ia.html",
      "seccion": "Economía",
-     "resumen": "El secretario del Tesoro de EE UU acusa al de Comercio de no restringir las ventas a China en el caso de espionaje de Nvidia."
+     "resumen": "La marcha de Jensen Huang deja un vacío en Silicon Valley, que pierde a su líder en plena pugna regulatoria."
+    },
+    {
+     "titular": "Crisis entre la Generalitat y la Fira por la gestión del circuito de Montmeló",
+     "url": "https://www.lavanguardia.com/economia/20261115/11682859/crisis-govern-fira-gestion-circuito-montmelo.html",
+     "seccion": "Economía",
+     "resumen": "La Generalitat plantea rescindir su acuerdo con la Fira sobre la gestión del circuito de Montmeló antes del 1 de diciembre."
     }
    ]
   }
