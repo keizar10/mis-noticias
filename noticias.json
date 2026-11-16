@@ -1,69 +1,54 @@
 {
- "fecha": "2026-11-15",
+ "fecha": "2026-11-16",
  "franja": "tarde",
- "generada": "2026-11-15T22:23+01:00",
+ "generada": "2026-11-16T15:06+01:00",
  "con_ia": true,
- "resumen_dia": "La campaña para las elecciones generales del 29 de noviembre domina las portadas de los cuatro diarios, con el programa del PSOE, la propuesta de vivienda y crianza, y las críticas cruzadas entre bloques. Destaca también la agresión a jóvenes del PP en Hernani, que lleva a Feijóo a anunciar un acto en Gipuzkoa. En el ámbito internacional sobresalen la llegada masiva de migrantes a El Hierro, el cierre de la frontera de Estonia con Rusia tras un presunto sabotaje, y el caos aéreo en Estados Unidos.",
+ "resumen_dia": "Las campañas para las elecciones generales del 29-N centran buena parte de la actualidad: el PSOE remonta en un tracking, el PP anuncia una 'ley de nietos' para exiliados de ETA y Frente Amplio presenta su programa con limitación de herencias. Otros asuntos destacados son la caída de Yolanda Díaz de la candidatura a la OIT, el informe del CNI sobre Ceuta, el caso de los 'topos' del CNI y la búsqueda de 'El Ruso' tras el asesinato de un policía en Oviedo. En lo internacional, Lula y Sánchez piden defender las instituciones y Ucrania ataca el puente de Crimea.",
  "temas_comunes": [
   {
-   "titulo": "Programa electoral del PSOE",
-   "resumen": "El PSOE presenta su programa para el 29-N con un nuevo impuesto a la especulación, una prestación por crianza y medidas de vivienda. Las propuestas se reparten entre gasto social y nuevos gravámenes.",
+   "titulo": "Propuesta de 'ley de nietos' del PP",
+   "resumen": "Feijóo anuncia una ley para que los exiliados vascos por ETA puedan votar en las autonómicas del País Vasco y Navarra. La medida se presenta en un acto de campaña en Pamplona.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Destaca el impuesto a fondos y grandes propietarios, el 1% del PIB para vivienda y la unión de la amistad en las claves del documento.",
+     "enfoque": "Presenta la medida como parte de un acto de campaña en Pamplona, sin entrar en su alcance.",
      "noticias": [
       {
-       "titular": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Claves | De un nuevo impuesto a los grandes empresarios a la “unión de la amistad”: el programa del PSOE para el 29-N",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/claves-de-un-nuevo-impuesto-a-los-grandes-empresarios-a-la-union-de-la-amistad-el-programa-del-psoe-para-el-29-n.html",
+       "titular": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
        "seccion": "Elecciones Generales"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Subraya la figura de la unión de amistad y la recuperación de la bandera por Sánchez, y la financiación autonómica que prima a Cataluña.",
+     "enfoque": "Subraya que afecta a decenas de miles de personas y añade la agresión a su candidato vasco.",
      "noticias": [
       {
-       "titular": "Sánchez avanza el programa electoral del PSOE y se compromete a crear la figura de \"la unión de amistad\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af99b29e9cf4a7a4b8b456e.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Sánchez rescata para el programa electoral la financiación autonómica que prima a Cataluña, pese al rechazo de Page y Barbón",
-       "url": "https://www.elmundo.es/espana/2026/11/15/6af9eeb5e85ecef4158b4570.html",
-       "seccion": "Artículos Carlos Segovia"
+       "titular": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html",
+       "seccion": "PP"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Enfatiza el coste del programa: cotización extra por hijo, despido más caro y más impuestos, y el blindaje constitucional del aborto.",
+     "enfoque": "Describe la propuesta como reforma legal para facilitar el voto voluntario de los expulsados del País Vasco.",
      "noticias": [
       {
-       "titular": "Programa del PSOE: un año de cotización extra por hijo, nueva prestación por crianza y despido más caro",
-       "url": "https://www.abc.es/economia/programa-psoe-ano-cotizacion-extra-hijo-nueva-20261115165634-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Sánchez promete un blindaje constitucional del aborto, las pensiones y la vivienda para el que no tiene apoyo",
-       "url": "https://www.abc.es/espana/sanchez-promete-blindaje-constitucional-aborto-pensiones-vivienda-20261115155628-nt.html",
+       "titular": "El PP propone una 'ley de nietos' vasca para que voten los exiliados del terrorismo de ETA",
+       "url": "https://www.abc.es/espana/feijoo-propone-ley-nietos-vasca-voten-exiliados-20261116093459-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Recoge la propuesta de gravar la especulación inmobiliaria y la prestación por crianza, con el llamamiento de Sánchez al voto moderado.",
+     "enfoque": "Enmarca la norma como reparación para quienes tuvieron que marcharse por la amenaza terrorista.",
      "noticias": [
       {
-       "titular": "Sánchez propone gravar más la especulación inmobiliaria y una prestación por crianza",
-       "url": "https://www.lavanguardia.com/politica/20261115/11684803/sanchez-propone-gravar-mas-especulacion-inmobiliaria-prestacion-social-crianza.html",
+       "titular": "Feijóo propondrá una ley de nietos vasca para reparar a los “expulsados” por ETA",
+       "url": "https://www.lavanguardia.com/politica/20261116/11685266/feijoo-propondra-pamplona-ley-nietos-vasca.html",
        "seccion": "Política"
       }
      ]
@@ -71,127 +56,183 @@
    ]
   },
   {
-   "titulo": "Agresión a jóvenes del PP en Hernani",
-   "resumen": "Tras los incidentes en Hernani, Feijóo anuncia un acto de apoyo a Jon Echeverría en Gipuzkoa. El PP vincula los hechos a la violencia contra su campaña.",
+   "titulo": "Programa del Frente Amplio: herencias y fiscalidad",
+   "resumen": "El Frente Amplio plantea jornada de 32 horas, jubilación a los 65 y un tope a las herencias de 10 millones por persona. Su programa incluye también la rebaja de la edad de voto a 16 años y un referéndum territorial.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Presenta el anuncio de Feijóo junto a su propuesta de no pagar IRPF el primer año de empleo.",
+     "enfoque": "Destaca el tope a las herencias y las medidas laborales dentro de un programa de izquierdas.",
      "noticias": [
       {
-       "titular": "Feijóo hará campaña en Gipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
-       "seccion": "Elecciones Generales"
+       "titular": "Frente Amplio apuesta por una jornada laboral de 32 horas y jubilación a los 65 años",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-apuesta-por-una-jornada-laboral-de-32-horas-y-jubilacion-a-los-65-anos.html",
+       "seccion": "Economía"
       }
      ]
     },
-    {
-     "medio": "abc",
-     "enfoque": "Se centra en la declaración de Feijóo contra quienes lanzaron piedras y en la frase sobre la calle.",
-     "noticias": [
-      {
-       "titular": "Feijóo anuncia un acto con Jon Echeverría y carga contra los que le tiraron piedras: «La calle no es vuestra»",
-       "url": "https://www.abc.es/espana/pais-vasco/feijoo-anuncia-acto-guipuzcoa-jon-echeverria-ejemplo-20261115134405-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Destaca el acto que el equipo de Feijóo prevé para arropar a su candidato tras la agresión.",
-     "noticias": [
-      {
-       "titular": "Feijóo anuncia un acto en Gipuzkoa para arropar a su candidato tras ser agredido en Hernani",
-       "url": "https://www.lavanguardia.com/politica/20261115/11684790/feijoo-anuncia-acto-gipuzkoa-arropar-jon-echeverria-agredido-hernani.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Vox y el discurso sobre inmigración en Cataluña",
-   "resumen": "Abascal hace campaña en Cornellà con mensajes sobre población extranjera e identidad. Las cifras que usa sobre la composición del municipio se discuten.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Señala que las cifras de Abascal sobre la población extranjera de Cornellà no coinciden con las estadísticas.",
-     "noticias": [
-      {
-       "titular": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge su llamamiento a la reconquista de la identidad y a unas elecciones existenciales.",
-     "noticias": [
-      {
-       "titular": "Abascal apela en Cornellà a la “reconquista de la identidad” en unas “elecciones existenciales”",
-       "url": "https://www.lavanguardia.com/politica/20261115/11684813/abascal-apela-cornella-reconquista-identidad-elecciones-existenciales.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Estonia cierra su frontera con Rusia",
-   "resumen": "Estonia cerrará sus tres pasos fronterizos por carretera con Rusia desde el 1 de diciembre tras un presunto sabotaje contra una fábrica de drones. Ocho personas han sido detenidas.",
-   "medios": [
     {
      "medio": "elmundo",
-     "enfoque": "Destaca la fecha de cierre, el frustrado ataque contra la fábrica de drones y la detención de ocho residentes de Letonia.",
+     "enfoque": "Detalla los tipos marginales propuestos para herencias superiores a 5 millones.",
      "noticias": [
       {
-       "titular": "Estonia cerrará su frontera con Rusia el 1 de diciembre tras un presunto acto de sabotaje",
-       "url": "https://www.elmundo.es/internacional/2026/11/15/6af9db89fdddff35408b4593.html",
-       "seccion": "Estonia"
+       "titular": "El Frente Amplio propone limitar las herencias a un máximo de 10 millones por persona",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac0a8fc6c8389748b4597.html",
+       "seccion": "Frente Amplio"
       }
      ]
     },
     {
-     "medio": "lavanguardia",
-     "enfoque": "Atribuye el ataque a la inteligencia militar rusa y encuadra el hecho dentro de la guerra híbrida en los países bálticos.",
+     "medio": "abc",
+     "enfoque": "Se centra en la rebaja de la edad de voto y el referéndum sobre la cuestión territorial.",
      "noticias": [
       {
-       "titular": "Estonia cerrará su frontera con Rusia tras acusar a Moscú de un acto de sabotaje contra su industria de defensa",
-       "url": "https://www.lavanguardia.com/internacional/20261115/11684834/ocho-detenidos-estonia-intento-sabotaje-fabrica-atribuido-rusia.html",
-       "seccion": "Internacional"
-      },
-      {
-       "titular": "Así responden los países bálticos a la guerra híbrida",
-       "url": "https://www.lavanguardia.com/internacional/20261115/11684359/paises-balticos-guerra-hibrida-rusa-estonia-letonia-lituania-ciberataques-drones-sabotajes.html",
-       "seccion": "Internacional"
+       "titular": "Frente Amplio propone rebajar la edad de voto a los 16 años y un referéndum para resolver «la cuestión territorial»",
+       "url": "https://www.abc.es/espana/frente-amplio-plantea-limitar-herencias-rebajar-anos-20261116122400-nt.html",
+       "seccion": ""
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Caos aéreo en Estados Unidos",
-   "resumen": "El sistema de control aéreo estadounidense sufre un caos que llevó al cierre total del espacio aéreo. Trump atribuye la situación a Biden y al Congreso.",
+   "titulo": "Informe del CNI y Guardia Civil sobre Ceuta",
+   "resumen": "El CNI afirma en la Audiencia Nacional que no hay evidencias de una acción coordinada de Marruecos en la entrada masiva en Ceuta. La Guardia Civil cuestiona la alerta temprana que recibió y contrapone su versión.",
    "medios": [
     {
-     "medio": "abc",
-     "enfoque": "Explica que la FAA usa sistemas obsoletos como disquetes y cables de cobre.",
+     "medio": "elpais",
+     "enfoque": "Recoge la conclusión del CNI de que no se puede atribuir la entrada a una acción instigada por Marruecos.",
      "noticias": [
       {
-       "titular": "Cables de cobre, disquetes y prismáticos: el sistema obsoleto que está detrás del caos aéreo en EE.UU.",
-       "url": "https://www.abc.es/internacional/cables-cobre-disquetes-prismaticos-atraso-detras-caos-20261115020546-nt.html",
+       "titular": "El CNI concluye que “no se han obtenido evidencias” que vinculen la entrada masiva de Ceuta con una acción del Estado marroquí",
+       "url": "https://elpais.com/espana/2026-11-16/el-cni-concluye-que-no-se-han-obtenido-evidencias-que-vinculen-la-entrada-masiva-de-ceuta-con-una-accion-del-estado-marroqui.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la crítica de la Guardia Civil a la información recibida, calificada de parcial e insuficiente.",
+     "noticias": [
+      {
+       "titular": "La Guardia Civil cuestiona la \"alerta temprana\" de los servicios de inteligencia: \"Lo que se recibió fue una información parcial insuficiente para dimensionar la amenaza\"",
+       "url": "https://www.elmundo.es/espana/2026/11/16/6afaee19e9cf4a93078b4577.html",
+       "seccion": "Ceuta"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Contrapone la versión de la Guardia Civil a la del CNI sobre los avisos recibidos.",
+     "noticias": [
+      {
+       "titular": "La Guardia Civil rechaza que los avisos del CNI alertaran de la dimensión del asalto a Ceuta",
+       "url": "https://www.lavanguardia.com/politica/20261116/11685418/guardia-civil-rechaza-avisos-cni-alertaran-dimension-asalto-ceuta.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Búsqueda de 'El Ruso' en trenes catalanes",
+   "resumen": "La Guardia Civil y los Mossos registraron trenes de Rodalies tras un aviso de que El Ruso podía viajar en ellos. La alerta resultó falsa y el sospechoso es buscado por la muerte de un policía en Oviedo.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Sigue el registro de un tren con el relato de una trabajadora de un bar de Manresa.",
+     "noticias": [
+      {
+       "titular": "La Guardia Civil registra un tren en Rodalies en busca de El Ruso",
+       "url": "https://elpais.com/espana/catalunya/2026-11-16/la-guardia-civil-registra-un-tren-en-rodalies-en-busca-de-el-ruso.html",
+       "seccion": "Cataluña"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya que el despliegue fue una falsa alarma y que la vigilancia continúa.",
+     "noticias": [
+      {
+       "titular": "El gran despliegue policial para localizar a El Ruso en un tren de Barcelona, tras la denuncia de un ciudadano, confirma que ha sido una falsa alarma",
+       "url": "https://www.elmundo.es/cataluna/2026/11/16/6afaf26921efa0b4068b45ab.html",
+       "seccion": "Guardia Civil"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Indica que el sospechoso no viajaba en el tren y lo describe como autor del explosivo que mató a un agente.",
+     "noticias": [
+      {
+       "titular": "'El Ruso' no viajaba en el tren con destino a Barcelona que registraron Mossos y Guardia Civil",
+       "url": "https://www.abc.es/espana/cataluna/despliegue-policial-ante-posible-avistamiento-ruso-barcelona-20261116131115-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Recoge la respuesta de Trump, que culpa a Biden y al Congreso.",
+     "enfoque": "Informa de que los agentes identificaron pasajeros sin encontrar al presunto autor.",
      "noticias": [
       {
-       "titular": "Donald Trump culpa a Biden y al Congreso del caos aéreo",
-       "url": "https://www.lavanguardia.com/internacional/20261115/11684888/donald-trump-culpa-biden-congreso-caos-aereo.html",
+       "titular": "'El Ruso' no viajaba en los trenes que Mossos y Guardia Civil han registrado en Montcada",
+       "url": "https://www.lavanguardia.com/local/barcelona/20261116/11685406/interrumpida-circulacion-r4-r7-rodalies-peticion-mossos.html",
+       "seccion": "Barcelona"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Yolanda Díaz retira su candidatura a la OIT",
+   "resumen": "La vicepresidenta retira su candidatura a la dirección general de la OIT tras constatar que el actual director, Houngbo, tiene más apoyos. Díaz dice que lo hace para no dividir al movimiento sindical.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Explica que Houngbo supera en apoyos a Díaz antes de la votación prevista.",
+     "noticias": [
+      {
+       "titular": "Yolanda Díaz retira su candidatura a la dirección general de la OIT",
+       "url": "https://elpais.com/economia/2026-11-16/yolanda-diaz-retira-su-candidatura-a-la-direccion-general-de-la-oit.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge las palabras de Díaz sobre preservar la unidad sindical.",
+     "noticias": [
+      {
+       "titular": "Yolanda Díaz retira su candidatura a la Organización Internacional del Trabajo (OIT) para \"no dividir\" al movimiento sindical",
+       "url": "https://www.elmundo.es/economia/2026/11/16/6afaae0021efa0532e8b4579.html",
+       "seccion": "Yolanda Díaz"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Ataque ucraniano al puente de Crimea",
+   "resumen": "Ucrania golpea el puente que une Crimea con Rusia y el tráfico queda interrumpido. Las autoridades instaladas por Moscú confirman el impacto sin detallar daños.",
+   "medios": [
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la magnitud de la ofensiva con drones y la falta de detalles sobre los daños.",
+     "noticias": [
+      {
+       "titular": "Ucrania golpea el puente de Crimea en una de las mayores ofensivas con drones contra Rusia",
+       "url": "https://www.abc.es/internacional/ucrania-golpea-puente-crimea-mayores-ofensivas-drones-20261116134856-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recuerda que la infraestructura fue inaugurada por Putin y que ha sido atacada varias veces.",
+     "noticias": [
+      {
+       "titular": "Ucrania ataca el puente de Crimea y obliga a Rusia a interrumpir el tráfico",
+       "url": "https://www.lavanguardia.com/internacional/20261116/11685183/ucrania-ataca-el-puente-de-crimea-y-obliga-a-rusia-a-interrumpir-el-trafico.html",
        "seccion": "Internacional"
       }
      ]
@@ -203,220 +244,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña electoral, con foco en el programa del PSOE, las cifras de Vox y la encuesta de seguimiento. Incluye también un reportaje sobre la generación de jóvenes que vota por primera vez.",
+   "resumen": "Prioriza la campaña electoral, con el tracking del PSOE y la visita de Lula a Madrid, y las investigaciones sobre el CNI. Mantiene también temas de sociedad y cultura como los Grammy o el caso Alves.",
    "noticias": [
     {
-     "titular": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
+     "titular": "El PSOE remonta pero no altera la mayoría de la derecha",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-psoe-remonta-pero-no-altera-la-mayoria-de-la-derecha.html",
      "seccion": "Elecciones Generales",
-     "resumen": "El programa socialista plantea destinar el 1% del PIB a vivienda social, crear una prestación por crianza y gravar a fondos y grandes propietarios."
+     "resumen": "El cuarto tracking de 40dB sitúa al PSOE en su mejor dato de la legislatura, aunque sin alterar la mayoría de la derecha."
     },
     {
-     "titular": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Un sondeo de seguimiento indica que el PSOE gana votos en el centro pero corre el riesgo de perder electorado conservador."
+     "titular": "Lula da en Madrid un respaldo político a Sánchez, que trata de usar la remontada brasileña como ejemplo",
+     "url": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
+     "seccion": "España",
+     "resumen": "Lula visita Madrid y respalda a Sánchez, y ambos graban un vídeo en defensa de las instituciones frente a la ultraderecha."
     },
     {
-     "titular": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Abascal sostiene que los españoles son minoría en Cornellà, dato que contradice las estadísticas municipales citadas."
+     "titular": "Un parking, un viaje a Portugal y los cordones de un zapato: la investigación que dio con los ‘topos’ del CNI",
+     "url": "https://elpais.com/espana/2026-11-16/un-parking-un-viaje-a-portugal-y-los-cordones-de-un-zapato-la-investigacion-que-dio-con-los-topos-del-cni.html",
+     "seccion": "España",
+     "resumen": "La investigación sobre los 'topos' del CNI describe cómo se detectó al agente 7691 y su detención tras un viaje a Portugal."
     },
     {
-     "titular": "Feijóo hará campaña en Gipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Feijóo hará campaña en Gipuzkoa tras la agresión a jóvenes de Nuevas Generaciones y reitera su propuesta fiscal para jóvenes."
+     "titular": "El CNI concluye que “no se han obtenido evidencias” que vinculen la entrada masiva de Ceuta con una acción del Estado marroquí",
+     "url": "https://elpais.com/espana/2026-11-16/el-cni-concluye-que-no-se-han-obtenido-evidencias-que-vinculen-la-entrada-masiva-de-ceuta-con-una-accion-del-estado-marroqui.html",
+     "seccion": "España",
+     "resumen": "El CNI señala ante la Audiencia Nacional que no hay pruebas de que la entrada en Ceuta fuera instigada por Marruecos."
     },
     {
-     "titular": "Claves | De un nuevo impuesto a los grandes empresarios a la “unión de la amistad”: el programa del PSOE para el 29-N",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/claves-de-un-nuevo-impuesto-a-los-grandes-empresarios-a-la-union-de-la-amistad-el-programa-del-psoe-para-el-29-n.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Resumen del programa socialista de 114 páginas, con el nuevo impuesto, un pacto de seguridad ferroviaria y la abolición de la prostitución."
-    },
-    {
-     "titular": "Retrato de la Generación 08: los hijos de las crisis y de TikTok estrenan mayoría de edad y voto el 29-N",
-     "url": "https://elpais.com/eps/2026-11-15/retrato-de-la-generacion-08-los-hijos-de-las-crisis-y-de-tiktok-estrenan-mayoria-de-edad-y-voto-el-29-n.html",
-     "seccion": "Jóvenes",
-     "resumen": "Reportaje con 24 jóvenes nacidos en 2008, que votan por primera vez el 29-N, sobre sus preocupaciones."
-    },
-    {
-     "titular": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
-     "url": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+     "titular": "Frente Amplio apuesta por una jornada laboral de 32 horas y jubilación a los 65 años",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-apuesta-por-una-jornada-laboral-de-32-horas-y-jubilacion-a-los-65-anos.html",
      "seccion": "Economía",
-     "resumen": "La caída de Jensen Huang, de Nvidia, en un caso de supuesto espionaje y adulterio, que el diario conecta con la concentración de poder en EEUU."
+     "resumen": "El Frente Amplio propone jornada de 32 horas, jubilación a los 65 y un tope a las herencias."
     },
     {
-     "titular": "¿Qué es El Niño? Así enloquece el clima global una pequeña región tropical del Pacífico",
-     "url": "https://elpais.com/clima-y-medio-ambiente/cambio-climatico/2026-11-15/que-es-el-nino-asi-enloquece-el-clima-global-una-pequena-region-tropical-del-pacifico.html",
-     "seccion": "Fenómeno El Niño",
-     "resumen": "Explicación del fenómeno de El Niño, que alcanzará niveles sin precedentes y tendrá efectos económicos y sanitarios durante años."
+     "titular": "Yolanda Díaz retira su candidatura a la dirección general de la OIT",
+     "url": "https://elpais.com/economia/2026-11-16/yolanda-diaz-retira-su-candidatura-a-la-direccion-general-de-la-oit.html",
+     "seccion": "Economía",
+     "resumen": "Yolanda Díaz retira su candidatura a la OIT ante los apoyos que tiene el actual director."
+    },
+    {
+     "titular": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El PP propone una 'ley de nietos' para que los exiliados vascos por ETA voten en autonómicas."
+    },
+    {
+     "titular": "Un estudio destapa nueve muertes por el uso de Nolotil en dos años en Alicante, siete de ellas de pacientes británicos",
+     "url": "https://elpais.com/salud-y-bienestar/2026-11-16/un-estudio-destapa-nueve-muertes-por-el-uso-de-nolotil-en-dos-anos-en-alicante-siete-de-ellas-de-pacientes-britanicos.html",
+     "seccion": "Medicamentos",
+     "resumen": "Un estudio vincula nueve muertes por Nolotil en Alicante con riesgos mayores para pacientes británicos."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en la campaña del PSOE y en el PP y Vox, con el análisis de votos y escaños. Dedica espacio también a la inmigración en El Hierro y a la política internacional.",
+   "resumen": "Se centra en la precampaña con foco en el PP, el PSOE y el Frente Amplio, y en las consecuencias del caso Ceuta. Incluye también asuntos judiciales y de política internacional.",
    "noticias": [
     {
-     "titular": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html",
+     "titular": "Vox roza un hito con dos escaños en Galicia y dispara a la derecha en Cataluña",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6afa153a21efa0bb1f8b458a.html",
+     "seccion": "PP",
+     "resumen": "Vox podría lograr dos escaños en Galicia y crecer en Cataluña, mientras la derecha mantiene la superioridad en casi todo el mapa."
+    },
+    {
+     "titular": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html",
+     "seccion": "PP",
+     "resumen": "Feijóo anuncia la 'ley de nietos' que afectaría a decenas de miles de exiliados vascos y visitará el País Vasco por su candidato."
+    },
+    {
+     "titular": "El PSOE despacha en su programa electoral la lucha contra la corrupción con tres medidas genéricas: \"Hemos conseguido una democracia más limpia\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6afa04befdddffd6748b457f.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Una encuesta sitúa a PP y Vox cerca del 51% de los votos y de 199 escaños, con el PSOE estancado."
+     "resumen": "El programa del PSOE incluye medidas sociales, un impuesto a viviendas de fondos y pocas propuestas concretas contra la corrupción."
     },
     {
-     "titular": "El Hierro tiembla: 3.163 inmigrantes en tres días y sólo 12.000 habitantes",
-     "url": "https://www.elmundo.es/espana/2026/11/15/6af9fde221efa063298b457e.html",
-     "seccion": "inmigración",
-     "resumen": "La llegada de 3.161 inmigrantes a El Hierro en un fin de semana, con 1.327 solo el sábado, marca un récord de la ruta canaria."
+     "titular": "El Frente Amplio propone limitar las herencias a un máximo de 10 millones por persona",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac0a8fc6c8389748b4597.html",
+     "seccion": "Frente Amplio",
+     "resumen": "El Frente Amplio plantea un límite de 10 millones por herencia con tipos marginales de hasta el 100%."
     },
     {
-     "titular": "Sánchez avanza el programa electoral del PSOE y se compromete a crear la figura de \"la unión de amistad\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af99b29e9cf4a7a4b8b456e.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Sánchez anticipa la propuesta de la unión de amistad y reivindica la bandera de España en un acto con militantes."
+     "titular": "El Gobierno aprobará mañana la subida del 5,3% del SMI",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afafd7d21efa00b548b45bd.html",
+     "seccion": "",
+     "resumen": "El Gobierno aprobará mañana una subida del 5,3% del SMI con medidas fiscales para que no tribute."
     },
     {
-     "titular": "Sánchez rescata para el programa electoral la financiación autonómica que prima a Cataluña, pese al rechazo de Page y Barbón",
-     "url": "https://www.elmundo.es/espana/2026/11/15/6af9eeb5e85ecef4158b4570.html",
-     "seccion": "Artículos Carlos Segovia",
-     "resumen": "El PSOE incluye en su programa la financiación autonómica que pactó con ERC, rechazada por la mayoría de comunidades."
+     "titular": "La Guardia Civil cuestiona la \"alerta temprana\" de los servicios de inteligencia: \"Lo que se recibió fue una información parcial insuficiente para dimensionar la amenaza\"",
+     "url": "https://www.elmundo.es/espana/2026/11/16/6afaee19e9cf4a93078b4577.html",
+     "seccion": "Ceuta",
+     "resumen": "La Guardia Civil sostiene que la información previa sobre Ceuta fue parcial e insuficiente."
     },
     {
-     "titular": "Estonia cerrará su frontera con Rusia el 1 de diciembre tras un presunto acto de sabotaje",
-     "url": "https://www.elmundo.es/internacional/2026/11/15/6af9db89fdddff35408b4593.html",
-     "seccion": "Estonia",
-     "resumen": "Estonia cerrará sus tres pasos por carretera con Rusia el 1 de diciembre tras frustrar un presunto sabotaje."
+     "titular": "El juez que sustituye a Peinado ordena a Google que no borre el 'software' por el que Begoña Gómez se va a sentar en el banquillo",
+     "url": "https://www.elmundo.es/espana/2026/11/16/6afad6d121efa0b4068b4596.html",
+     "seccion": "Artículos Manuel Marraco",
+     "resumen": "Un juez ordena a Google conservar el software de Begoña Gómez como prueba para el juicio."
     },
     {
-     "titular": "El trono sin heredero de Xi Jinping: 14 años en el poder, purgas interminables y ninguna pista sobre su sucesor",
-     "url": "https://www.elmundo.es/internacional/2026/11/14/6af515b3fdddff1e118b4597.html",
-     "seccion": "China",
-     "resumen": "Xi Jinping cumple 14 años en el poder sin sucesor visible tras desmontar las reglas de sucesión y sus purgas."
-    },
-    {
-     "titular": "Ada Colau propone reconocer legalmente a la familia elegida a través de \"permisos retribuidos\" a amigos",
-     "url": "https://www.elmundo.es/espana/2026/11/15/6af990c1e9cf4a301c8b4585.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Colau propone permisos retribuidos para la familia elegida, sin requisitos de parentesco ni convivencia."
-    },
-    {
-     "titular": "La 'generación Wild' de Vox examina la espantada de Abascal: a casi todos les decepcionó, pero la mayoría le seguirá votando",
-     "url": "https://www.elmundo.es/cronica/2026/11/15/6af73ba9e4d4d8be588b458a.html",
-     "seccion": "Santiago Abascal Conde",
-     "resumen": "Análisis del voto joven de Vox tras la espantada de Abascal en la entrevista: la mayoría seguirá votando al partido."
+     "titular": "La Justicia italiana interviene a Revolut por fallos en sus sistemas de prevención del blanqueo",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afaf80ffc6c83b3158b4573.html",
+     "seccion": "Banca",
+     "resumen": "La Justicia italiana interviene durante un año la filial italiana de Revolut por fallos en la prevención del blanqueo."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Dedica portada a la campaña, con el programa del PSOE y las declaraciones de Sánchez, y a la política de Marruecos. Incluye también noticias internacionales como Colombia y el caos aéreo de EEUU.",
+   "resumen": "Destaca asuntos judiciales y económicos, como el caso Andic y la demanda de Repsol por el apagón, junto a la campaña. Da peso también a la política energética y a temas de sociedad.",
    "noticias": [
     {
-     "titular": "Programa del PSOE: un año de cotización extra por hijo, nueva prestación por crianza y despido más caro",
-     "url": "https://www.abc.es/economia/programa-psoe-ano-cotizacion-extra-hijo-nueva-20261115165634-nt.html",
+     "titular": "Repsol demanda a Iberdrola, Endesa, Naturgy y Red Eléctrica por el apagón de 2025",
+     "url": "https://www.abc.es/economia/repsol-demanda-iberdrola-endesa-naturgy-red-electrica-20261116141206-nt.html",
      "seccion": "",
-     "resumen": "El programa del PSOE incluye un año extra de cotización por hijo, una prestación por crianza y un despido más caro, con más gasto e impuestos."
+     "resumen": "Repsol reclama unos 120 millones a Iberdrola, Endesa, Naturgy y Red Eléctrica por el apagón de 2025."
     },
     {
-     "titular": "Sánchez promete un blindaje constitucional del aborto, las pensiones y la vivienda para el que no tiene apoyo",
-     "url": "https://www.abc.es/espana/sanchez-promete-blindaje-constitucional-aborto-pensiones-vivienda-20261115155628-nt.html",
+     "titular": "Isak Andic nunca consultó al notario sobre desheredar a Jonathan",
+     "url": "https://www.abc.es/espana/cataluna/isak-andic-nunca-consulto-notario-sobre-desheredar-20261116142625-nt.html",
      "seccion": "",
-     "resumen": "Sánchez plantea las elecciones como plebiscito y propone blindar constitucionalmente el aborto, las pensiones y la vivienda."
+     "resumen": "El notario de Isak Andic declara que el fundador nunca le habló de desheredar a su hijo Jonathan."
     },
     {
-     "titular": "Pedro Sánchez: «Abascal es una persona racista que habla mucho de los árabes, pero él tiene sus genes... se le ve en la cara»",
-     "url": "https://www.abc.es/gente/pedro-sanchez-abascal-persona-racista-habla-arabes-20261115183149-nt.html",
+     "titular": "El PP propone una 'ley de nietos' vasca para que voten los exiliados del terrorismo de ETA",
+     "url": "https://www.abc.es/espana/feijoo-propone-ley-nietos-vasca-voten-exiliados-20261116093459-nt.html",
      "seccion": "",
-     "resumen": "Sánchez, en el programa La Séptima, critica a Abascal con declaraciones sobre sus orígenes, en un nuevo formato de campaña."
+     "resumen": "Feijóo anunciará en Pamplona una 'ley de nietos' vasca para facilitar el voto de expulsados por ETA."
     },
     {
-     "titular": "García Albiol, sobre la relación de España con Marruecos: «El Gobierno de Sánchez destina 750 millones a mejorar sus trenes mientras nuestra red ferroviaria se cae a pedazos»",
-     "url": "https://www.abc.es/espana/cataluna/garcia-albiol-sobre-relacion-espana-marruecos-gobierno-20261115120226-nt.html",
+     "titular": "Frente Amplio propone rebajar la edad de voto a los 16 años y un referéndum para resolver «la cuestión territorial»",
+     "url": "https://www.abc.es/espana/frente-amplio-plantea-limitar-herencias-rebajar-anos-20261116122400-nt.html",
      "seccion": "",
-     "resumen": "García Albiol critica la relación de España con Marruecos y el gasto en trenes frente al estado de la red ferroviaria."
+     "resumen": "Frente Amplio propone rebajar la edad de voto a 16 años y un referéndum sobre la cuestión territorial."
     },
     {
-     "titular": "Feijóo anuncia un acto con Jon Echeverría y carga contra los que le tiraron piedras: «La calle no es vuestra»",
-     "url": "https://www.abc.es/espana/pais-vasco/feijoo-anuncia-acto-guipuzcoa-jon-echeverria-ejemplo-20261115134405-nt.html",
+     "titular": "Sánchez se obsesiona con cerrar las nucleares cuando son esenciales para el sistema eléctrico",
+     "url": "https://www.abc.es/economia/sanchez-obsesiona-cerrar-centrales-nucleares-esenciales-sistema-20261116120409-nt.html",
      "seccion": "",
-     "resumen": "Feijóo anuncia un acto con Jon Echeverría en Gipuzkoa tras los lanzamientos de piedras y petardos en Hernani."
+     "resumen": "El Gobierno prolonga la vida de la central de Almaraz hasta 2030, según el texto de la editorial."
     },
     {
-     "titular": "Cables de cobre, disquetes y prismáticos: el sistema obsoleto que está detrás del caos aéreo en EE.UU.",
-     "url": "https://www.abc.es/internacional/cables-cobre-disquetes-prismaticos-atraso-detras-caos-20261115020546-nt.html",
+     "titular": "Los obispos preparan un pronunciamiento sobre el 29N después de 15 años sin orientar el voto",
+     "url": "https://www.abc.es/sociedad/obispos-preparan-pronunciamiento-sobre-elecciones-generales-despues-20261116115209-nt.html",
      "seccion": "",
-     "resumen": "La FAA usa sistemas obsoletos como cables de cobre y disquetes, lo que explica parte del caos aéreo en EEUU."
+     "resumen": "La Conferencia Episcopal prepara un pronunciamiento sobre el 29N tras 15 años sin orientar el voto."
     },
     {
-     "titular": "De la Espriella en Colombia, cien días entre la guerra al crimen y las redes sociales",
-     "url": "https://www.abc.es/internacional/cien-dias-espriella-colombia-guerra-crimen-redes-20261113165240-nt.html",
+     "titular": "CC.OO. convoca una huelga en el transporte de mercancías por carretera en plena Nochebuena por la jubilación anticipada",
+     "url": "https://www.abc.es/economia/ccoo-convoca-huelga-transporte-mercancias-carretera-plena-20261116131424-nt.html",
      "seccion": "",
-     "resumen": "Los primeros cien días de De la Espriella como presidente de Colombia, con guerra al crimen y plan de ajuste fiscal."
+     "resumen": "CC.OO. convoca una huelga de transporte de mercancías en Nochebuena por la jubilación anticipada."
     },
     {
-     "titular": "Sergio Ramírez ingresa en la RAE con un homenaje a Vargas Llosa",
-     "url": "https://www.abc.es/cultura/sergio-ramirez-ingresa-rae-homenaje-vargas-llosa-20261115203000-nt.html",
+     "titular": "La Justicia interviene Revolut en Italia por «falta de control en el blanqueo de capitales» vinculados con la mafia",
+     "url": "https://www.abc.es/economia/justicia-interviene-revolut-italia-falta-control-blanqueo-20261116133754-nt.html",
      "seccion": "",
-     "resumen": "Sergio Ramírez ingresa en la RAE ocupando la silla L y dedica su discurso a Vargas Llosa."
+     "resumen": "La Justicia italiana interviene la filial de Revolut por falta de control en el blanqueo, con 42 millones bajo sospecha."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Prioriza la campaña electoral en Cataluña y el debate sobre vivienda, con entrevistas y análisis sobre el voto. También sigue la crisis de seguridad en el Báltico y el caos aéreo de EEUU.",
+   "resumen": "Pone el foco en Cataluña, con el desalojo de la acampada de plaza Catalunya y la campaña electoral. También dedica espacio a vivienda y a la política internacional.",
    "noticias": [
     {
-     "titular": "Sánchez propone gravar más la especulación inmobiliaria y una prestación por crianza",
-     "url": "https://www.lavanguardia.com/politica/20261115/11684803/sanchez-propone-gravar-mas-especulacion-inmobiliaria-prestacion-social-crianza.html",
+     "titular": "Sánchez y Lula piden defender las instituciones ante la “amenaza ultraderechista”",
+     "url": "https://www.lavanguardia.com/politica/20261116/11685403/sanchez-exhibe-sintonia-politica-lula-visita-moncloa-plena-campana-electoral.html",
      "seccion": "Política",
-     "resumen": "Sánchez propone gravar la especulación inmobiliaria y una prestación por crianza, y pide el voto de electores moderados."
+     "resumen": "Sánchez y Lula defienden las instituciones frente a la amenaza ultraderechista en encuentros en Moncloa."
     },
     {
-     "titular": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
-     "url": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html",
+     "titular": "La Guardia Urbana desaloja de madrugada la acampada de la plaza Catalunya",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261116/11684926/policia-desaloja-madrugada-acampada-plaza-catalunya.html",
+     "seccion": "Barcelona",
+     "resumen": "La Guardia Urbana desaloja de madrugada la acampada de la plaza Catalunya por motivos de seguridad y convivencia."
+    },
+    {
+     "titular": "Críticas de la oposición a Collboni por su falta de “autoridad” y “pasividad” tras el desalojo de plaza Catalunya",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261116/11685309/criticas-oposicion-collboni-falta-autoridad-pasividad-desalojo-plaza-catalunya.html",
+     "seccion": "Barcelona",
+     "resumen": "La oposición critica a Collboni por la falta de autoridad y pasividad en el desalojo de la plaza."
+    },
+    {
+     "titular": "Feijóo propondrá una ley de nietos vasca para reparar a los “expulsados” por ETA",
+     "url": "https://www.lavanguardia.com/politica/20261116/11685266/feijoo-propondra-pamplona-ley-nietos-vasca.html",
      "seccion": "Política",
-     "resumen": "PSOE y PP se acusan mutuamente de escándalos, aunque coinciden en votaciones en el Parlamento Europeo."
+     "resumen": "Feijóo se compromete a impulsar una ley para reparar a quienes tuvieron que salir de País Vasco y Navarra por ETA."
     },
     {
-     "titular": "Junts volverá a exigir el traspaso de las competencias de inmigración: “Es innegociable”",
-     "url": "https://www.lavanguardia.com/politica/20261115/11684750/junts-volvera-exigir-traspaso-competencias-inmigracion-innegociable.html",
+     "titular": "Junts pide “dar aire” a empresas, autónomos y trabajadores con rebajas de impuestos",
+     "url": "https://www.lavanguardia.com/politica/20261116/11685189/junts-llama-aceptar-agenda-secuestrada-dos-bloques-ponen-catalunya-centro.html",
      "seccion": "Política",
-     "resumen": "Junts exige el traspaso de competencias de inmigración y reprocha a ERC su pacto con Podemos para el 29-N."
+     "resumen": "Junts pide rebajas fiscales para empresas, autónomos y trabajadores en su propuesta electoral."
     },
     {
-     "titular": "Ada Colau: “Pedro Sánchez nos ha fallado en vivienda, ha suspendido”",
-     "url": "https://www.lavanguardia.com/politica/20261115/11684357/ada-colau-pedro-sanchez-fallado-vivienda-suspendido.html",
+     "titular": "La deuda hipotecaria llega al nivel más alto en una década",
+     "url": "https://www.lavanguardia.com/economia/20261116/11684863/deuda-hipotecaria-llega-nivel-mas-alto-decada.html",
+     "seccion": "Economía",
+     "resumen": "La deuda hipotecaria alcanza su nivel más alto en una década por el alza de precios de la vivienda."
+    },
+    {
+     "titular": "Israel investiga si la oficina de Netanyahu manipuló el fraude del voto árabe",
+     "url": "https://www.lavanguardia.com/internacional/20261116/11685279/israel-investiga-oficina-netanyahu-fabrico-fraude-voto-arabe.html",
+     "seccion": "Internacional",
+     "resumen": "Israel investiga si la oficina de Netanyahu manipuló el voto árabe, y Eisenkot congela las negociaciones con el Likud."
+    },
+    {
+     "titular": "Argüello apuesta por romper la neutralidad y que los obispos se posicionen sobre el 29-N",
+     "url": "https://www.lavanguardia.com/politica/20261116/11685362/argueello-apuesta-obispos-posicionen-sobre-elecciones-29-n.html",
      "seccion": "Política",
-     "resumen": "Colau afirma en entrevista que Sánchez ha suspendido en vivienda y detalla el programa de la izquierda."
-    },
-    {
-     "titular": "Estonia cerrará su frontera con Rusia tras acusar a Moscú de un acto de sabotaje contra su industria de defensa",
-     "url": "https://www.lavanguardia.com/internacional/20261115/11684834/ocho-detenidos-estonia-intento-sabotaje-fabrica-atribuido-rusia.html",
-     "seccion": "Internacional",
-     "resumen": "Estonia cerrará su frontera con Rusia tras acusar a la inteligencia militar rusa de un ataque frustrado contra una empresa armamentística."
-    },
-    {
-     "titular": "La UE intercepta un petrolero “sospechoso” de ser de la flota rusa fantasma en el Mediterráneo",
-     "url": "https://www.lavanguardia.com/internacional/20261115/11684826/ue-intercepta-petrolero-sospechoso-flota-rusa-fantasma-mediterraneo.html",
-     "seccion": "Internacional",
-     "resumen": "La UE intercepta un petrolero sospechoso de pertenecer a la flota rusa fantasma en el Mediterráneo."
-    },
-    {
-     "titular": "Donald Trump culpa a Biden y al Congreso del caos aéreo",
-     "url": "https://www.lavanguardia.com/internacional/20261115/11684888/donald-trump-culpa-biden-congreso-caos-aereo.html",
-     "seccion": "Internacional",
-     "resumen": "Trump culpa a Biden y al Congreso del caos aéreo tras el cierre total del espacio aéreo estadounidense."
-    },
-    {
-     "titular": "Sanna Marin: “Europa no puede ser ingenua, debe prepararse ante Rusia”",
-     "url": "https://www.lavanguardia.com/internacional/20261115/11684115/europa-ingenua-debe-prepararse-rusia.html",
-     "seccion": "Internacional",
-     "resumen": "Sanna Marin pide a Europa prepararse ante Rusia sin depender de Estados Unidos."
+     "resumen": "Argüello propone que los obispos se posicionen sobre el 29-N, rompiendo con la neutralidad de sus antecesores."
     }
    ]
   }
