@@ -1,0 +1,497 @@
+{
+ "fecha": "2026-11-17",
+ "franja": "mañana",
+ "generada": "2026-11-17T01:32+01:00",
+ "con_ia": true,
+ "resumen_dia": "El Gobierno aprobará este martes la subida del 4,5% para los funcionarios en 2027 y del 5,3% del SMI, según anuncian varios diarios. En plena campaña para las generales del 29-N, Sánchez recibe a Lula en Madrid, mientras Abascal y Feijóo centran sus actos en migración y en el voto del exilio vasco. En el terreno internacional destaca el acuerdo de cinco países europeos para crear un centro de deportación en Ruanda y el escándalo de Jensen Huang en Nvidia.",
+ "temas_comunes": [
+  {
+   "titulo": "Subida salarial de funcionarios y SMI",
+   "resumen": "El Consejo de Ministros aprobará este martes un incremento del 4,5% para los empleados públicos en 2027, y El Mundo y ABC añaden la subida del 5,3% del salario mínimo. La medida se enmarca en un pacto plurianual.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya el 4,5% para funcionarios como parte de un pacto plurianual anunciado por Sánchez.",
+     "noticias": [
+      {
+       "titular": "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027",
+       "url": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-45-de-los-salarios-de-los-funcionarios-para-2027.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Incluye el SMI y añade que la subida irá acompañada de medidas fiscales para que no tribute.",
+     "noticias": [
+      {
+       "titular": "El Consejo de Ministros aprobará este martes la subida del 5,3% del SMI y del 4,5% del salario de los funcionarios",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afafd7d21efa00b548b45bd.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la decisión del Ejecutivo sobre SMI y funcionarios dentro de su cobertura en directo de la campaña.",
+     "noticias": [
+      {
+       "titular": "Pedro Sánchez decretará este martes la subida del SMI y un aumento a los funcionarios",
+       "url": "https://www.abc.es/espana/campana-elecciones-generales-espana-29n-directo-sanchez-feijoo-abascal-20261113162908-di.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Centra la noticia en el aumento del 4,5% para cinco millones de trabajadores públicos en 2027.",
+     "noticias": [
+      {
+       "titular": "El Gobierno aprobará mañana la subida de sueldo de los funcionarios para 2027",
+       "url": "https://www.lavanguardia.com/economia/20261116/11685911/gobierno-aprobara-manana-subida-sueldo-funcionarios-2027.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Centro de retorno de migrantes en Ruanda",
+   "resumen": "Cinco países europeos (Alemania, Dinamarca, Países Bajos, Grecia y Austria) impulsan un centro en Ruanda para expulsar migrantes desde 2027, con el visto bueno de Bruselas.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en el visto bueno de Bruselas y en la aceleración de expulsiones a partir de 2027.",
+     "noticias": [
+      {
+       "titular": "Cinco países europeos crearán en Ruanda el primer centro de deportación fuera de la UE",
+       "url": "https://elpais.com/internacional/2026-11-16/cinco-paises-europeos-crearan-en-ruanda-el-primer-centro-de-deportacion-fuera-de-la-ue.html",
+       "seccion": "Unión Europea"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la impulsión de Merz y Frederiksen y que los deportados podrán integrarse en la sociedad ruandesa.",
+     "noticias": [
+      {
+       "titular": "El primer \"centro de retorno\" para inmigrantes expulsados de la UE estará en Ruanda: impulsado por Merz y Frederiksen y acogido con \"satisfacción\" en Bruselas",
+       "url": "https://www.elmundo.es/internacional/2026/11/16/6afb149de85ece11058b4575.html",
+       "seccion": "Artículos Daniel Viaña"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Describe el proyecto piloto para trasladar a migrantes con asilo denegado.",
+     "noticias": [
+      {
+       "titular": "Cinco países crean en Ruanda el primer centro para deportar migrantes fuera de la UE",
+       "url": "https://www.lavanguardia.com/internacional/20261116/11685591/cinco-paises-crean-ruanda-primer-centro-deportar-migrantes-fuera-ue.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Sánchez y Lula en Madrid",
+   "resumen": "Lula da Silva se reúne con Sánchez en Madrid y ambos defienden las instituciones democráticas frente a la ultraderecha en plena campaña electoral.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge el respaldo de Lula a Sánchez y el vídeo conjunto de apoyo.",
+     "noticias": [
+      {
+       "titular": "Lula da en Madrid un respaldo político a Sánchez: “Es muy importante que tú ganes las elecciones en España”",
+       "url": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Dentro del ‘Ejército de Lula’: la estrategia en redes del presidente brasileño que quiere copiar el PSOE",
+       "url": "https://elpais.com/espana/2026-11-16/dentro-del-ejercito-de-lula-la-estrategia-en-redes-del-presidente-brasileno-que-quiere-copiar-el-psoe.html",
+       "seccion": "Lula da Silva"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya la sintonía política y la referencia a la amenaza ultraderechista.",
+     "noticias": [
+      {
+       "titular": "Sánchez y Lula piden defender las instituciones democráticas ante la “amenaza ultraderechista”",
+       "url": "https://www.lavanguardia.com/politica/20261116/11685403/sanchez-exhibe-sintonia-politica-lula-visita-moncloa-plena-campana-electoral.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Migración en Canarias y discurso de Vox",
+   "resumen": "Abascal centra su gira canaria en la llegada de cayucos y plantea militarizar las fronteras, mientras crecen las llegadas a las costas de Canarias y Ceuta.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la expresión de Abascal sobre 'invasión planificada' y su propuesta de controles antidoping a Sánchez.",
+     "noticias": [
+      {
+       "titular": "Abascal califica en Canarias de “invasión planificada” la llegada de cayucos",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/abascal-califica-en-canarias-de-invasion-planificada-la-llega-de-cayucos.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Cita su discurso sobre que 'aquí no caben' y su rechazo a acoger a quienes llegan a Canarias.",
+     "noticias": [
+      {
+       "titular": "Abascal aterriza en Canarias en plena oleada migratoria y entona su discurso contra la \"invasión\": \"Aquí no caben, es nuestra tierra\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb5a78e9cf4a3c4b8b4595.html",
+       "seccion": "Santiago Abascal Conde"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca la propuesta de militarizar fronteras y el test antidoping pedido a Sánchez.",
+     "noticias": [
+      {
+       "titular": "Vox apuesta por militarizar las fronteras en el arranque de la gira canaria de Abascal",
+       "url": "https://www.lavanguardia.com/politica/20261116/11685906/vox-propone-militarizar-fronteras-arranque-gira-canaria-abascal.html",
+       "seccion": "Política"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Describe el efecto llamada que vuelve a colapsar las costas españolas, con vídeos que circulan entre migrantes.",
+     "noticias": [
+      {
+       "titular": "Ceuta, Canarias... El efecto llamada que vuelve a colapsar las costas españolas",
+       "url": "https://www.abc.es/espana/ceuta-canarias-efecto-llamada-vuelva-colapsar-costas-20261116132639-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Ley de nietos para el exilio vasco",
+   "resumen": "El PP propone una ley de nietos para que los exiliados por ETA puedan votar en elecciones autonómicas del País Vasco y Navarra.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Enmarca la propuesta en el mitin de Feijóo en Lleida y su discurso sobre inmigración.",
+     "noticias": [
+      {
+       "titular": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca el número de afectados, decenas de miles, y la visita de Feijóo al País Vasco.",
+     "noticias": [
+      {
+       "titular": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html",
+       "seccion": "PP"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge las palabras de Feijóo en Pamplona sobre la deuda con los españoles que ETA echó de su tierra.",
+     "noticias": [
+      {
+       "titular": "Feijóo: «Quiero saldar una deuda con los españoles a los que ETA no doblegó, pero echó de su tierra»",
+       "url": "https://www.abc.es/espana/feijoo-quiero-saldar-deuda-espanoles-eta-doblego-20261116202421-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "«Que vote el exilio vasco»",
+       "url": "https://www.abc.es/espana/vote-exilio-vasco-20261116204221-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Presenta la norma como reparación para los 'expulsados' por ETA en País Vasco y Navarra.",
+     "noticias": [
+      {
+       "titular": "Feijóo propondrá una ley de nietos vasca para reparar a los “expulsados” por ETA",
+       "url": "https://www.lavanguardia.com/politica/20261116/11685266/feijoo-propondra-pamplona-ley-nietos-vasca.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Nvidia y Jensen Huang",
+   "resumen": "Trump respalda que Jensen Huang vuelva al mando de Nvidia tras su destitución, en medio de un escándalo por una relación con una espía china.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la campaña de los aliados de Huang para que retome el cargo de consejero delegado.",
+     "noticias": [
+      {
+       "titular": "La campaña para que Jensen Huang vuelva a ser consejero delegado de Nvidia",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afb3008e4d4d810428b4575.html",
+       "seccion": "WSJ"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca el respaldo de Trump pese a la posible brecha de seguridad y las nuevas restricciones de chips a China.",
+     "noticias": [
+      {
+       "titular": "Trump avala que Huang vuelva al mando de Nvidia, pese a su relación con una espía china",
+       "url": "https://www.lavanguardia.com/economia/20261116/11685735/trump-avala-huang-vuelva-mando-nvidia-pese-relacion-espia-china.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elpais",
+     "enfoque": "Lo enmarca como un caso de fraude, contrabando y corrupción en la opinión sobre el 'Jensengate'.",
+     "noticias": [
+      {
+       "titular": "El ‘Jensengate’ no es una historia de espías",
+       "url": "https://elpais.com/opinion/2026-11-16/el-jensengate-no-es-una-historia-de-espias.html",
+       "seccion": "Opinión"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña electoral, con Lula en Madrid, las propuestas de Frente Amplio y los mensajes de Vox y el PP sobre migración. Incluye también noticias económicas y de sociedad como el Nolotil o los Grammy de Rosalía.",
+   "noticias": [
+    {
+     "titular": "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027",
+     "url": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-45-de-los-salarios-de-los-funcionarios-para-2027.html",
+     "seccion": "Economía",
+     "resumen": "El Gobierno aprobará el martes la subida salarial del 4,5% para funcionarios en 2027, dentro de un pacto plurianual."
+    },
+    {
+     "titular": "Lula da en Madrid un respaldo político a Sánchez: “Es muy importante que tú ganes las elecciones en España”",
+     "url": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
+     "seccion": "España",
+     "resumen": "Lula da Silva respalda a Sánchez en Madrid y ambos grabaron un vídeo de apoyo frente a la ultraderecha."
+    },
+    {
+     "titular": "Abascal califica en Canarias de “invasión planificada” la llegada de cayucos",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/abascal-califica-en-canarias-de-invasion-planificada-la-llega-de-cayucos.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Abascal habla de invasión por la llegada de cayucos a Canarias y sugiere controles antidoping a Sánchez."
+    },
+    {
+     "titular": "Cinco países europeos crearán en Ruanda el primer centro de deportación fuera de la UE",
+     "url": "https://elpais.com/internacional/2026-11-16/cinco-paises-europeos-crearan-en-ruanda-el-primer-centro-de-deportacion-fuera-de-la-ue.html",
+     "seccion": "Unión Europea",
+     "resumen": "Cinco países europeos crearán en Ruanda un centro de deportación fuera de la UE con visto bueno de Bruselas."
+    },
+    {
+     "titular": "El CNI concluye que “no se han obtenido evidencias” que vinculen la entrada masiva de Ceuta con una acción del Estado marroquí",
+     "url": "https://elpais.com/espana/2026-11-16/el-cni-concluye-que-no-se-han-obtenido-evidencias-que-vinculen-la-entrada-masiva-de-ceuta-con-una-accion-del-estado-marroqui.html",
+     "seccion": "España",
+     "resumen": "El CNI afirma que no hay evidencias que vinculen la entrada masiva en Ceuta con una acción de Marruecos."
+    },
+    {
+     "titular": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El PP plantea una ley de nietos para que exiliados vascos por ETA puedan votar en autonómicas."
+    },
+    {
+     "titular": "Un estudio destapa nueve muertes por el uso de Nolotil en dos años en Alicante, siete de ellas de pacientes británicos",
+     "url": "https://elpais.com/salud-y-bienestar/2026-11-16/un-estudio-destapa-nueve-muertes-por-el-uso-de-nolotil-en-dos-anos-en-alicante-siete-de-ellas-de-pacientes-britanicos.html",
+     "seccion": "Medicamentos",
+     "resumen": "Un estudio atribuye nueve muertes al Nolotil en Alicante, siete de pacientes británicos."
+    },
+    {
+     "titular": "Frente Amplio busca desmarcarse del PSOE con un programa que blinda la vivienda y estimula la redistribución de la riqueza",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-busca-desmarcarse-del-psoe-con-un-programa-que-blinda-la-vivienda-y-estimula-la-redistribucion-de-la-riqueza.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Frente Amplio presenta un programa sobre vivienda y redistribución y reta a Sánchez a aprobar una prestación por crianza."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Destaca encuestas electorales, la subida del SMI y los funcionarios y el debate sobre inmigración. Incluye también la investigación sobre la gestión de la entrada en Ceuta.",
+   "noticias": [
+    {
+     "titular": "El PSOE hunde todavía más al Frente Amplio y se coloca a menos de cinco puntos del PP",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb2ef1fc6c834a4a8b4589.html",
+     "seccion": "PP",
+     "resumen": "Un sondeo sitúa al PSOE a menos de cinco puntos del PP y con posibilidades de superar los 110 escaños."
+    },
+    {
+     "titular": "El Consejo de Ministros aprobará este martes la subida del 5,3% del SMI y del 4,5% del salario de los funcionarios",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afafd7d21efa00b548b45bd.html",
+     "seccion": "",
+     "resumen": "El Consejo de Ministros aprobará el martes la subida del SMI del 5,3% y del 4,5% para funcionarios, con medidas fiscales asociadas."
+    },
+    {
+     "titular": "La Guardia Civil cuestiona la \"alerta temprana\" de los servicios de inteligencia: \"Lo que se recibió fue una información parcial insuficiente para dimensionar la amenaza\"",
+     "url": "https://www.elmundo.es/espana/2026/11/16/6afaee19e9cf4a93078b4577.html",
+     "seccion": "Ceuta",
+     "resumen": "La Guardia Civil cuestiona la alerta temprana de inteligencia previa a la entrada masiva en Ceuta según su informe judicial."
+    },
+    {
+     "titular": "El primer \"centro de retorno\" para inmigrantes expulsados de la UE estará en Ruanda: impulsado por Merz y Frederiksen y acogido con \"satisfacción\" en Bruselas",
+     "url": "https://www.elmundo.es/internacional/2026/11/16/6afb149de85ece11058b4575.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "Merz y Frederiksen impulsan un centro de retorno en Ruanda para inmigrantes expulsados de la UE, con inicio previsto en 2027."
+    },
+    {
+     "titular": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html",
+     "seccion": "PP",
+     "resumen": "Feijóo anunciará una ley de nietos para exiliados por ETA que podrá afectar a decenas de miles de personas."
+    },
+    {
+     "titular": "Abascal aterriza en Canarias en plena oleada migratoria y entona su discurso contra la \"invasión\": \"Aquí no caben, es nuestra tierra\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb5a78e9cf4a3c4b8b4595.html",
+     "seccion": "Santiago Abascal Conde",
+     "resumen": "Abascal defiende en Canarias cerrar las puertas a quienes llegan a sus costas en plena oleada migratoria."
+    },
+    {
+     "titular": "La campaña para que Jensen Huang vuelva a ser consejero delegado de Nvidia",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afb3008e4d4d810428b4575.html",
+     "seccion": "WSJ",
+     "resumen": "Los aliados de Jensen Huang impulsan su vuelta al frente de Nvidia tras su destitución."
+    },
+    {
+     "titular": "Un millón y medio de personas despiden al Papa 'peruano' en un accidentado adiós: \"Estoy con ustedes todos los días hasta el fin de los tiempos\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/16/6afb5046e9cf4a26318b4589.html",
+     "seccion": "Papa León XIV",
+     "resumen": "León XIV despide Perú con multitudinario acto, en el que un rosario le golpeó en la cara."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Sigue la campaña en formato directo y da peso a sucesos y justicia, como el caso Andic. Incluye también noticias internacionales como los ataques rusos sobre Kiev.",
+   "noticias": [
+    {
+     "titular": "Pedro Sánchez decretará este martes la subida del SMI y un aumento a los funcionarios",
+     "url": "https://www.abc.es/espana/campana-elecciones-generales-espana-29n-directo-sanchez-feijoo-abascal-20261113162908-di.html",
+     "seccion": "",
+     "resumen": "Sánchez decretará el martes la subida del SMI y de los funcionarios, en el marco de la cobertura diaria de la campaña."
+    },
+    {
+     "titular": "El PP mantiene su mayoría absoluta en el Senado, pero no llega a los tres quintos con Vox",
+     "url": "https://www.abc.es/espana/pp-mantiene-mayoria-absoluta-senado-llega-tres-20261116010020-nt.html",
+     "seccion": "",
+     "resumen": "El PP mantendría la mayoría absoluta en el Senado, aunque sin alcanzar los tres quintos con Vox."
+    },
+    {
+     "titular": "Rusia ataca con misiles dos de los puentes más importantes de Kiev",
+     "url": "https://www.abc.es/internacional/rusia-ataca-misiles-dos-puentes-importantes-kiev-20261116234917-nt.html",
+     "seccion": "",
+     "resumen": "Rusia lanza misiles contra dos puentes de Kiev según el alcalde Klitschko."
+    },
+    {
+     "titular": "Isak Andic nunca consultó al notario sobre desheredar a Jonathan",
+     "url": "https://www.abc.es/espana/cataluna/isak-andic-nunca-consulto-notario-sobre-desheredar-20261116142625-nt.html",
+     "seccion": "",
+     "resumen": "El notario de Isak Andic declara que este nunca le planteó desheredar a su hijo Jonathan."
+    },
+    {
+     "titular": "Feijóo: «Quiero saldar una deuda con los españoles a los que ETA no doblegó, pero echó de su tierra»",
+     "url": "https://www.abc.es/espana/feijoo-quiero-saldar-deuda-espanoles-eta-doblego-20261116202421-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo, en Pamplona, reclama saldar una deuda con los españoles expulsados por ETA y confirma su propuesta."
+    },
+    {
+     "titular": "El escándalo del 'Raamgate' que pone contra las cuerdas a Netanyahu",
+     "url": "https://www.abc.es/internacional/escandalo-raamgate-pone-cuerdas-netanyahu-20261116184823-nt.html",
+     "seccion": "",
+     "resumen": "Netanyahu queda acorralado por indicios de implicación en la detención de activistas árabes antes de las elecciones."
+    },
+    {
+     "titular": "Ceuta, Canarias... El efecto llamada que vuelve a colapsar las costas españolas",
+     "url": "https://www.abc.es/espana/ceuta-canarias-efecto-llamada-vuelva-colapsar-costas-20261116132639-nt.html",
+     "seccion": "",
+     "resumen": "Se multiplican las llegadas de cayucos a Canarias y Ceuta, impulsadas según el texto por la difusión de imágenes entre migrantes."
+    },
+    {
+     "titular": "United Airlines sufre una caída del sistema informático que impide el despegue de sus aviones",
+     "url": "https://www.abc.es/internacional/united-airlines-sufre-caida-sistema-obliga-paralizar-20261116232934-nt.html",
+     "seccion": "",
+     "resumen": "United Airlines sufre una caída de su sistema informático que impidió el despegue de sus aviones, ya resuelta."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza la política catalana y estatal, con la campaña de ERC, Junts y la sintonía entre Sánchez y Lula. Mantiene también el foco en el caso Andic y en el nuevo James Bond.",
+   "noticias": [
+    {
+     "titular": "El Gobierno aprobará mañana la subida de sueldo de los funcionarios para 2027",
+     "url": "https://www.lavanguardia.com/economia/20261116/11685911/gobierno-aprobara-manana-subida-sueldo-funcionarios-2027.html",
+     "seccion": "Economía",
+     "resumen": "El Gobierno aprobará mañana la subida del 4,5% para unos cinco millones de empleados públicos en 2027."
+    },
+    {
+     "titular": "Sánchez y Lula piden defender las instituciones democráticas ante la “amenaza ultraderechista”",
+     "url": "https://www.lavanguardia.com/politica/20261116/11685403/sanchez-exhibe-sintonia-politica-lula-visita-moncloa-plena-campana-electoral.html",
+     "seccion": "Política",
+     "resumen": "Sánchez y Lula defienden las instituciones democráticas frente a la amenaza ultraderechista en sus encuentros del lunes."
+    },
+    {
+     "titular": "Cinco países crean en Ruanda el primer centro para deportar migrantes fuera de la UE",
+     "url": "https://www.lavanguardia.com/internacional/20261116/11685591/cinco-paises-crean-ruanda-primer-centro-deportar-migrantes-fuera-ue.html",
+     "seccion": "Internacional",
+     "resumen": "Cinco países europeos acuerdan con Ruanda un proyecto piloto para trasladar a migrantes con asilo denegado."
+    },
+    {
+     "titular": "Trump avala que Huang vuelva al mando de Nvidia, pese a su relación con una espía china",
+     "url": "https://www.lavanguardia.com/economia/20261116/11685735/trump-avala-huang-vuelva-mando-nvidia-pese-relacion-espia-china.html",
+     "seccion": "Economía",
+     "resumen": "Trump respalda el regreso de Huang a Nvidia pese a la relación con una espía china, mientras se endurecen restricciones de chips."
+    },
+    {
+     "titular": "Feijóo propondrá una ley de nietos vasca para reparar a los “expulsados” por ETA",
+     "url": "https://www.lavanguardia.com/politica/20261116/11685266/feijoo-propondra-pamplona-ley-nietos-vasca.html",
+     "seccion": "Política",
+     "resumen": "Feijóo propondrá una ley de nietos vasca para reparar a los expulsados por ETA en País Vasco y Navarra."
+    },
+    {
+     "titular": "Vox apuesta por militarizar las fronteras en el arranque de la gira canaria de Abascal",
+     "url": "https://www.lavanguardia.com/politica/20261116/11685906/vox-propone-militarizar-fronteras-arranque-gira-canaria-abascal.html",
+     "seccion": "Política",
+     "resumen": "Vox plantea militarizar las fronteras en la gira canaria de Abascal y pide a Sánchez un test antidoping."
+    },
+    {
+     "titular": "Barcelona rescata plaza Catalunya pero la movilización por la vivienda sigue activa",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261116/11685873/barcelona-rescata-plaza-catalunya-pero-movilizacion-vivienda-sigue-activa.html",
+     "seccion": "Barcelona",
+     "resumen": "Barcelona recupera la plaza de Catalunya tras un operativo policial mientras continúa la movilización por la vivienda."
+    },
+    {
+     "titular": "El notario de los Andic asegura que Isak nunca se planteó desheredar a su hijo",
+     "url": "https://www.lavanguardia.com/sucesos/20261116/11685601/notario-andic-asegura-isak-nunca-planteo-desheredar-hijo.html",
+     "seccion": "Sucesos",
+     "resumen": "El notario de los Andic declara que Isak nunca planteó desheredar a su hijo Jonathan."
+    }
+   ]
+  }
+ ]
+}
