@@ -1,54 +1,59 @@
 {
  "fecha": "2026-11-17",
- "franja": "mañana",
- "generada": "2026-11-17T01:32+01:00",
+ "franja": "tarde",
+ "generada": "2026-11-17T15:59+01:00",
  "con_ia": true,
- "resumen_dia": "El Gobierno aprobará este martes la subida del 4,5% para los funcionarios en 2027 y del 5,3% del SMI, según anuncian varios diarios. En plena campaña para las generales del 29-N, Sánchez recibe a Lula en Madrid, mientras Abascal y Feijóo centran sus actos en migración y en el voto del exilio vasco. En el terreno internacional destaca el acuerdo de cinco países europeos para crear un centro de deportación en Ruanda y el escándalo de Jensen Huang en Nvidia.",
+ "resumen_dia": "El Gobierno aprobó la subida del salario mínimo a 1.286 euros y del sueldo de los funcionarios, medidas que los cuatro diarios recogen en plena campaña para el 29N. La huelga de maquinistas dejó casi paralizados Cercanías Madrid y Rodalies, con servicios mínimos incumplidos. En el plano judicial, el caso Plus Ultra (Zapatero) y la cifra de 113.326 nacionalizados afectados por la suspensión de voto del Supremo ocupan espacio destacado. En campaña, Feijóo visitó Eibar entre gritos y la Comisión Europea revisó al alza el crecimiento de España.",
  "temas_comunes": [
   {
-   "titulo": "Subida salarial de funcionarios y SMI",
-   "resumen": "El Consejo de Ministros aprobará este martes un incremento del 4,5% para los empleados públicos en 2027, y El Mundo y ABC añaden la subida del 5,3% del salario mínimo. La medida se enmarca en un pacto plurianual.",
+   "titulo": "Subida del salario mínimo y de funcionarios",
+   "resumen": "El Consejo de Ministros aprobó subir el SMI a 1.286 euros (5,3%) y el sueldo de los funcionarios un 4,5%, con medidas de transparencia salarial y exención en el IRPF para el suelo retributivo.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Subraya el 4,5% para funcionarios como parte de un pacto plurianual anunciado por Sánchez.",
+     "enfoque": "Destaca el paquete completo, incluido el refuerzo de la transparencia salarial en las empresas.",
      "noticias": [
       {
-       "titular": "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027",
-       "url": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-45-de-los-salarios-de-los-funcionarios-para-2027.html",
+       "titular": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
+       "url": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
        "seccion": "Economía"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Incluye el SMI y añade que la subida irá acompañada de medidas fiscales para que no tribute.",
+     "enfoque": "Subraya que la medida llega en plena campaña y cuántos trabajadores afecta en cada caso.",
      "noticias": [
       {
-       "titular": "El Consejo de Ministros aprobará este martes la subida del 5,3% del SMI y del 4,5% del salario de los funcionarios",
-       "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afafd7d21efa00b548b45bd.html",
-       "seccion": ""
+       "titular": "El Gobierno lanza en plena campaña electoral la subida del salario mínimo a 1.286 euros y del 4,5% en el sueldo de los funcionarios para más de cinco millones de trabajadores",
+       "url": "https://www.elmundo.es/economia/2026/11/17/6afc2279fc6c83ea548b45a1.html",
+       "seccion": "Artículos Daniela Saltos"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Destaca la decisión del Ejecutivo sobre SMI y funcionarios dentro de su cobertura en directo de la campaña.",
+     "enfoque": "Enfoca la subida como un alivio para unos cinco millones de personas, por encima de la inflación del 4,9%.",
      "noticias": [
       {
-       "titular": "Pedro Sánchez decretará este martes la subida del SMI y un aumento a los funcionarios",
-       "url": "https://www.abc.es/espana/campana-elecciones-generales-espana-29n-directo-sanchez-feijoo-abascal-20261113162908-di.html",
+       "titular": "Subida de sueldo para cinco millones de trabajadores: las medidas aprobadas por el Gobierno",
+       "url": "https://www.abc.es/economia/cuentas-corrientes/subida-sueldo-cinco-millones-trabajadores-espana-medidas-20261117125039-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Centra la noticia en el aumento del 4,5% para cinco millones de trabajadores públicos en 2027.",
+     "enfoque": "Recoge la exención fiscal del SMI y la cita de Yolanda Díaz sobre el secreto salarial.",
      "noticias": [
       {
-       "titular": "El Gobierno aprobará mañana la subida de sueldo de los funcionarios para 2027",
-       "url": "https://www.lavanguardia.com/economia/20261116/11685911/gobierno-aprobara-manana-subida-sueldo-funcionarios-2027.html",
+       "titular": "El sueldo de los funcionarios subirá un 5% en el 2027",
+       "url": "https://www.lavanguardia.com/economia/20261117/11686401/sueldo-funcionarios-subira-5-2027.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "El Gobierno ha aprobado la subida del SMI hasta los 1.286 euros y seguirá sin tributar",
+       "url": "https://www.lavanguardia.com/economia/20261117/11686354/gobierno-aprobado-subida-smi-1-286-euros-seguira-tributar.html",
        "seccion": "Economía"
       }
      ]
@@ -56,216 +61,178 @@
    ]
   },
   {
-   "titulo": "Centro de retorno de migrantes en Ruanda",
-   "resumen": "Cinco países europeos (Alemania, Dinamarca, Países Bajos, Grecia y Austria) impulsan un centro en Ruanda para expulsar migrantes desde 2027, con el visto bueno de Bruselas.",
+   "titulo": "Huelga de maquinistas en Cercanías y Rodalies",
+   "resumen": "La huelga ferroviaria en favor de más seguridad dejó paralizados Cercanías Madrid y gran parte de Rodalies, con servicios mínimos incumplidos y posibles despidos anunciados por la Generalitat.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Pone el foco en el visto bueno de Bruselas y en la aceleración de expulsiones a partir de 2027.",
+     "enfoque": "Cuantifica el impacto en Cercanías, Rodalies y alta velocidad.",
      "noticias": [
       {
-       "titular": "Cinco países europeos crearán en Ruanda el primer centro de deportación fuera de la UE",
-       "url": "https://elpais.com/internacional/2026-11-16/cinco-paises-europeos-crearan-en-ruanda-el-primer-centro-de-deportacion-fuera-de-la-ue.html",
-       "seccion": "Unión Europea"
+       "titular": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
+       "url": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
+       "seccion": "Economía"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Destaca la impulsión de Merz y Frederiksen y que los deportados podrán integrarse en la sociedad ruandesa.",
+     "enfoque": "Pone el foco en la supresión del 97,6% de trenes en Madrid y en la advertencia de despidos.",
      "noticias": [
       {
-       "titular": "El primer \"centro de retorno\" para inmigrantes expulsados de la UE estará en Ruanda: impulsado por Merz y Frederiksen y acogido con \"satisfacción\" en Bruselas",
-       "url": "https://www.elmundo.es/internacional/2026/11/16/6afb149de85ece11058b4575.html",
-       "seccion": "Artículos Daniel Viaña"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Describe el proyecto piloto para trasladar a migrantes con asilo denegado.",
-     "noticias": [
-      {
-       "titular": "Cinco países crean en Ruanda el primer centro para deportar migrantes fuera de la UE",
-       "url": "https://www.lavanguardia.com/internacional/20261116/11685591/cinco-paises-crean-ruanda-primer-centro-deportar-migrantes-fuera-ue.html",
-       "seccion": "Internacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Sánchez y Lula en Madrid",
-   "resumen": "Lula da Silva se reúne con Sánchez en Madrid y ambos defienden las instituciones democráticas frente a la ultraderecha en plena campaña electoral.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge el respaldo de Lula a Sánchez y el vídeo conjunto de apoyo.",
-     "noticias": [
-      {
-       "titular": "Lula da en Madrid un respaldo político a Sánchez: “Es muy importante que tú ganes las elecciones en España”",
-       "url": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "Dentro del ‘Ejército de Lula’: la estrategia en redes del presidente brasileño que quiere copiar el PSOE",
-       "url": "https://elpais.com/espana/2026-11-16/dentro-del-ejercito-de-lula-la-estrategia-en-redes-del-presidente-brasileno-que-quiere-copiar-el-psoe.html",
-       "seccion": "Lula da Silva"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Subraya la sintonía política y la referencia a la amenaza ultraderechista.",
-     "noticias": [
-      {
-       "titular": "Sánchez y Lula piden defender las instituciones democráticas ante la “amenaza ultraderechista”",
-       "url": "https://www.lavanguardia.com/politica/20261116/11685403/sanchez-exhibe-sintonia-politica-lula-visita-moncloa-plena-campana-electoral.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Migración en Canarias y discurso de Vox",
-   "resumen": "Abascal centra su gira canaria en la llegada de cayucos y plantea militarizar las fronteras, mientras crecen las llegadas a las costas de Canarias y Ceuta.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge la expresión de Abascal sobre 'invasión planificada' y su propuesta de controles antidoping a Sánchez.",
-     "noticias": [
-      {
-       "titular": "Abascal califica en Canarias de “invasión planificada” la llegada de cayucos",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/abascal-califica-en-canarias-de-invasion-planificada-la-llega-de-cayucos.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Cita su discurso sobre que 'aquí no caben' y su rechazo a acoger a quienes llegan a Canarias.",
-     "noticias": [
-      {
-       "titular": "Abascal aterriza en Canarias en plena oleada migratoria y entona su discurso contra la \"invasión\": \"Aquí no caben, es nuestra tierra\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb5a78e9cf4a3c4b8b4595.html",
-       "seccion": "Santiago Abascal Conde"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Destaca la propuesta de militarizar fronteras y el test antidoping pedido a Sánchez.",
-     "noticias": [
-      {
-       "titular": "Vox apuesta por militarizar las fronteras en el arranque de la gira canaria de Abascal",
-       "url": "https://www.lavanguardia.com/politica/20261116/11685906/vox-propone-militarizar-fronteras-arranque-gira-canaria-abascal.html",
-       "seccion": "Política"
+       "titular": "Caos en Cercanías y Rodalies por el incumplimiento de los servicios mínimos: la Generalitat advierte de posibles despidos",
+       "url": "https://www.elmundo.es/economia/2026/11/17/6afbf4c2e9cf4a547f8b4577.html",
+       "seccion": "Renfe"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Describe el efecto llamada que vuelve a colapsar las costas españolas, con vídeos que circulan entre migrantes.",
+     "enfoque": "Describe el colapso de Madrid y Barcelona tras incumplirse los servicios mínimos.",
      "noticias": [
       {
-       "titular": "Ceuta, Canarias... El efecto llamada que vuelve a colapsar las costas españolas",
-       "url": "https://www.abc.es/espana/ceuta-canarias-efecto-llamada-vuelva-colapsar-costas-20261116132639-nt.html",
+       "titular": "La huelga de maquinistas colapsa Madrid y Barcelona tras no cumplirse los servicios mínimos previstos",
+       "url": "https://www.abc.es/economia/huelga-maquinistas-deja-cercanias-madrid-servicio-rodalies-20261117074616-nt.html",
        "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Se centra en el incumplimiento de servicios mínimos por parte de los maquinistas y en la disputa sobre la notificación electrónica.",
+     "noticias": [
+      {
+       "titular": "Los maquinistas de Rodalies incumplen los servicios mínimos y el Govern avisa de posibles despidos",
+       "url": "https://www.lavanguardia.com/local/catalunya/20261117/11685350/trafico-carreteras-cortes-trenes-rodalies-accesos-barcelona-cataluna-martes-17-noviembre-en-directo.html",
+       "seccion": "Catalunya"
+      },
+      {
+       "titular": "Rodalies defiende que puede notificar los servicios mínimos a los maquinistas por vía electrónica",
+       "url": "https://www.lavanguardia.com/local/catalunya/20261117/11686482/rodalies-defiende-notificar-servicios-minimos-maquinistas-electronica.html",
+       "seccion": "Catalunya"
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Ley de nietos para el exilio vasco",
-   "resumen": "El PP propone una ley de nietos para que los exiliados por ETA puedan votar en elecciones autonómicas del País Vasco y Navarra.",
+   "titulo": "Accidente de Adamuz y material del balasto",
+   "resumen": "Un extrabajador de una cantera denuncia ante la jueza el uso de balasto defectuoso en las obras previas al siniestro ferroviario de Adamuz; la instrucción espera a los peritos.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Enmarca la propuesta en el mitin de Feijóo en Lleida y su discurso sobre inmigración.",
+     "enfoque": "Recoge el testimonio como pieza separada pendiente del informe pericial.",
      "noticias": [
       {
-       "titular": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+       "titular": "Un extrabajador de la cantera del balasto de Adamuz da pistas a la jueza sobre material “defectuoso” en el punto del siniestro",
+       "url": "https://elpais.com/espana/2026-11-17/un-extrabajador-de-la-cantera-del-balasto-de-adamuz-da-pistas-a-la-jueza-sobre-material-defectuoso-en-el-punto-del-siniestro.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca que el testigo pide protección judicial y describe el balasto como de mala calidad.",
+     "noticias": [
+      {
+       "titular": "Un ex empleado de una cantera denuncia a la juez que Adif usó material defectuoso en las obras previas al choque de trenes de Adamuz",
+       "url": "https://www.elmundo.es/andalucia/2026/11/17/6afbed45fdddffac5b8b45a2.html",
+       "seccion": "Andalucía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Caso Plus Ultra: joyas de Zapatero",
+   "resumen": "Zapatero pide peritar sus joyas incautadas en el caso Plus Ultra; el juez ya tiene dos tasaciones que sitúan el valor en torno al millón de euros.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya la petición de Zapatero de designar sus propios peritos.",
+     "noticias": [
+      {
+       "titular": "Zapatero pide acceso a sus joyas para que sus peritos elaboren una nueva tasación",
+       "url": "https://elpais.com/espana/2026-11-17/zapatero-pide-acceso-a-sus-joyas-para-que-sus-peritos-elaboren-una-nueva-tasacion.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Pone el foco en dos joyeros valencianos contratados por el expresidente y en la cifra de un millón.",
+     "noticias": [
+      {
+       "titular": "Zapatero ficha a dos joyeros de Valencia que tasarán a la baja las joyas que le intervino el juez",
+       "url": "https://www.elmundo.es/espana/2026/11/17/6afc2c7921efa0c5248b45ab.html",
+       "seccion": "José Luis Rodríguez Zapatero"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Suspensión de voto de nacionalizados por la ley de nietos",
+   "resumen": "La Abogacía del Estado fija en 113.326 las personas afectadas por la medida cautelar del Supremo sobre el voto de nacionalizados por la ley de nietos.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Explica la reducción de la cifra tras excluir menores, inscritos duplicados y censados en España.",
+     "noticias": [
+      {
+       "titular": "La Abogacía cifra en 113.326 los nacionalizados por la ‘ley de nietos’ afectados por la suspensión de voto del Supremo",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/la-abogacia-cifra-en-113326-los-nacionalizados-por-la-ley-de-nietos-afectados-por-la-suspension-de-voto-del-supremo.html",
        "seccion": "Elecciones Generales"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Destaca el número de afectados, decenas de miles, y la visita de Feijóo al País Vasco.",
+     "enfoque": "Destaca la comunicación formal de la cifra final al Alto Tribunal.",
      "noticias": [
       {
-       "titular": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html",
+       "titular": "La suspensión de voto ordenada por el Supremo afectará a 113.326 nacionalizados por la 'ley de nietos'",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc4d74e85ecef8068b45b2.html",
+       "seccion": "Tribunal Supremo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Feijóo en Eibar y tensión política en campaña",
+   "resumen": "Feijóo visitó Eibar con un fuerte dispositivo policial y recibió gritos de un grupo; acusa a Sánchez de no condenar las agresiones.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el dispositivo policial y los gritos de 'fascista' recibidos.",
+     "noticias": [
+      {
+       "titular": "Feijóo, junto a Echeverría, en Eibar: “No nos van a callar, no vamos a dar un paso atrás en Euskadi ni en ningún lugar de España”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/feijoo-junto-a-echeverria-en-eibar-no-nos-van-a-callar-no-vamos-a-dar-un-paso-atras-en-euskadi-ni-en-ningun-lugar-de-espana.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la crítica a Sánchez por no condenar las agresiones y la frase '¡Ni un paso atrás!'.",
+     "noticias": [
+      {
+       "titular": "Feijóo se planta entre gritos e insultos ante los violentos en Guipúzcoa: \"¡Ni un paso atrás!\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc3a88e85ece1a3b8b458b.html",
        "seccion": "PP"
       }
      ]
     },
     {
-     "medio": "abc",
-     "enfoque": "Recoge las palabras de Feijóo en Pamplona sobre la deuda con los españoles que ETA echó de su tierra.",
-     "noticias": [
-      {
-       "titular": "Feijóo: «Quiero saldar una deuda con los españoles a los que ETA no doblegó, pero echó de su tierra»",
-       "url": "https://www.abc.es/espana/feijoo-quiero-saldar-deuda-espanoles-eta-doblego-20261116202421-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "«Que vote el exilio vasco»",
-       "url": "https://www.abc.es/espana/vote-exilio-vasco-20261116204221-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
      "medio": "lavanguardia",
-     "enfoque": "Presenta la norma como reparación para los 'expulsados' por ETA en País Vasco y Navarra.",
+     "enfoque": "Recoge la acusación de Feijóo a Sánchez de justificar la violencia por sus acuerdos con Bildu.",
      "noticias": [
       {
-       "titular": "Feijóo propondrá una ley de nietos vasca para reparar a los “expulsados” por ETA",
-       "url": "https://www.lavanguardia.com/politica/20261116/11685266/feijoo-propondra-pamplona-ley-nietos-vasca.html",
+       "titular": "Feijóo acusa a Sánchez de “justificar” la violencia por “no condenar” la agresión a Echeverría",
+       "url": "https://www.lavanguardia.com/politica/20261117/11686419/feijoo-acusa-sanchez-justificar-violencia-condenar-incidente-violento-vivido-echeverria-gipuzkoa.html",
        "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Nvidia y Jensen Huang",
-   "resumen": "Trump respalda que Jensen Huang vuelva al mando de Nvidia tras su destitución, en medio de un escándalo por una relación con una espía china.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge la campaña de los aliados de Huang para que retome el cargo de consejero delegado.",
-     "noticias": [
-      {
-       "titular": "La campaña para que Jensen Huang vuelva a ser consejero delegado de Nvidia",
-       "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afb3008e4d4d810428b4575.html",
-       "seccion": "WSJ"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Destaca el respaldo de Trump pese a la posible brecha de seguridad y las nuevas restricciones de chips a China.",
-     "noticias": [
-      {
-       "titular": "Trump avala que Huang vuelva al mando de Nvidia, pese a su relación con una espía china",
-       "url": "https://www.lavanguardia.com/economia/20261116/11685735/trump-avala-huang-vuelva-mando-nvidia-pese-relacion-espia-china.html",
-       "seccion": "Economía"
-      }
-     ]
-    },
-    {
-     "medio": "elpais",
-     "enfoque": "Lo enmarca como un caso de fraude, contrabando y corrupción en la opinión sobre el 'Jensengate'.",
-     "noticias": [
-      {
-       "titular": "El ‘Jensengate’ no es una historia de espías",
-       "url": "https://elpais.com/opinion/2026-11-16/el-jensengate-no-es-una-historia-de-espias.html",
-       "seccion": "Opinión"
       }
      ]
     }
@@ -276,220 +243,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña electoral, con Lula en Madrid, las propuestas de Frente Amplio y los mensajes de Vox y el PP sobre migración. Incluye también noticias económicas y de sociedad como el Nolotil o los Grammy de Rosalía.",
+   "resumen": "Prioriza la campaña electoral, con sondeos y episodios de tensión política, junto a la economía laboral y el caso Plus Ultra. Dedica espacio también a temas de sociedad y de cultura y gente.",
    "noticias": [
     {
-     "titular": "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027",
-     "url": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-45-de-los-salarios-de-los-funcionarios-para-2027.html",
+     "titular": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
+     "url": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
      "seccion": "Economía",
-     "resumen": "El Gobierno aprobará el martes la subida salarial del 4,5% para funcionarios en 2027, dentro de un pacto plurianual."
+     "resumen": "El Consejo de Ministros aprueba la subida del SMI y de los funcionarios, junto a medidas para dar más transparencia a los salarios."
     },
     {
-     "titular": "Lula da en Madrid un respaldo político a Sánchez: “Es muy importante que tú ganes las elecciones en España”",
-     "url": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
+     "titular": "La Abogacía cifra en 113.326 los nacionalizados por la ‘ley de nietos’ afectados por la suspensión de voto del Supremo",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/la-abogacia-cifra-en-113326-los-nacionalizados-por-la-ley-de-nietos-afectados-por-la-suspension-de-voto-del-supremo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "La Abogacía del Estado rebaja a 113.326 los nacionalizados afectados por la suspensión de voto, tras descontar menores y duplicados."
+    },
+    {
+     "titular": "Feijóo, junto a Echeverría, en Eibar: “No nos van a callar, no vamos a dar un paso atrás en Euskadi ni en ningún lugar de España”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/feijoo-junto-a-echeverria-en-eibar-no-nos-van-a-callar-no-vamos-a-dar-un-paso-atras-en-euskadi-ni-en-ningun-lugar-de-espana.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo visita Eibar bajo un fuerte dispositivo policial y es recibido con gritos de un grupo de personas."
+    },
+    {
+     "titular": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
+     "url": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
+     "seccion": "Economía",
+     "resumen": "La huelga ferroviaria paraliza Cercanías Madrid y deja gran parte de los servicios en Rodalies suspendidos."
+    },
+    {
+     "titular": "Zapatero pide acceso a sus joyas para que sus peritos elaboren una nueva tasación",
+     "url": "https://elpais.com/espana/2026-11-17/zapatero-pide-acceso-a-sus-joyas-para-que-sus-peritos-elaboren-una-nueva-tasacion.html",
      "seccion": "España",
-     "resumen": "Lula da Silva respalda a Sánchez en Madrid y ambos grabaron un vídeo de apoyo frente a la ultraderecha."
+     "resumen": "Zapatero solicita peritar de nuevo sus joyas incautadas en el caso Plus Ultra con expertos propios."
     },
     {
-     "titular": "Abascal califica en Canarias de “invasión planificada” la llegada de cayucos",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/abascal-califica-en-canarias-de-invasion-planificada-la-llega-de-cayucos.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Abascal habla de invasión por la llegada de cayucos a Canarias y sugiere controles antidoping a Sánchez."
-    },
-    {
-     "titular": "Cinco países europeos crearán en Ruanda el primer centro de deportación fuera de la UE",
-     "url": "https://elpais.com/internacional/2026-11-16/cinco-paises-europeos-crearan-en-ruanda-el-primer-centro-de-deportacion-fuera-de-la-ue.html",
-     "seccion": "Unión Europea",
-     "resumen": "Cinco países europeos crearán en Ruanda un centro de deportación fuera de la UE con visto bueno de Bruselas."
-    },
-    {
-     "titular": "El CNI concluye que “no se han obtenido evidencias” que vinculen la entrada masiva de Ceuta con una acción del Estado marroquí",
-     "url": "https://elpais.com/espana/2026-11-16/el-cni-concluye-que-no-se-han-obtenido-evidencias-que-vinculen-la-entrada-masiva-de-ceuta-con-una-accion-del-estado-marroqui.html",
+     "titular": "Un extrabajador de la cantera del balasto de Adamuz da pistas a la jueza sobre material “defectuoso” en el punto del siniestro",
+     "url": "https://elpais.com/espana/2026-11-17/un-extrabajador-de-la-cantera-del-balasto-de-adamuz-da-pistas-a-la-jueza-sobre-material-defectuoso-en-el-punto-del-siniestro.html",
      "seccion": "España",
-     "resumen": "El CNI afirma que no hay evidencias que vinculen la entrada masiva en Ceuta con una acción de Marruecos."
+     "resumen": "Un extrabajador de la cantera de Adamuz apunta a material defectuoso; la jueza lo tramita como pieza separada."
     },
     {
-     "titular": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+     "titular": "Vox se frena y cede terreno al PP",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html",
      "seccion": "Elecciones Generales",
-     "resumen": "El PP plantea una ley de nietos para que exiliados vascos por ETA puedan votar en autonómicas."
+     "resumen": "Un sondeo de 40dB sitúa a Vox cediendo terreno frente al PP mientras el PSOE sube lentamente."
     },
     {
-     "titular": "Un estudio destapa nueve muertes por el uso de Nolotil en dos años en Alicante, siete de ellas de pacientes británicos",
-     "url": "https://elpais.com/salud-y-bienestar/2026-11-16/un-estudio-destapa-nueve-muertes-por-el-uso-de-nolotil-en-dos-anos-en-alicante-siete-de-ellas-de-pacientes-britanicos.html",
-     "seccion": "Medicamentos",
-     "resumen": "Un estudio atribuye nueve muertes al Nolotil en Alicante, siete de pacientes británicos."
-    },
-    {
-     "titular": "Frente Amplio busca desmarcarse del PSOE con un programa que blinda la vivienda y estimula la redistribución de la riqueza",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-busca-desmarcarse-del-psoe-con-un-programa-que-blinda-la-vivienda-y-estimula-la-redistribucion-de-la-riqueza.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Frente Amplio presenta un programa sobre vivienda y redistribución y reta a Sánchez a aprobar una prestación por crianza."
+     "titular": "La Audiencia de Madrid ordena reabrir la causa contra el director de la Policía por acoso al portavoz de Interior de Vox",
+     "url": "https://elpais.com/espana/2026-11-17/la-audiencia-de-madrid-ordena-reabrir-la-causa-contra-el-director-de-la-policia-por-acoso-al-portavoz-de-interior-de-vox.html",
+     "seccion": "España",
+     "resumen": "La Audiencia de Madrid reabre la causa contra el director de la Policía por acoso al portavoz de Interior de Vox."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Destaca encuestas electorales, la subida del SMI y los funcionarios y el debate sobre inmigración. Incluye también la investigación sobre la gestión de la entrada en Ceuta.",
+   "resumen": "Pone el foco en la campaña electoral, con énfasis en el PP y en el impacto de la convocatoria sobre las leyes del Congreso. También sigue de cerca los casos judiciales de Zapatero y del Adif.",
    "noticias": [
     {
-     "titular": "El PSOE hunde todavía más al Frente Amplio y se coloca a menos de cinco puntos del PP",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb2ef1fc6c834a4a8b4589.html",
+     "titular": "Feijóo se planta entre gritos e insultos ante los violentos en Guipúzcoa: \"¡Ni un paso atrás!\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc3a88e85ece1a3b8b458b.html",
      "seccion": "PP",
-     "resumen": "Un sondeo sitúa al PSOE a menos de cinco puntos del PP y con posibilidades de superar los 110 escaños."
+     "resumen": "Feijóo visita Guipúzcoa entre gritos y reclama a Sánchez que condene las agresiones al PP."
     },
     {
-     "titular": "El Consejo de Ministros aprobará este martes la subida del 5,3% del SMI y del 4,5% del salario de los funcionarios",
-     "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afafd7d21efa00b548b45bd.html",
-     "seccion": "",
-     "resumen": "El Consejo de Ministros aprobará el martes la subida del SMI del 5,3% y del 4,5% para funcionarios, con medidas fiscales asociadas."
+     "titular": "Los damnificados de las leyes imposibles del Congreso con Sánchez: \"Somos moneda de cambio de derechas e izquierdas\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afb46c5e85ece2d268b45a3.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "La convocatoria electoral deja decaídos más de 300 proyectos y proposiciones de ley en el Congreso."
     },
     {
-     "titular": "La Guardia Civil cuestiona la \"alerta temprana\" de los servicios de inteligencia: \"Lo que se recibió fue una información parcial insuficiente para dimensionar la amenaza\"",
-     "url": "https://www.elmundo.es/espana/2026/11/16/6afaee19e9cf4a93078b4577.html",
-     "seccion": "Ceuta",
-     "resumen": "La Guardia Civil cuestiona la alerta temprana de inteligencia previa a la entrada masiva en Ceuta según su informe judicial."
-    },
-    {
-     "titular": "El primer \"centro de retorno\" para inmigrantes expulsados de la UE estará en Ruanda: impulsado por Merz y Frederiksen y acogido con \"satisfacción\" en Bruselas",
-     "url": "https://www.elmundo.es/internacional/2026/11/16/6afb149de85ece11058b4575.html",
+     "titular": "La advertencia de Bruselas en plena campaña: mejora su previsión de crecimiento para España pero constata que los precios se disparan",
+     "url": "https://www.elmundo.es/economia/2026/11/17/6afc1a57e9cf4af8588b45ab.html",
      "seccion": "Artículos Daniel Viaña",
-     "resumen": "Merz y Frederiksen impulsan un centro de retorno en Ruanda para inmigrantes expulsados de la UE, con inicio previsto en 2027."
+     "resumen": "Bruselas eleva al 2,6% la previsión de crecimiento de España para 2026 pero alerta de la subida de precios."
     },
     {
-     "titular": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html",
-     "seccion": "PP",
-     "resumen": "Feijóo anunciará una ley de nietos para exiliados por ETA que podrá afectar a decenas de miles de personas."
+     "titular": "El Gobierno lanza en plena campaña electoral la subida del salario mínimo a 1.286 euros y del 4,5% en el sueldo de los funcionarios para más de cinco millones de trabajadores",
+     "url": "https://www.elmundo.es/economia/2026/11/17/6afc2279fc6c83ea548b45a1.html",
+     "seccion": "Artículos Daniela Saltos",
+     "resumen": "El Gobierno aprueba la subida del SMI a 1.286 euros y del 4,5% a funcionarios, en plena campaña."
     },
     {
-     "titular": "Abascal aterriza en Canarias en plena oleada migratoria y entona su discurso contra la \"invasión\": \"Aquí no caben, es nuestra tierra\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb5a78e9cf4a3c4b8b4595.html",
-     "seccion": "Santiago Abascal Conde",
-     "resumen": "Abascal defiende en Canarias cerrar las puertas a quienes llegan a sus costas en plena oleada migratoria."
+     "titular": "La suspensión de voto ordenada por el Supremo afectará a 113.326 nacionalizados por la 'ley de nietos'",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc4d74e85ecef8068b45b2.html",
+     "seccion": "Tribunal Supremo",
+     "resumen": "La Abogacía del Estado comunica al Supremo la cifra final de 113.326 afectados por la suspensión de voto."
     },
     {
-     "titular": "La campaña para que Jensen Huang vuelva a ser consejero delegado de Nvidia",
-     "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afb3008e4d4d810428b4575.html",
-     "seccion": "WSJ",
-     "resumen": "Los aliados de Jensen Huang impulsan su vuelta al frente de Nvidia tras su destitución."
+     "titular": "Zapatero ficha a dos joyeros de Valencia que tasarán a la baja las joyas que le intervino el juez",
+     "url": "https://www.elmundo.es/espana/2026/11/17/6afc2c7921efa0c5248b45ab.html",
+     "seccion": "José Luis Rodríguez Zapatero",
+     "resumen": "Zapatero contrata a dos joyeros valencianos para tasar sus joyas, que el juez valora en torno al millón de euros."
     },
     {
-     "titular": "Un millón y medio de personas despiden al Papa 'peruano' en un accidentado adiós: \"Estoy con ustedes todos los días hasta el fin de los tiempos\"",
-     "url": "https://www.elmundo.es/internacional/2026/11/16/6afb5046e9cf4a26318b4589.html",
-     "seccion": "Papa León XIV",
-     "resumen": "León XIV despide Perú con multitudinario acto, en el que un rosario le golpeó en la cara."
+     "titular": "Un ex empleado de una cantera denuncia a la juez que Adif usó material defectuoso en las obras previas al choque de trenes de Adamuz",
+     "url": "https://www.elmundo.es/andalucia/2026/11/17/6afbed45fdddffac5b8b45a2.html",
+     "seccion": "Andalucía",
+     "resumen": "Un extrabajador denuncia ante la jueza que Adif usó balasto de mala calidad antes del choque de Adamuz."
+    },
+    {
+     "titular": "Caos en Cercanías y Rodalies por el incumplimiento de los servicios mínimos: la Generalitat advierte de posibles despidos",
+     "url": "https://www.elmundo.es/economia/2026/11/17/6afbf4c2e9cf4a547f8b4577.html",
+     "seccion": "Renfe",
+     "resumen": "Renfe suprime el 97,6% de trenes en Cercanías Madrid y el 40% en Cataluña por el incumplimiento de servicios mínimos."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Sigue la campaña en formato directo y da peso a sucesos y justicia, como el caso Andic. Incluye también noticias internacionales como los ataques rusos sobre Kiev.",
+   "resumen": "Destaca la campaña electoral y los asuntos de Adif, Igualdad y Plus Ultra, con una línea de crítica a la gestión del Gobierno. Incluye también temas internacionales y de sociedad.",
    "noticias": [
     {
-     "titular": "Pedro Sánchez decretará este martes la subida del SMI y un aumento a los funcionarios",
-     "url": "https://www.abc.es/espana/campana-elecciones-generales-espana-29n-directo-sanchez-feijoo-abascal-20261113162908-di.html",
+     "titular": "Un exdirectivo de Adif declara que Pardo de Vera le dijo que «molestaban» a Jésica Rodríguez al llamarla porque no fichaba",
+     "url": "https://www.abc.es/espana/exdirectivo-adif-ignacio-zaldivar-declara-pardo-vera-20261117132424-nt.html",
      "seccion": "",
-     "resumen": "Sánchez decretará el martes la subida del SMI y de los funcionarios, en el marco de la cobertura diaria de la campaña."
+     "resumen": "Un exdirectivo de Adif declara que Pardo de Vera le advirtió de que Jésica Rodríguez molestaba al llamarle por no fichar."
     },
     {
-     "titular": "El PP mantiene su mayoría absoluta en el Senado, pero no llega a los tres quintos con Vox",
-     "url": "https://www.abc.es/espana/pp-mantiene-mayoria-absoluta-senado-llega-tres-20261116010020-nt.html",
+     "titular": "Igualdad ordenó instalar pulseras antimaltrato sabiendo que no funcionaban",
+     "url": "https://www.abc.es/espana/nuevos-correos-revelan-igualdad-ordeno-instalar-pulseras-20261117021127-nt.html",
      "seccion": "",
-     "resumen": "El PP mantendría la mayoría absoluta en el Senado, aunque sin alcanzar los tres quintos con Vox."
+     "resumen": "Una comunicación interna de 2024 alertó de que las pulseras antimaltrato no funcionaban, y el Ministerio de Igualdad ordenó instalarlas igualmente."
     },
     {
-     "titular": "Rusia ataca con misiles dos de los puentes más importantes de Kiev",
-     "url": "https://www.abc.es/internacional/rusia-ataca-misiles-dos-puentes-importantes-kiev-20261116234917-nt.html",
+     "titular": "Subida de sueldo para cinco millones de trabajadores: las medidas aprobadas por el Gobierno",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/subida-sueldo-cinco-millones-trabajadores-espana-medidas-20261117125039-nt.html",
      "seccion": "",
-     "resumen": "Rusia lanza misiles contra dos puentes de Kiev según el alcalde Klitschko."
+     "resumen": "Las medidas salariales del Gobierno afectan a unos cinco millones de personas, con subidas por encima de la inflación del 4,9%."
     },
     {
-     "titular": "Isak Andic nunca consultó al notario sobre desheredar a Jonathan",
-     "url": "https://www.abc.es/espana/cataluna/isak-andic-nunca-consulto-notario-sobre-desheredar-20261116142625-nt.html",
+     "titular": "La huelga de maquinistas colapsa Madrid y Barcelona tras no cumplirse los servicios mínimos previstos",
+     "url": "https://www.abc.es/economia/huelga-maquinistas-deja-cercanias-madrid-servicio-rodalies-20261117074616-nt.html",
      "seccion": "",
-     "resumen": "El notario de Isak Andic declara que este nunca le planteó desheredar a su hijo Jonathan."
+     "resumen": "La huelga de maquinistas colapsa Madrid y Barcelona al no cumplirse los servicios mínimos previstos."
     },
     {
-     "titular": "Feijóo: «Quiero saldar una deuda con los españoles a los que ETA no doblegó, pero echó de su tierra»",
-     "url": "https://www.abc.es/espana/feijoo-quiero-saldar-deuda-espanoles-eta-doblego-20261116202421-nt.html",
+     "titular": "De Cos acaricia la presidencia del BCE tras proponer Alemania candidato para economista jefe",
+     "url": "https://www.abc.es/economia/alemania-propondra-brunnermeier-economista-jefe-bce-allanando-20261117122045-nt.html",
      "seccion": "",
-     "resumen": "Feijóo, en Pamplona, reclama saldar una deuda con los españoles expulsados por ETA y confirma su propuesta."
+     "resumen": "Pablo Hernández de Cos se acerca a la presidencia del BCE tras la propuesta alemana para economista jefe."
     },
     {
-     "titular": "El escándalo del 'Raamgate' que pone contra las cuerdas a Netanyahu",
-     "url": "https://www.abc.es/internacional/escandalo-raamgate-pone-cuerdas-netanyahu-20261116184823-nt.html",
+     "titular": "El Reino Unido eleva la presión sobre Israel y sanciona a ocho constructoras por su papel en los asentamientos de Cisjordania",
+     "url": "https://www.abc.es/internacional/reino-unido-sanciona-ocho-constructoras-israelies-fomentan-20261117112046-nt.html",
      "seccion": "",
-     "resumen": "Netanyahu queda acorralado por indicios de implicación en la detención de activistas árabes antes de las elecciones."
+     "resumen": "El Reino Unido sanciona a ocho empresas israelíes por su papel en los asentamientos de Cisjordania."
     },
     {
-     "titular": "Ceuta, Canarias... El efecto llamada que vuelve a colapsar las costas españolas",
-     "url": "https://www.abc.es/espana/ceuta-canarias-efecto-llamada-vuelva-colapsar-costas-20261116132639-nt.html",
+     "titular": "Los ministros europeos de Defensa se comprometen a seguir apoyando a Ucrania este invierno",
+     "url": "https://www.abc.es/internacional/ministros-europeos-defensa-comprometen-seguir-apoyando-ucrania-20261117141035-nt.html",
      "seccion": "",
-     "resumen": "Se multiplican las llegadas de cayucos a Canarias y Ceuta, impulsadas según el texto por la difusión de imágenes entre migrantes."
+     "resumen": "Los ministros europeos de Defensa acuerdan seguir apoyando a Ucrania durante el invierno."
     },
     {
-     "titular": "United Airlines sufre una caída del sistema informático que impide el despegue de sus aviones",
-     "url": "https://www.abc.es/internacional/united-airlines-sufre-caida-sistema-obliga-paralizar-20261116232934-nt.html",
+     "titular": "Albiol aplaude el plan de cinco países europeos para deportar inmigrantes a Ruanda: «Fantástico»",
+     "url": "https://www.abc.es/espana/cataluna/albiol-aplaude-plan-cinco-paises-europeos-deportar-20261117101338-nt.html",
      "seccion": "",
-     "resumen": "United Airlines sufre una caída de su sistema informático que impidió el despegue de sus aviones, ya resuelta."
+     "resumen": "Albiol celebra el plan de cinco países europeos para crear un centro de deportación en Ruanda."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Prioriza la política catalana y estatal, con la campaña de ERC, Junts y la sintonía entre Sánchez y Lula. Mantiene también el foco en el caso Andic y en el nuevo James Bond.",
+   "resumen": "Prioriza la campaña electoral con foco en Cataluña y en los pactos de los partidos. Además, incluye la subida salarial y la previsión económica de Bruselas.",
    "noticias": [
     {
-     "titular": "El Gobierno aprobará mañana la subida de sueldo de los funcionarios para 2027",
-     "url": "https://www.lavanguardia.com/economia/20261116/11685911/gobierno-aprobara-manana-subida-sueldo-funcionarios-2027.html",
+     "titular": "Bruselas mejora las previsiones económicas de España pero avisa de los riesgos de la vivienda",
+     "url": "https://www.lavanguardia.com/economia/20261117/11686208/bruselas-mejora-previsiones-economicas-espana-avisa-riesgos-vivienda.html",
      "seccion": "Economía",
-     "resumen": "El Gobierno aprobará mañana la subida del 4,5% para unos cinco millones de empleados públicos en 2027."
+     "resumen": "La Comisión Europea mejora las previsiones para España y advierte de que el acceso a la vivienda es el principal riesgo."
     },
     {
-     "titular": "Sánchez y Lula piden defender las instituciones democráticas ante la “amenaza ultraderechista”",
-     "url": "https://www.lavanguardia.com/politica/20261116/11685403/sanchez-exhibe-sintonia-politica-lula-visita-moncloa-plena-campana-electoral.html",
-     "seccion": "Política",
-     "resumen": "Sánchez y Lula defienden las instituciones democráticas frente a la amenaza ultraderechista en sus encuentros del lunes."
-    },
-    {
-     "titular": "Cinco países crean en Ruanda el primer centro para deportar migrantes fuera de la UE",
-     "url": "https://www.lavanguardia.com/internacional/20261116/11685591/cinco-paises-crean-ruanda-primer-centro-deportar-migrantes-fuera-ue.html",
-     "seccion": "Internacional",
-     "resumen": "Cinco países europeos acuerdan con Ruanda un proyecto piloto para trasladar a migrantes con asilo denegado."
-    },
-    {
-     "titular": "Trump avala que Huang vuelva al mando de Nvidia, pese a su relación con una espía china",
-     "url": "https://www.lavanguardia.com/economia/20261116/11685735/trump-avala-huang-vuelva-mando-nvidia-pese-relacion-espia-china.html",
+     "titular": "El sueldo de los funcionarios subirá un 5% en el 2027",
+     "url": "https://www.lavanguardia.com/economia/20261117/11686401/sueldo-funcionarios-subira-5-2027.html",
      "seccion": "Economía",
-     "resumen": "Trump respalda el regreso de Huang a Nvidia pese a la relación con una espía china, mientras se endurecen restricciones de chips."
+     "resumen": "El Gobierno aprueba una subida del 4,5% para los funcionarios en 2027 y un 0,5% variable del 2026."
     },
     {
-     "titular": "Feijóo propondrá una ley de nietos vasca para reparar a los “expulsados” por ETA",
-     "url": "https://www.lavanguardia.com/politica/20261116/11685266/feijoo-propondra-pamplona-ley-nietos-vasca.html",
+     "titular": "El Gobierno ha aprobado la subida del SMI hasta los 1.286 euros y seguirá sin tributar",
+     "url": "https://www.lavanguardia.com/economia/20261117/11686354/gobierno-aprobado-subida-smi-1-286-euros-seguira-tributar.html",
+     "seccion": "Economía",
+     "resumen": "El SMI sube hasta 1.286 euros sin tributar y Yolanda Díaz presenta un decreto de transparencia salarial."
+    },
+    {
+     "titular": "Los maquinistas de Rodalies incumplen los servicios mínimos y el Govern avisa de posibles despidos",
+     "url": "https://www.lavanguardia.com/local/catalunya/20261117/11685350/trafico-carreteras-cortes-trenes-rodalies-accesos-barcelona-cataluna-martes-17-noviembre-en-directo.html",
+     "seccion": "Catalunya",
+     "resumen": "Los maquinistas de Rodalies incumplen los servicios mínimos y la Generalitat avisa de posibles despidos."
+    },
+    {
+     "titular": "Feijóo acusa a Sánchez de “justificar” la violencia por “no condenar” la agresión a Echeverría",
+     "url": "https://www.lavanguardia.com/politica/20261117/11686419/feijoo-acusa-sanchez-justificar-violencia-condenar-incidente-violento-vivido-echeverria-gipuzkoa.html",
      "seccion": "Política",
-     "resumen": "Feijóo propondrá una ley de nietos vasca para reparar a los expulsados por ETA en País Vasco y Navarra."
+     "resumen": "Feijóo acusa a Sánchez de justificar la violencia tras no condenar la agresión a Echeverría en Eibar."
     },
     {
-     "titular": "Vox apuesta por militarizar las fronteras en el arranque de la gira canaria de Abascal",
-     "url": "https://www.lavanguardia.com/politica/20261116/11685906/vox-propone-militarizar-fronteras-arranque-gira-canaria-abascal.html",
+     "titular": "El debate electoral a cuatro será el jueves 26 de noviembre",
+     "url": "https://www.lavanguardia.com/politica/20261117/11686254/debate-electoral-cuatro-sera-jueves-26-noviembre.html",
      "seccion": "Política",
-     "resumen": "Vox plantea militarizar las fronteras en la gira canaria de Abascal y pide a Sánchez un test antidoping."
+     "resumen": "Sánchez, Feijóo, Abascal y Colau debatirán el 26 de noviembre en la Academia de Televisión."
     },
     {
-     "titular": "Barcelona rescata plaza Catalunya pero la movilización por la vivienda sigue activa",
-     "url": "https://www.lavanguardia.com/local/barcelona/20261116/11685873/barcelona-rescata-plaza-catalunya-pero-movilizacion-vivienda-sigue-activa.html",
-     "seccion": "Barcelona",
-     "resumen": "Barcelona recupera la plaza de Catalunya tras un operativo policial mientras continúa la movilización por la vivienda."
+     "titular": "Junts pide a los candidatos un compromiso por escrito de que hablarán catalán en el Congreso",
+     "url": "https://www.lavanguardia.com/politica/20261117/11686274/junts-pide-candidatos-compromiso-escrito-hablaran-catalan-congreso.html",
+     "seccion": "Política",
+     "resumen": "Junts pide a los candidatos un compromiso por escrito para hablar catalán en el Congreso."
     },
     {
-     "titular": "El notario de los Andic asegura que Isak nunca se planteó desheredar a su hijo",
-     "url": "https://www.lavanguardia.com/sucesos/20261116/11685601/notario-andic-asegura-isak-nunca-planteo-desheredar-hijo.html",
-     "seccion": "Sucesos",
-     "resumen": "El notario de los Andic declara que Isak nunca planteó desheredar a su hijo Jonathan."
+     "titular": "Alemania escoge un economista jefe para el BCE y despeja el camino de la presidencia a De Cos",
+     "url": "https://www.lavanguardia.com/economia/20261117/11686446/alemania-escoge-brunnermeier-bce-despeja-camino-cos-presidencia.html",
+     "seccion": "Economía",
+     "resumen": "Alemania propone un economista jefe para el BCE, lo que abre el camino a De Cos como presidente."
     }
    ]
   }
