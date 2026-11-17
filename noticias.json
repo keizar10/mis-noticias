@@ -1,214 +1,20 @@
 {
- "fecha": "2026-11-17",
- "franja": "tarde",
- "generada": "2026-11-17T15:59+01:00",
+ "fecha": "2026-11-18",
+ "franja": "mañana",
+ "generada": "2026-11-18T00:40+01:00",
  "con_ia": true,
- "resumen_dia": "El Gobierno aprobó la subida del salario mínimo a 1.286 euros y del sueldo de los funcionarios, medidas que los cuatro diarios recogen en plena campaña para el 29N. La huelga de maquinistas dejó casi paralizados Cercanías Madrid y Rodalies, con servicios mínimos incumplidos. En el plano judicial, el caso Plus Ultra (Zapatero) y la cifra de 113.326 nacionalizados afectados por la suspensión de voto del Supremo ocupan espacio destacado. En campaña, Feijóo visitó Eibar entre gritos y la Comisión Europea revisó al alza el crecimiento de España.",
+ "resumen_dia": "La campaña para las elecciones generales del 29N domina la portada de los cuatro diarios, con Feijóo en Eibar tras los incidentes, los sondeos y el mensaje económico del Gobierno. El Consejo de Ministros aprueba la subida del salario mínimo a 1.286 euros y del sueldo de los funcionarios. En lo internacional, la salida de Jensen Huang de Nvidia y su disposición a volver centran la atención, junto a la caída de una red de comunicaciones de la agencia de seguridad estadounidense. Bruselas advierte de que la vivienda es el principal riesgo para la economía española.",
  "temas_comunes": [
   {
-   "titulo": "Subida del salario mínimo y de funcionarios",
-   "resumen": "El Consejo de Ministros aprobó subir el SMI a 1.286 euros (5,3%) y el sueldo de los funcionarios un 4,5%, con medidas de transparencia salarial y exención en el IRPF para el suelo retributivo.",
+   "titulo": "Feijóo en Eibar tras los incidentes",
+   "resumen": "Feijóo acude a Eibar con un fuerte dispositivo policial y gritos de protesta. Acusa a Sánchez de no condenar las agresiones y de justificarlas.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Destaca el paquete completo, incluido el refuerzo de la transparencia salarial en las empresas.",
+     "enfoque": "Destaca el dispositivo policial y los gritos de 'fascista' durante la comparecencia junto a Echeverría.",
      "noticias": [
       {
-       "titular": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
-       "url": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
-       "seccion": "Economía"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Subraya que la medida llega en plena campaña y cuántos trabajadores afecta en cada caso.",
-     "noticias": [
-      {
-       "titular": "El Gobierno lanza en plena campaña electoral la subida del salario mínimo a 1.286 euros y del 4,5% en el sueldo de los funcionarios para más de cinco millones de trabajadores",
-       "url": "https://www.elmundo.es/economia/2026/11/17/6afc2279fc6c83ea548b45a1.html",
-       "seccion": "Artículos Daniela Saltos"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Enfoca la subida como un alivio para unos cinco millones de personas, por encima de la inflación del 4,9%.",
-     "noticias": [
-      {
-       "titular": "Subida de sueldo para cinco millones de trabajadores: las medidas aprobadas por el Gobierno",
-       "url": "https://www.abc.es/economia/cuentas-corrientes/subida-sueldo-cinco-millones-trabajadores-espana-medidas-20261117125039-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge la exención fiscal del SMI y la cita de Yolanda Díaz sobre el secreto salarial.",
-     "noticias": [
-      {
-       "titular": "El sueldo de los funcionarios subirá un 5% en el 2027",
-       "url": "https://www.lavanguardia.com/economia/20261117/11686401/sueldo-funcionarios-subira-5-2027.html",
-       "seccion": "Economía"
-      },
-      {
-       "titular": "El Gobierno ha aprobado la subida del SMI hasta los 1.286 euros y seguirá sin tributar",
-       "url": "https://www.lavanguardia.com/economia/20261117/11686354/gobierno-aprobado-subida-smi-1-286-euros-seguira-tributar.html",
-       "seccion": "Economía"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Huelga de maquinistas en Cercanías y Rodalies",
-   "resumen": "La huelga ferroviaria en favor de más seguridad dejó paralizados Cercanías Madrid y gran parte de Rodalies, con servicios mínimos incumplidos y posibles despidos anunciados por la Generalitat.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Cuantifica el impacto en Cercanías, Rodalies y alta velocidad.",
-     "noticias": [
-      {
-       "titular": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
-       "url": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-       "seccion": "Economía"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Pone el foco en la supresión del 97,6% de trenes en Madrid y en la advertencia de despidos.",
-     "noticias": [
-      {
-       "titular": "Caos en Cercanías y Rodalies por el incumplimiento de los servicios mínimos: la Generalitat advierte de posibles despidos",
-       "url": "https://www.elmundo.es/economia/2026/11/17/6afbf4c2e9cf4a547f8b4577.html",
-       "seccion": "Renfe"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Describe el colapso de Madrid y Barcelona tras incumplirse los servicios mínimos.",
-     "noticias": [
-      {
-       "titular": "La huelga de maquinistas colapsa Madrid y Barcelona tras no cumplirse los servicios mínimos previstos",
-       "url": "https://www.abc.es/economia/huelga-maquinistas-deja-cercanias-madrid-servicio-rodalies-20261117074616-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Se centra en el incumplimiento de servicios mínimos por parte de los maquinistas y en la disputa sobre la notificación electrónica.",
-     "noticias": [
-      {
-       "titular": "Los maquinistas de Rodalies incumplen los servicios mínimos y el Govern avisa de posibles despidos",
-       "url": "https://www.lavanguardia.com/local/catalunya/20261117/11685350/trafico-carreteras-cortes-trenes-rodalies-accesos-barcelona-cataluna-martes-17-noviembre-en-directo.html",
-       "seccion": "Catalunya"
-      },
-      {
-       "titular": "Rodalies defiende que puede notificar los servicios mínimos a los maquinistas por vía electrónica",
-       "url": "https://www.lavanguardia.com/local/catalunya/20261117/11686482/rodalies-defiende-notificar-servicios-minimos-maquinistas-electronica.html",
-       "seccion": "Catalunya"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Accidente de Adamuz y material del balasto",
-   "resumen": "Un extrabajador de una cantera denuncia ante la jueza el uso de balasto defectuoso en las obras previas al siniestro ferroviario de Adamuz; la instrucción espera a los peritos.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge el testimonio como pieza separada pendiente del informe pericial.",
-     "noticias": [
-      {
-       "titular": "Un extrabajador de la cantera del balasto de Adamuz da pistas a la jueza sobre material “defectuoso” en el punto del siniestro",
-       "url": "https://elpais.com/espana/2026-11-17/un-extrabajador-de-la-cantera-del-balasto-de-adamuz-da-pistas-a-la-jueza-sobre-material-defectuoso-en-el-punto-del-siniestro.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Destaca que el testigo pide protección judicial y describe el balasto como de mala calidad.",
-     "noticias": [
-      {
-       "titular": "Un ex empleado de una cantera denuncia a la juez que Adif usó material defectuoso en las obras previas al choque de trenes de Adamuz",
-       "url": "https://www.elmundo.es/andalucia/2026/11/17/6afbed45fdddffac5b8b45a2.html",
-       "seccion": "Andalucía"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Caso Plus Ultra: joyas de Zapatero",
-   "resumen": "Zapatero pide peritar sus joyas incautadas en el caso Plus Ultra; el juez ya tiene dos tasaciones que sitúan el valor en torno al millón de euros.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Subraya la petición de Zapatero de designar sus propios peritos.",
-     "noticias": [
-      {
-       "titular": "Zapatero pide acceso a sus joyas para que sus peritos elaboren una nueva tasación",
-       "url": "https://elpais.com/espana/2026-11-17/zapatero-pide-acceso-a-sus-joyas-para-que-sus-peritos-elaboren-una-nueva-tasacion.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Pone el foco en dos joyeros valencianos contratados por el expresidente y en la cifra de un millón.",
-     "noticias": [
-      {
-       "titular": "Zapatero ficha a dos joyeros de Valencia que tasarán a la baja las joyas que le intervino el juez",
-       "url": "https://www.elmundo.es/espana/2026/11/17/6afc2c7921efa0c5248b45ab.html",
-       "seccion": "José Luis Rodríguez Zapatero"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Suspensión de voto de nacionalizados por la ley de nietos",
-   "resumen": "La Abogacía del Estado fija en 113.326 las personas afectadas por la medida cautelar del Supremo sobre el voto de nacionalizados por la ley de nietos.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Explica la reducción de la cifra tras excluir menores, inscritos duplicados y censados en España.",
-     "noticias": [
-      {
-       "titular": "La Abogacía cifra en 113.326 los nacionalizados por la ‘ley de nietos’ afectados por la suspensión de voto del Supremo",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/la-abogacia-cifra-en-113326-los-nacionalizados-por-la-ley-de-nietos-afectados-por-la-suspension-de-voto-del-supremo.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Destaca la comunicación formal de la cifra final al Alto Tribunal.",
-     "noticias": [
-      {
-       "titular": "La suspensión de voto ordenada por el Supremo afectará a 113.326 nacionalizados por la 'ley de nietos'",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc4d74e85ecef8068b45b2.html",
-       "seccion": "Tribunal Supremo"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Feijóo en Eibar y tensión política en campaña",
-   "resumen": "Feijóo visitó Eibar con un fuerte dispositivo policial y recibió gritos de un grupo; acusa a Sánchez de no condenar las agresiones.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Destaca el dispositivo policial y los gritos de 'fascista' recibidos.",
-     "noticias": [
-      {
-       "titular": "Feijóo, junto a Echeverría, en Eibar: “No nos van a callar, no vamos a dar un paso atrás en Euskadi ni en ningún lugar de España”",
+       "titular": "Feijóo comparece junto a Echeverría, en Eibar, en medio de un gran dispositivo policial y algunos gritos de “fascista”",
        "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/feijoo-junto-a-echeverria-en-eibar-no-nos-van-a-callar-no-vamos-a-dar-un-paso-atras-en-euskadi-ni-en-ningun-lugar-de-espana.html",
        "seccion": "Elecciones Generales"
       }
@@ -216,7 +22,7 @@
     },
     {
      "medio": "elmundo",
-     "enfoque": "Recoge la crítica a Sánchez por no condenar las agresiones y la frase '¡Ni un paso atrás!'.",
+     "enfoque": "Subraya el enfrentamiento con los manifestantes y la demanda a Sánchez de llamar a Echeverría.",
      "noticias": [
       {
        "titular": "Feijóo se planta entre gritos e insultos ante los violentos en Guipúzcoa: \"¡Ni un paso atrás!\"",
@@ -227,11 +33,177 @@
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Recoge la acusación de Feijóo a Sánchez de justificar la violencia por sus acuerdos con Bildu.",
+     "enfoque": "Enfoca la acusación de Feijóo a Sánchez por sus acuerdos con Bildu.",
      "noticias": [
       {
        "titular": "Feijóo acusa a Sánchez de “justificar” la violencia por “no condenar” la agresión a Echeverría",
        "url": "https://www.lavanguardia.com/politica/20261117/11686419/feijoo-acusa-sanchez-justificar-violencia-condenar-incidente-violento-vivido-echeverria-gipuzkoa.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Subida del salario mínimo y de funcionarios",
+   "resumen": "El Gobierno aprueba el alza del SMI a 1.286 euros y una subida salarial para los funcionarios en plena campaña. Afecta a millones de trabajadores.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Pone el foco en el momento de la medida, lanzada durante la campaña, y en el número de beneficiarios.",
+     "noticias": [
+      {
+       "titular": "El Gobierno lanza en plena campaña electoral la subida del salario mínimo a 1.286 euros y del 4,5% en el sueldo de los funcionarios para más de cinco millones de trabajadores",
+       "url": "https://www.elmundo.es/economia/2026/11/17/6afc2279fc6c83ea548b45a1.html",
+       "seccion": "Artículos Daniela Saltos"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la subida del SMI sin tributar y la nueva ley de transparencia salarial que presenta Yolanda Díaz.",
+     "noticias": [
+      {
+       "titular": "El Gobierno ha aprobado la subida del SMI hasta los 1.286 euros y seguirá sin tributar",
+       "url": "https://www.lavanguardia.com/economia/20261117/11686354/gobierno-aprobado-subida-smi-1-286-euros-seguira-tributar.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "El sueldo de los funcionarios subirá un 5% en el 2027",
+       "url": "https://www.lavanguardia.com/economia/20261117/11686401/sueldo-funcionarios-subira-5-2027.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Lo presenta dentro de una lista de medidas electorales del Consejo de Ministros, con tono crítico en el titular.",
+     "noticias": [
+      {
+       "titular": "Teletienda electoral",
+       "url": "https://www.abc.es/espana/juan-soto-ivars-teletienda-electoral-20261117192650-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Salida y posible regreso de Jensen Huang a Nvidia",
+   "resumen": "Nvidia presenta resultados que superan previsiones mientras Huang se declara dispuesto a volver como consejero delegado. La SEC investiga a la compañía tras su salida.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Centra la noticia en los resultados y en la investigación de la SEC, y añade que el consejo descarta la vuelta.",
+     "noticias": [
+      {
+       "titular": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
+       "url": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
+       "seccion": "Empresas"
+      },
+      {
+       "titular": "El presidente del consejo de Nvidia asegura que la junta no tiene intención de restituir a Jensen Huang como CEO",
+       "url": "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html",
+       "seccion": "Estados Unidos"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la disposición de Huang a volver a dirigir la empresa tras los resultados.",
+     "noticias": [
+      {
+       "titular": "Jensen Huang dice que \"se sentiría honrado de volver a dirigir Nvidia\" si se lo pide el consejo de administración",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/17/6afc8958fc6c83ea548b45ba.html",
+       "seccion": "Donald Trump"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Pone el foco en la disposición de Huang a regresar si la junta lo decide.",
+     "noticias": [
+      {
+       "titular": "Jensen Huang abre la puerta a volver a Nvidia: «Si la junta decide que es lo mejor, será un honor»",
+       "url": "https://www.abc.es/internacional/jensen-huang-comparecera-congreso-eeuu-diciembre-20261117165525-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Vivienda como riesgo para la economía",
+   "resumen": "La Comisión Europea señala la falta de vivienda como principal riesgo para la economía española, en un informe que también revisa las previsiones.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la advertencia de Bruselas sobre la movilidad laboral y la llegada de trabajadores.",
+     "noticias": [
+      {
+       "titular": "Bruselas alerta de que la falta de vivienda es “el riesgo principal” para la economía española",
+       "url": "https://elpais.com/economia/2026-11-17/bruselas-alerta-de-que-la-falta-de-vivienda-es-el-riesgo-principal-para-la-economia-espanola.html",
+       "seccion": "Vivienda"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca la mejora de previsiones económicas junto con el aviso sobre la vivienda.",
+     "noticias": [
+      {
+       "titular": "Bruselas mejora las previsiones económicas de España pero avisa de los riesgos de la vivienda",
+       "url": "https://www.lavanguardia.com/economia/20261117/11686208/bruselas-mejora-previsiones-economicas-espana-avisa-riesgos-vivienda.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Encuestas y sondeos electorales",
+   "resumen": "Los sondeos muestran a PP y PSOE con pocos cambios en los bloques, mientras Vox cede terreno según un tracking. ABC sitúa al PP con 3,5 puntos de ventaja.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el quinto tracking de 40dB y la lenta subida del PSOE sin movimiento de los bloques.",
+     "noticias": [
+      {
+       "titular": "Vox se frena y cede terreno al PP",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Pone el foco en la fragmentación de la izquierda y la horquilla de escaños de la derecha.",
+     "noticias": [
+      {
+       "titular": "Sánchez esquilma a toda la izquierda: Podemos se aleja del escaño para Irene Montero y Colau ya roza los 10 diputados",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca438e9cf4a7d7a8b459c.html",
+       "seccion": "PP"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Ofrece el promedio propio con el PP por delante del PSOE.",
+     "noticias": [
+      {
+       "titular": "Cómo van las encuestas del 29N",
+       "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261116020646-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Incluye los últimos sondeos dentro de su seguimiento en directo de la campaña.",
+     "noticias": [
+      {
+       "titular": "Elecciones generales del 29N: últimos sondeos, encuestas y actos de la campaña electoral en España, hoy en directo",
+       "url": "https://www.lavanguardia.com/politica/20261117/11685191/elecciones-geenrales-29n-2026-campana-electoral-martes-17-noviembre-ultima-hora-en-directo.html",
        "seccion": "Política"
       }
      ]
@@ -243,220 +215,196 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña electoral, con sondeos y episodios de tensión política, junto a la economía laboral y el caso Plus Ultra. Dedica espacio también a temas de sociedad y de cultura y gente.",
+   "resumen": "Prioriza la campaña del 29N con foco en la coalición de izquierdas, los sondeos y los ataques cruzados entre partidos. Incluye también la economía tecnológica con Nvidia y noticias de sociedad y cultura.",
    "noticias": [
     {
-     "titular": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
-     "url": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
-     "seccion": "Economía",
-     "resumen": "El Consejo de Ministros aprueba la subida del SMI y de los funcionarios, junto a medidas para dar más transparencia a los salarios."
+     "titular": "La coalición compite por los votos de la izquierda en directo en La Moncloa: “El decreto está listo, portavoz”",
+     "url": "https://elpais.com/espana/2026-11-17/la-coalicion-compite-por-los-votos-de-la-izquierda-en-directo-en-la-moncloa-el-decreto-esta-listo-portavoz.html",
+     "seccion": "España",
+     "resumen": "Yolanda Díaz hace campaña para Frente Amplio junto a ministros socialistas y defiende la gestión de la coalición."
     },
     {
-     "titular": "La Abogacía cifra en 113.326 los nacionalizados por la ‘ley de nietos’ afectados por la suspensión de voto del Supremo",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/la-abogacia-cifra-en-113326-los-nacionalizados-por-la-ley-de-nietos-afectados-por-la-suspension-de-voto-del-supremo.html",
+     "titular": "Sánchez se revuelve contra el ataque de Ayuso a los andaluces: “Andalucía se va a levantar, a movilizar y a darnos la victoria el 29-N”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/sanchez-se-revuelve-contra-el-ataque-de-ayuso-los-andaluces-andalucia-se-va-a-levantar-a-movilizar-y-a-darnos-la-victoria-el-29-n.html",
      "seccion": "Elecciones Generales",
-     "resumen": "La Abogacía del Estado rebaja a 113.326 los nacionalizados afectados por la suspensión de voto, tras descontar menores y duplicados."
+     "resumen": "Sánchez responde a Ayuso tras sus críticas al legado socialista en Andalucía."
     },
     {
-     "titular": "Feijóo, junto a Echeverría, en Eibar: “No nos van a callar, no vamos a dar un paso atrás en Euskadi ni en ningún lugar de España”",
+     "titular": "Feijóo comparece junto a Echeverría, en Eibar, en medio de un gran dispositivo policial y algunos gritos de “fascista”",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/feijoo-junto-a-echeverria-en-eibar-no-nos-van-a-callar-no-vamos-a-dar-un-paso-atras-en-euskadi-ni-en-ningun-lugar-de-espana.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Feijóo visita Eibar bajo un fuerte dispositivo policial y es recibido con gritos de un grupo de personas."
-    },
-    {
-     "titular": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
-     "url": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-     "seccion": "Economía",
-     "resumen": "La huelga ferroviaria paraliza Cercanías Madrid y deja gran parte de los servicios en Rodalies suspendidos."
-    },
-    {
-     "titular": "Zapatero pide acceso a sus joyas para que sus peritos elaboren una nueva tasación",
-     "url": "https://elpais.com/espana/2026-11-17/zapatero-pide-acceso-a-sus-joyas-para-que-sus-peritos-elaboren-una-nueva-tasacion.html",
-     "seccion": "España",
-     "resumen": "Zapatero solicita peritar de nuevo sus joyas incautadas en el caso Plus Ultra con expertos propios."
-    },
-    {
-     "titular": "Un extrabajador de la cantera del balasto de Adamuz da pistas a la jueza sobre material “defectuoso” en el punto del siniestro",
-     "url": "https://elpais.com/espana/2026-11-17/un-extrabajador-de-la-cantera-del-balasto-de-adamuz-da-pistas-a-la-jueza-sobre-material-defectuoso-en-el-punto-del-siniestro.html",
-     "seccion": "España",
-     "resumen": "Un extrabajador de la cantera de Adamuz apunta a material defectuoso; la jueza lo tramita como pieza separada."
+     "resumen": "Feijóo comparece en Eibar con un fuerte dispositivo policial y gritos de protesta."
     },
     {
      "titular": "Vox se frena y cede terreno al PP",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Un sondeo de 40dB sitúa a Vox cediendo terreno frente al PP mientras el PSOE sube lentamente."
+     "resumen": "Un tracking de 40dB muestra al PSOE subiendo lentamente y a Vox cediendo terreno frente al PP."
     },
     {
-     "titular": "La Audiencia de Madrid ordena reabrir la causa contra el director de la Policía por acoso al portavoz de Interior de Vox",
-     "url": "https://elpais.com/espana/2026-11-17/la-audiencia-de-madrid-ordena-reabrir-la-causa-contra-el-director-de-la-policia-por-acoso-al-portavoz-de-interior-de-vox.html",
-     "seccion": "España",
-     "resumen": "La Audiencia de Madrid reabre la causa contra el director de la Policía por acoso al portavoz de Interior de Vox."
+     "titular": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
+     "url": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
+     "seccion": "Empresas",
+     "resumen": "Nvidia supera previsiones, mientras la SEC investiga la compañía tras la salida de Huang."
+    },
+    {
+     "titular": "Bruselas alerta de que la falta de vivienda es “el riesgo principal” para la economía española",
+     "url": "https://elpais.com/economia/2026-11-17/bruselas-alerta-de-que-la-falta-de-vivienda-es-el-riesgo-principal-para-la-economia-espanola.html",
+     "seccion": "Vivienda",
+     "resumen": "Bruselas sitúa la falta de vivienda como principal riesgo para la economía española."
+    },
+    {
+     "titular": "Abascal justifica que su mujer cobre el bono social térmico porque es familia numerosa",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/abascal-justifica-que-su-mujer-cobre-el-bono-social-termico-porque-es-familia-numerosa-y-promete-ampliarlo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Abascal defiende que su mujer cobre el bono social térmico por ser familia numerosa."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en la campaña electoral, con énfasis en el PP y en el impacto de la convocatoria sobre las leyes del Congreso. También sigue de cerca los casos judiciales de Zapatero y del Adif.",
+   "resumen": "Pone el acento en las cifras electorales y en las críticas al Gobierno, con foco en la izquierda fragmentada y en medidas aprobadas en campaña. También recoge asuntos de Bruselas y sucesos.",
    "noticias": [
+    {
+     "titular": "Sánchez esquilma a toda la izquierda: Podemos se aleja del escaño para Irene Montero y Colau ya roza los 10 diputados",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca438e9cf4a7d7a8b459c.html",
+     "seccion": "PP",
+     "resumen": "Los sondeos sitúan a la derecha en torno al 50,5% y a Podemos y Colau en retroceso o cerca de escaños."
+    },
     {
      "titular": "Feijóo se planta entre gritos e insultos ante los violentos en Guipúzcoa: \"¡Ni un paso atrás!\"",
      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc3a88e85ece1a3b8b458b.html",
      "seccion": "PP",
-     "resumen": "Feijóo visita Guipúzcoa entre gritos y reclama a Sánchez que condene las agresiones al PP."
-    },
-    {
-     "titular": "Los damnificados de las leyes imposibles del Congreso con Sánchez: \"Somos moneda de cambio de derechas e izquierdas\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afb46c5e85ece2d268b45a3.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "La convocatoria electoral deja decaídos más de 300 proyectos y proposiciones de ley en el Congreso."
-    },
-    {
-     "titular": "La advertencia de Bruselas en plena campaña: mejora su previsión de crecimiento para España pero constata que los precios se disparan",
-     "url": "https://www.elmundo.es/economia/2026/11/17/6afc1a57e9cf4af8588b45ab.html",
-     "seccion": "Artículos Daniel Viaña",
-     "resumen": "Bruselas eleva al 2,6% la previsión de crecimiento de España para 2026 pero alerta de la subida de precios."
+     "resumen": "Feijóo acude a Eibar y reclama a Sánchez que condene las agresiones al PP."
     },
     {
      "titular": "El Gobierno lanza en plena campaña electoral la subida del salario mínimo a 1.286 euros y del 4,5% en el sueldo de los funcionarios para más de cinco millones de trabajadores",
      "url": "https://www.elmundo.es/economia/2026/11/17/6afc2279fc6c83ea548b45a1.html",
      "seccion": "Artículos Daniela Saltos",
-     "resumen": "El Gobierno aprueba la subida del SMI a 1.286 euros y del 4,5% a funcionarios, en plena campaña."
+     "resumen": "El Gobierno anuncia en campaña la subida del SMI a 1.286 euros y del sueldo de funcionarios."
     },
     {
-     "titular": "La suspensión de voto ordenada por el Supremo afectará a 113.326 nacionalizados por la 'ley de nietos'",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc4d74e85ecef8068b45b2.html",
-     "seccion": "Tribunal Supremo",
-     "resumen": "La Abogacía del Estado comunica al Supremo la cifra final de 113.326 afectados por la suspensión de voto."
+     "titular": "Bruselas estima que la subida encubierta de impuestos del Gobierno al no deflactar el IRPF costará a los ciudadanos más de 2.500 millones este año",
+     "url": "https://www.elmundo.es/economia/2026/11/17/6afc3f49e9cf4aa8668b4572.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "Bruselas calcula en más de 2.500 millones el coste de no deflactar el IRPF este año."
     },
     {
-     "titular": "Zapatero ficha a dos joyeros de Valencia que tasarán a la baja las joyas que le intervino el juez",
-     "url": "https://www.elmundo.es/espana/2026/11/17/6afc2c7921efa0c5248b45ab.html",
-     "seccion": "José Luis Rodríguez Zapatero",
-     "resumen": "Zapatero contrata a dos joyeros valencianos para tasar sus joyas, que el juez valora en torno al millón de euros."
+     "titular": "Jensen Huang dice que \"se sentiría honrado de volver a dirigir Nvidia\" si se lo pide el consejo de administración",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/17/6afc8958fc6c83ea548b45ba.html",
+     "seccion": "Donald Trump",
+     "resumen": "Huang afirma que volvería a dirigir Nvidia si el consejo se lo pide."
     },
     {
-     "titular": "Un ex empleado de una cantera denuncia a la juez que Adif usó material defectuoso en las obras previas al choque de trenes de Adamuz",
-     "url": "https://www.elmundo.es/andalucia/2026/11/17/6afbed45fdddffac5b8b45a2.html",
-     "seccion": "Andalucía",
-     "resumen": "Un extrabajador denuncia ante la jueza que Adif usó balasto de mala calidad antes del choque de Adamuz."
+     "titular": "\"No vemos que se avecine una crisis, pero hay que estar preparados para todo\": una semana de apagones digitales dispara las alarmas en EEUU",
+     "url": "https://www.elmundo.es/internacional/2026/11/17/6afca959e4d4d8353a8b45a4.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Una semana de caídas digitales en EEUU genera alarma, aunque sin pruebas de ataque."
     },
     {
-     "titular": "Caos en Cercanías y Rodalies por el incumplimiento de los servicios mínimos: la Generalitat advierte de posibles despidos",
-     "url": "https://www.elmundo.es/economia/2026/11/17/6afbf4c2e9cf4a547f8b4577.html",
-     "seccion": "Renfe",
-     "resumen": "Renfe suprime el 97,6% de trenes en Cercanías Madrid y el 40% en Cataluña por el incumplimiento de servicios mínimos."
+     "titular": "Los damnificados de las leyes imposibles del Congreso con Sánchez: \"Somos moneda de cambio de derechas e izquierdas\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afb46c5e85ece2d268b45a3.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Más de 300 proyectos de ley decaen con la convocatoria electoral."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Destaca la campaña electoral y los asuntos de Adif, Igualdad y Plus Ultra, con una línea de crítica a la gestión del Gobierno. Incluye también temas internacionales y de sociedad.",
+   "resumen": "Combina política nacional con la campaña y las encuestas, con un enfoque de crítica a las medidas del Gobierno. Incluye deportes y secciones de servicio como recetas, que no se priorizan.",
    "noticias": [
     {
-     "titular": "Un exdirectivo de Adif declara que Pardo de Vera le dijo que «molestaban» a Jésica Rodríguez al llamarla porque no fichaba",
-     "url": "https://www.abc.es/espana/exdirectivo-adif-ignacio-zaldivar-declara-pardo-vera-20261117132424-nt.html",
+     "titular": "Cómo van las encuestas del 29N",
+     "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261116020646-nt.html",
      "seccion": "",
-     "resumen": "Un exdirectivo de Adif declara que Pardo de Vera le advirtió de que Jésica Rodríguez molestaba al llamarle por no fichar."
+     "resumen": "El promedio de ABC sitúa al PP con 30,9% y 3,5 puntos sobre el PSOE."
     },
     {
-     "titular": "Igualdad ordenó instalar pulseras antimaltrato sabiendo que no funcionaban",
-     "url": "https://www.abc.es/espana/nuevos-correos-revelan-igualdad-ordeno-instalar-pulseras-20261117021127-nt.html",
+     "titular": "Abascal compara el «rictus» de Pedro Sánchez con el de José Bretón: «Está desesperado»",
+     "url": "https://www.abc.es/espana/canarias/abascal-compara-rictus-pedro-sanchez-jose-breton-20261117221114-nt.html",
      "seccion": "",
-     "resumen": "Una comunicación interna de 2024 alertó de que las pulseras antimaltrato no funcionaban, y el Ministerio de Igualdad ordenó instalarlas igualmente."
+     "resumen": "Abascal, en su gira por Canarias, califica a Sánchez de catástrofe para los españoles."
     },
     {
-     "titular": "Subida de sueldo para cinco millones de trabajadores: las medidas aprobadas por el Gobierno",
-     "url": "https://www.abc.es/economia/cuentas-corrientes/subida-sueldo-cinco-millones-trabajadores-espana-medidas-20261117125039-nt.html",
+     "titular": "Jensen Huang abre la puerta a volver a Nvidia: «Si la junta decide que es lo mejor, será un honor»",
+     "url": "https://www.abc.es/internacional/jensen-huang-comparecera-congreso-eeuu-diciembre-20261117165525-nt.html",
      "seccion": "",
-     "resumen": "Las medidas salariales del Gobierno afectan a unos cinco millones de personas, con subidas por encima de la inflación del 4,9%."
+     "resumen": "Huang se muestra dispuesto a volver a Nvidia si la junta lo considera lo mejor."
     },
     {
-     "titular": "La huelga de maquinistas colapsa Madrid y Barcelona tras no cumplirse los servicios mínimos previstos",
-     "url": "https://www.abc.es/economia/huelga-maquinistas-deja-cercanias-madrid-servicio-rodalies-20261117074616-nt.html",
+     "titular": "Teletienda electoral",
+     "url": "https://www.abc.es/espana/juan-soto-ivars-teletienda-electoral-20261117192650-nt.html",
      "seccion": "",
-     "resumen": "La huelga de maquinistas colapsa Madrid y Barcelona al no cumplirse los servicios mínimos previstos."
+     "resumen": "Columna de opinión que critica las medidas electorales del Consejo de Ministros."
     },
     {
-     "titular": "De Cos acaricia la presidencia del BCE tras proponer Alemania candidato para economista jefe",
-     "url": "https://www.abc.es/economia/alemania-propondra-brunnermeier-economista-jefe-bce-allanando-20261117122045-nt.html",
+     "titular": "El régimen cubano acusa a la corresponsal de ABC de atentado: «Buscan silenciarme y obligarme a dejar la isla»",
+     "url": "https://www.abc.es/internacional/regimen-cubano-acusa-corresponsal-abc-atentado-buscan-20261117193835-nt.html",
      "seccion": "",
-     "resumen": "Pablo Hernández de Cos se acerca a la presidencia del BCE tras la propuesta alemana para economista jefe."
+     "resumen": "El régimen cubano acusa a Camila Acosta, corresponsal de ABC, de atentado y la presiona para salir de la isla."
     },
     {
-     "titular": "El Reino Unido eleva la presión sobre Israel y sanciona a ocho constructoras por su papel en los asentamientos de Cisjordania",
-     "url": "https://www.abc.es/internacional/reino-unido-sanciona-ocho-constructoras-israelies-fomentan-20261117112046-nt.html",
+     "titular": "Los partidos árabes facilitan a Eisenkot el control del Parlamento israelí",
+     "url": "https://www.abc.es/internacional/israel-elige-hoy-presidente-parlamento-20261117201933-nt.html",
      "seccion": "",
-     "resumen": "El Reino Unido sanciona a ocho empresas israelíes por su papel en los asentamientos de Cisjordania."
+     "resumen": "Los partidos árabes apoyan a Matan Kahana para presidir la Knéset, en un giro contra Netanyahu."
     },
     {
-     "titular": "Los ministros europeos de Defensa se comprometen a seguir apoyando a Ucrania este invierno",
-     "url": "https://www.abc.es/internacional/ministros-europeos-defensa-comprometen-seguir-apoyando-ucrania-20261117141035-nt.html",
+     "titular": "Investigan un «granja de los horrores» en Zaragoza con cadáveres de cerdos mezclados con animales vivos",
+     "url": "https://www.abc.es/espana/aragon/investigan-granja-horrores-tauste-zaragoza-cadaveres-cerdos-20261117194848-nt.html",
      "seccion": "",
-     "resumen": "Los ministros europeos de Defensa acuerdan seguir apoyando a Ucrania durante el invierno."
-    },
-    {
-     "titular": "Albiol aplaude el plan de cinco países europeos para deportar inmigrantes a Ruanda: «Fantástico»",
-     "url": "https://www.abc.es/espana/cataluna/albiol-aplaude-plan-cinco-paises-europeos-deportar-20261117101338-nt.html",
-     "seccion": "",
-     "resumen": "Albiol celebra el plan de cinco países europeos para crear un centro de deportación en Ruanda."
+     "resumen": "Investigan una granja de cerdos en Zaragoza con cadáveres mezclados con animales vivos."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Prioriza la campaña electoral con foco en Cataluña y en los pactos de los partidos. Además, incluye la subida salarial y la previsión económica de Bruselas.",
+   "resumen": "Pone el foco en la campaña en Cataluña y en la política de pactos, junto a medidas económicas y el conflicto de Rodalies. Incluye el seguimiento en directo de la campaña.",
    "noticias": [
-    {
-     "titular": "Bruselas mejora las previsiones económicas de España pero avisa de los riesgos de la vivienda",
-     "url": "https://www.lavanguardia.com/economia/20261117/11686208/bruselas-mejora-previsiones-economicas-espana-avisa-riesgos-vivienda.html",
-     "seccion": "Economía",
-     "resumen": "La Comisión Europea mejora las previsiones para España y advierte de que el acceso a la vivienda es el principal riesgo."
-    },
-    {
-     "titular": "El sueldo de los funcionarios subirá un 5% en el 2027",
-     "url": "https://www.lavanguardia.com/economia/20261117/11686401/sueldo-funcionarios-subira-5-2027.html",
-     "seccion": "Economía",
-     "resumen": "El Gobierno aprueba una subida del 4,5% para los funcionarios en 2027 y un 0,5% variable del 2026."
-    },
     {
      "titular": "El Gobierno ha aprobado la subida del SMI hasta los 1.286 euros y seguirá sin tributar",
      "url": "https://www.lavanguardia.com/economia/20261117/11686354/gobierno-aprobado-subida-smi-1-286-euros-seguira-tributar.html",
      "seccion": "Economía",
-     "resumen": "El SMI sube hasta 1.286 euros sin tributar y Yolanda Díaz presenta un decreto de transparencia salarial."
+     "resumen": "El Gobierno aprueba el SMI de 1.286 euros, exento de tributación, y la ley de transparencia salarial."
     },
     {
-     "titular": "Los maquinistas de Rodalies incumplen los servicios mínimos y el Govern avisa de posibles despidos",
-     "url": "https://www.lavanguardia.com/local/catalunya/20261117/11685350/trafico-carreteras-cortes-trenes-rodalies-accesos-barcelona-cataluna-martes-17-noviembre-en-directo.html",
-     "seccion": "Catalunya",
-     "resumen": "Los maquinistas de Rodalies incumplen los servicios mínimos y la Generalitat avisa de posibles despidos."
+     "titular": "PSOE y Sumar libran sus últimos pulsos internos por los decretos que se aprobarán antes del 29-N",
+     "url": "https://www.lavanguardia.com/politica/20261117/11686555/psoe-sumar-libran-ultimos-pulsos-internos-decretos-aprobaran-29-n.html",
+     "seccion": "Política",
+     "resumen": "PSOE y Sumar negocian los últimos decretos antes del 29N; Moncloa descarta el registro horario y la prestación por crianza."
     },
     {
      "titular": "Feijóo acusa a Sánchez de “justificar” la violencia por “no condenar” la agresión a Echeverría",
      "url": "https://www.lavanguardia.com/politica/20261117/11686419/feijoo-acusa-sanchez-justificar-violencia-condenar-incidente-violento-vivido-echeverria-gipuzkoa.html",
      "seccion": "Política",
-     "resumen": "Feijóo acusa a Sánchez de justificar la violencia tras no condenar la agresión a Echeverría en Eibar."
+     "resumen": "Feijóo acusa a Sánchez de justificar la violencia tras la agresión a Echeverría."
     },
     {
-     "titular": "El debate electoral a cuatro será el jueves 26 de noviembre",
-     "url": "https://www.lavanguardia.com/politica/20261117/11686254/debate-electoral-cuatro-sera-jueves-26-noviembre.html",
-     "seccion": "Política",
-     "resumen": "Sánchez, Feijóo, Abascal y Colau debatirán el 26 de noviembre en la Academia de Televisión."
+     "titular": "Rufián aboga por un Govern de concentración con el PSC, Comuns y la CUP si ganan el PP y Vox",
+     "url": "https://www.lavanguardia.com/politica/elecciones/20261117/11686252/rufian-aboga-govern-concentracion-psc-comuns-cup-ganan-pp-vox-29-n.html",
+     "seccion": "Elecciones",
+     "resumen": "Rufián propone un Govern de concentración con PSC, Comuns y CUP si ganan PP y Vox."
     },
     {
      "titular": "Junts pide a los candidatos un compromiso por escrito de que hablarán catalán en el Congreso",
      "url": "https://www.lavanguardia.com/politica/20261117/11686274/junts-pide-candidatos-compromiso-escrito-hablaran-catalan-congreso.html",
      "seccion": "Política",
-     "resumen": "Junts pide a los candidatos un compromiso por escrito para hablar catalán en el Congreso."
+     "resumen": "Junts exige a los candidatos hablar catalán en el Congreso y rechaza pactar con PP y Vox."
     },
     {
-     "titular": "Alemania escoge un economista jefe para el BCE y despeja el camino de la presidencia a De Cos",
-     "url": "https://www.lavanguardia.com/economia/20261117/11686446/alemania-escoge-brunnermeier-bce-despeja-camino-cos-presidencia.html",
-     "seccion": "Economía",
-     "resumen": "Alemania propone un economista jefe para el BCE, lo que abre el camino a De Cos como presidente."
+     "titular": "Una mala gestión en Rodalies amplifica los efectos de la huelga ferroviaria",
+     "url": "https://www.lavanguardia.com/local/barcelona/20261117/11686850/mala-gestion-rodalies-amplifica-efectos-huelga-ferroviaria-servicios-minimos.html",
+     "seccion": "Barcelona",
+     "resumen": "Los servicios mínimos fallan en Rodalies durante la huelga ferroviaria por problemas de notificación."
+    },
+    {
+     "titular": "Muere Enrique Lemus, uno de los fundadores de Núcleo Nacional, detenido hace diez días",
+     "url": "https://www.lavanguardia.com/politica/20261117/11686851/muere-enrique-lemus-fundadores-nucleo-nacional-detenido-diez-dias.html",
+     "seccion": "Política",
+     "resumen": "Muere Enrique Lemus, fundador de Núcleo Nacional, investigado en una causa por asociación ilícita y odio."
     }
    ]
   }
