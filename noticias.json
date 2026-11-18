@@ -1,410 +1,228 @@
 {
  "fecha": "2026-11-18",
- "franja": "mañana",
- "generada": "2026-11-18T00:40+01:00",
+ "franja": "tarde",
+ "generada": "2026-11-18T15:40+01:00",
  "con_ia": true,
- "resumen_dia": "La campaña para las elecciones generales del 29N domina la portada de los cuatro diarios, con Feijóo en Eibar tras los incidentes, los sondeos y el mensaje económico del Gobierno. El Consejo de Ministros aprueba la subida del salario mínimo a 1.286 euros y del sueldo de los funcionarios. En lo internacional, la salida de Jensen Huang de Nvidia y su disposición a volver centran la atención, junto a la caída de una red de comunicaciones de la agencia de seguridad estadounidense. Bruselas advierte de que la vivienda es el principal riesgo para la economía española.",
- "temas_comunes": [
-  {
-   "titulo": "Feijóo en Eibar tras los incidentes",
-   "resumen": "Feijóo acude a Eibar con un fuerte dispositivo policial y gritos de protesta. Acusa a Sánchez de no condenar las agresiones y de justificarlas.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Destaca el dispositivo policial y los gritos de 'fascista' durante la comparecencia junto a Echeverría.",
-     "noticias": [
-      {
-       "titular": "Feijóo comparece junto a Echeverría, en Eibar, en medio de un gran dispositivo policial y algunos gritos de “fascista”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/feijoo-junto-a-echeverria-en-eibar-no-nos-van-a-callar-no-vamos-a-dar-un-paso-atras-en-euskadi-ni-en-ningun-lugar-de-espana.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Subraya el enfrentamiento con los manifestantes y la demanda a Sánchez de llamar a Echeverría.",
-     "noticias": [
-      {
-       "titular": "Feijóo se planta entre gritos e insultos ante los violentos en Guipúzcoa: \"¡Ni un paso atrás!\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc3a88e85ece1a3b8b458b.html",
-       "seccion": "PP"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Enfoca la acusación de Feijóo a Sánchez por sus acuerdos con Bildu.",
-     "noticias": [
-      {
-       "titular": "Feijóo acusa a Sánchez de “justificar” la violencia por “no condenar” la agresión a Echeverría",
-       "url": "https://www.lavanguardia.com/politica/20261117/11686419/feijoo-acusa-sanchez-justificar-violencia-condenar-incidente-violento-vivido-echeverria-gipuzkoa.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Subida del salario mínimo y de funcionarios",
-   "resumen": "El Gobierno aprueba el alza del SMI a 1.286 euros y una subida salarial para los funcionarios en plena campaña. Afecta a millones de trabajadores.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Pone el foco en el momento de la medida, lanzada durante la campaña, y en el número de beneficiarios.",
-     "noticias": [
-      {
-       "titular": "El Gobierno lanza en plena campaña electoral la subida del salario mínimo a 1.286 euros y del 4,5% en el sueldo de los funcionarios para más de cinco millones de trabajadores",
-       "url": "https://www.elmundo.es/economia/2026/11/17/6afc2279fc6c83ea548b45a1.html",
-       "seccion": "Artículos Daniela Saltos"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge la subida del SMI sin tributar y la nueva ley de transparencia salarial que presenta Yolanda Díaz.",
-     "noticias": [
-      {
-       "titular": "El Gobierno ha aprobado la subida del SMI hasta los 1.286 euros y seguirá sin tributar",
-       "url": "https://www.lavanguardia.com/economia/20261117/11686354/gobierno-aprobado-subida-smi-1-286-euros-seguira-tributar.html",
-       "seccion": "Economía"
-      },
-      {
-       "titular": "El sueldo de los funcionarios subirá un 5% en el 2027",
-       "url": "https://www.lavanguardia.com/economia/20261117/11686401/sueldo-funcionarios-subira-5-2027.html",
-       "seccion": "Economía"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Lo presenta dentro de una lista de medidas electorales del Consejo de Ministros, con tono crítico en el titular.",
-     "noticias": [
-      {
-       "titular": "Teletienda electoral",
-       "url": "https://www.abc.es/espana/juan-soto-ivars-teletienda-electoral-20261117192650-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Salida y posible regreso de Jensen Huang a Nvidia",
-   "resumen": "Nvidia presenta resultados que superan previsiones mientras Huang se declara dispuesto a volver como consejero delegado. La SEC investiga a la compañía tras su salida.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Centra la noticia en los resultados y en la investigación de la SEC, y añade que el consejo descarta la vuelta.",
-     "noticias": [
-      {
-       "titular": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
-       "url": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
-       "seccion": "Empresas"
-      },
-      {
-       "titular": "El presidente del consejo de Nvidia asegura que la junta no tiene intención de restituir a Jensen Huang como CEO",
-       "url": "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html",
-       "seccion": "Estados Unidos"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge la disposición de Huang a volver a dirigir la empresa tras los resultados.",
-     "noticias": [
-      {
-       "titular": "Jensen Huang dice que \"se sentiría honrado de volver a dirigir Nvidia\" si se lo pide el consejo de administración",
-       "url": "https://www.elmundo.es/economia/empresas/2026/11/17/6afc8958fc6c83ea548b45ba.html",
-       "seccion": "Donald Trump"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Pone el foco en la disposición de Huang a regresar si la junta lo decide.",
-     "noticias": [
-      {
-       "titular": "Jensen Huang abre la puerta a volver a Nvidia: «Si la junta decide que es lo mejor, será un honor»",
-       "url": "https://www.abc.es/internacional/jensen-huang-comparecera-congreso-eeuu-diciembre-20261117165525-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Vivienda como riesgo para la economía",
-   "resumen": "La Comisión Europea señala la falta de vivienda como principal riesgo para la economía española, en un informe que también revisa las previsiones.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge la advertencia de Bruselas sobre la movilidad laboral y la llegada de trabajadores.",
-     "noticias": [
-      {
-       "titular": "Bruselas alerta de que la falta de vivienda es “el riesgo principal” para la economía española",
-       "url": "https://elpais.com/economia/2026-11-17/bruselas-alerta-de-que-la-falta-de-vivienda-es-el-riesgo-principal-para-la-economia-espanola.html",
-       "seccion": "Vivienda"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Destaca la mejora de previsiones económicas junto con el aviso sobre la vivienda.",
-     "noticias": [
-      {
-       "titular": "Bruselas mejora las previsiones económicas de España pero avisa de los riesgos de la vivienda",
-       "url": "https://www.lavanguardia.com/economia/20261117/11686208/bruselas-mejora-previsiones-economicas-espana-avisa-riesgos-vivienda.html",
-       "seccion": "Economía"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Encuestas y sondeos electorales",
-   "resumen": "Los sondeos muestran a PP y PSOE con pocos cambios en los bloques, mientras Vox cede terreno según un tracking. ABC sitúa al PP con 3,5 puntos de ventaja.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Destaca el quinto tracking de 40dB y la lenta subida del PSOE sin movimiento de los bloques.",
-     "noticias": [
-      {
-       "titular": "Vox se frena y cede terreno al PP",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Pone el foco en la fragmentación de la izquierda y la horquilla de escaños de la derecha.",
-     "noticias": [
-      {
-       "titular": "Sánchez esquilma a toda la izquierda: Podemos se aleja del escaño para Irene Montero y Colau ya roza los 10 diputados",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca438e9cf4a7d7a8b459c.html",
-       "seccion": "PP"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Ofrece el promedio propio con el PP por delante del PSOE.",
-     "noticias": [
-      {
-       "titular": "Cómo van las encuestas del 29N",
-       "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261116020646-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Incluye los últimos sondeos dentro de su seguimiento en directo de la campaña.",
-     "noticias": [
-      {
-       "titular": "Elecciones generales del 29N: últimos sondeos, encuestas y actos de la campaña electoral en España, hoy en directo",
-       "url": "https://www.lavanguardia.com/politica/20261117/11685191/elecciones-geenrales-29n-2026-campana-electoral-martes-17-noviembre-ultima-hora-en-directo.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  }
- ],
+ "resumen_dia": "La campaña para las elecciones generales del 29-N domina las portadas, con Feijóo sobre la eutanasia y la corrupción, el voto táctico y las agresiones a cargos del PP en el País Vasco. En lo judicial destacan la admisión de la querella contra Julio Iglesias en la Audiencia Nacional y las pesquisas del Tribunal de Cuentas sobre los pagos al hermano de Pedro Sánchez. En lo internacional, la cumbre de APEC en China reúne a Xi, Putin y Trump, mientras Irán ataca bases estadounidenses y se rompe una tregua de más de dos meses.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\": \"Querella contra Julio Iglesias admitida en la Audiencia Nacional\", \"resumen\": \"El juez Antonio Piña admite la querella presentada por dos extrabajadoras por delitos contra la libertad sexual, lesiones y trato degradante, y cita a declarar a las querellantes en febrero.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Presenta la admisión como una investigación que el juez llevará a cabo tras la denuncia de dos extrabajadoras, con fecha de declaración el 3 de febrero.\", \"ids\": [\"elpais-5\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya que el juez reclama la jurisdicción española y rechaza la acusación de trata de seres humanos.\", \"ids\": [\"elmundo-9\"]}, {\"medio\": \"abc\", \"enfoque\": \"Detalla que los hechos se habrían producido en el servicio doméstico de sus casas en República Dominicana y Bahamas.\", \"ids\": [\"abc-17\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Destaca que el juez busca aclarar por qué las querellantes mantuvieron contacto con el artista hasta 2024.\", \"ids\": [\"lavanguardia-5\"]}]}, {\"titulo\": \"Cumbre de Xi, Putin y Trump en China\", \"resumen\": \"Xi Jinping recibe a Trump y Putin en China antes de la cumbre de APEC en Shenzhen, donde defiende el libre comercio frente al proteccionismo.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Recoge el saludo entre Trump y Putin y la advertencia de Xi contra el unilateralismo, junto a la crítica de Putin al declive de Europa.\", \"ids\": [\"elpais-14\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Pone el foco en la alianza entre Putin y Xi y en el gesto inusual de Xi al recibir a Trump en el aeropuerto.\", \"ids\": [\"elmundo-10\", \"elmundo-11\"]}, {\"medio\": \"abc\", \"enfoque\": \"Enfatiza el discurso de Xi y Putin contra las sanciones de EE.UU. antes del encuentro con Trump, y la petición de Zelenski de más misiles Patriot.\", \"ids\": [\"abc-5\", \"abc-6\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Se centra en el discurso de Putin contra las 'expotencias en declive' y en Xi como garante del comercio libre.\", \"ids\": [\"lavanguardia-0\", \"lavanguardia-1\"]}]}, {\"titulo\": \"Campaña electoral del 29-N\", \"resumen\": \"Los partidos aceleran la campaña a menos de dos semanas de las generales, con debates, encuestas y críticas cruzadas entre PP, PSOE y la izquierda.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Se fija en encuestas y voto táctico, con un modelo que sitúa 42 escaños en juego, y en la declaración de Feijóo sobre la eutanasia.\", \"ids\": [\"elpais-0\", \"elpais-1\", \"elpais-2\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Acompaña la campaña de Feijóo tras las agresiones a cargos del PP en el País Vasco y vincula la violencia con Bildu.\", \"ids\": [\"elmundo-1\", \"elmundo-4\"]}, {\"medio\": \"abc\", \"enfoque\": \"Sigue la estrategia del PSOE de retener votantes frente al PP y la figura de Sánchez, con un análisis de su estrategia comunicativa.\", \"ids\": [\"abc-12\", \"abc-11\", \"abc-14\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Recoge las intervenciones de Albiol, Hereu y Rufián y el directo de la jornada electoral.\", \"ids\": [\"lavanguardia-7\", \"lavanguardia-9\", \"lavanguardia-14\", \"lavanguardia-8\"]}]}, {\"titulo\": \"Tribunal de Cuentas y pagos al hermano de Sánchez\", \"resumen\": \"El Tribunal de Cuentas ordena investigar los pagos percibidos por David Sánchez mientras trabajó para la Diputación de Badajoz.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Destaca que la Fiscalía del Tribunal de Cuentas respalda la causa pese a la oposición de la Diputación de Badajoz.\", \"ids\": [\"elmundo-8\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge que el órgano fiscalizador envía el asunto a un instructor tras una denuncia de Iustitia Europa.\", \"ids\": [\"abc-0\"]}]}, {\"titulo\": \"Caso Cloacas y secreto profesional\", \"resumen\": \"El PSOE se acoge al secreto profesional para no entregar parte de la información que reclama el juez Pedraz.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Detalla que el partido limita lo aportado a una tabla de abogados, una descripción genérica y las facturas.\", \"ids\": [\"elmundo-5\"]}]}, {\"titulo\": \"Irán y tregua rota con EE.UU.\", \"resumen\": \"Irán ataca bases estadounidenses en Kuwait y Bahréin y EE.UU. bombardea Ormuz, rompiendo una tregua de más de dos meses.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Recoge el ataque iraní y el bombardeo estadounidense como ruptura de la tregua.\", \"ids\": [\"elmundo-16\"]}]}]",
+ "temas_comunes": [],
  "medios": [
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña del 29N con foco en la coalición de izquierdas, los sondeos y los ataques cruzados entre partidos. Incluye también la economía tecnológica con Nvidia y noticias de sociedad y cultura.",
+   "resumen": "Prioriza la campaña electoral, con foco en encuestas, voto táctico y declaraciones de Feijóo y Sánchez. Incluye también la causa contra Julio Iglesias y la cumbre de APEC.",
    "noticias": [
     {
-     "titular": "La coalición compite por los votos de la izquierda en directo en La Moncloa: “El decreto está listo, portavoz”",
-     "url": "https://elpais.com/espana/2026-11-17/la-coalicion-compite-por-los-votos-de-la-izquierda-en-directo-en-la-moncloa-el-decreto-esta-listo-portavoz.html",
+     "titular": "Feijóo abre la puerta a una “derogación total” de la ley de la eutanasia",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/feijoo-abre-la-puerta-a-una-derogacion-total-de-la-ley-de-la-eutanasia.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo no descarta derogar completamente la ley de eutanasia y responde sobre los casos de corrupción en el PP."
+    },
+    {
+     "titular": "El PP consolida su posición frente a Vox",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-pp-consolida-su-posicion-frente-a-vox.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Un sondeo de 40dB indica que el flujo de votos entre bloques solo va hacia la derecha, con el PP reforzando su posición frente a Vox."
+    },
+    {
+     "titular": "El mapa del voto táctico para que el último escaño por provincia se lo lleve la derecha o la izquierda: ¿qué dicen las encuestas?",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-mapa-del-voto-tactico-para-que-el-ultimo-escano-por-provincia-se-lo-lleve-la-derecha-o-la-izquierda-que-dicen-las-encuestas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Un modelo del diario estima 42 escaños en disputa en las provincias y ofrece una herramienta para el voto táctico."
+    },
+    {
+     "titular": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual, lesiones y trato degradante",
+     "url": "https://elpais.com/sociedad/2026-11-18/la-audiencia-nacional-admite-la-querella-contra-julio-iglesias-por-delitos-contra-la-libertad-sexual-lesiones-y-trato-degradante.html",
+     "seccion": "Sociedad",
+     "resumen": "La Audiencia Nacional admite la querella contra Julio Iglesias y cita a declarar a las querellantes el 3 de febrero."
+    },
+    {
+     "titular": "Trump y Putin se saludan tras ser recibidos por Xi Jinping a su llegada a China para participar en la cumbre del APEC",
+     "url": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
+     "seccion": "China",
+     "resumen": "Trump y Putin son recibidos por Xi en China antes de la cumbre de APEC, donde Xi defiende el libre comercio."
+    },
+    {
+     "titular": "El bloque de Eisenkot propina un revés a Netanyahu al hacerse con la presidencia del Parlamento israelí",
+     "url": "https://elpais.com/internacional/2026-11-18/el-bloque-de-eisenkot-propina-un-reves-a-netanyahu-al-hacerse-con-la-presidencia-del-parlamento-israeli.html",
+     "seccion": "Israel",
+     "resumen": "El bloque de Eisenkot logra la presidencia del Parlamento israelí con apoyo de partidos árabes, en un revés para Netanyahu."
+    },
+    {
+     "titular": "Hacienda obliga a los empleadores a recalcular las nóminas para dejar sin retención de IRPF al salario mínimo",
+     "url": "https://elpais.com/economia/2026-11-18/hacienda-obliga-a-los-empleadores-a-recalcular-las-nominas-para-dejar-sin-retencion-de-irpf-al-salario-minimo.html",
+     "seccion": "Economía",
+     "resumen": "Hacienda obliga a recalcular nóminas para que el salario mínimo quede sin retención de IRPF desde enero."
+    },
+    {
+     "titular": "El Supremo confirma cinco años de prisión al expresidente de la Diputación de Valencia Alfonso Rus por contrataciones irregulares",
+     "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-18/el-supremo-confirma-la-condena-de-cinco-anos-de-carcel-del-expresidente-de-la-diputacion-de-valencia-alfonso-rus.html",
      "seccion": "España",
-     "resumen": "Yolanda Díaz hace campaña para Frente Amplio junto a ministros socialistas y defiende la gestión de la coalición."
-    },
-    {
-     "titular": "Sánchez se revuelve contra el ataque de Ayuso a los andaluces: “Andalucía se va a levantar, a movilizar y a darnos la victoria el 29-N”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/sanchez-se-revuelve-contra-el-ataque-de-ayuso-los-andaluces-andalucia-se-va-a-levantar-a-movilizar-y-a-darnos-la-victoria-el-29-n.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Sánchez responde a Ayuso tras sus críticas al legado socialista en Andalucía."
-    },
-    {
-     "titular": "Feijóo comparece junto a Echeverría, en Eibar, en medio de un gran dispositivo policial y algunos gritos de “fascista”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/feijoo-junto-a-echeverria-en-eibar-no-nos-van-a-callar-no-vamos-a-dar-un-paso-atras-en-euskadi-ni-en-ningun-lugar-de-espana.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Feijóo comparece en Eibar con un fuerte dispositivo policial y gritos de protesta."
-    },
-    {
-     "titular": "Vox se frena y cede terreno al PP",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Un tracking de 40dB muestra al PSOE subiendo lentamente y a Vox cediendo terreno frente al PP."
-    },
-    {
-     "titular": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
-     "url": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
-     "seccion": "Empresas",
-     "resumen": "Nvidia supera previsiones, mientras la SEC investiga la compañía tras la salida de Huang."
-    },
-    {
-     "titular": "Bruselas alerta de que la falta de vivienda es “el riesgo principal” para la economía española",
-     "url": "https://elpais.com/economia/2026-11-17/bruselas-alerta-de-que-la-falta-de-vivienda-es-el-riesgo-principal-para-la-economia-espanola.html",
-     "seccion": "Vivienda",
-     "resumen": "Bruselas sitúa la falta de vivienda como principal riesgo para la economía española."
-    },
-    {
-     "titular": "Abascal justifica que su mujer cobre el bono social térmico porque es familia numerosa",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/abascal-justifica-que-su-mujer-cobre-el-bono-social-termico-porque-es-familia-numerosa-y-promete-ampliarlo.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Abascal defiende que su mujer cobre el bono social térmico por ser familia numerosa."
+     "resumen": "El Supremo confirma cinco años de prisión para Alfonso Rus por contrataciones irregulares en la Diputación de Valencia."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el acento en las cifras electorales y en las críticas al Gobierno, con foco en la izquierda fragmentada y en medidas aprobadas en campaña. También recoge asuntos de Bruselas y sucesos.",
+   "resumen": "Pone el acento en la violencia contra cargos del PP en el País Vasco y en la campaña de Feijóo. Dedica también espacio a la alianza de Putin y Xi y a la escalada con Irán.",
    "noticias": [
     {
-     "titular": "Sánchez esquilma a toda la izquierda: Podemos se aleja del escaño para Irene Montero y Colau ya roza los 10 diputados",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca438e9cf4a7d7a8b459c.html",
-     "seccion": "PP",
-     "resumen": "Los sondeos sitúan a la derecha en torno al 50,5% y a Podemos y Colau en retroceso o cerca de escaños."
-    },
-    {
-     "titular": "Feijóo se planta entre gritos e insultos ante los violentos en Guipúzcoa: \"¡Ni un paso atrás!\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc3a88e85ece1a3b8b458b.html",
-     "seccion": "PP",
-     "resumen": "Feijóo acude a Eibar y reclama a Sánchez que condene las agresiones al PP."
-    },
-    {
-     "titular": "El Gobierno lanza en plena campaña electoral la subida del salario mínimo a 1.286 euros y del 4,5% en el sueldo de los funcionarios para más de cinco millones de trabajadores",
-     "url": "https://www.elmundo.es/economia/2026/11/17/6afc2279fc6c83ea548b45a1.html",
-     "seccion": "Artículos Daniela Saltos",
-     "resumen": "El Gobierno anuncia en campaña la subida del SMI a 1.286 euros y del sueldo de funcionarios."
-    },
-    {
-     "titular": "Bruselas estima que la subida encubierta de impuestos del Gobierno al no deflactar el IRPF costará a los ciudadanos más de 2.500 millones este año",
-     "url": "https://www.elmundo.es/economia/2026/11/17/6afc3f49e9cf4aa8668b4572.html",
-     "seccion": "Artículos Daniel Viaña",
-     "resumen": "Bruselas calcula en más de 2.500 millones el coste de no deflactar el IRPF este año."
-    },
-    {
-     "titular": "Jensen Huang dice que \"se sentiría honrado de volver a dirigir Nvidia\" si se lo pide el consejo de administración",
-     "url": "https://www.elmundo.es/economia/empresas/2026/11/17/6afc8958fc6c83ea548b45ba.html",
-     "seccion": "Donald Trump",
-     "resumen": "Huang afirma que volvería a dirigir Nvidia si el consejo se lo pide."
-    },
-    {
-     "titular": "\"No vemos que se avecine una crisis, pero hay que estar preparados para todo\": una semana de apagones digitales dispara las alarmas en EEUU",
-     "url": "https://www.elmundo.es/internacional/2026/11/17/6afca959e4d4d8353a8b45a4.html",
-     "seccion": "Estados Unidos",
-     "resumen": "Una semana de caídas digitales en EEUU genera alarma, aunque sin pruebas de ataque."
-    },
-    {
-     "titular": "Los damnificados de las leyes imposibles del Congreso con Sánchez: \"Somos moneda de cambio de derechas e izquierdas\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afb46c5e85ece2d268b45a3.html",
+     "titular": "Un día de campaña con Feijóo tras las agresiones a cargos del PP en el País Vasco: \"La violencia es consecuencia directa de blanquear a Bildu\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca35ce4d4d8b81f8b45ab.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Más de 300 proyectos de ley decaen con la convocatoria electoral."
+     "resumen": "Feijóo acompaña la campaña en Guipúzcoa y Vizcaya tras agresiones a cargos del PP y vincula la violencia con Bildu."
+    },
+    {
+     "titular": "Irán ataca bases estadounidenses en Kuwait y Bahrein mientras EEUU bombardea Ormuz",
+     "url": "https://www.elmundo.es/internacional/2026/11/18/6afd7a6121efa04d6f8b4597.html",
+     "seccion": "Irán",
+     "resumen": "Irán ataca bases estadounidenses en Kuwait y Bahréin y EE.UU. bombardea Ormuz, rompiendo una tregua de más de dos meses."
+    },
+    {
+     "titular": "El Tribunal de Cuentas ordena que un instructor investigue ya los pagos al hermano de Pedro Sánchez para recuperar el dinero",
+     "url": "https://www.elmundo.es/espana/2026/11/18/6afd74dbe4d4d829508b4592.html",
+     "seccion": "Artículos Carlos Segovia",
+     "resumen": "El Tribunal de Cuentas ordena investigar los pagos al hermano de Pedro Sánchez para tratar de recuperar el dinero."
+    },
+    {
+     "titular": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra libertad sexual y cita a las querellantes en febrero",
+     "url": "https://www.elmundo.es/cultura/musica/2026/11/18/6afd91a2fc6c83fa228b4585.html",
+     "seccion": "Julio Iglesias",
+     "resumen": "La Audiencia Nacional admite la querella contra Julio Iglesias y rechaza la acusación de trata de seres humanos."
+    },
+    {
+     "titular": "Vladimir Putin y Xi Jinping exhiben su alianza en China: \"Nuestra relación es firme como una montaña\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/18/6afd6c6821efa081348b4591.html",
+     "seccion": "Vladimir Putin",
+     "resumen": "Xi y Putin escenifican su alianza y Putin aparece cada vez más dependiente de Pekín."
+    },
+    {
+     "titular": "El abrazo de Xi a Trump: una bienvenida insólita en la China de los gestos medidos",
+     "url": "https://www.elmundo.es/internacional/2026/11/18/6afd898ee85ece744b8b4575.html",
+     "seccion": "Xi Jinping",
+     "resumen": "Xi recibe a Trump en el aeropuerto, un gesto poco habitual, antes de la cumbre con Putin."
+    },
+    {
+     "titular": "El PSOE vuelve a escudarse en el secreto profesional para no entregar parte de la información que reclama el juez del 'caso Cloacas'",
+     "url": "https://www.elmundo.es/espana/2026/11/18/6afd840ce9cf4aeb368b4570.html",
+     "seccion": "",
+     "resumen": "El PSOE se acoge al secreto profesional y entrega solo una tabla de abogados, descripciones genéricas y facturas al juez Pedraz."
+    },
+    {
+     "titular": "El Frente Amplio alerta del coste de la opa del PSOE a Ada Colau: 7 escaños que se irán a PP y Vox",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdb130e85ece462f8b4589.html",
+     "seccion": "Frente Amplio",
+     "resumen": "El Frente Amplio advierte de que la estrategia del PSOE de concentrar el voto le costaría escaños a la izquierda frente a PP y Vox."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Combina política nacional con la campaña y las encuestas, con un enfoque de crítica a las medidas del Gobierno. Incluye deportes y secciones de servicio como recetas, que no se priorizan.",
+   "resumen": "Combina la campaña del PSOE y la figura de Sánchez con asuntos judiciales como el caso del hermano del presidente y la Fiscalía en el caso García Ortiz. Incluye también la cumbre de China y temas internacionales.",
    "noticias": [
     {
-     "titular": "Cómo van las encuestas del 29N",
-     "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261116020646-nt.html",
+     "titular": "El Tribunal de Cuentas investigará si hubo desvío de fondos públicos con los sueldos de David Sánchez",
+     "url": "https://www.abc.es/espana/tribunal-cuentas-investigara-desvio-fondos-publicos-sueldos-20261118102854-nt.html",
      "seccion": "",
-     "resumen": "El promedio de ABC sitúa al PP con 30,9% y 3,5 puntos sobre el PSOE."
+     "resumen": "El Tribunal de Cuentas investigará los sueldos de David Sánchez en la Diputación de Badajoz tras una denuncia de Iustitia Europa."
     },
     {
-     "titular": "Abascal compara el «rictus» de Pedro Sánchez con el de José Bretón: «Está desesperado»",
-     "url": "https://www.abc.es/espana/canarias/abascal-compara-rictus-pedro-sanchez-jose-breton-20261117221114-nt.html",
+     "titular": "Xi Jinping y Putin exhiben su alianza y critican las sanciones de EE.UU. antes de reunirse con Trump",
+     "url": "https://www.abc.es/internacional/jinping-critica-putin-unilateralismo-proteccionismo-campan-anchas-20261118122242-nt.html",
      "seccion": "",
-     "resumen": "Abascal, en su gira por Canarias, califica a Sánchez de catástrofe para los españoles."
+     "resumen": "Xi y Putin critican las sanciones de EE.UU. y defienden el orden internacional antes de reunirse con Trump."
     },
     {
-     "titular": "Jensen Huang abre la puerta a volver a Nvidia: «Si la junta decide que es lo mejor, será un honor»",
-     "url": "https://www.abc.es/internacional/jensen-huang-comparecera-congreso-eeuu-diciembre-20261117165525-nt.html",
+     "titular": "Zelenski pide más misiles Patriot y cazas Mirage antes de la cumbre entre Trump, Xi y Putin",
+     "url": "https://www.abc.es/internacional/zelenski-propone-socios-canje-misiles-pide-cazas-20261118141746-nt.html",
      "seccion": "",
-     "resumen": "Huang se muestra dispuesto a volver a Nvidia si la junta lo considera lo mejor."
+     "resumen": "Zelenski pide a los aliados interceptores Patriot e IRIS-T a cambio de entregar aviones Mirage."
     },
     {
-     "titular": "Teletienda electoral",
-     "url": "https://www.abc.es/espana/juan-soto-ivars-teletienda-electoral-20261117192650-nt.html",
+     "titular": "El Constitucional alemán rechaza la repetición electoral que pedía la izquierda radical BSW",
+     "url": "https://www.abc.es/internacional/constitucional-aleman-rechaza-repeticion-electoral-pedia-izquierda-20261118142818-nt.html",
      "seccion": "",
-     "resumen": "Columna de opinión que critica las medidas electorales del Consejo de Ministros."
+     "resumen": "El Constitucional alemán rechaza repetir las elecciones que pedía el BSW tras quedarse fuera del Bundestag por poco."
     },
     {
-     "titular": "El régimen cubano acusa a la corresponsal de ABC de atentado: «Buscan silenciarme y obligarme a dejar la isla»",
-     "url": "https://www.abc.es/internacional/regimen-cubano-acusa-corresponsal-abc-atentado-buscan-20261117193835-nt.html",
+     "titular": "Sánchez busca retener al más de medio millón de votantes que se va al PP",
+     "url": "https://www.abc.es/espana/sanchez-busca-retener-medio-millon-votantes-pp-20261117013708-nt.html",
      "seccion": "",
-     "resumen": "El régimen cubano acusa a Camila Acosta, corresponsal de ABC, de atentado y la presiona para salir de la isla."
+     "resumen": "El PSOE sigue sus trackings diarios para retener a los votantes que se van al PP."
     },
     {
-     "titular": "Los partidos árabes facilitan a Eisenkot el control del Parlamento israelí",
-     "url": "https://www.abc.es/internacional/israel-elige-hoy-presidente-parlamento-20261117201933-nt.html",
+     "titular": "La Fiscalía vuelve a apoyar a García Ortiz y tacha de «desproporcionadas» las costas de 38.500 euros que le impuso el Supremo",
+     "url": "https://www.abc.es/espana/fiscalia-vuelve-apoyar-garcia-ortiz-tacha-desproporcionadas-20261118144041-nt.html",
      "seccion": "",
-     "resumen": "Los partidos árabes apoyan a Matan Kahana para presidir la Knéset, en un giro contra Netanyahu."
+     "resumen": "La Fiscalía apoya que el Supremo revise las costas de 38.500 euros impuestas al exfiscal general García Ortiz."
     },
     {
-     "titular": "Investigan un «granja de los horrores» en Zaragoza con cadáveres de cerdos mezclados con animales vivos",
-     "url": "https://www.abc.es/espana/aragon/investigan-granja-horrores-tauste-zaragoza-cadaveres-cerdos-20261117194848-nt.html",
+     "titular": "Vicente Vallés: «Sánchez es el candidato de la izquierda. Pero ahora quiere ser también el candidato de la extrema izquierda»",
+     "url": "https://www.abc.es/play/television/noticias/vicente-valles-pedro-sanchez-candidato-izquierda-quiere-20261118155108-nt.html",
      "seccion": "",
-     "resumen": "Investigan una granja de cerdos en Zaragoza con cadáveres mezclados con animales vivos."
+     "resumen": "Vicente Vallés sostiene que Sánchez quiere ser también el candidato de la extrema izquierda, con el PSOE ampliando sus propuestas."
+    },
+    {
+     "titular": "La Audiencia Nacional admite la querella presentada contra Julio Iglesias por dos de sus extrabajadoras",
+     "url": "https://www.abc.es/gente/audiencia-nacional-admite-querella-julio-iglesias-presentada-20261118124229-nt.html",
+     "seccion": "",
+     "resumen": "La Audiencia Nacional admite la querella contra Julio Iglesias por hechos ocurridos en el servicio doméstico de sus casas en República Dominicana y Bahamas."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Pone el foco en la campaña en Cataluña y en la política de pactos, junto a medidas económicas y el conflicto de Rodalies. Incluye el seguimiento en directo de la campaña.",
+   "resumen": "Da prioridad a la política de cara al 29-N, con foco en intervenciones de candidatos catalanes y en la política internacional. Recoge también la cumbre de China con un enfoque en Putin y Xi.",
    "noticias": [
     {
-     "titular": "El Gobierno ha aprobado la subida del SMI hasta los 1.286 euros y seguirá sin tributar",
-     "url": "https://www.lavanguardia.com/economia/20261117/11686354/gobierno-aprobado-subida-smi-1-286-euros-seguira-tributar.html",
+     "titular": "Un Putin beligerante carga contra Occidente en su aparición con Xi antes del G-3 con Trump",
+     "url": "https://www.lavanguardia.com/internacional/20261118/11686902/xi-putin-esperan-trump-shenzhen.html",
+     "seccion": "Internacional",
+     "resumen": "Putin critica a Occidente como 'expotencias en declive' en su aparición con Xi antes de la reunión con Trump."
+    },
+    {
+     "titular": "¿La apertura de centros de deportaciones es la muestra del fracaso de la política migratoria de la UE?",
+     "url": "https://www.lavanguardia.com/internacional/20261118/11686837/apertura-centros-deportaciones-muestra-fracaso-politica-migratoria-ue.html",
+     "seccion": "Internacional",
+     "resumen": "Cinco países europeos abrirán en Ruanda un centro para migrantes con asilo denegado, ante la permanencia de la mayoría en Europa."
+    },
+    {
+     "titular": "El juez abre una causa contra Julio Iglesias por delitos contra la libertad sexual y lesiones",
+     "url": "https://www.lavanguardia.com/gente/20261118/11687154/juez-abre-causa-julio-iglesias-delitos-libertad-sexual-lesiones-trato-degradante.html",
+     "seccion": "Gente",
+     "resumen": "El juez Antonio Piña cita a declarar en febrero a dos extrabajadoras que denunciaron a Julio Iglesias."
+    },
+    {
+     "titular": "Albiol pide un triunfo amplio del PP que impida que Sánchez lidere la oposición y el PSOE",
+     "url": "https://www.lavanguardia.com/politica/20261118/11687023/albiol-pide-triunfo-amplio-pp-impida-sanchez-lidere-oposicion-psoe.html",
+     "seccion": "Política",
+     "resumen": "Albiol pide al PP una victoria amplia que impida a Sánchez liderar la oposición y advierte sobre el PSOE."
+    },
+    {
+     "titular": "Hereu pide concentrar el voto en los socialistas frente a unas izquierdas “que se dan por vencidas”",
+     "url": "https://www.lavanguardia.com/politica/20261118/11687072/hereu-pide-concentrar-voto-socialistas-frente-izquierdas-dan-vencidas.html",
+     "seccion": "Política",
+     "resumen": "Hereu pide concentrar el voto en el PSOE frente a unas izquierdas que, según él, se dan por vencidas."
+    },
+    {
+     "titular": "Sánchez: “Hay casos de corrupción que son reales y casos que son ficticios”",
+     "url": "https://www.lavanguardia.com/politica/20261118/11687015/pedro-sanchez-hay-casos-corrupcion-son-reales-casos-son-ficticios.html",
+     "seccion": "Política",
+     "resumen": "Sánchez afirma que algunos casos de corrupción son reales y otros ficticios, y acusa al PP de forzar el Código Penal."
+    },
+    {
+     "titular": "Junts propone que Ferrocarrils se haga cargo de Rodalies: “Renfe, fuera de Catalunya”",
+     "url": "https://www.lavanguardia.com/politica/20261118/11687296/junts-propone-ferrocarrils-haga-cargo-rodalies-renfe-fuera-catalunya.html",
+     "seccion": "Política",
+     "resumen": "Junts propone que Ferrocarrils asuma Rodalies, con la línea Lleida–La Pobla de Segur como ejemplo."
+    },
+    {
+     "titular": "Nvidia bate todas las expectativas en el primer informe trimestral sin Jensen Huang",
+     "url": "https://www.lavanguardia.com/economia/20261117/11686877/nvidia-bate-todas-expectativas-primer-informe-trimestral-jensen-huang.html",
      "seccion": "Economía",
-     "resumen": "El Gobierno aprueba el SMI de 1.286 euros, exento de tributación, y la ley de transparencia salarial."
-    },
-    {
-     "titular": "PSOE y Sumar libran sus últimos pulsos internos por los decretos que se aprobarán antes del 29-N",
-     "url": "https://www.lavanguardia.com/politica/20261117/11686555/psoe-sumar-libran-ultimos-pulsos-internos-decretos-aprobaran-29-n.html",
-     "seccion": "Política",
-     "resumen": "PSOE y Sumar negocian los últimos decretos antes del 29N; Moncloa descarta el registro horario y la prestación por crianza."
-    },
-    {
-     "titular": "Feijóo acusa a Sánchez de “justificar” la violencia por “no condenar” la agresión a Echeverría",
-     "url": "https://www.lavanguardia.com/politica/20261117/11686419/feijoo-acusa-sanchez-justificar-violencia-condenar-incidente-violento-vivido-echeverria-gipuzkoa.html",
-     "seccion": "Política",
-     "resumen": "Feijóo acusa a Sánchez de justificar la violencia tras la agresión a Echeverría."
-    },
-    {
-     "titular": "Rufián aboga por un Govern de concentración con el PSC, Comuns y la CUP si ganan el PP y Vox",
-     "url": "https://www.lavanguardia.com/politica/elecciones/20261117/11686252/rufian-aboga-govern-concentracion-psc-comuns-cup-ganan-pp-vox-29-n.html",
-     "seccion": "Elecciones",
-     "resumen": "Rufián propone un Govern de concentración con PSC, Comuns y CUP si ganan PP y Vox."
-    },
-    {
-     "titular": "Junts pide a los candidatos un compromiso por escrito de que hablarán catalán en el Congreso",
-     "url": "https://www.lavanguardia.com/politica/20261117/11686274/junts-pide-candidatos-compromiso-escrito-hablaran-catalan-congreso.html",
-     "seccion": "Política",
-     "resumen": "Junts exige a los candidatos hablar catalán en el Congreso y rechaza pactar con PP y Vox."
-    },
-    {
-     "titular": "Una mala gestión en Rodalies amplifica los efectos de la huelga ferroviaria",
-     "url": "https://www.lavanguardia.com/local/barcelona/20261117/11686850/mala-gestion-rodalies-amplifica-efectos-huelga-ferroviaria-servicios-minimos.html",
-     "seccion": "Barcelona",
-     "resumen": "Los servicios mínimos fallan en Rodalies durante la huelga ferroviaria por problemas de notificación."
-    },
-    {
-     "titular": "Muere Enrique Lemus, uno de los fundadores de Núcleo Nacional, detenido hace diez días",
-     "url": "https://www.lavanguardia.com/politica/20261117/11686851/muere-enrique-lemus-fundadores-nucleo-nacional-detenido-diez-dias.html",
-     "seccion": "Política",
-     "resumen": "Muere Enrique Lemus, fundador de Núcleo Nacional, investigado en una causa por asociación ilícita y odio."
+     "resumen": "Nvidia supera las expectativas en su primer informe trimestral sin Jensen Huang al frente."
     }
    ]
   }
