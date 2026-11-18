@@ -1,0 +1,484 @@
+{
+ "fecha": "2026-11-19",
+ "franja": "mañana",
+ "generada": "2026-11-19T00:11+01:00",
+ "con_ia": true,
+ "resumen_dia": "La campaña del 29-N domina la agenda, con sondeos que dan mayoría a PP y Vox y un 14% de indecisos, y con el cara a cara Sánchez-Feijóo como próximo hito. Internacionalmente, Xi, Putin y Trump coinciden en Shenzhen antes de una cumbre trilateral, mientras EE.UU. y Venezuela firman un pacto militar. En España, el Congreso convalida siete decretos sociales y avanza el caso Mango, con el plan de Isak Andic para apartar a su hijo. La salida a bolsa de Anthropic, fijada en 83 dólares por acción, completa la jornada.",
+ "temas_comunes": [
+  {
+   "titulo": "Campaña electoral del 29-N y sondeos",
+   "resumen": "Los sondeos recogidos dan mayoría a PP y Vox, con un 14,3% de indecisos y el PSOE en retroceso. Sánchez y Albiol acusan o responden sobre el papel de la oposición y la corrupción.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en el voto táctico, el modelo de 42 escaños en juego y el trasvase de votos hacia la derecha según 40dB.",
+     "noticias": [
+      {
+       "titular": "El PP consolida su posición frente a Vox",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-pp-consolida-su-posicion-frente-a-vox.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "El mapa del voto táctico para que el último escaño por provincia se lo lleve la derecha o la izquierda: ¿qué dicen las encuestas?",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-mapa-del-voto-tactico-para-que-el-ultimo-escano-por-provincia-se-lo-lleve-la-derecha-o-la-izquierda-que-dicen-las-encuestas.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Vídeo, análisis en directo y verificación a tiempo real: así podrás ver el cara a cara entre Sánchez y Feijóo en EL PAÍS",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/video-analisis-en-directo-y-verificacion-a-tiempo-real-asi-podras-ver-el-cara-a-cara-entre-sanchez-y-feijoo-en-el-pais.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la cifra de escaños de PP y Vox y el peso de los indecisos, además de un manifiesto de exdirigentes a favor de la alternancia.",
+     "noticias": [
+      {
+       "titular": "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdd75c21efa083408b45b2.html",
+       "seccion": "PP"
+      },
+      {
+       "titular": "Ex dirigentes de PSOE, UCD, CiU, Cs y PP, junto a académicos, abogan por el cambio político en España el 29-N",
+       "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdbd5bfdddff1f688b457b.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge las declaraciones de Sánchez sobre la corrupción y las de Albiol pidiendo un triunfo amplio del PP.",
+     "noticias": [
+      {
+       "titular": "Sánchez: “Hay casos de corrupción que son reales y casos que son ficticios”",
+       "url": "https://www.lavanguardia.com/politica/20261118/11687015/pedro-sanchez-hay-casos-corrupcion-son-reales-casos-son-ficticios.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Albiol pide un triunfo amplio del PP que impida que Sánchez lidere la oposición y el PSOE",
+       "url": "https://www.lavanguardia.com/politica/20261118/11687023/albiol-pide-triunfo-amplio-pp-impida-sanchez-lidere-oposicion-psoe.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Decretos sociales convalidados en el Congreso",
+   "resumen": "El Congreso convalida siete decretos con medidas para Ceuta, las dana, la dependencia y las familias monoparentales. La oposición critica el carácter electoral de las medidas.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya el amplio respaldo parlamentario y las críticas de campaña a las medidas.",
+     "noticias": [
+      {
+       "titular": "El Congreso aprueba siete decretos sociales con un amplísimo respaldo pero entre críticas de campaña",
+       "url": "https://elpais.com/espana/2026-11-18/el-congreso-aprueba-siete-decretos-sociales-con-un-amplisimo-respaldo-pero-entre-criticas-de-campana.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Enfatiza la acusación de la oposición de que el Gobierno intenta comprar votos.",
+     "noticias": [
+      {
+       "titular": "Siete decretos de ayudas convalidados bajo una tormenta de reproches en la Diputación Permanente",
+       "url": "https://www.elmundo.es/espana/2026/11/18/6afd9de8e4d4d8893b8b457d.html",
+       "seccion": "PSOE"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Pone el acento en las acusaciones de electoralismo del PP y Vox y en las ayudas a víctimas de Urda.",
+     "noticias": [
+      {
+       "titular": "El Congreso convalida siete decretos sociales entre acusaciones de electoralismo del PP y Vox",
+       "url": "https://www.lavanguardia.com/politica/20261118/11687425/congreso-convalida-siete-decretos-sociales-acusaciones-electoralismo-pp-vox.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Caso Mango: plan de Isak Andic contra su hijo",
+   "resumen": "Los magistrados dan por acreditado que Isak Andic planeó con una terapeuta apartar a Jonathan de Mango. Jonathan no conocía el objetivo final según la Audiencia.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca que el tribunal resta peso al móvil económico del plan.",
+     "noticias": [
+      {
+       "titular": "Isak Andic tramó con la terapeuta un plan para apartar definitivamente a su hijo Jonathan de Mango",
+       "url": "https://elpais.com/espana/catalunya/2026-11-18/isak-andic-tramo-con-la-terapeuta-un-plan-para-apartar-definitivamente-a-su-hijo-jonathan-de-mango.html",
+       "seccion": "Cataluña"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Se centra en que la Audiencia de Barcelona da por acreditado el plan y en el desconocimiento de Jonathan.",
+     "noticias": [
+      {
+       "titular": "Isak Andic tramó un plan con la terapeuta para apartar a Jonathan de Mango y que no volviera nunca a la empresa",
+       "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdf064fdddfffb2c8b456f.html",
+       "seccion": "Artículos Cristina Rubio"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Resalta el año sabático que Jonathan obtuvo como paso previo a su salida de la empresa.",
+     "noticias": [
+      {
+       "titular": "Isak Andic urdió un plan con la terapeuta para apartar a su hijo para siempre de Mango",
+       "url": "https://www.lavanguardia.com/sucesos/20261118/11687496/isak-andic-urdio-plan-terapeuta-apartar-jonathan-siempre-mango.html",
+       "seccion": "Sucesos"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Cumbre de Xi, Putin y Trump en Shenzhen",
+   "resumen": "Xi, Putin y Trump coinciden en Shenzhen antes de una cumbre trilateral prevista para el día siguiente. Xi defiende el libre comercio y Putin critica a Europa.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la alianza reafirmada entre Xi y Putin y la advertencia de Xi contra el proteccionismo; añade una opinión sobre el riesgo de esferas de influencia.",
+     "noticias": [
+      {
+       "titular": "Xi y Putin reafirman su alianza estratégica antes de su reunión a tres bandas con Trump",
+       "url": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
+       "seccion": "China"
+      },
+      {
+       "titular": "No hace falta otro Yalta",
+       "url": "https://elpais.com/opinion/2026-11-18/no-hace-falta-otro-yalta.html",
+       "seccion": "Opinión"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Presenta a Xi como figura central, con más peso que Trump y Putin, y los temas de la cumbre.",
+     "noticias": [
+      {
+       "titular": "Xi Jinping, más fuerte que Trump y Putin en la gran mesa del poder mundial",
+       "url": "https://www.elmundo.es/internacional/2026/11/18/6afced65fdddffe2408b4586.html",
+       "seccion": "Xi Jinping"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca las críticas de Putin a las potencias en declive y la defensa del comercio libre por parte de Xi.",
+     "noticias": [
+      {
+       "titular": "Un Putin beligerante carga contra Occidente en su aparición con Xi antes del G-3 con Trump",
+       "url": "https://www.lavanguardia.com/internacional/20261118/11686902/xi-putin-esperan-trump-shenzhen.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Salida a bolsa de Anthropic",
+   "resumen": "Anthropic fija el precio de su oferta en 83 dólares por acción, por encima del rango previsto, en una de las mayores salidas a bolsa de la historia.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya el tamaño de la operación y su entrada entre las grandes cotizadas.",
+     "noticias": [
+      {
+       "titular": "Anthropic protagoniza hoy la mayor salida a bolsa de la historia con el desafío de poner en valor el sueño de 'crear la inteligencia'",
+       "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/18/6afdb1f3e9cf4a680a8b4575.html",
+       "seccion": "Anthropic"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Describe la fijación del precio por encima del rango inicial y la primera salida a bolsa de un desarrollador de IA de vanguardia.",
+     "noticias": [
+      {
+       "titular": "Anthropic fija el precio de su salida a bolsa en 83 dólares por acción",
+       "url": "https://www.abc.es/economia/anthropic-fija-precio-salida-bolsa-dolares-accion-20261118225047-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Vincula el precio con el interés inversor y las turbulencias del sector de la IA.",
+     "noticias": [
+      {
+       "titular": "Anthropic eleva el precio de la acción a 83 dólares por el fervor del mercado",
+       "url": "https://www.lavanguardia.com/economia/20261118/11687612/anthropic-eleva-precio-accion-83-dolares-fervor-mercado.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Núcleo Nacional y la influencia rusa",
+   "resumen": "Una investigación independiente relaciona la actividad del grupo neonazi con intereses rusos. Su líder, Enrique Lemus, ha muerto a los 63 años.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge el estudio sobre conexiones con grupos de once países europeos y la muerte de su líder.",
+     "noticias": [
+      {
+       "titular": "Una investigación independiente concluye que la actividad de Núcleo Nacional servía a los intereses de Rusia",
+       "url": "https://elpais.com/espana/2026-11-18/una-investigacion-independiente-concluye-que-la-actividad-de-nucleo-nacional-servia-a-los-intereses-de-rusia.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Núcleo Nacional anuncia la muerte de su dirigente Enrique Lemus",
+       "url": "https://elpais.com/espana/2026-11-18/nucleo-nacional-anuncia-la-muerte-de-su-fundador-enrique-lemus.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Describe cómo el Kremlin habría explotado al grupo para desinformar y ganar influencia.",
+     "noticias": [
+      {
+       "titular": "La doble vía de Rusia con Núcleo Nacional: explotó sus dos caras para ejercer la desinformación y su influencia",
+       "url": "https://www.abc.es/espana/doble-via-kremlin-nucleo-nacional-exploto-dos-20261118172741-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña electoral del 29-N, con foco en el voto táctico, los sondeos y el cara a cara Sánchez-Feijóo, y en las propuestas del PP sobre la ley de eutanasia. Incluye también el Congreso, la trama de Mango y la cumbre de Xi, Putin y Trump.",
+   "noticias": [
+    {
+     "titular": "Feijóo abre la puerta a una “derogación total” de la ley de la eutanasia",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/feijoo-abre-la-puerta-a-una-derogacion-total-de-la-ley-de-la-eutanasia.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo plantea derogar por completo la ley de eutanasia y defiende en un pódcast que el PP ya ha sido juzgado por los casos de corrupción."
+    },
+    {
+     "titular": "El PP consolida su posición frente a Vox",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-pp-consolida-su-posicion-frente-a-vox.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Un sondeo de 40dB indica que el trasvase de votos entre bloques va sobre todo hacia la derecha, con el PP reforzado frente a Vox."
+    },
+    {
+     "titular": "El mapa del voto táctico para que el último escaño por provincia se lo lleve la derecha o la izquierda: ¿qué dicen las encuestas?",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-mapa-del-voto-tactico-para-que-el-ultimo-escano-por-provincia-se-lo-lleve-la-derecha-o-la-izquierda-que-dicen-las-encuestas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Modelo del diario que estima 42 escaños en disputa en las provincias y ofrece una herramienta para ver qué partido se beneficia del voto táctico."
+    },
+    {
+     "titular": "El Congreso aprueba siete decretos sociales con un amplísimo respaldo pero entre críticas de campaña",
+     "url": "https://elpais.com/espana/2026-11-18/el-congreso-aprueba-siete-decretos-sociales-con-un-amplisimo-respaldo-pero-entre-criticas-de-campana.html",
+     "seccion": "España",
+     "resumen": "La Diputación Permanente convalida siete decretos sociales con amplio apoyo, entre críticas por el uso electoral, con medidas para Ceuta, las dana, accidentes ferroviarios y familias monomarentales."
+    },
+    {
+     "titular": "Xi y Putin reafirman su alianza estratégica antes de su reunión a tres bandas con Trump",
+     "url": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
+     "seccion": "China",
+     "resumen": "Xi y Putin refuerzan su alianza antes de la cumbre trilateral con Trump; Xi defiende el libre comercio y Putin critica el declive de Europa."
+    },
+    {
+     "titular": "Isak Andic tramó con la terapeuta un plan para apartar definitivamente a su hijo Jonathan de Mango",
+     "url": "https://elpais.com/espana/catalunya/2026-11-18/isak-andic-tramo-con-la-terapeuta-un-plan-para-apartar-definitivamente-a-su-hijo-jonathan-de-mango.html",
+     "seccion": "Cataluña",
+     "resumen": "Según los magistrados, Isak Andic planeó con una terapeuta apartar a su hijo Jonathan de Mango; el juicio resta peso al motivo económico."
+    },
+    {
+     "titular": "Una investigación independiente concluye que la actividad de Núcleo Nacional servía a los intereses de Rusia",
+     "url": "https://elpais.com/espana/2026-11-18/una-investigacion-independiente-concluye-que-la-actividad-de-nucleo-nacional-servia-a-los-intereses-de-rusia.html",
+     "seccion": "España",
+     "resumen": "Una investigación independiente vincula la actividad del grupo neonazi Núcleo Nacional con los intereses de Rusia y con grupos afines de otros once países europeos."
+    },
+    {
+     "titular": "Núcleo Nacional anuncia la muerte de su dirigente Enrique Lemus",
+     "url": "https://elpais.com/espana/2026-11-18/nucleo-nacional-anuncia-la-muerte-de-su-fundador-enrique-lemus.html",
+     "seccion": "España",
+     "resumen": "Muere a los 63 años el líder de Núcleo Nacional, Enrique Lemus, tras un infarto."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en las encuestas, con PP y Vox por encima de la mayoría y un porcentaje alto de indecisos, y en el relevo político tras Sánchez. Incluye también temas de sanidad, economía y justicia.",
+   "noticias": [
+    {
+     "titular": "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdd75c21efa083408b45b2.html",
+     "seccion": "PP",
+     "resumen": "Un sondeo sitúa a PP y Vox con mayoría, con Podemos por debajo del 1% y un 14,3% de indecisos; el PSOE queda entre 185 y 196 escaños para la derecha."
+    },
+    {
+     "titular": "Ex dirigentes de PSOE, UCD, CiU, Cs y PP, junto a académicos, abogan por el cambio político en España el 29-N",
+     "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdbd5bfdddff1f688b457b.html",
+     "seccion": "",
+     "resumen": "Exdirigentes de varios partidos y académicos piden en un manifiesto la alternancia en el Gobierno el 29-N."
+    },
+    {
+     "titular": "Siete decretos de ayudas convalidados bajo una tormenta de reproches en la Diputación Permanente",
+     "url": "https://www.elmundo.es/espana/2026/11/18/6afd9de8e4d4d8893b8b457d.html",
+     "seccion": "PSOE",
+     "resumen": "Se convalidan siete decretos de ayudas en la Diputación Permanente, entre reproches de la oposición que acusa al Gobierno de comprar votos."
+    },
+    {
+     "titular": "Isak Andic tramó un plan con la terapeuta para apartar a Jonathan de Mango y que no volviera nunca a la empresa",
+     "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdf064fdddfffb2c8b456f.html",
+     "seccion": "Artículos Cristina Rubio",
+     "resumen": "La Audiencia de Barcelona da por probado que Isak Andic planeó con Júlia L. apartar a Jonathan de Mango, sin que este conociera el objetivo final."
+    },
+    {
+     "titular": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual y cita a las querellantes en febrero",
+     "url": "https://www.elmundo.es/cultura/musica/2026/11/18/6afd91a2fc6c83fa228b4585.html",
+     "seccion": "Julio Iglesias",
+     "resumen": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual y cita a las querellantes en febrero."
+    },
+    {
+     "titular": "Xi Jinping, más fuerte que Trump y Putin en la gran mesa del poder mundial",
+     "url": "https://www.elmundo.es/internacional/2026/11/18/6afced65fdddffe2408b4586.html",
+     "seccion": "Xi Jinping",
+     "resumen": "Xi recibe en Shenzhen a Trump y Putin antes de una cumbre trilateral sobre desarme nuclear, IA y las guerras de Ucrania e Irán."
+    },
+    {
+     "titular": "Anthropic protagoniza hoy la mayor salida a bolsa de la historia con el desafío de poner en valor el sueño de 'crear la inteligencia'",
+     "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/18/6afdb1f3e9cf4a680a8b4575.html",
+     "seccion": "Anthropic",
+     "resumen": "Anthropic sale a bolsa con un precio de 83 dólares por acción, por encima del rango inicial, en la mayor salida a bolsa registrada."
+    },
+    {
+     "titular": "Estados Unidos y Venezuela firman un histórico pacto de cooperación militar: \"Tenemos la oportunidad de combatir conjuntamente narcoterroristas y criminales\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/18/6afdd547e4d4d8857e8b4591.html",
+     "seccion": "Estados Unidos",
+     "resumen": "EE.UU. y Venezuela firman un pacto de cooperación militar que supone el primer paso para reformar el ejército venezolano."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Destaca la información propia sobre Transportes y el exmujer de Ábalos, junto a la política internacional sobre Venezuela y el caso de Núcleo Nacional. Mantiene también secciones de cultura, televisión y recetas.",
+   "noticias": [
+    {
+     "titular": "Transportes pagó un tratamiento para el cáncer de la exmujer de Ábalos",
+     "url": "https://www.abc.es/espana/transportes-pago-tratamiento-cancer-exmujer-abalos-20261119222527-nt.html",
+     "seccion": "",
+     "resumen": "Según fuentes del departamento, Transportes habría pagado con la caja pagadora al menos 13.000 euros de un tratamiento de cáncer a la exmujer de Ábalos entre 2021 y 2022."
+    },
+    {
+     "titular": "EE.UU. extiende la tutela de Venezuela al Ejército con un acuerdo militar",
+     "url": "https://www.abc.es/internacional/eeuu-extiende-tutela-venezuela-ejercito-acuerdo-militar-20261118190304-nt.html",
+     "seccion": "",
+     "resumen": "El secretario de Guerra de EE.UU. viaja a Caracas para negociar con Delcy Rodríguez un acuerdo de cooperación con las Fuerzas Armadas venezolanas."
+    },
+    {
+     "titular": "Anthropic fija el precio de su salida a bolsa en 83 dólares por acción",
+     "url": "https://www.abc.es/economia/anthropic-fija-precio-salida-bolsa-dolares-accion-20261118225047-nt.html",
+     "seccion": "",
+     "resumen": "Anthropic fija en 83 dólares su precio de salida a bolsa, por encima del rango previsto de 70 a 78 dólares."
+    },
+    {
+     "titular": "Ana Redondo confesó en privado que las pulseras antimaltrato «fallan en su esencia»",
+     "url": "https://www.abc.es/espana/ana-redondo-revelo-reunion-cometa-pulseras-antimaltrato-20261118013653-nt.html",
+     "seccion": "",
+     "resumen": "Un informe describe la crisis del sistema de pulseras antimaltrato Cometa y las dudas de la ministra Ana Redondo sobre su eficacia."
+    },
+    {
+     "titular": "La doble vía de Rusia con Núcleo Nacional: explotó sus dos caras para ejercer la desinformación y su influencia",
+     "url": "https://www.abc.es/espana/doble-via-kremlin-nucleo-nacional-exploto-dos-20261118172741-nt.html",
+     "seccion": "",
+     "resumen": "Análisis de cómo el Kremlin habría utilizado a Núcleo Nacional para desinformar y ganar influencia a partir de sus vínculos internacionales."
+    },
+    {
+     "titular": "Hasta 80 colegios e institutos gallegos recibieron un correo con un aviso bomba",
+     "url": "https://www.abc.es/espana/galicia/falsas-amenazas-bomba-varios-colegios-coruna-provocan-20261118135825-nt.html",
+     "seccion": "",
+     "resumen": "Policía y Guardia Civil desalojan y revisan al menos 80 colegios gallegos tras recibir avisos de bomba falsos por correo electrónico."
+    },
+    {
+     "titular": "Así es trabajar como periodista de ABC en Cuba: la Policía en la puerta y preparada para ir a la cárcel",
+     "url": "https://www.abc.es/internacional/policia-puertas-detenida-dos-tres-trabajo-periodista-20261118195517-nt.html",
+     "seccion": "",
+     "resumen": "Reportaje sobre las condiciones de trabajo de un periodista independiente en Cuba, con riesgo de detención."
+    },
+    {
+     "titular": "Alcaraz, en semifinales con susto",
+     "url": "https://www.abc.es/deportes/tenis/alcaraz-pone-ante-medvedev-pie-semifinales-alarma-20261118152807-nt.html",
+     "seccion": "",
+     "resumen": "Alcaraz avanza a semifinales de Masters tras un partido exigente; la crónica deportiva sigue en la sección de tenis."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza la política nacional y catalana de cara al 29-N, con el foco en las críticas entre partidos y la gestión de Rodalies. Dedica también atención a la cobertura internacional sobre Rusia, China y EE.UU.",
+   "noticias": [
+    {
+     "titular": "Un Putin beligerante carga contra Occidente en su aparición con Xi antes del G-3 con Trump",
+     "url": "https://www.lavanguardia.com/internacional/20261118/11686902/xi-putin-esperan-trump-shenzhen.html",
+     "seccion": "Internacional",
+     "resumen": "Putin critica a las potencias en declive en su aparición con Xi antes de la cumbre con Trump; Xi defiende el libre comercio."
+    },
+    {
+     "titular": "Sánchez: “Hay casos de corrupción que son reales y casos que son ficticios”",
+     "url": "https://www.lavanguardia.com/politica/20261118/11687015/pedro-sanchez-hay-casos-corrupcion-son-reales-casos-son-ficticios.html",
+     "seccion": "Política",
+     "resumen": "Sánchez afirma que hay casos de corrupción reales y otros ficticios, y acusa al PP de forzar el Código Penal con fines electorales."
+    },
+    {
+     "titular": "Albiol pide un triunfo amplio del PP que impida que Sánchez lidere la oposición y el PSOE",
+     "url": "https://www.lavanguardia.com/politica/20261118/11687023/albiol-pide-triunfo-amplio-pp-impida-sanchez-lidere-oposicion-psoe.html",
+     "seccion": "Política",
+     "resumen": "Albiol pide un triunfo amplio del PP para impedir que Sánchez lidere la oposición, a la que acusa de querer incendiar las calles."
+    },
+    {
+     "titular": "El Congreso convalida siete decretos sociales entre acusaciones de electoralismo del PP y Vox",
+     "url": "https://www.lavanguardia.com/politica/20261118/11687425/congreso-convalida-siete-decretos-sociales-acusaciones-electoralismo-pp-vox.html",
+     "seccion": "Política",
+     "resumen": "El Congreso convalida siete decretos sociales entre acusaciones de electoralismo del PP y Vox, que incluyen dependencia, dana y víctimas de Urda."
+    },
+    {
+     "titular": "Isak Andic urdió un plan con la terapeuta para apartar a su hijo para siempre de Mango",
+     "url": "https://www.lavanguardia.com/sucesos/20261118/11687496/isak-andic-urdio-plan-terapeuta-apartar-jonathan-siempre-mango.html",
+     "seccion": "Sucesos",
+     "resumen": "Isak Andic urdió un plan con una terapeuta para apartar a su hijo de Mango; Jonathan obtuvo un año sabático previo a su salida de la empresa."
+    },
+    {
+     "titular": "Los demócratas validan a Hakeem Jeffries como el primer presidente negro de la Cámara baja",
+     "url": "https://www.lavanguardia.com/internacional/20261118/11687474/democratas-validan-hakeem-jeffries-lider-primer-presidente-negro-camara-baja.html",
+     "seccion": "Internacional",
+     "resumen": "Los demócratas nominan a Hakeem Jeffries como primer presidente negro de la Cámara baja pese al rechazo de sectores de su partido."
+    },
+    {
+     "titular": "Anthropic eleva el precio de la acción a 83 dólares por el fervor del mercado",
+     "url": "https://www.lavanguardia.com/economia/20261118/11687612/anthropic-eleva-precio-accion-83-dolares-fervor-mercado.html",
+     "seccion": "Economía",
+     "resumen": "Anthropic fija el precio de su acción en 83 dólares en un debut bursátil marcado por el interés inversor y la volatilidad de la IA."
+    },
+    {
+     "titular": "Junts propone que Ferrocarrils se haga cargo de Rodalies: “Renfe, fuera de Catalunya”",
+     "url": "https://www.lavanguardia.com/politica/20261118/11687296/junts-propone-ferrocarrils-haga-cargo-rodalies-renfe-fuera-catalunya.html",
+     "seccion": "Política",
+     "resumen": "Junts propone que Ferrocarrils asuma Rodalies, alegando la puntualidad de una línea gestionada por la Generalitat."
+    }
+   ]
+  }
+ ]
+}
