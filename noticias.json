@@ -1,276 +1,511 @@
 {
- "fecha": "2026-11-19",
- "franja": "tarde",
- "generada": "2026-11-19T15:46+01:00",
+ "fecha": "2026-11-20",
+ "franja": "mañana",
+ "generada": "2026-11-20T00:18+01:00",
  "con_ia": true,
- "resumen_dia": "La campaña para las elecciones generales del 29N domina la portada: el cara a cara entre Sánchez y Feijóo se celebra hoy y los cuatro diarios le dedican espacio, con las encuestas y la estrategia de cada candidato como ejes. Destacan también la entrevista de Puigdemont sobre las negociaciones de Junts con el PSOE, la cumbre trilateral de Trump, Xi y Putin en Shenzhen y la condena de la CIJ a Myanmar por genocidio contra los rohinyás. Por último, el caso de las 'cloacas' del PSOE aparece en varias portadas.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\": \"Cara a cara Sánchez-Feijóo y estrategia de campaña\", \"resumen\": \"Sánchez y Feijóo se enfrentan hoy en un debate televisado antes de las elecciones del 29 de noviembre. Las encuestas dan ventaja a la derecha, aunque la distancia entre PP y PSOE varía según el sondeo.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Subraya la carrera por remontar de Sánchez, citando el sondeo de 40dB y la preparación de ambos candidatos.\", \"ids\": [\"elpais-0\", \"elpais-1\", \"elpais-2\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Señala que el debate se centra en el voto útil entre socios de bloque y que el PSOE quiso excluir la corrupción.\", \"ids\": [\"elmundo-3\", \"elmundo-4\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge la presión de los socialistas, con la frase 'Solo vale ganar', y el impacto esperado del cara a cara.\", \"ids\": [\"abc-0\", \"abc-7\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Presenta el cara a cara como segunda parte del de 2023 y describe el tono esperado de ambos líderes.\", \"ids\": [\"lavanguardia-8\", \"lavanguardia-9\", \"lavanguardia-10\"]}]}, {\"titulo\": \"Entrevista de Puigdemont y reacciones políticas\", \"resumen\": \"Puigdemont afirma en una entrevista que aprovechó la ambición de Sánchez y que negoció con el PSOE. PP y Vox reaccionan pidiendo explicaciones, y Vox lleva el asunto a la Fiscalía del Supremo.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Destaca la exclusiva y la denuncia de Vox ante el Supremo por posibles delitos en las contraprestaciones.\", \"ids\": [\"elmundo-0\", \"elmundo-1\", \"elmundo-2\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Recoge la reacción cruzada de PSOE y PP y el giro de Junts en la equidistancia.\", \"ids\": [\"lavanguardia-13\"]}]}, {\"titulo\": \"Cumbre de Trump, Xi y Putin en Shenzhen\", \"resumen\": \"Trump, Xi y Putin se reunieron en Shenzhen en la primera cumbre trilateral de los tres líderes. Acordaron impulsar una reforma de la ONU y garantizar los flujos energéticos.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Recoge la declaración sobre la guerra nuclear y el compromiso de reforma de la ONU.\", \"ids\": [\"elpais-9\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya el regreso de Putin a la diplomacia y la oportunidad para la agenda exterior de Trump.\", \"ids\": [\"elmundo-5\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca el carácter histórico del encuentro por su formato inédito.\", \"ids\": [\"abc-14\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Señala que la cumbre concluye sin sustancia y lo sitúa junto al nuevo ataque al puente de Crimea.\", \"ids\": [\"lavanguardia-15\", \"lavanguardia-17\"]}]}, {\"titulo\": \"CIJ condena a Myanmar por genocidio contra los rohinyás\", \"resumen\": \"La Corte Internacional de Justicia declara que Myanmar cometió genocidio contra los rohinyás y ordena indemnizar a las víctimas. Es la primera vez que este tribunal atribuye ese delito a un Estado.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Señala que el fallo puede influir en el caso de Sudáfrica contra Israel.\", \"ids\": [\"elpais-17\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya la orden de indemnización a las víctimas.\", \"ids\": [\"elmundo-15\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca que es la primera vez que el tribunal considera a un Estado responsable de genocidio, con la cita del presidente de la CIJ.\", \"ids\": [\"abc-3\"]}]}, {\"titulo\": \"Caso 'cloacas' del PSOE y Cintia Rocho\", \"resumen\": \"La líder del clan de los Rocho pide escolta para declarar como testigo en la Audiencia Nacional. Alega amenazas de muerte previas.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Destaca la petición de escolta y la alusión a asesinatos previos en su familia.\", \"ids\": [\"elmundo-6\"]}, {\"medio\": \"abc\", \"enfoque\": \"Presenta la petición como temor a un atentado y recuerda el papel de los Rocho con las presuntas cloacas del PSOE.\", \"ids\": [\"abc-6\"]}]}]</parameter>\n<parameter name=\"medios\">[{\"medio\": \"elpais\", \"resumen\": \"Prioriza la carrera electoral, con foco en el cara a cara, las encuestas y la estrategia de Sánchez y Feijóo. Incluye también temas sociales y de opinión, como la abstención por renta y la sanidad privada.\", \"noticias\": [{\"id\": \"elpais-0\", \"resumen\": \"Previa del cara a cara de esta noche, con el último sondeo de 40dB que sitúa al PP por delante del PSOE.\"}, {\"id\": \"elpais-1\", \"resumen\": \"Preparación del debate por parte de Sánchez y su núcleo duro en La Moncloa.\"}, {\"id\": \"elpais-2\", \"resumen\": \"Estrategia de Feijóo para el debate, con su equipo gallego y sin Miguel Ángel Rodríguez.\"}, {\"id\": \"elpais-9\", \"resumen\": \"Declaración conjunta de Xi, Trump y Putin tras la cumbre de Shenzhen sobre la guerra nuclear y la reforma de la ONU.\"}, {\"id\": \"elpais-17\", \"resumen\": \"Fallo de la CIJ que atribuye a Myanmar genocidio contra los rohinyás, primer caso de este tipo para un Estado.\"}, {\"id\": \"elpais-3\", \"resumen\": \"Análisis de la abstención por barrios y su relación con la renta a partir de datos electorales recientes.\"}, {\"id\": \"elpais-4\", \"resumen\": \"Enfrentamiento entre Emilio Delgado y Ayuso por la visita del diputado a la sanidad privada.\"}]}, {\"medio\": \"elmundo\", \"resumen\": \"Concentra la portada en la exclusiva de Puigdemont y sus consecuencias políticas y judiciales. Dedica también espacio a la campaña y a sucesos y asuntos judiciales.\", \"noticias\": [{\"id\": \"elmundo-0\", \"resumen\": \"Entrevista exclusiva en la que Puigdemont describe las negociaciones de Junts con el PSOE.\"}, {\"id\": \"elmundo-1\", \"resumen\": \"Reacción del PP, que acusa a Sánchez de ceder a Puigdemont por el poder.\"}, {\"id\": \"elmundo-2\", \"resumen\": \"Vox lleva a la Fiscalía del Supremo las supuestas contraprestaciones negociadas con Junts.\"}, {\"id\": \"elmundo-5\", \"resumen\": \"Cumbre de Trump, Putin y Xi en China, presentada como una reunión histórica de diplomacia.\"}, {\"id\": \"elmundo-4\", \"resumen\": \"Encuesta que mantiene la mayoría de PP y Vox con indecisos todavía por decidir.\"}, {\"id\": \"elmundo-6\", \"resumen\": \"Cintia Rocho pide escolta para declarar en la Audiencia Nacional en el caso 'cloacas'.\"}, {\"id\": \"elmundo-15\", \"resumen\": \"La CIJ declara a Myanmar responsable de genocidio y ordena indemnizar a las víctimas.\"}]}, {\"medio\": \"abc\", \"resumen\": \"Mezcla la campaña con la presión sobre el PSOE y asuntos judiciales y de gestión pública. Incluye también temas de vivienda y de actualidad ligera.\", \"noticias\": [{\"id\": \"abc-0\", \"resumen\": \"Presión en el entorno de Sánchez antes del cara a cara, con la expectativa de un impacto decisivo.\"}, {\"id\": \"abc-2\", \"resumen\": \"Revelación de que Transportes pagó un tratamiento oncológico a la exmujer de Ábalos.\"}, {\"id\": \"abc-4\", \"resumen\": \"Nicolás Redondo anuncia que no votará a Sánchez y critica su ambición desmedida.\"}, {\"id\": \"abc-3\", \"resumen\": \"La CIJ condena a Myanmar por genocidio contra los rohinyás en un fallo histórico.\"}, {\"id\": \"abc-14\", \"resumen\": \"Cumbre trilateral de Trump, Xi y Putin en Shenzhen, primera reunión conjunta de los tres.\"}, {\"id\": \"abc-6\", \"resumen\": \"Cintia Rocho pide escolta para declarar como testigo por temor a un atentado.\"}, {\"id\": \"abc-17\", \"resumen\": \"Análisis de la crisis de vivienda y del papel de la construcción en los programas electorales.\"}]}, {\"medio\": \"lavanguardia\", \"resumen\": \"Centra la portada en el debate electoral por Barcelona y en el cara a cara nacional. Destaca también la política catalana y la cumbre internacional.\", \"noticias\": [{\"id\": \"lavanguardia-0\", \"resumen\": \"Debate de candidatos por Barcelona sobre Rodalies, vivienda y uso del catalán en el Congreso.\"}, {\"id\": \"lavanguardia-8\", \"resumen\": \"Anticipo del cara a cara Feijóo-Sánchez, segunda parte del debate de 2023.\"}, {\"id\": \"lavanguardia-10\", \"resumen\": \"Sánchez afronta el debate con la previsión de bulos y ruido por parte de Feijóo.\"}, {\"id\": \"lavanguardia-13\", \"resumen\": \"Partidos reaccionan a la entrevista de Puigdemont sobre la ambición de Sánchez.\"}, {\"id\": \"lavanguardia-15\", \"resumen\": \"La cumbre de Trump, Putin y Xi concluye sin resultados sustanciales, según la crónica.\"}, {\"id\": \"lavanguardia-17\", \"resumen\": \"Tercer ataque esta semana contra el puente de Crimea, horas antes de la cumbre de Shenzhen.\"}, {\"id\": \"lavanguardia-14\", \"resumen\": \"Jordi Pujol hará campaña por Junts y participará en el mitin central de la formación.\"}]}]</parameter>\n</invoke>\n",
- "temas_comunes": [],
+ "resumen_dia": "El cara a cara entre Sánchez y Feijóo, con la campaña del 29-N en marcha, domina las portadas de los cuatro diarios, con enfoques distintos sobre quién salió mejor parado. La cumbre de Shenzhen entre Xi, Trump y Putin, que acuerdan que una guerra nuclear no debe librarse, es el principal asunto internacional. Otros temas son el accidente ferroviario de Urda y Adamuz, las encuestas y las declaraciones de Puigdemont sobre el PSOE y Junts.",
+ "temas_comunes": [
+  {
+   "titulo": "Cara a cara Sánchez-Feijóo y su lectura",
+   "resumen": "Sánchez y Feijóo debatieron 90 minutos en el único cara a cara antes del 29-N. Los diarios coinciden en que el debate se centró en corrupción, vivienda, tragedias ferroviarias y política exterior, pero valoran de forma distinta el desempeño de cada candidato.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge el minuto final, las acusaciones cruzadas sobre corrupción y política exterior y un análisis de las afirmaciones del debate.",
+     "noticias": [
+      {
+       "titular": "Debate electoral 29-N, en directo | Feijóo pide el voto porque sabe “gestionar” y Sánchez apela a “la fuerza de la gente” en el minuto final del cara a cara",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/debate-electoral-entre-pedro-sanchez-y-alberto-nunez-feijoo-en-directo.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Mentiras y medias verdades del debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/mentiras-y-medias-verdades-del-debate-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
+       "seccion": "Debates Elecciones Generales"
+      },
+      {
+       "titular": "El debate integro entre Pedro Sánchez y Alberto Núñez Feijóo",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-debate-integro-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Presenta a Feijóo como dominador y a Sánchez sin respuesta a las acusaciones, con textos de opinión sobre su actitud.",
+     "noticias": [
+      {
+       "titular": "Feijóo abruma hasta dejar mudo a un Sánchez que pide perdón dos veces",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6aff232ce4d4d86b058b4593.html",
+       "seccion": "Artículos Marisa Cruz"
+      },
+      {
+       "titular": "En busca de la redención y desbordado por Feijóo: ¿Dónde estaba 'Perro Sanxe'?",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6aff2c8cfdddff12628b457d.html",
+       "seccion": "Artículos Lucía Méndez"
+      },
+      {
+       "titular": "El cara a cara entre Sánchez y Feijóo y la política del casito: ¿quién hará mejor el pino?",
+       "url": "https://www.elmundo.es/cultura/2026/11/19/6afd8bd2fc6c83b8598b4585.html",
+       "seccion": "La Penúltima"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la agresividad de Feijóo frente a un Sánchez con tono suave y contenido, y sus esfuerzos por moderar su imagen.",
+     "noticias": [
+      {
+       "titular": "Feijóo acorrala a un Sánchez noqueado por la corrupción y su gestión",
+       "url": "https://www.abc.es/espana/feijoo-acorrala-sanchez-noqueado-corrupcion-gestion-20261119235946-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Feijóo, entre agresividad y datos, arrasa a un Sánchez desbordado",
+       "url": "https://www.abc.es/espana/feijoo-agresividad-datos-acorrala-sanchez-desbordado-20261119234527-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Un Sánchez anestesiado intenta vestirse de moderado para no asustar al votante de centro",
+       "url": "https://www.abc.es/espana/sanchez-anestesiado-intenta-vestirse-moderado-asustar-votante-20261119234123-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya la insinuación de Feijóo sobre financiación ilegal del PSOE y la contraofensiva de Sánchez con Adamuz, Urda, Yak-42 y Prestige.",
+     "noticias": [
+      {
+       "titular": "Feijóo insinúa una financiación ilegal del PSOE y Sánchez rechaza lecciones del “partido más corrupto”",
+       "url": "https://www.lavanguardia.com/politica/20261119/11688338/cara-cara-sanchez-feijoo-directo-ultima-hora-debate-candidatos-psoe-pp.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Sánchez pasa al contraataque por Adamuz y Urda y golpea a Feijóo con el Yak-42 y el Prestige",
+       "url": "https://www.lavanguardia.com/politica/20261119/11688569/sanchez-admite-errores-gobierno-reivindica-gestion-frente-involucion-pp-vox.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Feijóo toma la iniciativa en el debate y hace una crítica total a Sánchez por la gestión y los casos de corrupción",
+       "url": "https://www.lavanguardia.com/politica/20261119/11688578/feijoo-toma-iniciativa-debate-critica-total-sanchez-gestion-casos-corrupcion.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Cumbre de Shenzhen entre Xi, Trump y Putin",
+   "resumen": "Los líderes de China, Estados Unidos y Rusia se reunieron en Shenzhen y suscribieron una declaración sobre la paz y el riesgo nuclear. Los diarios señalan que el texto no avanza en los conflictos abiertos.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca la declaración conjunta sobre la guerra nuclear, el compromiso de reformar la ONU y la referencia de Trump a Putin como amigo.",
+     "noticias": [
+      {
+       "titular": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
+       "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+       "seccion": "Xi Jinping"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Presenta la cumbre como histórica y como una oportunidad para Trump y para el papel de Rusia en la diplomacia.",
+     "noticias": [
+      {
+       "titular": "Trump, Putin y Xi Jinping se reúnen en China en una cumbre histórica: \"Compartimos la responsabilidad de mantener la paz mundial\"",
+       "url": "https://www.elmundo.es/internacional/2026/11/19/6afe5afa21efa0b2798b457b.html",
+       "seccion": "Xi Jinping"
+      },
+      {
+       "titular": "\"Un 'formato de Yalta' no traerá la paz\": Europa reclama su silla en la negociación sobre Ucrania",
+       "url": "https://www.elmundo.es/internacional/2026/11/19/6aff4198e85eced6428b459e.html",
+       "seccion": "Rusia"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya la falta de avances en Ucrania o Irán y la tibieza de Trump ante Putin y Xi.",
+     "noticias": [
+      {
+       "titular": "Xi, Putin y Trump suscriben que “una guerra nuclear no puede ser ganada, ni debe ser librada”",
+       "url": "https://www.lavanguardia.com/internacional/20261119/11688182/xi-putin-trump-suscriben-guerra-nuclear-ganada-debe-librada.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Trump exhibe tibieza entre abrazos y elogios a Xi y Putin en Shenzhen",
+       "url": "https://www.lavanguardia.com/internacional/20261119/11688416/trump-exhibe-tibieza-abrazos-elogios-xi-putin-shenzhen.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Los aliados europeos de Ucrania estarán “pronto” en las conversaciones de paz con rusos, ucranianos y estadounidenses",
+       "url": "https://www.lavanguardia.com/internacional/20261119/11688459/aliados-europeos-ucrania-estaran-pronto-conversaciones-paz-rusos-ucranianos-estadounidenses.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Encuestas electorales y bloque de derechas",
+   "resumen": "Un sondeo previo al debate sitúa al PP por delante del PSOE y al bloque de derechas con ventaja clara. Los diarios recogen también el avance de los populares a costa de Vox.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Señala la ligera ventaja del PP y la reducción de las fugas de votantes socialistas según el tracking del día.",
+     "noticias": [
+      {
+       "titular": "La encuesta antes del debate: ligera ventaja del PP y muy clara del bloque derechista",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-encuesta-antes-del-debate-ligera-ventaja-del-pp-y-muy-clara-del-bloque-derechista.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca el avance del PP hasta el 31% a costa de Vox y la inercia de Sánchez pese al desgaste del Frente Amplio.",
+     "noticias": [
+      {
+       "titular": "El PP coge fuerza a costa de Vox y Sánchez llega al cara a cara a cuatro puntos de Feijóo",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6aff2a9afc6c83886c8b459b.html",
+       "seccion": "PP"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Puigdemont, Junts y el PSOE",
+   "resumen": "Puigdemont concedió entrevistas en las que habla de su relación con el PSOE y de un posible acuerdo con Vox o el PP. Junts, por su parte, justificó en campaña su ataque a Sánchez por la amnistía.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la justificación de Junts por el ataque de Puigdemont a Sánchez en plena campaña.",
+     "noticias": [
+      {
+       "titular": "Junts justifica el ataque de Puigdemont a Sánchez por la amnistía: “Hay que hacerse un hueco en campaña”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/junts-justifica-el-ataque-de-puigdemont-a-sanchez-por-la-amnistia-hay-que-hacerse-un-hueco-en-campana.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Publica las declaraciones exclusivas de Puigdemont sobre una foto propuesta por el PSOE y sobre Vox.",
+     "noticias": [
+      {
+       "titular": "Carles Puigdemont: \"El PSOE me propuso una foto con Sánchez en los pasillos del Parlamento Europeo\"",
+       "url": "https://www.elmundo.es/espana/2026/11/19/6aff26e3e85ece240e8b4592.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Carles Puigdemont: \"Si Vox llama a la puerta de Junts el portazo lo recordarán toda su vida\"",
+       "url": "https://www.elmundo.es/espana/2026/11/19/6aff350ae85ece75168b4594.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la entrevista en la que Puigdemont atribuye a Sánchez una ambición desmedida y las reacciones cruzadas de PSOE y PP.",
+     "noticias": [
+      {
+       "titular": "Los partidos se lanzan como arma arrojadiza la entrevista de Puigdemont, en la que atribuye a Sánchez “una ambición desmedida”",
+       "url": "https://www.lavanguardia.com/politica/20261119/11688166/partidos-lanzan-arma-arrojadiza-entrevista-puigdemont-atribuye-sanchez-ambicion-desmedida.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Ataque ruso y guerra en Ucrania",
+   "resumen": "Tras la cumbre de Shenzhen, Europa reclama un papel en la negociación sobre Ucrania. Hubo además un ataque contra el puente de Crimea y daños en embajadas en Kiev.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Se centra en la reclamación europea de sitio en la negociación y en el despliegue militar en Polonia.",
+     "noticias": [
+      {
+       "titular": "\"Un 'formato de Yalta' no traerá la paz\": Europa reclama su silla en la negociación sobre Ucrania",
+       "url": "https://www.elmundo.es/internacional/2026/11/19/6aff4198e85eced6428b459e.html",
+       "seccion": "Rusia"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Detalla los ataques al puente de Crimea y a las embajadas de Países Bajos y Austria en Kiev, y el rechazo de Merz a un formato Yalta.",
+     "noticias": [
+      {
+       "titular": "Tercer ataque esta semana contra el puente de Crimea, horas antes de la cumbre de Shenzhen",
+       "url": "https://www.lavanguardia.com/internacional/20261119/11687931/tercer-ataque-esta-semana-contra-el-puente-de-crimea-horas-antes-de-la-cumbre-de-putin-con-xi-y-trump.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Un ataque ruso provoca daños en las embajadas de Países Bajos y Austria en Kyiv",
+       "url": "https://www.lavanguardia.com/internacional/20261119/11688530/ataque-ruso-provoca-danos-embajadas-paises-bajos-austria-kyiv.html",
+       "seccion": "Internacional"
+      },
+      {
+       "titular": "Los aliados europeos de Ucrania estarán “pronto” en las conversaciones de paz con rusos, ucranianos y estadounidenses",
+       "url": "https://www.lavanguardia.com/internacional/20261119/11688459/aliados-europeos-ucrania-estaran-pronto-conversaciones-paz-rusos-ucranianos-estadounidenses.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Ceuta: entrada masiva a nado y flotadores",
+   "resumen": "Un nuevo informe policial apunta a una logística previa en la entrada masiva a nado en Ceuta, con 10.000 flotadores idénticos. Feijóo lo usa en el debate al criticar la política exterior de Sánchez.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge el informe del Cenif que descarta un origen casual del material y apunta a un uso preordenado.",
+     "noticias": [
+      {
+       "titular": "La Policía aprecia un \"componente logístico\" previo en el uso de 10.000 flotadores idénticos para la masiva entrada a nado a Ceuta",
+       "url": "https://www.elmundo.es/espana/2026/11/19/6afefe4dfc6c83eb1c8b456f.html",
+       "seccion": "Ceuta"
+      }
+     ]
+    },
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la acusación de Feijóo de un fracaso histórico de Sánchez en política exterior por la crisis de Ceuta.",
+     "noticias": [
+      {
+       "titular": "Debate electoral 29-N, en directo | Feijóo pide el voto porque sabe “gestionar” y Sánchez apela a “la fuerza de la gente” en el minuto final del cara a cara",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/debate-electoral-entre-pedro-sanchez-y-alberto-nunez-feijoo-en-directo.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    }
+   ]
+  }
+ ],
  "medios": [
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "",
+   "resumen": "Prioriza la cobertura en directo y el análisis del cara a cara, con verificación de afirmaciones. Destaca también la campaña, incluida la encuesta previa y la Junta Electoral.",
    "noticias": [
     {
-     "titular": "90 minutos cara a cara: Sánchez busca remontar los dos puntos que le separan del PP y Feijóo repetir el éxito de 2023",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
+     "titular": "Sánchez intenta recuperar votantes moderados con un inesperado tono suave",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/sanchez-intenta-recuperar-votantes-moderados-con-un-inesperado-tono-suave.html",
+     "seccion": "Pedro Sánchez",
+     "resumen": "Sánchez busca al electorado moderado con un tono más suave que el de la campaña anterior."
+    },
+    {
+     "titular": "Debate electoral 29-N, en directo | Feijóo pide el voto porque sabe “gestionar” y Sánchez apela a “la fuerza de la gente” en el minuto final del cara a cara",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/debate-electoral-entre-pedro-sanchez-y-alberto-nunez-feijoo-en-directo.html",
      "seccion": "Elecciones Generales",
-     "resumen": ""
+     "resumen": "Crónica en directo del debate: Feijóo pide el voto por su gestión y acusa a Sánchez de fracaso exterior por Ceuta; Sánchez apela a la movilización ciudadana."
     },
     {
-     "titular": "Sánchez ultima los detalles del cara a cara con su núcleo duro en La Moncloa y la “lección aprendida” de 2023",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/sanchez-ultima-los-detalles-del-cara-a-cara-con-su-nucleo-duro-en-la-moncloa-y-la-leccion-aprendida-de-2023.html",
+     "titular": "Mentiras y medias verdades del debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/mentiras-y-medias-verdades-del-debate-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
+     "seccion": "Debates Elecciones Generales",
+     "resumen": "Análisis de los expertos del diario sobre las afirmaciones más discutidas del debate."
+    },
+    {
+     "titular": "Feijóo recrimina a Sánchez los muertos en Urda y Adamuz y él se disculpa: “Es un dolor que llevaré conmigo”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-recrimina-a-sanchez-los-muertos-en-urda-y-adamuz-y-el-se-disculpa-es-un-dolor-que-llevare-conmigo.html",
+     "seccion": "Debates Elecciones Generales",
+     "resumen": "Feijóo lleva a Sánchez las víctimas de Urda y Adamuz y este responde con una disculpa."
+    },
+    {
+     "titular": "La encuesta antes del debate: ligera ventaja del PP y muy clara del bloque derechista",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-encuesta-antes-del-debate-ligera-ventaja-del-pp-y-muy-clara-del-bloque-derechista.html",
      "seccion": "Elecciones Generales",
-     "resumen": ""
+     "resumen": "Encuesta previa al debate: ligera ventaja del PP y amplia del bloque de derechas."
     },
     {
-     "titular": "Feijóo prepara el debate con su equipo gallego y sin Miguel Ángel Rodríguez: máxima presión sobre Sánchez sin arriesgar el perfil presidencial",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-ira-a-la-yugular-sin-arriesgar-el-perfil-presidencial-en-un-debate-preparado-con-su-equipo-gallego-y-sin-miguel-angel-rodriguez.html",
+     "titular": "La Junta Electoral rechaza el recurso del PSOE contra el vídeo del PP sobre Sánchez hecho con el “novedoso instrumento” de la IA",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-junta-electoral-rechaza-el-recurso-del-psoe-contra-el-video-del-pp-sobre-sanchez-hecho-con-el-novedoso-instrumento-de-la-ia.html",
      "seccion": "Elecciones Generales",
-     "resumen": ""
+     "resumen": "La Junta Electoral rechaza el recurso del PSOE contra un vídeo del PP hecho con IA y desestima la denuncia de Vox contra La Revuelta."
     },
     {
-     "titular": "¿Dónde se vota menos en España? El mapa de la abstención y la renta, calle a calle",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-mapa-de-la-abstencion-y-la-renta-donde-se-vota-menos-calle-a-calle.html",
+     "titular": "Abascal advierte de que Sánchez “no se irá de rositas” si pierde las elecciones",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/abascal-advierte-de-que-sanchez-no-se-ira-de-rositas-si-pierde-las-elecciones.html",
      "seccion": "Elecciones Generales",
-     "resumen": ""
-    },
-    {
-     "titular": "Emilio Delgado llama “cobarde” a Ayuso por criticarlo por ir con su pareja a la sanidad privada: “Ustedes destruyen lo público”",
-     "url": "https://elpais.com/espana/madrid/2026-11-19/emilio-delgado-llama-cobarde-a-ayuso-por-criticarle-por-ir-con-su-pareja-a-la-sanidad-privada-ustedes-destruyen-lo-publico.html",
-     "seccion": "Comunidad de Madrid",
-     "resumen": ""
-    },
-    {
-     "titular": "El primer gran bulo de la campaña se derrumba: Alvise, un garaje en Burgos y un “ataque violento” en un domicilio",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-primer-gran-bulo-de-la-campana-se-derrumba-alvise-un-garaje-en-burgos-y-un-ataque-violento-en-un-domicilio.html",
-     "seccion": "Elecciones Generales",
-     "resumen": ""
-    },
-    {
-     "titular": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
-     "seccion": "Elecciones Generales",
-     "resumen": ""
-    },
-    {
-     "titular": "Tamar Novas: “Lo tengo claro: votaré lo menos malo para evitar lo peor”",
-     "url": "https://elpais.com/espana/2026-11-19/tamar-novas-lo-tengo-claro-votare-lo-menos-malo-para-evitar-lo-peor.html",
-     "seccion": "España",
-     "resumen": ""
-    },
-    {
-     "titular": "Oído en peluquerías, sobre la portada de Sánchez en ‘Lecturas’: “Será lo que sea, pero está estupendo”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/oido-en-peluquerias-sobre-la-portada-de-sanchez-en-lecturas-sera-lo-que-sea-pero-esta-estupendo.html",
-     "seccion": "Elecciones Generales",
-     "resumen": ""
+     "resumen": "Abascal advierte de que Sánchez no quedará impune si pierde y critica su ausencia del debate televisivo."
     },
     {
      "titular": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
      "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
      "seccion": "Xi Jinping",
-     "resumen": ""
+     "resumen": "Xi, Trump y Putin tras Shenzhen: rechazo a la guerra nuclear y compromisos sobre la ONU y la energía."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "",
+   "resumen": "Combina el relato del debate con textos de opinión y firmas de análisis, y cubre con detalle la política interna y las investigaciones judiciales. Dedica también espacio a la cumbre de Shenzhen y a la negociación sobre Ucrania.",
    "noticias": [
     {
-     "titular": "Puigdemont: \"Aproveché la ambición desmedida de Sánchez para derrotar a España\"",
-     "url": "https://www.elmundo.es/espana/2026/11/18/6afde4a4fc6c8315138b45b0.html",
-     "seccion": "Carles Puigdemont",
-     "resumen": ""
+     "titular": "Feijóo abruma hasta dejar mudo a un Sánchez que pide perdón dos veces",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6aff232ce4d4d86b058b4593.html",
+     "seccion": "Artículos Marisa Cruz",
+     "resumen": "Crónica que describe a Feijóo como dominador del debate y a Sánchez pidiendo perdón en dos ocasiones."
     },
     {
-     "titular": "El PP acusa a Sánchez de plegarse a Puigdemont \"por un sillón\": \"Esta entrevista es el acta notarial de la legislatura\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6afedde0fc6c8362338b45b2.html",
-     "seccion": "Carles Puigdemont",
-     "resumen": ""
-    },
-    {
-     "titular": "Vox pide a la Fiscalía del Supremo que investigue las \"contraprestaciones\" que negoció Puigdemont con el PSOE: apunta hasta ocho delitos",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6afeff0d21efa0ed5c8b45b0.html",
-     "seccion": "Vox",
-     "resumen": ""
-    },
-    {
-     "titular": "El PSOE quiso dejar fuera del debate el bloque de la corrupción y el PP se plantó: \"Sin eso, no vamos\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6afde649fc6c83f1398b45a9.html",
-     "seccion": "NLPremium",
-     "resumen": ""
-    },
-    {
-     "titular": "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdd75c21efa083408b45b2.html",
+     "titular": "El PP coge fuerza a costa de Vox y Sánchez llega al cara a cara a cuatro puntos de Feijóo",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6aff2a9afc6c83886c8b459b.html",
      "seccion": "PP",
-     "resumen": ""
+     "resumen": "Encuesta en la que el PP sube hasta el 31% a costa de Vox y el PSOE mantiene su tendencia."
+    },
+    {
+     "titular": "Carles Puigdemont: \"El PSOE me propuso una foto con Sánchez en los pasillos del Parlamento Europeo\"",
+     "url": "https://www.elmundo.es/espana/2026/11/19/6aff26e3e85ece240e8b4592.html",
+     "seccion": "España",
+     "resumen": "Puigdemont relata en exclusiva una propuesta del PSOE de una foto con Sánchez, que él rechazó."
     },
     {
      "titular": "Trump, Putin y Xi Jinping se reúnen en China en una cumbre histórica: \"Compartimos la responsabilidad de mantener la paz mundial\"",
      "url": "https://www.elmundo.es/internacional/2026/11/19/6afe5afa21efa0b2798b457b.html",
      "seccion": "Xi Jinping",
-     "resumen": ""
+     "resumen": "Cumbre de Trump, Putin y Xi en China, presentada como oportunidad para la agenda exterior de Trump."
+    },
+    {
+     "titular": "\"Un 'formato de Yalta' no traerá la paz\": Europa reclama su silla en la negociación sobre Ucrania",
+     "url": "https://www.elmundo.es/internacional/2026/11/19/6aff4198e85eced6428b459e.html",
+     "seccion": "Rusia",
+     "resumen": "Europa reclama su papel en las negociaciones sobre Ucrania, con una reunión en Berlín y ensayos militares en Polonia."
     },
     {
      "titular": "La líder del clan de 'los Rocho' pide escolta para declarar en la Audiencia Nacional por el 'caso Cloacas'",
      "url": "https://www.elmundo.es/espana/2026/11/19/6afef76ffdddffa6318b45c8.html",
      "seccion": "UCO",
-     "resumen": ""
+     "resumen": "La líder del clan de 'los Rocho' pide escolta para declarar en la Audiencia Nacional en el caso Cloacas."
     },
     {
      "titular": "La Policía aprecia un \"componente logístico\" previo en el uso de 10.000 flotadores idénticos para la masiva entrada a nado a Ceuta",
      "url": "https://www.elmundo.es/espana/2026/11/19/6afefe4dfc6c83eb1c8b456f.html",
      "seccion": "Ceuta",
-     "resumen": ""
+     "resumen": "Un nuevo informe policial apunta a una distribución preordenada de 10.000 flotadores en la entrada a nado en Ceuta."
     },
     {
-     "titular": "Alcaraz respira tras someterse a una resonancia: no hay rotura muscular y seguirá en las ATP Finals",
-     "url": "https://www.elmundo.es/deportes/tenis/2026/11/19/6afedcf421efa0c7408b45ae.html",
-     "seccion": "tenis",
-     "resumen": ""
-    },
-    {
-     "titular": "Suben un 20% las peticiones de ayuda de profesores por faltas de respeto y falsas acusaciones: \"El alumno me empujó y su familia me hizo un escrache\"",
-     "url": "https://www.elmundo.es/espana/2026/11/19/6afec6a2e85ece500c8b45b3.html",
-     "seccion": "Artículos Olga R. Sanmartín",
-     "resumen": ""
+     "titular": "La IA no se frena en Bolsa: Anthropic se dispara un 12% en su debut en el Nasdaq",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/19/6aff287cfc6c83e21b8b459e.html",
+     "seccion": "Artículos Pablo R. Suanzes",
+     "resumen": "Anthropic debuta en el Nasdaq con una subida del 12% y levanta más de 107.000 millones."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "",
+   "resumen": "Pone el foco en la imagen y la actuación de Sánchez en el debate, con una lectura crítica de su papel. Dedica también espacio a la política social, la inmigración y a contenidos de servicio.",
    "noticias": [
     {
-     "titular": "«Solo vale ganar»: Sánchez busca la revancha del desastre de 2023",
-     "url": "https://www.abc.es/espana/solo-vale-ganar-sanchez-busca-revancha-desastre-20261119015745-nt.html",
+     "titular": "Feijóo acorrala a un Sánchez noqueado por la corrupción y su gestión",
+     "url": "https://www.abc.es/espana/feijoo-acorrala-sanchez-noqueado-corrupcion-gestion-20261119235946-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Crónica que sitúa a Feijóo acorralando a un Sánchez debilitado por la corrupción y la gestión."
     },
     {
-     "titular": "Jódar apura ante Shelton sus opciones de jugar las semifinales de las ATP Finals",
-     "url": "https://www.abc.es/deportes/tenis/shelton-jodar-directo-resultado-ganador-partido-atp-20261119091005-di.html",
+     "titular": "Feijóo, entre agresividad y datos, arrasa a un Sánchez desbordado",
+     "url": "https://www.abc.es/espana/feijoo-agresividad-datos-acorrala-sanchez-desbordado-20261119234527-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Feijóo mantiene la presión durante todo el debate y combina ataques con datos frente a un Sánchez con tono suave."
     },
     {
-     "titular": "El ministerio de Transportes pagó un tratamiento para el cáncer de la exmujer de Ábalos",
-     "url": "https://www.abc.es/espana/transportes-pago-tratamiento-cancer-exmujer-abalos-20261119222527-nt.html",
+     "titular": "Feijóo acusa a Sánchez de convertir España en «un chollo para las mafias» y sitúa Marruecos en el centro de su fracaso exterior",
+     "url": "https://www.abc.es/espana/feijoo-acusa-sanchez-convertir-espana-chollo-mafias-20261119234121-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Feijóo acusa a Sánchez de convertir España en un refugio para las mafias y sitúa a Marruecos en el centro del fracaso exterior."
     },
     {
-     "titular": "La Corte Internacional de Justicia condena a Birmania por genocidio contra los rohinyás",
-     "url": "https://www.abc.es/internacional/corte-internacional-justicia-condena-birmania-genocidio-rohinyas-20261119124804-nt.html",
+     "titular": "Un Sánchez anestesiado intenta vestirse de moderado para no asustar al votante de centro",
+     "url": "https://www.abc.es/espana/sanchez-anestesiado-intenta-vestirse-moderado-asustar-votante-20261119234123-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Análisis de la estrategia de Sánchez para atraer al votante de centro y de su impacto en el debate."
     },
     {
-     "titular": "Nicolás Redondo, exdirigente del PSOE, se niega a votar a Pedro Sánchez en las próximas elecciones: «Tiene una ambición desmedida»",
-     "url": "https://www.abc.es/recreo/nicolas-redondo-exdirigente-psoe-niega-votar-pedro-20261119144656-nt.html",
+     "titular": "El popular opone los apuros de las familias al cohete económico del PSOE: «El PIB no se come»",
+     "url": "https://www.abc.es/economia/feijoo-opone-apuros-familias-cohete-economico-sanchez-20261119230933-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Feijóo lleva el debate económico a la bajada de impuestos frente al crecimiento del PIB que defiende el PSOE."
     },
     {
-     "titular": "Joan Manuel Serrat, sobre a quién votará en las elecciones generales del 29N: «Votaré a favor del bien común»",
-     "url": "https://www.abc.es/play/television/noticias/joan-manuel-serrat-sobre-partido-votara-elecciones-20261119144130-nt.html",
+     "titular": "Sánchez, arrinconado por un Feijóo que le afea su falta de sensibilidad con Urda y Adamuz",
+     "url": "https://www.abc.es/sociedad/sanchez-arrinconado-feijoo-averguenza-falta-sensibilidad-accidentes-20261119231124-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "Feijóo reprocha a Sánchez su falta de sensibilidad por los accidentes de Urda y Adamuz."
     },
     {
-     "titular": "Cintia Rocho pide ser «escoltada» a su declaración en el caso 'cloacas' por temor a «sufrir un atentado»",
-     "url": "https://www.abc.es/espana/cintia-rocho-pide-escoltada-declaracion-cloacas-temor-20261119143404-nt.html",
+     "titular": "Anthropic firma una salida a bolsa histórica pero no calma los ánimos sobre la IA",
+     "url": "https://www.abc.es/economia/maxima-expectacion-mercados-ante-debut-anthropic-mayor-20261119162357-nt.html",
      "seccion": "",
-     "resumen": ""
+     "resumen": "La salida a bolsa de Anthropic arranca por encima de lo previsto, con dudas sobre el futuro de la IA."
     },
     {
-     "titular": "Cómo van las encuestas del 29N",
-     "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261119050000-nt.html",
+     "titular": "Alcaraz decide seguir en las ATP Finals tras una hora de pruebas médicas",
+     "url": "https://www.abc.es/deportes/tenis/alcaraz-decide-seguir-atp-finals-tras-hora-20261119173927-nt.html",
      "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Del encendido de luces de Navidad a exposiciones en Matadero: diez planes este fin de semana en Madrid",
-     "url": "https://www.abc.es/espana/madrid/encendido-luces-navidad-exposiciones-matadero-diez-planes-20261118142517-nt.html",
-     "seccion": "",
-     "resumen": ""
-    },
-    {
-     "titular": "Las 30 mejores ofertas del Black Friday de Amazon hoy (19 de noviembre): hasta un 62% en Lee, Soundcore, Amazon y más",
-     "url": "https://www.abc.es/favorito/black-friday-2026-amazon-arranca-30-ofertas-hasta-57-del-calcetin-al-plegable-20261117000105-nt.html",
-     "seccion": "",
-     "resumen": ""
+     "resumen": "Alcaraz sigue en las ATP Finals tras unas pruebas médicas, con su participación en la Copa Davis en duda."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "",
+   "resumen": "Da prioridad al debate de candidatos por Barcelona y a la verificación de datos, además de la política catalana. En internacional, sigue la cumbre de Shenzhen desde la perspectiva de Ucrania.",
    "noticias": [
     {
-     "titular": "Rodalies, la vivienda y el catalán, protagonistas del debate de los candidatos por Barcelona",
+     "titular": "Feijóo insinúa una financiación ilegal del PSOE y Sánchez rechaza lecciones del “partido más corrupto”",
+     "url": "https://www.lavanguardia.com/politica/20261119/11688338/cara-cara-sanchez-feijoo-directo-ultima-hora-debate-candidatos-psoe-pp.html",
+     "seccion": "Política",
+     "resumen": "Feijóo insinúa financiación ilegal del PSOE y Sánchez responde recordando casos de corrupción del PP."
+    },
+    {
+     "titular": "Sánchez pasa al contraataque por Adamuz y Urda y golpea a Feijóo con el Yak-42 y el Prestige",
+     "url": "https://www.lavanguardia.com/politica/20261119/11688569/sanchez-admite-errores-gobierno-reivindica-gestion-frente-involucion-pp-vox.html",
+     "seccion": "Política",
+     "resumen": "Sánchez abre el debate con autocrítica sobre vivienda y contraataca con Adamuz, Urda, el Yak-42 y el Prestige."
+    },
+    {
+     "titular": "Rodalies, la vivienda y el catalán focalizan el debate de los candidatos por Barcelona",
      "url": "https://www.lavanguardia.com/politica/20261119/11687967/inversiones-rodalies-vivienda-focalizan-debate-catalan-ecuador-campana.html",
      "seccion": "Política",
-     "resumen": ""
+     "resumen": "En el debate de candidatos por Barcelona, Rodalies, vivienda y catalán centran el bloque sobre Catalunya."
     },
     {
-     "titular": "El debate de los candidatos por Catalunya, en imágenes",
-     "url": "https://www.lavanguardia.com/politica/20261119/11687987/debate-candidatos-catalunya-imagenes.html",
-     "seccion": "Política",
-     "resumen": ""
+     "titular": "La vivienda, la inmigración y los reproches cruzados concentran la mayoría de las imprecisiones del debate electoral del 29N en RAC1 y 'La Vanguardia'",
+     "url": "https://www.lavanguardia.com/vida/verificacion/20261119/11688515/vivienda-inmigracion-reproches-cruzados-concentran-mayoria-imprecisiones-debate-electoral-29n-rac1-vanguardia.html",
+     "seccion": "Verificación",
+     "resumen": "Verificación de las imprecisiones del debate de Barcelona, sobre todo en vivienda e inmigración."
     },
     {
-     "titular": "Los 30 segundos de oro de cada candidato en el debate de 'La Vanguardia' y RAC1",
-     "url": "https://www.lavanguardia.com/politica/20261119/11688074/30-segundos-oro-candidato-debate-rac1-vanguardia.html",
+     "titular": "Los partidos se lanzan como arma arrojadiza la entrevista de Puigdemont, en la que atribuye a Sánchez “una ambición desmedida”",
+     "url": "https://www.lavanguardia.com/politica/20261119/11688166/partidos-lanzan-arma-arrojadiza-entrevista-puigdemont-atribuye-sanchez-ambicion-desmedida.html",
      "seccion": "Política",
-     "resumen": ""
+     "resumen": "Los partidos se cruzan la entrevista de Puigdemont, en la que acusa a Sánchez de ambición desmedida."
     },
     {
-     "titular": "El 1x1 del debate: el irónico, la distante, el polemista...",
-     "url": "https://www.lavanguardia.com/politica/20261119/11687983/1x1-debate-ironico-distante-polemista.html",
-     "seccion": "Política",
-     "resumen": ""
+     "titular": "Xi, Putin y Trump suscriben que “una guerra nuclear no puede ser ganada, ni debe ser librada”",
+     "url": "https://www.lavanguardia.com/internacional/20261119/11688182/xi-putin-trump-suscriben-guerra-nuclear-ganada-debe-librada.html",
+     "seccion": "Internacional",
+     "resumen": "Declaración genérica de Xi, Putin y Trump contra la guerra nuclear, sin avances en Ucrania ni en Irán."
     },
     {
-     "titular": "Debate electoral de 'La Vanguardia' y 'RAC1', hoy en directo: última hora de los candidatos a las elecciones del 29-N por Barcelona",
-     "url": "https://www.lavanguardia.com/politica/20261119/11685669/elecciones-generales-debate-elctoral-candidatos-ultima-hora-en-directo.html",
-     "seccion": "Política",
-     "resumen": ""
+     "titular": "Tercer ataque esta semana contra el puente de Crimea, horas antes de la cumbre de Shenzhen",
+     "url": "https://www.lavanguardia.com/internacional/20261119/11687931/tercer-ataque-esta-semana-contra-el-puente-de-crimea-horas-antes-de-la-cumbre-de-putin-con-xi-y-trump.html",
+     "seccion": "Internacional",
+     "resumen": "Tercer ataque esta semana contra el puente de Crimea, horas antes de la cumbre de Shenzhen."
     },
     {
-     "titular": "“¿Qué piensa el señor Trias?” de Rufián y las otras frases del debate a seis de 'La Vanguardia' y RAC1",
-     "url": "https://www.lavanguardia.com/politica/20261119/11688221/que-piensa-senor-trias-rufian-frases-debate-seis-vanguardia-rac1.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "Un debate para todos los gustos",
-     "url": "https://www.lavanguardia.com/politica/20261119/11688025/debate-todos-gustos.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "La próxima semana será la bomba",
-     "url": "https://www.lavanguardia.com/politica/20261119/11687566/proxima-semana-sera-bomba.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "Feijóo y Sánchez, a cara de perro",
-     "url": "https://www.lavanguardia.com/politica/20261119/11687592/feijoo-sanchez-cara-perro.html",
-     "seccion": "Política",
-     "resumen": ""
-    },
-    {
-     "titular": "Feijóo combinará “moderación” con un tono “exigente” con Sánchez en el cara a cara",
-     "url": "https://www.lavanguardia.com/politica/20261119/11687548/feijoo-combinara-moderacion-tono-exigente-sanchez.html",
-     "seccion": "Política",
-     "resumen": ""
+     "titular": "Los aliados europeos de Ucrania estarán “pronto” en las conversaciones de paz con rusos, ucranianos y estadounidenses",
+     "url": "https://www.lavanguardia.com/internacional/20261119/11688459/aliados-europeos-ucrania-estaran-pronto-conversaciones-paz-rusos-ucranianos-estadounidenses.html",
+     "seccion": "Internacional",
+     "resumen": "Merz rechaza un formato Yalta y anuncia que los aliados europeos participarán pronto en las conversaciones de paz."
     }
    ]
   }
