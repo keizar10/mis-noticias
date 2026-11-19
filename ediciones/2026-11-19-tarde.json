@@ -1,0 +1,278 @@
+{
+ "fecha": "2026-11-19",
+ "franja": "tarde",
+ "generada": "2026-11-19T15:46+01:00",
+ "con_ia": true,
+ "resumen_dia": "La campaña para las elecciones generales del 29N domina la portada: el cara a cara entre Sánchez y Feijóo se celebra hoy y los cuatro diarios le dedican espacio, con las encuestas y la estrategia de cada candidato como ejes. Destacan también la entrevista de Puigdemont sobre las negociaciones de Junts con el PSOE, la cumbre trilateral de Trump, Xi y Putin en Shenzhen y la condena de la CIJ a Myanmar por genocidio contra los rohinyás. Por último, el caso de las 'cloacas' del PSOE aparece en varias portadas.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\": \"Cara a cara Sánchez-Feijóo y estrategia de campaña\", \"resumen\": \"Sánchez y Feijóo se enfrentan hoy en un debate televisado antes de las elecciones del 29 de noviembre. Las encuestas dan ventaja a la derecha, aunque la distancia entre PP y PSOE varía según el sondeo.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Subraya la carrera por remontar de Sánchez, citando el sondeo de 40dB y la preparación de ambos candidatos.\", \"ids\": [\"elpais-0\", \"elpais-1\", \"elpais-2\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Señala que el debate se centra en el voto útil entre socios de bloque y que el PSOE quiso excluir la corrupción.\", \"ids\": [\"elmundo-3\", \"elmundo-4\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge la presión de los socialistas, con la frase 'Solo vale ganar', y el impacto esperado del cara a cara.\", \"ids\": [\"abc-0\", \"abc-7\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Presenta el cara a cara como segunda parte del de 2023 y describe el tono esperado de ambos líderes.\", \"ids\": [\"lavanguardia-8\", \"lavanguardia-9\", \"lavanguardia-10\"]}]}, {\"titulo\": \"Entrevista de Puigdemont y reacciones políticas\", \"resumen\": \"Puigdemont afirma en una entrevista que aprovechó la ambición de Sánchez y que negoció con el PSOE. PP y Vox reaccionan pidiendo explicaciones, y Vox lleva el asunto a la Fiscalía del Supremo.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Destaca la exclusiva y la denuncia de Vox ante el Supremo por posibles delitos en las contraprestaciones.\", \"ids\": [\"elmundo-0\", \"elmundo-1\", \"elmundo-2\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Recoge la reacción cruzada de PSOE y PP y el giro de Junts en la equidistancia.\", \"ids\": [\"lavanguardia-13\"]}]}, {\"titulo\": \"Cumbre de Trump, Xi y Putin en Shenzhen\", \"resumen\": \"Trump, Xi y Putin se reunieron en Shenzhen en la primera cumbre trilateral de los tres líderes. Acordaron impulsar una reforma de la ONU y garantizar los flujos energéticos.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Recoge la declaración sobre la guerra nuclear y el compromiso de reforma de la ONU.\", \"ids\": [\"elpais-9\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya el regreso de Putin a la diplomacia y la oportunidad para la agenda exterior de Trump.\", \"ids\": [\"elmundo-5\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca el carácter histórico del encuentro por su formato inédito.\", \"ids\": [\"abc-14\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Señala que la cumbre concluye sin sustancia y lo sitúa junto al nuevo ataque al puente de Crimea.\", \"ids\": [\"lavanguardia-15\", \"lavanguardia-17\"]}]}, {\"titulo\": \"CIJ condena a Myanmar por genocidio contra los rohinyás\", \"resumen\": \"La Corte Internacional de Justicia declara que Myanmar cometió genocidio contra los rohinyás y ordena indemnizar a las víctimas. Es la primera vez que este tribunal atribuye ese delito a un Estado.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Señala que el fallo puede influir en el caso de Sudáfrica contra Israel.\", \"ids\": [\"elpais-17\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya la orden de indemnización a las víctimas.\", \"ids\": [\"elmundo-15\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca que es la primera vez que el tribunal considera a un Estado responsable de genocidio, con la cita del presidente de la CIJ.\", \"ids\": [\"abc-3\"]}]}, {\"titulo\": \"Caso 'cloacas' del PSOE y Cintia Rocho\", \"resumen\": \"La líder del clan de los Rocho pide escolta para declarar como testigo en la Audiencia Nacional. Alega amenazas de muerte previas.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Destaca la petición de escolta y la alusión a asesinatos previos en su familia.\", \"ids\": [\"elmundo-6\"]}, {\"medio\": \"abc\", \"enfoque\": \"Presenta la petición como temor a un atentado y recuerda el papel de los Rocho con las presuntas cloacas del PSOE.\", \"ids\": [\"abc-6\"]}]}]</parameter>\n<parameter name=\"medios\">[{\"medio\": \"elpais\", \"resumen\": \"Prioriza la carrera electoral, con foco en el cara a cara, las encuestas y la estrategia de Sánchez y Feijóo. Incluye también temas sociales y de opinión, como la abstención por renta y la sanidad privada.\", \"noticias\": [{\"id\": \"elpais-0\", \"resumen\": \"Previa del cara a cara de esta noche, con el último sondeo de 40dB que sitúa al PP por delante del PSOE.\"}, {\"id\": \"elpais-1\", \"resumen\": \"Preparación del debate por parte de Sánchez y su núcleo duro en La Moncloa.\"}, {\"id\": \"elpais-2\", \"resumen\": \"Estrategia de Feijóo para el debate, con su equipo gallego y sin Miguel Ángel Rodríguez.\"}, {\"id\": \"elpais-9\", \"resumen\": \"Declaración conjunta de Xi, Trump y Putin tras la cumbre de Shenzhen sobre la guerra nuclear y la reforma de la ONU.\"}, {\"id\": \"elpais-17\", \"resumen\": \"Fallo de la CIJ que atribuye a Myanmar genocidio contra los rohinyás, primer caso de este tipo para un Estado.\"}, {\"id\": \"elpais-3\", \"resumen\": \"Análisis de la abstención por barrios y su relación con la renta a partir de datos electorales recientes.\"}, {\"id\": \"elpais-4\", \"resumen\": \"Enfrentamiento entre Emilio Delgado y Ayuso por la visita del diputado a la sanidad privada.\"}]}, {\"medio\": \"elmundo\", \"resumen\": \"Concentra la portada en la exclusiva de Puigdemont y sus consecuencias políticas y judiciales. Dedica también espacio a la campaña y a sucesos y asuntos judiciales.\", \"noticias\": [{\"id\": \"elmundo-0\", \"resumen\": \"Entrevista exclusiva en la que Puigdemont describe las negociaciones de Junts con el PSOE.\"}, {\"id\": \"elmundo-1\", \"resumen\": \"Reacción del PP, que acusa a Sánchez de ceder a Puigdemont por el poder.\"}, {\"id\": \"elmundo-2\", \"resumen\": \"Vox lleva a la Fiscalía del Supremo las supuestas contraprestaciones negociadas con Junts.\"}, {\"id\": \"elmundo-5\", \"resumen\": \"Cumbre de Trump, Putin y Xi en China, presentada como una reunión histórica de diplomacia.\"}, {\"id\": \"elmundo-4\", \"resumen\": \"Encuesta que mantiene la mayoría de PP y Vox con indecisos todavía por decidir.\"}, {\"id\": \"elmundo-6\", \"resumen\": \"Cintia Rocho pide escolta para declarar en la Audiencia Nacional en el caso 'cloacas'.\"}, {\"id\": \"elmundo-15\", \"resumen\": \"La CIJ declara a Myanmar responsable de genocidio y ordena indemnizar a las víctimas.\"}]}, {\"medio\": \"abc\", \"resumen\": \"Mezcla la campaña con la presión sobre el PSOE y asuntos judiciales y de gestión pública. Incluye también temas de vivienda y de actualidad ligera.\", \"noticias\": [{\"id\": \"abc-0\", \"resumen\": \"Presión en el entorno de Sánchez antes del cara a cara, con la expectativa de un impacto decisivo.\"}, {\"id\": \"abc-2\", \"resumen\": \"Revelación de que Transportes pagó un tratamiento oncológico a la exmujer de Ábalos.\"}, {\"id\": \"abc-4\", \"resumen\": \"Nicolás Redondo anuncia que no votará a Sánchez y critica su ambición desmedida.\"}, {\"id\": \"abc-3\", \"resumen\": \"La CIJ condena a Myanmar por genocidio contra los rohinyás en un fallo histórico.\"}, {\"id\": \"abc-14\", \"resumen\": \"Cumbre trilateral de Trump, Xi y Putin en Shenzhen, primera reunión conjunta de los tres.\"}, {\"id\": \"abc-6\", \"resumen\": \"Cintia Rocho pide escolta para declarar como testigo por temor a un atentado.\"}, {\"id\": \"abc-17\", \"resumen\": \"Análisis de la crisis de vivienda y del papel de la construcción en los programas electorales.\"}]}, {\"medio\": \"lavanguardia\", \"resumen\": \"Centra la portada en el debate electoral por Barcelona y en el cara a cara nacional. Destaca también la política catalana y la cumbre internacional.\", \"noticias\": [{\"id\": \"lavanguardia-0\", \"resumen\": \"Debate de candidatos por Barcelona sobre Rodalies, vivienda y uso del catalán en el Congreso.\"}, {\"id\": \"lavanguardia-8\", \"resumen\": \"Anticipo del cara a cara Feijóo-Sánchez, segunda parte del debate de 2023.\"}, {\"id\": \"lavanguardia-10\", \"resumen\": \"Sánchez afronta el debate con la previsión de bulos y ruido por parte de Feijóo.\"}, {\"id\": \"lavanguardia-13\", \"resumen\": \"Partidos reaccionan a la entrevista de Puigdemont sobre la ambición de Sánchez.\"}, {\"id\": \"lavanguardia-15\", \"resumen\": \"La cumbre de Trump, Putin y Xi concluye sin resultados sustanciales, según la crónica.\"}, {\"id\": \"lavanguardia-17\", \"resumen\": \"Tercer ataque esta semana contra el puente de Crimea, horas antes de la cumbre de Shenzhen.\"}, {\"id\": \"lavanguardia-14\", \"resumen\": \"Jordi Pujol hará campaña por Junts y participará en el mitin central de la formación.\"}]}]</parameter>\n</invoke>\n",
+ "temas_comunes": [],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "",
+   "noticias": [
+    {
+     "titular": "90 minutos cara a cara: Sánchez busca remontar los dos puntos que le separan del PP y Feijóo repetir el éxito de 2023",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "Sánchez ultima los detalles del cara a cara con su núcleo duro en La Moncloa y la “lección aprendida” de 2023",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/sanchez-ultima-los-detalles-del-cara-a-cara-con-su-nucleo-duro-en-la-moncloa-y-la-leccion-aprendida-de-2023.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "Feijóo prepara el debate con su equipo gallego y sin Miguel Ángel Rodríguez: máxima presión sobre Sánchez sin arriesgar el perfil presidencial",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-ira-a-la-yugular-sin-arriesgar-el-perfil-presidencial-en-un-debate-preparado-con-su-equipo-gallego-y-sin-miguel-angel-rodriguez.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "¿Dónde se vota menos en España? El mapa de la abstención y la renta, calle a calle",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-mapa-de-la-abstencion-y-la-renta-donde-se-vota-menos-calle-a-calle.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "Emilio Delgado llama “cobarde” a Ayuso por criticarlo por ir con su pareja a la sanidad privada: “Ustedes destruyen lo público”",
+     "url": "https://elpais.com/espana/madrid/2026-11-19/emilio-delgado-llama-cobarde-a-ayuso-por-criticarle-por-ir-con-su-pareja-a-la-sanidad-privada-ustedes-destruyen-lo-publico.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": ""
+    },
+    {
+     "titular": "El primer gran bulo de la campaña se derrumba: Alvise, un garaje en Burgos y un “ataque violento” en un domicilio",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-primer-gran-bulo-de-la-campana-se-derrumba-alvise-un-garaje-en-burgos-y-un-ataque-violento-en-un-domicilio.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "Tamar Novas: “Lo tengo claro: votaré lo menos malo para evitar lo peor”",
+     "url": "https://elpais.com/espana/2026-11-19/tamar-novas-lo-tengo-claro-votare-lo-menos-malo-para-evitar-lo-peor.html",
+     "seccion": "España",
+     "resumen": ""
+    },
+    {
+     "titular": "Oído en peluquerías, sobre la portada de Sánchez en ‘Lecturas’: “Será lo que sea, pero está estupendo”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/oido-en-peluquerias-sobre-la-portada-de-sanchez-en-lecturas-sera-lo-que-sea-pero-esta-estupendo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
+     "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+     "seccion": "Xi Jinping",
+     "resumen": ""
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "",
+   "noticias": [
+    {
+     "titular": "Puigdemont: \"Aproveché la ambición desmedida de Sánchez para derrotar a España\"",
+     "url": "https://www.elmundo.es/espana/2026/11/18/6afde4a4fc6c8315138b45b0.html",
+     "seccion": "Carles Puigdemont",
+     "resumen": ""
+    },
+    {
+     "titular": "El PP acusa a Sánchez de plegarse a Puigdemont \"por un sillón\": \"Esta entrevista es el acta notarial de la legislatura\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6afedde0fc6c8362338b45b2.html",
+     "seccion": "Carles Puigdemont",
+     "resumen": ""
+    },
+    {
+     "titular": "Vox pide a la Fiscalía del Supremo que investigue las \"contraprestaciones\" que negoció Puigdemont con el PSOE: apunta hasta ocho delitos",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6afeff0d21efa0ed5c8b45b0.html",
+     "seccion": "Vox",
+     "resumen": ""
+    },
+    {
+     "titular": "El PSOE quiso dejar fuera del debate el bloque de la corrupción y el PP se plantó: \"Sin eso, no vamos\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6afde649fc6c83f1398b45a9.html",
+     "seccion": "NLPremium",
+     "resumen": ""
+    },
+    {
+     "titular": "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdd75c21efa083408b45b2.html",
+     "seccion": "PP",
+     "resumen": ""
+    },
+    {
+     "titular": "Trump, Putin y Xi Jinping se reúnen en China en una cumbre histórica: \"Compartimos la responsabilidad de mantener la paz mundial\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/19/6afe5afa21efa0b2798b457b.html",
+     "seccion": "Xi Jinping",
+     "resumen": ""
+    },
+    {
+     "titular": "La líder del clan de 'los Rocho' pide escolta para declarar en la Audiencia Nacional por el 'caso Cloacas'",
+     "url": "https://www.elmundo.es/espana/2026/11/19/6afef76ffdddffa6318b45c8.html",
+     "seccion": "UCO",
+     "resumen": ""
+    },
+    {
+     "titular": "La Policía aprecia un \"componente logístico\" previo en el uso de 10.000 flotadores idénticos para la masiva entrada a nado a Ceuta",
+     "url": "https://www.elmundo.es/espana/2026/11/19/6afefe4dfc6c83eb1c8b456f.html",
+     "seccion": "Ceuta",
+     "resumen": ""
+    },
+    {
+     "titular": "Alcaraz respira tras someterse a una resonancia: no hay rotura muscular y seguirá en las ATP Finals",
+     "url": "https://www.elmundo.es/deportes/tenis/2026/11/19/6afedcf421efa0c7408b45ae.html",
+     "seccion": "tenis",
+     "resumen": ""
+    },
+    {
+     "titular": "Suben un 20% las peticiones de ayuda de profesores por faltas de respeto y falsas acusaciones: \"El alumno me empujó y su familia me hizo un escrache\"",
+     "url": "https://www.elmundo.es/espana/2026/11/19/6afec6a2e85ece500c8b45b3.html",
+     "seccion": "Artículos Olga R. Sanmartín",
+     "resumen": ""
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "",
+   "noticias": [
+    {
+     "titular": "«Solo vale ganar»: Sánchez busca la revancha del desastre de 2023",
+     "url": "https://www.abc.es/espana/solo-vale-ganar-sanchez-busca-revancha-desastre-20261119015745-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Jódar apura ante Shelton sus opciones de jugar las semifinales de las ATP Finals",
+     "url": "https://www.abc.es/deportes/tenis/shelton-jodar-directo-resultado-ganador-partido-atp-20261119091005-di.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "El ministerio de Transportes pagó un tratamiento para el cáncer de la exmujer de Ábalos",
+     "url": "https://www.abc.es/espana/transportes-pago-tratamiento-cancer-exmujer-abalos-20261119222527-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "La Corte Internacional de Justicia condena a Birmania por genocidio contra los rohinyás",
+     "url": "https://www.abc.es/internacional/corte-internacional-justicia-condena-birmania-genocidio-rohinyas-20261119124804-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Nicolás Redondo, exdirigente del PSOE, se niega a votar a Pedro Sánchez en las próximas elecciones: «Tiene una ambición desmedida»",
+     "url": "https://www.abc.es/recreo/nicolas-redondo-exdirigente-psoe-niega-votar-pedro-20261119144656-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Joan Manuel Serrat, sobre a quién votará en las elecciones generales del 29N: «Votaré a favor del bien común»",
+     "url": "https://www.abc.es/play/television/noticias/joan-manuel-serrat-sobre-partido-votara-elecciones-20261119144130-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Cintia Rocho pide ser «escoltada» a su declaración en el caso 'cloacas' por temor a «sufrir un atentado»",
+     "url": "https://www.abc.es/espana/cintia-rocho-pide-escoltada-declaracion-cloacas-temor-20261119143404-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Cómo van las encuestas del 29N",
+     "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261119050000-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Del encendido de luces de Navidad a exposiciones en Matadero: diez planes este fin de semana en Madrid",
+     "url": "https://www.abc.es/espana/madrid/encendido-luces-navidad-exposiciones-matadero-diez-planes-20261118142517-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Las 30 mejores ofertas del Black Friday de Amazon hoy (19 de noviembre): hasta un 62% en Lee, Soundcore, Amazon y más",
+     "url": "https://www.abc.es/favorito/black-friday-2026-amazon-arranca-30-ofertas-hasta-57-del-calcetin-al-plegable-20261117000105-nt.html",
+     "seccion": "",
+     "resumen": ""
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "",
+   "noticias": [
+    {
+     "titular": "Rodalies, la vivienda y el catalán, protagonistas del debate de los candidatos por Barcelona",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687967/inversiones-rodalies-vivienda-focalizan-debate-catalan-ecuador-campana.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "El debate de los candidatos por Catalunya, en imágenes",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687987/debate-candidatos-catalunya-imagenes.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "Los 30 segundos de oro de cada candidato en el debate de 'La Vanguardia' y RAC1",
+     "url": "https://www.lavanguardia.com/politica/20261119/11688074/30-segundos-oro-candidato-debate-rac1-vanguardia.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "El 1x1 del debate: el irónico, la distante, el polemista...",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687983/1x1-debate-ironico-distante-polemista.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "Debate electoral de 'La Vanguardia' y 'RAC1', hoy en directo: última hora de los candidatos a las elecciones del 29-N por Barcelona",
+     "url": "https://www.lavanguardia.com/politica/20261119/11685669/elecciones-generales-debate-elctoral-candidatos-ultima-hora-en-directo.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "“¿Qué piensa el señor Trias?” de Rufián y las otras frases del debate a seis de 'La Vanguardia' y RAC1",
+     "url": "https://www.lavanguardia.com/politica/20261119/11688221/que-piensa-senor-trias-rufian-frases-debate-seis-vanguardia-rac1.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "Un debate para todos los gustos",
+     "url": "https://www.lavanguardia.com/politica/20261119/11688025/debate-todos-gustos.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "La próxima semana será la bomba",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687566/proxima-semana-sera-bomba.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "Feijóo y Sánchez, a cara de perro",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687592/feijoo-sanchez-cara-perro.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "Feijóo combinará “moderación” con un tono “exigente” con Sánchez en el cara a cara",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687548/feijoo-combinara-moderacion-tono-exigente-sanchez.html",
+     "seccion": "Política",
+     "resumen": ""
+    }
+   ]
+  }
+ ]
+}

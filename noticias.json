@@ -1,482 +1,276 @@
 {
  "fecha": "2026-11-19",
- "franja": "mañana",
- "generada": "2026-11-19T00:11+01:00",
+ "franja": "tarde",
+ "generada": "2026-11-19T15:46+01:00",
  "con_ia": true,
- "resumen_dia": "La campaña del 29-N domina la agenda, con sondeos que dan mayoría a PP y Vox y un 14% de indecisos, y con el cara a cara Sánchez-Feijóo como próximo hito. Internacionalmente, Xi, Putin y Trump coinciden en Shenzhen antes de una cumbre trilateral, mientras EE.UU. y Venezuela firman un pacto militar. En España, el Congreso convalida siete decretos sociales y avanza el caso Mango, con el plan de Isak Andic para apartar a su hijo. La salida a bolsa de Anthropic, fijada en 83 dólares por acción, completa la jornada.",
- "temas_comunes": [
-  {
-   "titulo": "Campaña electoral del 29-N y sondeos",
-   "resumen": "Los sondeos recogidos dan mayoría a PP y Vox, con un 14,3% de indecisos y el PSOE en retroceso. Sánchez y Albiol acusan o responden sobre el papel de la oposición y la corrupción.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Pone el foco en el voto táctico, el modelo de 42 escaños en juego y el trasvase de votos hacia la derecha según 40dB.",
-     "noticias": [
-      {
-       "titular": "El PP consolida su posición frente a Vox",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-pp-consolida-su-posicion-frente-a-vox.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "El mapa del voto táctico para que el último escaño por provincia se lo lleve la derecha o la izquierda: ¿qué dicen las encuestas?",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-mapa-del-voto-tactico-para-que-el-ultimo-escano-por-provincia-se-lo-lleve-la-derecha-o-la-izquierda-que-dicen-las-encuestas.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Vídeo, análisis en directo y verificación a tiempo real: así podrás ver el cara a cara entre Sánchez y Feijóo en EL PAÍS",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/video-analisis-en-directo-y-verificacion-a-tiempo-real-asi-podras-ver-el-cara-a-cara-entre-sanchez-y-feijoo-en-el-pais.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Destaca la cifra de escaños de PP y Vox y el peso de los indecisos, además de un manifiesto de exdirigentes a favor de la alternancia.",
-     "noticias": [
-      {
-       "titular": "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdd75c21efa083408b45b2.html",
-       "seccion": "PP"
-      },
-      {
-       "titular": "Ex dirigentes de PSOE, UCD, CiU, Cs y PP, junto a académicos, abogan por el cambio político en España el 29-N",
-       "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdbd5bfdddff1f688b457b.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge las declaraciones de Sánchez sobre la corrupción y las de Albiol pidiendo un triunfo amplio del PP.",
-     "noticias": [
-      {
-       "titular": "Sánchez: “Hay casos de corrupción que son reales y casos que son ficticios”",
-       "url": "https://www.lavanguardia.com/politica/20261118/11687015/pedro-sanchez-hay-casos-corrupcion-son-reales-casos-son-ficticios.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Albiol pide un triunfo amplio del PP que impida que Sánchez lidere la oposición y el PSOE",
-       "url": "https://www.lavanguardia.com/politica/20261118/11687023/albiol-pide-triunfo-amplio-pp-impida-sanchez-lidere-oposicion-psoe.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Decretos sociales convalidados en el Congreso",
-   "resumen": "El Congreso convalida siete decretos con medidas para Ceuta, las dana, la dependencia y las familias monoparentales. La oposición critica el carácter electoral de las medidas.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Subraya el amplio respaldo parlamentario y las críticas de campaña a las medidas.",
-     "noticias": [
-      {
-       "titular": "El Congreso aprueba siete decretos sociales con un amplísimo respaldo pero entre críticas de campaña",
-       "url": "https://elpais.com/espana/2026-11-18/el-congreso-aprueba-siete-decretos-sociales-con-un-amplisimo-respaldo-pero-entre-criticas-de-campana.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Enfatiza la acusación de la oposición de que el Gobierno intenta comprar votos.",
-     "noticias": [
-      {
-       "titular": "Siete decretos de ayudas convalidados bajo una tormenta de reproches en la Diputación Permanente",
-       "url": "https://www.elmundo.es/espana/2026/11/18/6afd9de8e4d4d8893b8b457d.html",
-       "seccion": "PSOE"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Pone el acento en las acusaciones de electoralismo del PP y Vox y en las ayudas a víctimas de Urda.",
-     "noticias": [
-      {
-       "titular": "El Congreso convalida siete decretos sociales entre acusaciones de electoralismo del PP y Vox",
-       "url": "https://www.lavanguardia.com/politica/20261118/11687425/congreso-convalida-siete-decretos-sociales-acusaciones-electoralismo-pp-vox.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Caso Mango: plan de Isak Andic contra su hijo",
-   "resumen": "Los magistrados dan por acreditado que Isak Andic planeó con una terapeuta apartar a Jonathan de Mango. Jonathan no conocía el objetivo final según la Audiencia.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Destaca que el tribunal resta peso al móvil económico del plan.",
-     "noticias": [
-      {
-       "titular": "Isak Andic tramó con la terapeuta un plan para apartar definitivamente a su hijo Jonathan de Mango",
-       "url": "https://elpais.com/espana/catalunya/2026-11-18/isak-andic-tramo-con-la-terapeuta-un-plan-para-apartar-definitivamente-a-su-hijo-jonathan-de-mango.html",
-       "seccion": "Cataluña"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Se centra en que la Audiencia de Barcelona da por acreditado el plan y en el desconocimiento de Jonathan.",
-     "noticias": [
-      {
-       "titular": "Isak Andic tramó un plan con la terapeuta para apartar a Jonathan de Mango y que no volviera nunca a la empresa",
-       "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdf064fdddfffb2c8b456f.html",
-       "seccion": "Artículos Cristina Rubio"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Resalta el año sabático que Jonathan obtuvo como paso previo a su salida de la empresa.",
-     "noticias": [
-      {
-       "titular": "Isak Andic urdió un plan con la terapeuta para apartar a su hijo para siempre de Mango",
-       "url": "https://www.lavanguardia.com/sucesos/20261118/11687496/isak-andic-urdio-plan-terapeuta-apartar-jonathan-siempre-mango.html",
-       "seccion": "Sucesos"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Cumbre de Xi, Putin y Trump en Shenzhen",
-   "resumen": "Xi, Putin y Trump coinciden en Shenzhen antes de una cumbre trilateral prevista para el día siguiente. Xi defiende el libre comercio y Putin critica a Europa.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge la alianza reafirmada entre Xi y Putin y la advertencia de Xi contra el proteccionismo; añade una opinión sobre el riesgo de esferas de influencia.",
-     "noticias": [
-      {
-       "titular": "Xi y Putin reafirman su alianza estratégica antes de su reunión a tres bandas con Trump",
-       "url": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
-       "seccion": "China"
-      },
-      {
-       "titular": "No hace falta otro Yalta",
-       "url": "https://elpais.com/opinion/2026-11-18/no-hace-falta-otro-yalta.html",
-       "seccion": "Opinión"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Presenta a Xi como figura central, con más peso que Trump y Putin, y los temas de la cumbre.",
-     "noticias": [
-      {
-       "titular": "Xi Jinping, más fuerte que Trump y Putin en la gran mesa del poder mundial",
-       "url": "https://www.elmundo.es/internacional/2026/11/18/6afced65fdddffe2408b4586.html",
-       "seccion": "Xi Jinping"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Destaca las críticas de Putin a las potencias en declive y la defensa del comercio libre por parte de Xi.",
-     "noticias": [
-      {
-       "titular": "Un Putin beligerante carga contra Occidente en su aparición con Xi antes del G-3 con Trump",
-       "url": "https://www.lavanguardia.com/internacional/20261118/11686902/xi-putin-esperan-trump-shenzhen.html",
-       "seccion": "Internacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Salida a bolsa de Anthropic",
-   "resumen": "Anthropic fija el precio de su oferta en 83 dólares por acción, por encima del rango previsto, en una de las mayores salidas a bolsa de la historia.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Subraya el tamaño de la operación y su entrada entre las grandes cotizadas.",
-     "noticias": [
-      {
-       "titular": "Anthropic protagoniza hoy la mayor salida a bolsa de la historia con el desafío de poner en valor el sueño de 'crear la inteligencia'",
-       "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/18/6afdb1f3e9cf4a680a8b4575.html",
-       "seccion": "Anthropic"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Describe la fijación del precio por encima del rango inicial y la primera salida a bolsa de un desarrollador de IA de vanguardia.",
-     "noticias": [
-      {
-       "titular": "Anthropic fija el precio de su salida a bolsa en 83 dólares por acción",
-       "url": "https://www.abc.es/economia/anthropic-fija-precio-salida-bolsa-dolares-accion-20261118225047-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Vincula el precio con el interés inversor y las turbulencias del sector de la IA.",
-     "noticias": [
-      {
-       "titular": "Anthropic eleva el precio de la acción a 83 dólares por el fervor del mercado",
-       "url": "https://www.lavanguardia.com/economia/20261118/11687612/anthropic-eleva-precio-accion-83-dolares-fervor-mercado.html",
-       "seccion": "Economía"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Núcleo Nacional y la influencia rusa",
-   "resumen": "Una investigación independiente relaciona la actividad del grupo neonazi con intereses rusos. Su líder, Enrique Lemus, ha muerto a los 63 años.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge el estudio sobre conexiones con grupos de once países europeos y la muerte de su líder.",
-     "noticias": [
-      {
-       "titular": "Una investigación independiente concluye que la actividad de Núcleo Nacional servía a los intereses de Rusia",
-       "url": "https://elpais.com/espana/2026-11-18/una-investigacion-independiente-concluye-que-la-actividad-de-nucleo-nacional-servia-a-los-intereses-de-rusia.html",
-       "seccion": "España"
-      },
-      {
-       "titular": "Núcleo Nacional anuncia la muerte de su dirigente Enrique Lemus",
-       "url": "https://elpais.com/espana/2026-11-18/nucleo-nacional-anuncia-la-muerte-de-su-fundador-enrique-lemus.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Describe cómo el Kremlin habría explotado al grupo para desinformar y ganar influencia.",
-     "noticias": [
-      {
-       "titular": "La doble vía de Rusia con Núcleo Nacional: explotó sus dos caras para ejercer la desinformación y su influencia",
-       "url": "https://www.abc.es/espana/doble-via-kremlin-nucleo-nacional-exploto-dos-20261118172741-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  }
- ],
+ "resumen_dia": "La campaña para las elecciones generales del 29N domina la portada: el cara a cara entre Sánchez y Feijóo se celebra hoy y los cuatro diarios le dedican espacio, con las encuestas y la estrategia de cada candidato como ejes. Destacan también la entrevista de Puigdemont sobre las negociaciones de Junts con el PSOE, la cumbre trilateral de Trump, Xi y Putin en Shenzhen y la condena de la CIJ a Myanmar por genocidio contra los rohinyás. Por último, el caso de las 'cloacas' del PSOE aparece en varias portadas.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\": \"Cara a cara Sánchez-Feijóo y estrategia de campaña\", \"resumen\": \"Sánchez y Feijóo se enfrentan hoy en un debate televisado antes de las elecciones del 29 de noviembre. Las encuestas dan ventaja a la derecha, aunque la distancia entre PP y PSOE varía según el sondeo.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Subraya la carrera por remontar de Sánchez, citando el sondeo de 40dB y la preparación de ambos candidatos.\", \"ids\": [\"elpais-0\", \"elpais-1\", \"elpais-2\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Señala que el debate se centra en el voto útil entre socios de bloque y que el PSOE quiso excluir la corrupción.\", \"ids\": [\"elmundo-3\", \"elmundo-4\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge la presión de los socialistas, con la frase 'Solo vale ganar', y el impacto esperado del cara a cara.\", \"ids\": [\"abc-0\", \"abc-7\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Presenta el cara a cara como segunda parte del de 2023 y describe el tono esperado de ambos líderes.\", \"ids\": [\"lavanguardia-8\", \"lavanguardia-9\", \"lavanguardia-10\"]}]}, {\"titulo\": \"Entrevista de Puigdemont y reacciones políticas\", \"resumen\": \"Puigdemont afirma en una entrevista que aprovechó la ambición de Sánchez y que negoció con el PSOE. PP y Vox reaccionan pidiendo explicaciones, y Vox lleva el asunto a la Fiscalía del Supremo.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Destaca la exclusiva y la denuncia de Vox ante el Supremo por posibles delitos en las contraprestaciones.\", \"ids\": [\"elmundo-0\", \"elmundo-1\", \"elmundo-2\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Recoge la reacción cruzada de PSOE y PP y el giro de Junts en la equidistancia.\", \"ids\": [\"lavanguardia-13\"]}]}, {\"titulo\": \"Cumbre de Trump, Xi y Putin en Shenzhen\", \"resumen\": \"Trump, Xi y Putin se reunieron en Shenzhen en la primera cumbre trilateral de los tres líderes. Acordaron impulsar una reforma de la ONU y garantizar los flujos energéticos.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Recoge la declaración sobre la guerra nuclear y el compromiso de reforma de la ONU.\", \"ids\": [\"elpais-9\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya el regreso de Putin a la diplomacia y la oportunidad para la agenda exterior de Trump.\", \"ids\": [\"elmundo-5\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca el carácter histórico del encuentro por su formato inédito.\", \"ids\": [\"abc-14\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Señala que la cumbre concluye sin sustancia y lo sitúa junto al nuevo ataque al puente de Crimea.\", \"ids\": [\"lavanguardia-15\", \"lavanguardia-17\"]}]}, {\"titulo\": \"CIJ condena a Myanmar por genocidio contra los rohinyás\", \"resumen\": \"La Corte Internacional de Justicia declara que Myanmar cometió genocidio contra los rohinyás y ordena indemnizar a las víctimas. Es la primera vez que este tribunal atribuye ese delito a un Estado.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Señala que el fallo puede influir en el caso de Sudáfrica contra Israel.\", \"ids\": [\"elpais-17\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Subraya la orden de indemnización a las víctimas.\", \"ids\": [\"elmundo-15\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca que es la primera vez que el tribunal considera a un Estado responsable de genocidio, con la cita del presidente de la CIJ.\", \"ids\": [\"abc-3\"]}]}, {\"titulo\": \"Caso 'cloacas' del PSOE y Cintia Rocho\", \"resumen\": \"La líder del clan de los Rocho pide escolta para declarar como testigo en la Audiencia Nacional. Alega amenazas de muerte previas.\", \"medios\": [{\"medio\": \"elmundo\", \"enfoque\": \"Destaca la petición de escolta y la alusión a asesinatos previos en su familia.\", \"ids\": [\"elmundo-6\"]}, {\"medio\": \"abc\", \"enfoque\": \"Presenta la petición como temor a un atentado y recuerda el papel de los Rocho con las presuntas cloacas del PSOE.\", \"ids\": [\"abc-6\"]}]}]</parameter>\n<parameter name=\"medios\">[{\"medio\": \"elpais\", \"resumen\": \"Prioriza la carrera electoral, con foco en el cara a cara, las encuestas y la estrategia de Sánchez y Feijóo. Incluye también temas sociales y de opinión, como la abstención por renta y la sanidad privada.\", \"noticias\": [{\"id\": \"elpais-0\", \"resumen\": \"Previa del cara a cara de esta noche, con el último sondeo de 40dB que sitúa al PP por delante del PSOE.\"}, {\"id\": \"elpais-1\", \"resumen\": \"Preparación del debate por parte de Sánchez y su núcleo duro en La Moncloa.\"}, {\"id\": \"elpais-2\", \"resumen\": \"Estrategia de Feijóo para el debate, con su equipo gallego y sin Miguel Ángel Rodríguez.\"}, {\"id\": \"elpais-9\", \"resumen\": \"Declaración conjunta de Xi, Trump y Putin tras la cumbre de Shenzhen sobre la guerra nuclear y la reforma de la ONU.\"}, {\"id\": \"elpais-17\", \"resumen\": \"Fallo de la CIJ que atribuye a Myanmar genocidio contra los rohinyás, primer caso de este tipo para un Estado.\"}, {\"id\": \"elpais-3\", \"resumen\": \"Análisis de la abstención por barrios y su relación con la renta a partir de datos electorales recientes.\"}, {\"id\": \"elpais-4\", \"resumen\": \"Enfrentamiento entre Emilio Delgado y Ayuso por la visita del diputado a la sanidad privada.\"}]}, {\"medio\": \"elmundo\", \"resumen\": \"Concentra la portada en la exclusiva de Puigdemont y sus consecuencias políticas y judiciales. Dedica también espacio a la campaña y a sucesos y asuntos judiciales.\", \"noticias\": [{\"id\": \"elmundo-0\", \"resumen\": \"Entrevista exclusiva en la que Puigdemont describe las negociaciones de Junts con el PSOE.\"}, {\"id\": \"elmundo-1\", \"resumen\": \"Reacción del PP, que acusa a Sánchez de ceder a Puigdemont por el poder.\"}, {\"id\": \"elmundo-2\", \"resumen\": \"Vox lleva a la Fiscalía del Supremo las supuestas contraprestaciones negociadas con Junts.\"}, {\"id\": \"elmundo-5\", \"resumen\": \"Cumbre de Trump, Putin y Xi en China, presentada como una reunión histórica de diplomacia.\"}, {\"id\": \"elmundo-4\", \"resumen\": \"Encuesta que mantiene la mayoría de PP y Vox con indecisos todavía por decidir.\"}, {\"id\": \"elmundo-6\", \"resumen\": \"Cintia Rocho pide escolta para declarar en la Audiencia Nacional en el caso 'cloacas'.\"}, {\"id\": \"elmundo-15\", \"resumen\": \"La CIJ declara a Myanmar responsable de genocidio y ordena indemnizar a las víctimas.\"}]}, {\"medio\": \"abc\", \"resumen\": \"Mezcla la campaña con la presión sobre el PSOE y asuntos judiciales y de gestión pública. Incluye también temas de vivienda y de actualidad ligera.\", \"noticias\": [{\"id\": \"abc-0\", \"resumen\": \"Presión en el entorno de Sánchez antes del cara a cara, con la expectativa de un impacto decisivo.\"}, {\"id\": \"abc-2\", \"resumen\": \"Revelación de que Transportes pagó un tratamiento oncológico a la exmujer de Ábalos.\"}, {\"id\": \"abc-4\", \"resumen\": \"Nicolás Redondo anuncia que no votará a Sánchez y critica su ambición desmedida.\"}, {\"id\": \"abc-3\", \"resumen\": \"La CIJ condena a Myanmar por genocidio contra los rohinyás en un fallo histórico.\"}, {\"id\": \"abc-14\", \"resumen\": \"Cumbre trilateral de Trump, Xi y Putin en Shenzhen, primera reunión conjunta de los tres.\"}, {\"id\": \"abc-6\", \"resumen\": \"Cintia Rocho pide escolta para declarar como testigo por temor a un atentado.\"}, {\"id\": \"abc-17\", \"resumen\": \"Análisis de la crisis de vivienda y del papel de la construcción en los programas electorales.\"}]}, {\"medio\": \"lavanguardia\", \"resumen\": \"Centra la portada en el debate electoral por Barcelona y en el cara a cara nacional. Destaca también la política catalana y la cumbre internacional.\", \"noticias\": [{\"id\": \"lavanguardia-0\", \"resumen\": \"Debate de candidatos por Barcelona sobre Rodalies, vivienda y uso del catalán en el Congreso.\"}, {\"id\": \"lavanguardia-8\", \"resumen\": \"Anticipo del cara a cara Feijóo-Sánchez, segunda parte del debate de 2023.\"}, {\"id\": \"lavanguardia-10\", \"resumen\": \"Sánchez afronta el debate con la previsión de bulos y ruido por parte de Feijóo.\"}, {\"id\": \"lavanguardia-13\", \"resumen\": \"Partidos reaccionan a la entrevista de Puigdemont sobre la ambición de Sánchez.\"}, {\"id\": \"lavanguardia-15\", \"resumen\": \"La cumbre de Trump, Putin y Xi concluye sin resultados sustanciales, según la crónica.\"}, {\"id\": \"lavanguardia-17\", \"resumen\": \"Tercer ataque esta semana contra el puente de Crimea, horas antes de la cumbre de Shenzhen.\"}, {\"id\": \"lavanguardia-14\", \"resumen\": \"Jordi Pujol hará campaña por Junts y participará en el mitin central de la formación.\"}]}]</parameter>\n</invoke>\n",
+ "temas_comunes": [],
  "medios": [
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña electoral del 29-N, con foco en el voto táctico, los sondeos y el cara a cara Sánchez-Feijóo, y en las propuestas del PP sobre la ley de eutanasia. Incluye también el Congreso, la trama de Mango y la cumbre de Xi, Putin y Trump.",
+   "resumen": "",
    "noticias": [
     {
-     "titular": "Feijóo abre la puerta a una “derogación total” de la ley de la eutanasia",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/feijoo-abre-la-puerta-a-una-derogacion-total-de-la-ley-de-la-eutanasia.html",
+     "titular": "90 minutos cara a cara: Sánchez busca remontar los dos puntos que le separan del PP y Feijóo repetir el éxito de 2023",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Feijóo plantea derogar por completo la ley de eutanasia y defiende en un pódcast que el PP ya ha sido juzgado por los casos de corrupción."
+     "resumen": ""
     },
     {
-     "titular": "El PP consolida su posición frente a Vox",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-pp-consolida-su-posicion-frente-a-vox.html",
+     "titular": "Sánchez ultima los detalles del cara a cara con su núcleo duro en La Moncloa y la “lección aprendida” de 2023",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/sanchez-ultima-los-detalles-del-cara-a-cara-con-su-nucleo-duro-en-la-moncloa-y-la-leccion-aprendida-de-2023.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Un sondeo de 40dB indica que el trasvase de votos entre bloques va sobre todo hacia la derecha, con el PP reforzado frente a Vox."
+     "resumen": ""
     },
     {
-     "titular": "El mapa del voto táctico para que el último escaño por provincia se lo lleve la derecha o la izquierda: ¿qué dicen las encuestas?",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-mapa-del-voto-tactico-para-que-el-ultimo-escano-por-provincia-se-lo-lleve-la-derecha-o-la-izquierda-que-dicen-las-encuestas.html",
+     "titular": "Feijóo prepara el debate con su equipo gallego y sin Miguel Ángel Rodríguez: máxima presión sobre Sánchez sin arriesgar el perfil presidencial",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-ira-a-la-yugular-sin-arriesgar-el-perfil-presidencial-en-un-debate-preparado-con-su-equipo-gallego-y-sin-miguel-angel-rodriguez.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Modelo del diario que estima 42 escaños en disputa en las provincias y ofrece una herramienta para ver qué partido se beneficia del voto táctico."
+     "resumen": ""
     },
     {
-     "titular": "El Congreso aprueba siete decretos sociales con un amplísimo respaldo pero entre críticas de campaña",
-     "url": "https://elpais.com/espana/2026-11-18/el-congreso-aprueba-siete-decretos-sociales-con-un-amplisimo-respaldo-pero-entre-criticas-de-campana.html",
+     "titular": "¿Dónde se vota menos en España? El mapa de la abstención y la renta, calle a calle",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-mapa-de-la-abstencion-y-la-renta-donde-se-vota-menos-calle-a-calle.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "Emilio Delgado llama “cobarde” a Ayuso por criticarlo por ir con su pareja a la sanidad privada: “Ustedes destruyen lo público”",
+     "url": "https://elpais.com/espana/madrid/2026-11-19/emilio-delgado-llama-cobarde-a-ayuso-por-criticarle-por-ir-con-su-pareja-a-la-sanidad-privada-ustedes-destruyen-lo-publico.html",
+     "seccion": "Comunidad de Madrid",
+     "resumen": ""
+    },
+    {
+     "titular": "El primer gran bulo de la campaña se derrumba: Alvise, un garaje en Burgos y un “ataque violento” en un domicilio",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-primer-gran-bulo-de-la-campana-se-derrumba-alvise-un-garaje-en-burgos-y-un-ataque-violento-en-un-domicilio.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
+    },
+    {
+     "titular": "Tamar Novas: “Lo tengo claro: votaré lo menos malo para evitar lo peor”",
+     "url": "https://elpais.com/espana/2026-11-19/tamar-novas-lo-tengo-claro-votare-lo-menos-malo-para-evitar-lo-peor.html",
      "seccion": "España",
-     "resumen": "La Diputación Permanente convalida siete decretos sociales con amplio apoyo, entre críticas por el uso electoral, con medidas para Ceuta, las dana, accidentes ferroviarios y familias monomarentales."
+     "resumen": ""
     },
     {
-     "titular": "Xi y Putin reafirman su alianza estratégica antes de su reunión a tres bandas con Trump",
-     "url": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
-     "seccion": "China",
-     "resumen": "Xi y Putin refuerzan su alianza antes de la cumbre trilateral con Trump; Xi defiende el libre comercio y Putin critica el declive de Europa."
+     "titular": "Oído en peluquerías, sobre la portada de Sánchez en ‘Lecturas’: “Será lo que sea, pero está estupendo”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/oido-en-peluquerias-sobre-la-portada-de-sanchez-en-lecturas-sera-lo-que-sea-pero-esta-estupendo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": ""
     },
     {
-     "titular": "Isak Andic tramó con la terapeuta un plan para apartar definitivamente a su hijo Jonathan de Mango",
-     "url": "https://elpais.com/espana/catalunya/2026-11-18/isak-andic-tramo-con-la-terapeuta-un-plan-para-apartar-definitivamente-a-su-hijo-jonathan-de-mango.html",
-     "seccion": "Cataluña",
-     "resumen": "Según los magistrados, Isak Andic planeó con una terapeuta apartar a su hijo Jonathan de Mango; el juicio resta peso al motivo económico."
-    },
-    {
-     "titular": "Una investigación independiente concluye que la actividad de Núcleo Nacional servía a los intereses de Rusia",
-     "url": "https://elpais.com/espana/2026-11-18/una-investigacion-independiente-concluye-que-la-actividad-de-nucleo-nacional-servia-a-los-intereses-de-rusia.html",
-     "seccion": "España",
-     "resumen": "Una investigación independiente vincula la actividad del grupo neonazi Núcleo Nacional con los intereses de Rusia y con grupos afines de otros once países europeos."
-    },
-    {
-     "titular": "Núcleo Nacional anuncia la muerte de su dirigente Enrique Lemus",
-     "url": "https://elpais.com/espana/2026-11-18/nucleo-nacional-anuncia-la-muerte-de-su-fundador-enrique-lemus.html",
-     "seccion": "España",
-     "resumen": "Muere a los 63 años el líder de Núcleo Nacional, Enrique Lemus, tras un infarto."
+     "titular": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
+     "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+     "seccion": "Xi Jinping",
+     "resumen": ""
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en las encuestas, con PP y Vox por encima de la mayoría y un porcentaje alto de indecisos, y en el relevo político tras Sánchez. Incluye también temas de sanidad, economía y justicia.",
+   "resumen": "",
    "noticias": [
+    {
+     "titular": "Puigdemont: \"Aproveché la ambición desmedida de Sánchez para derrotar a España\"",
+     "url": "https://www.elmundo.es/espana/2026/11/18/6afde4a4fc6c8315138b45b0.html",
+     "seccion": "Carles Puigdemont",
+     "resumen": ""
+    },
+    {
+     "titular": "El PP acusa a Sánchez de plegarse a Puigdemont \"por un sillón\": \"Esta entrevista es el acta notarial de la legislatura\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6afedde0fc6c8362338b45b2.html",
+     "seccion": "Carles Puigdemont",
+     "resumen": ""
+    },
+    {
+     "titular": "Vox pide a la Fiscalía del Supremo que investigue las \"contraprestaciones\" que negoció Puigdemont con el PSOE: apunta hasta ocho delitos",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6afeff0d21efa0ed5c8b45b0.html",
+     "seccion": "Vox",
+     "resumen": ""
+    },
+    {
+     "titular": "El PSOE quiso dejar fuera del debate el bloque de la corrupción y el PP se plantó: \"Sin eso, no vamos\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6afde649fc6c83f1398b45a9.html",
+     "seccion": "NLPremium",
+     "resumen": ""
+    },
     {
      "titular": "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos",
      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdd75c21efa083408b45b2.html",
      "seccion": "PP",
-     "resumen": "Un sondeo sitúa a PP y Vox con mayoría, con Podemos por debajo del 1% y un 14,3% de indecisos; el PSOE queda entre 185 y 196 escaños para la derecha."
+     "resumen": ""
     },
     {
-     "titular": "Ex dirigentes de PSOE, UCD, CiU, Cs y PP, junto a académicos, abogan por el cambio político en España el 29-N",
-     "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdbd5bfdddff1f688b457b.html",
-     "seccion": "",
-     "resumen": "Exdirigentes de varios partidos y académicos piden en un manifiesto la alternancia en el Gobierno el 29-N."
-    },
-    {
-     "titular": "Siete decretos de ayudas convalidados bajo una tormenta de reproches en la Diputación Permanente",
-     "url": "https://www.elmundo.es/espana/2026/11/18/6afd9de8e4d4d8893b8b457d.html",
-     "seccion": "PSOE",
-     "resumen": "Se convalidan siete decretos de ayudas en la Diputación Permanente, entre reproches de la oposición que acusa al Gobierno de comprar votos."
-    },
-    {
-     "titular": "Isak Andic tramó un plan con la terapeuta para apartar a Jonathan de Mango y que no volviera nunca a la empresa",
-     "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdf064fdddfffb2c8b456f.html",
-     "seccion": "Artículos Cristina Rubio",
-     "resumen": "La Audiencia de Barcelona da por probado que Isak Andic planeó con Júlia L. apartar a Jonathan de Mango, sin que este conociera el objetivo final."
-    },
-    {
-     "titular": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual y cita a las querellantes en febrero",
-     "url": "https://www.elmundo.es/cultura/musica/2026/11/18/6afd91a2fc6c83fa228b4585.html",
-     "seccion": "Julio Iglesias",
-     "resumen": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual y cita a las querellantes en febrero."
-    },
-    {
-     "titular": "Xi Jinping, más fuerte que Trump y Putin en la gran mesa del poder mundial",
-     "url": "https://www.elmundo.es/internacional/2026/11/18/6afced65fdddffe2408b4586.html",
+     "titular": "Trump, Putin y Xi Jinping se reúnen en China en una cumbre histórica: \"Compartimos la responsabilidad de mantener la paz mundial\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/19/6afe5afa21efa0b2798b457b.html",
      "seccion": "Xi Jinping",
-     "resumen": "Xi recibe en Shenzhen a Trump y Putin antes de una cumbre trilateral sobre desarme nuclear, IA y las guerras de Ucrania e Irán."
+     "resumen": ""
     },
     {
-     "titular": "Anthropic protagoniza hoy la mayor salida a bolsa de la historia con el desafío de poner en valor el sueño de 'crear la inteligencia'",
-     "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/18/6afdb1f3e9cf4a680a8b4575.html",
-     "seccion": "Anthropic",
-     "resumen": "Anthropic sale a bolsa con un precio de 83 dólares por acción, por encima del rango inicial, en la mayor salida a bolsa registrada."
+     "titular": "La líder del clan de 'los Rocho' pide escolta para declarar en la Audiencia Nacional por el 'caso Cloacas'",
+     "url": "https://www.elmundo.es/espana/2026/11/19/6afef76ffdddffa6318b45c8.html",
+     "seccion": "UCO",
+     "resumen": ""
     },
     {
-     "titular": "Estados Unidos y Venezuela firman un histórico pacto de cooperación militar: \"Tenemos la oportunidad de combatir conjuntamente narcoterroristas y criminales\"",
-     "url": "https://www.elmundo.es/internacional/2026/11/18/6afdd547e4d4d8857e8b4591.html",
-     "seccion": "Estados Unidos",
-     "resumen": "EE.UU. y Venezuela firman un pacto de cooperación militar que supone el primer paso para reformar el ejército venezolano."
+     "titular": "La Policía aprecia un \"componente logístico\" previo en el uso de 10.000 flotadores idénticos para la masiva entrada a nado a Ceuta",
+     "url": "https://www.elmundo.es/espana/2026/11/19/6afefe4dfc6c83eb1c8b456f.html",
+     "seccion": "Ceuta",
+     "resumen": ""
+    },
+    {
+     "titular": "Alcaraz respira tras someterse a una resonancia: no hay rotura muscular y seguirá en las ATP Finals",
+     "url": "https://www.elmundo.es/deportes/tenis/2026/11/19/6afedcf421efa0c7408b45ae.html",
+     "seccion": "tenis",
+     "resumen": ""
+    },
+    {
+     "titular": "Suben un 20% las peticiones de ayuda de profesores por faltas de respeto y falsas acusaciones: \"El alumno me empujó y su familia me hizo un escrache\"",
+     "url": "https://www.elmundo.es/espana/2026/11/19/6afec6a2e85ece500c8b45b3.html",
+     "seccion": "Artículos Olga R. Sanmartín",
+     "resumen": ""
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Destaca la información propia sobre Transportes y el exmujer de Ábalos, junto a la política internacional sobre Venezuela y el caso de Núcleo Nacional. Mantiene también secciones de cultura, televisión y recetas.",
+   "resumen": "",
    "noticias": [
     {
-     "titular": "Transportes pagó un tratamiento para el cáncer de la exmujer de Ábalos",
+     "titular": "«Solo vale ganar»: Sánchez busca la revancha del desastre de 2023",
+     "url": "https://www.abc.es/espana/solo-vale-ganar-sanchez-busca-revancha-desastre-20261119015745-nt.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "Jódar apura ante Shelton sus opciones de jugar las semifinales de las ATP Finals",
+     "url": "https://www.abc.es/deportes/tenis/shelton-jodar-directo-resultado-ganador-partido-atp-20261119091005-di.html",
+     "seccion": "",
+     "resumen": ""
+    },
+    {
+     "titular": "El ministerio de Transportes pagó un tratamiento para el cáncer de la exmujer de Ábalos",
      "url": "https://www.abc.es/espana/transportes-pago-tratamiento-cancer-exmujer-abalos-20261119222527-nt.html",
      "seccion": "",
-     "resumen": "Según fuentes del departamento, Transportes habría pagado con la caja pagadora al menos 13.000 euros de un tratamiento de cáncer a la exmujer de Ábalos entre 2021 y 2022."
+     "resumen": ""
     },
     {
-     "titular": "EE.UU. extiende la tutela de Venezuela al Ejército con un acuerdo militar",
-     "url": "https://www.abc.es/internacional/eeuu-extiende-tutela-venezuela-ejercito-acuerdo-militar-20261118190304-nt.html",
+     "titular": "La Corte Internacional de Justicia condena a Birmania por genocidio contra los rohinyás",
+     "url": "https://www.abc.es/internacional/corte-internacional-justicia-condena-birmania-genocidio-rohinyas-20261119124804-nt.html",
      "seccion": "",
-     "resumen": "El secretario de Guerra de EE.UU. viaja a Caracas para negociar con Delcy Rodríguez un acuerdo de cooperación con las Fuerzas Armadas venezolanas."
+     "resumen": ""
     },
     {
-     "titular": "Anthropic fija el precio de su salida a bolsa en 83 dólares por acción",
-     "url": "https://www.abc.es/economia/anthropic-fija-precio-salida-bolsa-dolares-accion-20261118225047-nt.html",
+     "titular": "Nicolás Redondo, exdirigente del PSOE, se niega a votar a Pedro Sánchez en las próximas elecciones: «Tiene una ambición desmedida»",
+     "url": "https://www.abc.es/recreo/nicolas-redondo-exdirigente-psoe-niega-votar-pedro-20261119144656-nt.html",
      "seccion": "",
-     "resumen": "Anthropic fija en 83 dólares su precio de salida a bolsa, por encima del rango previsto de 70 a 78 dólares."
+     "resumen": ""
     },
     {
-     "titular": "Ana Redondo confesó en privado que las pulseras antimaltrato «fallan en su esencia»",
-     "url": "https://www.abc.es/espana/ana-redondo-revelo-reunion-cometa-pulseras-antimaltrato-20261118013653-nt.html",
+     "titular": "Joan Manuel Serrat, sobre a quién votará en las elecciones generales del 29N: «Votaré a favor del bien común»",
+     "url": "https://www.abc.es/play/television/noticias/joan-manuel-serrat-sobre-partido-votara-elecciones-20261119144130-nt.html",
      "seccion": "",
-     "resumen": "Un informe describe la crisis del sistema de pulseras antimaltrato Cometa y las dudas de la ministra Ana Redondo sobre su eficacia."
+     "resumen": ""
     },
     {
-     "titular": "La doble vía de Rusia con Núcleo Nacional: explotó sus dos caras para ejercer la desinformación y su influencia",
-     "url": "https://www.abc.es/espana/doble-via-kremlin-nucleo-nacional-exploto-dos-20261118172741-nt.html",
+     "titular": "Cintia Rocho pide ser «escoltada» a su declaración en el caso 'cloacas' por temor a «sufrir un atentado»",
+     "url": "https://www.abc.es/espana/cintia-rocho-pide-escoltada-declaracion-cloacas-temor-20261119143404-nt.html",
      "seccion": "",
-     "resumen": "Análisis de cómo el Kremlin habría utilizado a Núcleo Nacional para desinformar y ganar influencia a partir de sus vínculos internacionales."
+     "resumen": ""
     },
     {
-     "titular": "Hasta 80 colegios e institutos gallegos recibieron un correo con un aviso bomba",
-     "url": "https://www.abc.es/espana/galicia/falsas-amenazas-bomba-varios-colegios-coruna-provocan-20261118135825-nt.html",
+     "titular": "Cómo van las encuestas del 29N",
+     "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261119050000-nt.html",
      "seccion": "",
-     "resumen": "Policía y Guardia Civil desalojan y revisan al menos 80 colegios gallegos tras recibir avisos de bomba falsos por correo electrónico."
+     "resumen": ""
     },
     {
-     "titular": "Así es trabajar como periodista de ABC en Cuba: la Policía en la puerta y preparada para ir a la cárcel",
-     "url": "https://www.abc.es/internacional/policia-puertas-detenida-dos-tres-trabajo-periodista-20261118195517-nt.html",
+     "titular": "Del encendido de luces de Navidad a exposiciones en Matadero: diez planes este fin de semana en Madrid",
+     "url": "https://www.abc.es/espana/madrid/encendido-luces-navidad-exposiciones-matadero-diez-planes-20261118142517-nt.html",
      "seccion": "",
-     "resumen": "Reportaje sobre las condiciones de trabajo de un periodista independiente en Cuba, con riesgo de detención."
+     "resumen": ""
     },
     {
-     "titular": "Alcaraz, en semifinales con susto",
-     "url": "https://www.abc.es/deportes/tenis/alcaraz-pone-ante-medvedev-pie-semifinales-alarma-20261118152807-nt.html",
+     "titular": "Las 30 mejores ofertas del Black Friday de Amazon hoy (19 de noviembre): hasta un 62% en Lee, Soundcore, Amazon y más",
+     "url": "https://www.abc.es/favorito/black-friday-2026-amazon-arranca-30-ofertas-hasta-57-del-calcetin-al-plegable-20261117000105-nt.html",
      "seccion": "",
-     "resumen": "Alcaraz avanza a semifinales de Masters tras un partido exigente; la crónica deportiva sigue en la sección de tenis."
+     "resumen": ""
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Prioriza la política nacional y catalana de cara al 29-N, con el foco en las críticas entre partidos y la gestión de Rodalies. Dedica también atención a la cobertura internacional sobre Rusia, China y EE.UU.",
+   "resumen": "",
    "noticias": [
     {
-     "titular": "Un Putin beligerante carga contra Occidente en su aparición con Xi antes del G-3 con Trump",
-     "url": "https://www.lavanguardia.com/internacional/20261118/11686902/xi-putin-esperan-trump-shenzhen.html",
-     "seccion": "Internacional",
-     "resumen": "Putin critica a las potencias en declive en su aparición con Xi antes de la cumbre con Trump; Xi defiende el libre comercio."
-    },
-    {
-     "titular": "Sánchez: “Hay casos de corrupción que son reales y casos que son ficticios”",
-     "url": "https://www.lavanguardia.com/politica/20261118/11687015/pedro-sanchez-hay-casos-corrupcion-son-reales-casos-son-ficticios.html",
+     "titular": "Rodalies, la vivienda y el catalán, protagonistas del debate de los candidatos por Barcelona",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687967/inversiones-rodalies-vivienda-focalizan-debate-catalan-ecuador-campana.html",
      "seccion": "Política",
-     "resumen": "Sánchez afirma que hay casos de corrupción reales y otros ficticios, y acusa al PP de forzar el Código Penal con fines electorales."
+     "resumen": ""
     },
     {
-     "titular": "Albiol pide un triunfo amplio del PP que impida que Sánchez lidere la oposición y el PSOE",
-     "url": "https://www.lavanguardia.com/politica/20261118/11687023/albiol-pide-triunfo-amplio-pp-impida-sanchez-lidere-oposicion-psoe.html",
+     "titular": "El debate de los candidatos por Catalunya, en imágenes",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687987/debate-candidatos-catalunya-imagenes.html",
      "seccion": "Política",
-     "resumen": "Albiol pide un triunfo amplio del PP para impedir que Sánchez lidere la oposición, a la que acusa de querer incendiar las calles."
+     "resumen": ""
     },
     {
-     "titular": "El Congreso convalida siete decretos sociales entre acusaciones de electoralismo del PP y Vox",
-     "url": "https://www.lavanguardia.com/politica/20261118/11687425/congreso-convalida-siete-decretos-sociales-acusaciones-electoralismo-pp-vox.html",
+     "titular": "Los 30 segundos de oro de cada candidato en el debate de 'La Vanguardia' y RAC1",
+     "url": "https://www.lavanguardia.com/politica/20261119/11688074/30-segundos-oro-candidato-debate-rac1-vanguardia.html",
      "seccion": "Política",
-     "resumen": "El Congreso convalida siete decretos sociales entre acusaciones de electoralismo del PP y Vox, que incluyen dependencia, dana y víctimas de Urda."
+     "resumen": ""
     },
     {
-     "titular": "Isak Andic urdió un plan con la terapeuta para apartar a su hijo para siempre de Mango",
-     "url": "https://www.lavanguardia.com/sucesos/20261118/11687496/isak-andic-urdio-plan-terapeuta-apartar-jonathan-siempre-mango.html",
-     "seccion": "Sucesos",
-     "resumen": "Isak Andic urdió un plan con una terapeuta para apartar a su hijo de Mango; Jonathan obtuvo un año sabático previo a su salida de la empresa."
-    },
-    {
-     "titular": "Los demócratas validan a Hakeem Jeffries como el primer presidente negro de la Cámara baja",
-     "url": "https://www.lavanguardia.com/internacional/20261118/11687474/democratas-validan-hakeem-jeffries-lider-primer-presidente-negro-camara-baja.html",
-     "seccion": "Internacional",
-     "resumen": "Los demócratas nominan a Hakeem Jeffries como primer presidente negro de la Cámara baja pese al rechazo de sectores de su partido."
-    },
-    {
-     "titular": "Anthropic eleva el precio de la acción a 83 dólares por el fervor del mercado",
-     "url": "https://www.lavanguardia.com/economia/20261118/11687612/anthropic-eleva-precio-accion-83-dolares-fervor-mercado.html",
-     "seccion": "Economía",
-     "resumen": "Anthropic fija el precio de su acción en 83 dólares en un debut bursátil marcado por el interés inversor y la volatilidad de la IA."
-    },
-    {
-     "titular": "Junts propone que Ferrocarrils se haga cargo de Rodalies: “Renfe, fuera de Catalunya”",
-     "url": "https://www.lavanguardia.com/politica/20261118/11687296/junts-propone-ferrocarrils-haga-cargo-rodalies-renfe-fuera-catalunya.html",
+     "titular": "El 1x1 del debate: el irónico, la distante, el polemista...",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687983/1x1-debate-ironico-distante-polemista.html",
      "seccion": "Política",
-     "resumen": "Junts propone que Ferrocarrils asuma Rodalies, alegando la puntualidad de una línea gestionada por la Generalitat."
+     "resumen": ""
+    },
+    {
+     "titular": "Debate electoral de 'La Vanguardia' y 'RAC1', hoy en directo: última hora de los candidatos a las elecciones del 29-N por Barcelona",
+     "url": "https://www.lavanguardia.com/politica/20261119/11685669/elecciones-generales-debate-elctoral-candidatos-ultima-hora-en-directo.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "“¿Qué piensa el señor Trias?” de Rufián y las otras frases del debate a seis de 'La Vanguardia' y RAC1",
+     "url": "https://www.lavanguardia.com/politica/20261119/11688221/que-piensa-senor-trias-rufian-frases-debate-seis-vanguardia-rac1.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "Un debate para todos los gustos",
+     "url": "https://www.lavanguardia.com/politica/20261119/11688025/debate-todos-gustos.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "La próxima semana será la bomba",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687566/proxima-semana-sera-bomba.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "Feijóo y Sánchez, a cara de perro",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687592/feijoo-sanchez-cara-perro.html",
+     "seccion": "Política",
+     "resumen": ""
+    },
+    {
+     "titular": "Feijóo combinará “moderación” con un tono “exigente” con Sánchez en el cara a cara",
+     "url": "https://www.lavanguardia.com/politica/20261119/11687548/feijoo-combinara-moderacion-tono-exigente-sanchez.html",
+     "seccion": "Política",
+     "resumen": ""
     }
    ]
   }
