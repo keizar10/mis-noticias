@@ -1,0 +1,426 @@
+{
+ "fecha": "2026-11-20",
+ "franja": "tarde",
+ "generada": "2026-11-20T15:28+01:00",
+ "con_ia": true,
+ "resumen_dia": "El cara a cara entre Sánchez y Feijóo, único debate de la campaña del 29-N, domina la jornada: los sondeos y los análisis dan ganador a Feijóo, aunque la distancia entre PP y PSOE se reduce según un tracking. El Supremo mantiene suspendido el voto de 163.000 nacionalizados por la 'ley de nietos', y el Gobierno aprueba el decreto de centros de datos a nueve días de las elecciones. En el plano internacional, destacan la tensión en Ceuta por unas obras frente a Marruecos y la caída de las bolsas por el temor a una burbuja en la IA.",
+ "temas_comunes": [
+  {
+   "titulo": "Repercusión del cara a cara Sánchez-Feijóo",
+   "resumen": "El debate televisivo entre los candidatos del PSOE y el PP centra la campaña. Los sondeos y los análisis de los diarios sitúan a Feijóo como ganador, mientras que la izquierda critica la actitud de Sánchez.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca un sondeo de 40dB. que da ventaja de 10 puntos a Feijóo y un tracking que sitúa la distancia entre PP y PSOE en mínimos.",
+     "noticias": [
+      {
+       "titular": "La distancia entre el PP y el PSOE se estrecha al mínimo pese a la victoria de Feijóo en el debate",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Feijóo ganó el cara a cara contra Sánchez por 10 puntos, según el sondeo de 40dB. para EL PAÍS y la SER",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/feijoo-gano-el-cara-a-cara-contra-sanchez-por-10-puntos-segun-el-sondeo-de-40db-para-el-pais-y-la-ser.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "¿Quién ha ganado el duelo? Los analistas de EL PAÍS dan por vencedor a Feijóo sobre Sánchez",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/quien-ha-ganado-el-duelo-los-analistas-de-el-pais-dan-por-vencedor-a-feijoo-sobre-sanchez.html",
+       "seccion": "Debates Elecciones Generales"
+      },
+      {
+       "titular": "El debate más extraño que difícilmente va a dar la vuelta a las encuestas",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-debate-mas-extrano-que-dificilmente-va-a-dar-la-vuelta-a-las-encuestas.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya un sondeo con 20 puntos de ventaja para Feijóo y las críticas de la izquierda a la actitud de Sánchez.",
+     "noticias": [
+      {
+       "titular": "La mayoría da por ganador del debate electoral al candidato 'popular' Alberto Núñez Feijóo, que se impuso por 20 puntos de distancia al socialista Pedro Sánchez",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b000dbefdddfffd0b8b4577.html",
+       "seccion": "PSOE"
+      },
+      {
+       "titular": "Decepción en la izquierda con el papel de Sánchez en el debate: Colau lamenta que \"bajó los brazos\" y Rufián dice que Feijóo se lo \"comió\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6aff88a4fc6c831c7c8b459d.html",
+       "seccion": "Frente Amplio"
+      },
+      {
+       "titular": "Moncloa defiende la estrategia de Sánchez en el cara a cara con Feijóo: \"No es OT ni un combate de boxeo, es un debate de modelos\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b004a5cfdddffcf178b45b4.html",
+       "seccion": "Artículos Raúl Piña"
+      },
+      {
+       "titular": "Los 13 momentos que deciden el cara a cara: del silencio total de Sánchez sobre Puigdemont al temor al AVE de Feijóo",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6aff2af521efa08f5f8b4595.html",
+       "seccion": "Artículos Álvaro Carvajal"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge la lectura de que el debate fue una derrota de Sánchez y las críticas de los sanchistas a Feijóo.",
+     "noticias": [
+      {
+       "titular": "Qué tendrá guardado",
+       "url": "https://www.abc.es/espana/guardado-20261120141019-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge análisis de diez expertos y las críticas de Rufián y Colau a la actitud de Sánchez.",
+     "noticias": [
+      {
+       "titular": "Feijóo arremete contra Sánchez, que se defiende con contención",
+       "url": "https://www.lavanguardia.com/politica/20261120/11688596/feijoo-sale-fortalecido-cara-cara-sanchez-comedido.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Rufián vio a Sánchez mal asesorado en el cara a cara y otras críticas de la izquierda",
+       "url": "https://www.lavanguardia.com/politica/20261120/11688905/gabriel-rufian-acusa-sanchez-prepararse-mas-cara-cara-mal-asesorado.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Un Sánchez contenido evita mostrar colmillo",
+       "url": "https://www.lavanguardia.com/politica/20261120/11688592/sanchez-contenido-evita-mostrar-colmillo.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "¿Quién ha ganado el cara a cara?",
+       "url": "https://www.lavanguardia.com/politica/20261120/11688475/ganado-cara-cara.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Voto de nacionalizados por la 'ley de nietos'",
+   "resumen": "El Tribunal Supremo mantiene suspendido el voto de 163.000 nacionalizados y exige a la Junta Electoral y a la Oficina del Censo que cumpla la orden.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Pone el foco en que los jueces piden a la Junta Electoral que ningún afectado figure en el censo.",
+     "noticias": [
+      {
+       "titular": "El Supremo mantiene suspendido el voto a 163.000 nacionalizados por la ‘ley de nietos’ aunque ahora vivan en España",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-supremo-mantiene-suspendido-el-voto-a-163000-nacionalizados-por-la-ley-de-nietos-aunque-ahora-vivan-en-espana.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Detalla que se excluye a 901 personas que sí acreditaron su arraigo mediante certificación consular.",
+     "noticias": [
+      {
+       "titular": "El Supremo exige a la Junta Electoral y la Oficina del Censo que cumplan la orden de dejar sin derecho a voto a los 163.355 nacionalizados por la 'ley de nietos'",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b00537121efa0dc428b4583.html",
+       "seccion": "Tribunal Supremo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Ceuta: obras del espigón frente a Marruecos",
+   "resumen": "La Marina marroquí detuvo durante unas horas las obras de un espigón en Ceuta, alegando que se realizaban en suelo marroquí. Los trabajos se reanudaron después.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge que el barco se ancló en suelo marroquí según la AUGC y que los trabajos continúan.",
+     "noticias": [
+      {
+       "titular": "Marruecos bloquea durante unas horas las obras del nuevo espigón de Ceuta al reivindicar que se realizaban en suelo marroquí",
+       "url": "https://www.elmundo.es/espana/2026/11/20/6b0041dee4d4d8696f8b458d.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Lo presenta como un nuevo rifirrafe con Marruecos en el marco de medidas contra la entrada a nado.",
+     "noticias": [
+      {
+       "titular": "Nuevo rifirrafe con la Marina marroquí que para durante unas horas las obras de ampliación de un espigón en Ceuta",
+       "url": "https://www.abc.es/espana/nuevo-rifirrafe-marina-marroqui-ceuta-horas-ampliacion-20261120143612-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Ayuso y la campaña electoral",
+   "resumen": "La presidenta madrileña admite errores en la compra del ático y hace campaña en Ceuta, donde critica a Sánchez.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge que Ayuso reconoce ante Bloomberg que no explicó bien la compra del ático.",
+     "noticias": [
+      {
+       "titular": "Ayuso admite por primera vez que el ático fue “un error”: “ No por lo que hicimos sino por cómo lo explicamos”",
+       "url": "https://elpais.com/espana/madrid/2026-11-20/ayuso-reconoce-que-su-explicacion-de-la-compra-del-atico-fue-un-error.html",
+       "seccion": "Isabel Díaz Ayuso"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge su visita a Ceuta y sus críticas a Sánchez.",
+     "noticias": [
+      {
+       "titular": "Ayuso, en Ceuta: \"Me preguntan qué haré sin Sánchez. El 30% de mi vida es defenderme de él. Qué ganas de que se abra el cielo y respiremos\"",
+       "url": "https://www.elmundo.es/madrid/2026/11/20/6b003e88e85eceaf368b457f.html",
+       "seccion": "Artículos Vicente Coll"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca el respaldo de Vivas y su visita a Ceuta.",
+     "noticias": [
+      {
+       "titular": "Vivas se vuelca con Ayuso por su «valentía» contra Sánchez: «La democracia tiene una deuda con ella»",
+       "url": "https://www.abc.es/espana/madrid/vivas-vuelca-ayuso-valentia-sanchez-democracia-deuda-20261120133416-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca que admite errores en el ático y no descarta la política nacional.",
+     "noticias": [
+      {
+       "titular": "Ayuso admite “errores” en la compra del ático y no descarta saltar a la política nacional",
+       "url": "https://www.lavanguardia.com/politica/20261120/11689048/ayuso-admite-errores-compra-atico-salto-politica-nacional-feijoo.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza el cara a cara y los sondeos de 40dB., con datos de audiencia y análisis de expertos. Incluye también la decisión del Supremo sobre el voto de nacionalizados.",
+   "noticias": [
+    {
+     "titular": "Feijóo ganó el cara a cara contra Sánchez por 10 puntos, según el sondeo de 40dB. para EL PAÍS y la SER",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/feijoo-gano-el-cara-a-cara-contra-sanchez-por-10-puntos-segun-el-sondeo-de-40db-para-el-pais-y-la-ser.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Un sondeo da a Feijóo una ventaja de 10 puntos como ganador del debate frente a Sánchez."
+    },
+    {
+     "titular": "La distancia entre el PP y el PSOE se estrecha al mínimo pese a la victoria de Feijóo en el debate",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Tras el debate, la distancia entre PP y PSOE se reduce al mínimo en el noveno tracking de la serie."
+    },
+    {
+     "titular": "El Supremo mantiene suspendido el voto a 163.000 nacionalizados por la ‘ley de nietos’ aunque ahora vivan en España",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-supremo-mantiene-suspendido-el-voto-a-163000-nacionalizados-por-la-ley-de-nietos-aunque-ahora-vivan-en-espana.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El Supremo mantiene suspendido el voto de 163.000 nacionalizados y pide a la Junta Electoral que los excluya del censo."
+    },
+    {
+     "titular": "Feijóo se lanza al ataque ante un Sánchez que evita el cuerpo a cuerpo",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-enmienda-ocho-anos-de-gobierno-ante-un-sanchez-que-evita-la-confrontacion.html",
+     "seccion": "Debates Elecciones Generales",
+     "resumen": "Feijóo ataca a Sánchez en el único cara a cara, que responde con un tono pausado y evita el choque directo."
+    },
+    {
+     "titular": "Ayuso admite por primera vez que el ático fue “un error”: “ No por lo que hicimos sino por cómo lo explicamos”",
+     "url": "https://elpais.com/espana/madrid/2026-11-20/ayuso-reconoce-que-su-explicacion-de-la-compra-del-atico-fue-un-error.html",
+     "seccion": "Isabel Díaz Ayuso",
+     "resumen": "Ayuso reconoce ante Bloomberg que el ático fue un error por cómo lo explicó."
+    },
+    {
+     "titular": "El debate más extraño que difícilmente va a dar la vuelta a las encuestas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-debate-mas-extrano-que-dificilmente-va-a-dar-la-vuelta-a-las-encuestas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El análisis del debate señala poca discusión y muchos silencios, con una estrategia de Sánchez de no confrontar."
+    },
+    {
+     "titular": "Audiencias del cara a cara: Antena 3 fue la cadena preferida para seguir el debate entre Sánchez y Feijóo",
+     "url": "https://elpais.com/television/2026-11-20/audiencias-del-cara-a-cara-antena-3-fue-la-cadena-preferida-para-seguir-el-debate-entre-sanchez-y-feijoo.html",
+     "seccion": "Televisión",
+     "resumen": "Antena 3 lidera la audiencia del debate, con una media de más de 10 millones de espectadores."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Destaca el debate y la reacción de la izquierda, junto con asuntos de Estado como la ley de nietos y el decreto de centros de datos. Dedica también espacio a la tensión en Ceuta y a la caída bursátil ligada a la IA.",
+   "noticias": [
+    {
+     "titular": "El Supremo exige a la Junta Electoral y la Oficina del Censo que cumplan la orden de dejar sin derecho a voto a los 163.355 nacionalizados por la 'ley de nietos'",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b00537121efa0dc428b4583.html",
+     "seccion": "Tribunal Supremo",
+     "resumen": "El Supremo exige cumplir la orden de excluir del voto a 163.355 nacionalizados, con excepción de 901 que acreditaron arraigo."
+    },
+    {
+     "titular": "La mayoría da por ganador del debate electoral al candidato 'popular' Alberto Núñez Feijóo, que se impuso por 20 puntos de distancia al socialista Pedro Sánchez",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b000dbefdddfffd0b8b4577.html",
+     "seccion": "PSOE",
+     "resumen": "Una mayoría da ganador a Feijóo por 20 puntos, mientras Sánchez es considerado vencedor por un 29%."
+    },
+    {
+     "titular": "Decepción en la izquierda con el papel de Sánchez en el debate: Colau lamenta que \"bajó los brazos\" y Rufián dice que Feijóo se lo \"comió\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6aff88a4fc6c831c7c8b459d.html",
+     "seccion": "Frente Amplio",
+     "resumen": "La izquierda critica la actitud de Sánchez en el debate, con declaraciones de Colau y Rufián."
+    },
+    {
+     "titular": "Sánchez desoye al sector y aprueba el decreto de centros de datos a nueve días de las elecciones",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/20/6b00340be85ecec7198b4571.html",
+     "seccion": "Inteligencia artificial",
+     "resumen": "El Consejo de Ministros aprueba el decreto de centros de datos, que el PP promete derogar si gana."
+    },
+    {
+     "titular": "Dos misiles rusos caen en territorio polaco y Varsovia pedirá a la OTAN reforzar la defensa de la frontera oriental",
+     "url": "https://www.elmundo.es/internacional/2026/11/20/6afff1b621efa002318b459c.html",
+     "seccion": "Guerra Ucrania Rusia",
+     "resumen": "Dos misiles rusos caen en territorio polaco y Varsovia pedirá a la OTAN reforzar la defensa oriental."
+    },
+    {
+     "titular": "Anthropic no logra contener el miedo a una 'burbuja' en la IA : las bolsas se desploman en su sexta semana fatídica",
+     "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/20/6b0046b4e4d4d877208b459f.html",
+     "seccion": "Anthropic",
+     "resumen": "Las bolsas caen con fuerza por el temor a una burbuja en la IA, con Nvidia en fuerte descenso y el Ibex en retroceso semanal."
+    },
+    {
+     "titular": "Marruecos bloquea durante unas horas las obras del nuevo espigón de Ceuta al reivindicar que se realizaban en suelo marroquí",
+     "url": "https://www.elmundo.es/espana/2026/11/20/6b0041dee4d4d8696f8b458d.html",
+     "seccion": "",
+     "resumen": "Marruecos paraliza durante unas horas las obras del espigón en Ceuta por considerar que se hacían en suelo marroquí."
+    },
+    {
+     "titular": "Ayuso, en Ceuta: \"Me preguntan qué haré sin Sánchez. El 30% de mi vida es defenderme de él. Qué ganas de que se abra el cielo y respiremos\"",
+     "url": "https://www.elmundo.es/madrid/2026/11/20/6b003e88e85eceaf368b457f.html",
+     "seccion": "Artículos Vicente Coll",
+     "resumen": "Ayuso visita Ceuta y critica el vacío de Sánchez en campaña."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Pone el acento en el debate desde una mirada crítica con Sánchez y en la seguridad, con la desarticulación de una célula ciberterrorista. Incluye también asuntos de la Iglesia, la Casa Real y la campaña electoral.",
+   "noticias": [
+    {
+     "titular": "Frustran la implantación de la primera célula en España de la organización ciberterrorista NoName057(16)",
+     "url": "https://www.abc.es/espana/castilla-leon/frustran-implantacion-primera-celula-espana-organizacion-ciberterrorista-20261120121909-nt.html",
+     "seccion": "",
+     "resumen": "La Policía frustra la implantación en España de una célula de NoName057(16) y decomisa un arsenal de armas y munición."
+    },
+    {
+     "titular": "Qué tendrá guardado",
+     "url": "https://www.abc.es/espana/guardado-20261120141019-nt.html",
+     "seccion": "",
+     "resumen": "Un artículo de opinión califica el cara a cara de victoria de Feijóo y analiza las críticas de los sanchistas."
+    },
+    {
+     "titular": "Los obispos no creen «necesaria» una declaración ante las elecciones y remiten al discurso del Papa en el Congreso",
+     "url": "https://www.abc.es/sociedad/obispos-consideran-necesaria-declaracion-ante-elecciones-remiten-20261120133742-nt.html",
+     "seccion": "",
+     "resumen": "La Conferencia Episcopal no elaborará una declaración propia ante las elecciones y remite al discurso del Papa."
+    },
+    {
+     "titular": "Nuevo rifirrafe con la Marina marroquí que para durante unas horas las obras de ampliación de un espigón en Ceuta",
+     "url": "https://www.abc.es/espana/nuevo-rifirrafe-marina-marroqui-ceuta-horas-ampliacion-20261120143612-nt.html",
+     "seccion": "",
+     "resumen": "Nuevo episodio con Marruecos por el inicio de las obras de ampliación del espigón del Tarajal en Ceuta."
+    },
+    {
+     "titular": "La UE y el Reino Unido sellan su acercamiento para empezar a revertir el Brexit",
+     "url": "https://www.abc.es/internacional/ue-vuelca-atraer-regreso-reino-unido-decada-20261120140613-nt.html",
+     "seccion": "",
+     "resumen": "El primer ministro británico es recibido en Bruselas por Costa y von der Leyen para estrechar relaciones con la UE."
+    },
+    {
+     "titular": "Vivas se vuelca con Ayuso por su «valentía» contra Sánchez: «La democracia tiene una deuda con ella»",
+     "url": "https://www.abc.es/espana/madrid/vivas-vuelca-ayuso-valentia-sanchez-democracia-deuda-20261120133416-nt.html",
+     "seccion": "",
+     "resumen": "Vivas respalda a Ayuso por su postura frente a Sánchez durante la visita a Ceuta."
+    },
+    {
+     "titular": "El Rey reivindica en Bilbao el «coraje» de la empresa vasca frente al «terrorismo de ETA, las amenazas y la falta de libertad»",
+     "url": "https://www.abc.es/espana/pais-vasco/rey-revindica-bilbao-coraje-empresa-vasca-frente-20261120133851-nt.html",
+     "seccion": "",
+     "resumen": "El Rey reivindica en Bilbao el papel del empresariado vasco frente al terrorismo de ETA."
+    },
+    {
+     "titular": "Las solicitudes de voto por correo descienden casi un 60% respecto a las elecciones de 2023",
+     "url": "https://www.abc.es/espana/solicitudes-voto-correo-descienden-respecto-elecciones-2023-20261120125601-nt.html",
+     "seccion": "",
+     "resumen": "Las solicitudes de voto por correo caen casi un 60% respecto a 2023, con más de un millón admitidas."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Sigue la campaña en directo y dedica gran parte de su portada al cara a cara y a las reacciones de los candidatos. Incluye también la intervención de Vox en Barcelona y la visión del sector energético.",
+   "noticias": [
+    {
+     "titular": "Feijóo arremete contra Sánchez, que se defiende con contención",
+     "url": "https://www.lavanguardia.com/politica/20261120/11688596/feijoo-sale-fortalecido-cara-cara-sanchez-comedido.html",
+     "seccion": "Política",
+     "resumen": "Feijóo critica a Sánchez, que responde con contención; el debate abre una nueva fase de la campaña."
+    },
+    {
+     "titular": "Las televisiones cercanas al PSOE superan a las del PP en el cara a cara entre Sánchez y Feijóo",
+     "url": "https://www.lavanguardia.com/television/20261120/11688837/antena-3-supera-1-audiencia-debate-pedro-sanchez-nunez-feijoo.html",
+     "seccion": "Televisión",
+     "resumen": "Las cadenas cercanas al PSOE lideran la audiencia del debate, con 10,15 millones de espectadores de media y más del 70% de cuota."
+    },
+    {
+     "titular": "Rufián vio a Sánchez mal asesorado en el cara a cara y otras críticas de la izquierda",
+     "url": "https://www.lavanguardia.com/politica/20261120/11688905/gabriel-rufian-acusa-sanchez-prepararse-mas-cara-cara-mal-asesorado.html",
+     "seccion": "Política",
+     "resumen": "Rufián y Colau critican a Sánchez por su actitud en el debate, al que ven falto de contundencia."
+    },
+    {
+     "titular": "Un Sánchez contenido evita mostrar colmillo",
+     "url": "https://www.lavanguardia.com/politica/20261120/11688592/sanchez-contenido-evita-mostrar-colmillo.html",
+     "seccion": "Política",
+     "resumen": "Sánchez evita entrar en la provocación de Feijóo, aunque ese enfoque le resta impacto en el cara a cara."
+    },
+    {
+     "titular": "Sánchez apela al voto en su ‘minuto de oro’ frente a Feijóo: “Vota con toda tu alma”",
+     "url": "https://www.lavanguardia.com/politica/20261120/11688886/sanchez-apela-voto-minuto-oro-frente-feijoo-vota-toda-alma.html",
+     "seccion": "Política",
+     "resumen": "Sánchez pide el voto en su minuto final y denuncia la influencia de los poderes económicos y mediáticos."
+    },
+    {
+     "titular": "Feijóo reivindica su gestión y promete un cambio en su ‘minuto de oro’: “Yo sí cumplo”",
+     "url": "https://www.lavanguardia.com/politica/20261120/11688880/feijoo-reivindica-gestion-promete-cambio-minuto-oro-cumplo.html",
+     "seccion": "Política",
+     "resumen": "Feijóo reivindica su gestión y pide dirigentes competentes en su minuto final de campaña."
+    },
+    {
+     "titular": "Ayuso admite “errores” en la compra del ático y no descarta saltar a la política nacional",
+     "url": "https://www.lavanguardia.com/politica/20261120/11689048/ayuso-admite-errores-compra-atico-salto-politica-nacional-feijoo.html",
+     "seccion": "Política",
+     "resumen": "Ayuso admite errores en la compra del ático y no descarta dar el salto a la política nacional."
+    },
+    {
+     "titular": "Aizcorbe plantea que la Policía y Guardia Civil puedan recuperar competencias de los Mossos",
+     "url": "https://www.lavanguardia.com/politica/20261120/11688998/aizcorbe-plantea-policia-guardia-civil-puedan-recuperar-competencias-mossos.html",
+     "seccion": "Política",
+     "resumen": "El candidato de Vox en Barcelona propone que Policía y Guardia Civil recuperen competencias de los Mossos."
+    }
+   ]
+  }
+ ]
+}
