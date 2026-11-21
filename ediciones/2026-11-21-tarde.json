@@ -1,0 +1,433 @@
+{
+ "fecha": "2026-11-21",
+ "franja": "tarde",
+ "generada": "2026-11-21T14:47+01:00",
+ "con_ia": true,
+ "resumen_dia": "Las elecciones generales del 29-N dominan la portada de los cuatro diarios, centradas en el cara a cara entre Sánchez y Feijóo y en el mitin del PP en Valencia. Todos recogen el anuncio del Gobierno de prorrogar en 2027 el impuesto a la banca, con unos 1.400 millones de recaudación previstos para vivienda. También coinciden en la muerte de Gianni De Gennaro, exjefe de policía investigado por el caso Borsellino.",
+ "temas_comunes": [
+  {
+   "titulo": "Campaña y repercusión del cara a cara",
+   "resumen": "Tras el debate entre Sánchez y Feijóo, el PP llena la plaza de toros de Valencia y el PSOE busca recuperar impulso. Las encuestas sitúan la distancia entre PP y PSOE en un mínimo, según El País.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya el estrechamiento de la distancia en el tracking de encuestas y la tibieza de Sánchez en el debate.",
+     "noticias": [
+      {
+       "titular": "La distancia entre el PP y el PSOE se estrecha al mínimo pese a la victoria de Feijóo en el debate",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Una tibieza “incoherente” ante un votante enojado: por qué el plan de Sánchez tenía difícil salir bien",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/una-tibieza-incoherente-ante-un-votante-enojado-por-que-el-plan-de-sanchez-tenia-dificil-salir-bien.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Sánchez vuelve al ataque para dejar atrás el debate mientras Feijóo intenta explotarlo al máximo",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/sanchez-vuelve-al-ataque-para-dejar-atras-el-debate-mientras-feijoo-intenta-explotarlo-al-maximo.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca el impacto del debate en el voto, con 1,2 millones de votantes que cambian o estudian otra papeleta.",
+     "noticias": [
+      {
+       "titular": "El debate rompe las trincheras y mueve hasta 1,2 millones de votos",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b0081aee9cf4af82d8b45b4.html",
+       "seccion": "Artículos Marisa Cruz"
+      },
+      {
+       "titular": "Feijóo abarrota la Plaza de Toros de Valencia y exige a los suyos la máxima movilización: \"No os fieis, son capaces de todo\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/21/6b017ba7e85ece95298b456e.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge el mitin de Valencia y la petición de Feijóo de no confiarse tras el debate.",
+     "noticias": [
+      {
+       "titular": "Feijóo pide contener la euforia tras el debate: «No os fieis. No hay nada hecho, queda el partido final»",
+       "url": "https://www.abc.es/espana/feijoo-pide-contener-euforia-tras-debate-fieis-20261121140523-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Presenta a Feijóo como ganador del cara a cara sin dar por noqueado a Sánchez.",
+     "noticias": [
+      {
+       "titular": "Feijóo pide al PP que no se fíe tras la victoria del cara a cara: “Heridos son más peligrosos”",
+       "url": "https://www.lavanguardia.com/local/valencia/20261121/11689836/feijoo-pide-pp-fie-victoria-cara-cara-heridos-son-mas-peligrosos.html",
+       "seccion": "Comunidad Valenciana"
+      },
+      {
+       "titular": "La semana que decide",
+       "url": "https://www.lavanguardia.com/politica/20261121/11689500/semana-decide.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Prórroga del impuesto a la banca en 2027",
+   "resumen": "El Gobierno prorrogará un año el gravamen a la banca, con una recaudación prevista de 1.400 millones destinada a políticas de vivienda. El último Consejo de Ministros antes de las elecciones aprobará la medida.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Lo presenta como anuncio de Sánchez con una previsión de recaudación de 1.400 millones.",
+     "noticias": [
+      {
+       "titular": "El Gobierno prorrogará el impuesto a la banca un año más para financiar políticas de vivienda",
+       "url": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Explica en qué consiste el tributo y recuerda que la banca lo considera discriminatorio.",
+     "noticias": [
+      {
+       "titular": "Sánchez anuncia la prórroga del impuesto a la banca en 2027: ¿en qué consiste un tributo que recauda 1.400 millones al año?",
+       "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/21/6b017050e9cf4ad5138b45a2.html",
+       "seccion": "Banca"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca el anuncio de Sánchez y el destino de los fondos a políticas de vivienda.",
+     "noticias": [
+      {
+       "titular": "Sánchez anuncia que el Gobierno extenderá el 'impuestazo' a la banca hasta 2027",
+       "url": "https://www.abc.es/economia/sanchez-anuncia-gobierno-extendera-impuestazo-banca-2027-20261121094800-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Detalla el destino: 6.000 pisos asequibles, 52.000 viviendas rehabilitadas y bonificaciones a 120.000 inquilinos.",
+     "noticias": [
+      {
+       "titular": "El Gobierno prorrogará un año el impuesto a la banca para financiar políticas de vivienda",
+       "url": "https://www.lavanguardia.com/politica/20261121/11689766/sanchez-anuncia-destinara-vivienda-1-400-millones-prorroga-impuesto-banca.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Muerte de Gianni De Gennaro en Italia",
+   "resumen": "Gianni De Gennaro, exjefe de la Policía italiana investigado por presunto encubrimiento en el asesinato del juez Borsellino en 1992, apareció muerto en su casa. La Fiscalía lo había acusado días antes.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Enmarca el caso como un nuevo episodio del misterio de las masacres de la Mafia de 1992.",
+     "noticias": [
+      {
+       "titular": "Resurge en Italia el misterio de las masacres de la Mafia de 1992 con el suicidio de un exjefe de policía",
+       "url": "https://elpais.com/internacional/2026-11-21/resurge-en-italia-el-misterio-de-las-masacres-de-mafia-de-1992-con-el-suicidio-de-un-exjefe-de-policia.html",
+       "seccion": "Mafia"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Se centra en el hallazgo del cuerpo y en la investigación por obstrucción del caso Borsellino.",
+     "noticias": [
+      {
+       "titular": "Encuentran muerto al ex jefe de la policía italiana después de resultar investigado por un caso relacionado con la mafia",
+       "url": "https://www.elmundo.es/internacional/2026/11/21/6b0182e8fc6c8351418b4596.html",
+       "seccion": "Italia"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya la edad del fallecido, 78 años, y su pasado como responsable de servicios secretos.",
+     "noticias": [
+      {
+       "titular": "Se suicida Gianni De Gennaro, exjefe de la Policía investigado por el caso Borsellino",
+       "url": "https://www.lavanguardia.com/internacional/20261121/11689790/suicida-gianni-gennaro-exjefe-policia-italiana-investigado-caso-borsellino.html",
+       "seccion": "Internacional"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Debate sobre la vivienda y la inmigración",
+   "resumen": "La vivienda aparece como eje de la campaña, con un déficit estimado de 750.000 viviendas. Feijóo promete desplegar las Fuerzas Armadas frente a la inmigración, según la portada de El País.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la propuesta de Feijóo sobre inmigración y el ataque de Abascal.",
+     "noticias": [
+      {
+       "titular": "Sánchez vuelve al ataque para dejar atrás el debate mientras Feijóo intenta explotarlo al máximo",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/sanchez-vuelve-al-ataque-para-dejar-atras-el-debate-mientras-feijoo-intenta-explotarlo-al-maximo.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Vincula el adelanto electoral con la vivienda y plantea qué proponen los partidos.",
+     "noticias": [
+      {
+       "titular": "Inmigración: faltan 750.000 viviendas y cada vez somos más. ¿Cómo lo solucionan los partidos?",
+       "url": "https://www.abc.es/espana/inmigracion-vivienda-faltan-750000-viviendas-vez-proponen-20261121023024-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Real Madrid ratifica a Rafa Nadal",
+   "resumen": "La Asamblea de socios del Real Madrid ratifica a Rafa Nadal como miembro de la Junta Directiva con el 99,5% de los votos. Florentino Pérez anuncia la vuelta del club a la ECA.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca las críticas de Florentino Pérez a Tebas y la reforma del 5% de patrimonio.",
+     "noticias": [
+      {
+       "titular": "Rafa Nadal, un galáctico a la derecha de Florentino en la Asamblea del Madrid: \"Voy a estar aquí muchos años\"",
+       "url": "https://www.elmundo.es/deportes/futbol/2026/11/21/6b01646de85ecec7518b4581.html",
+       "seccion": "Real Madrid"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge la ratificación y la frase de Nadal sobre su futuro en el club.",
+     "noticias": [
+      {
+       "titular": "El Real Madrid ratifica el nombramiento de Rafael Nadal: «Espero estar aquí durante muchos años»",
+       "url": "https://www.abc.es/deportes/real-madrid/florentino-sienta-nadal-derecha-ovacion-unanime-orgullo-20261121103146-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Resalta el respaldo del 99,5% de los socios y su papel como mano derecha de Florentino.",
+     "noticias": [
+      {
+       "titular": "Rafa Nadal ya es la mano derecha de Florentino Pérez: “Espero estar aquí muchos años”",
+       "url": "https://www.lavanguardia.com/deportes/real-madrid/20261121/11689857/rafa-nadal-mano-derecha-florentino-perez-espero-anos.html",
+       "seccion": "Real Madrid"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la carrera electoral con seguimiento de encuestas, análisis territorial y entrevistas a candidatos. Incluye también la economía con el anuncio del impuesto a la banca.",
+   "noticias": [
+    {
+     "titular": "La distancia entre el PP y el PSOE se estrecha al mínimo pese a la victoria de Feijóo en el debate",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El noveno tracking de 40dB para El País y la SER sitúa la distancia entre PP y PSOE en su mínimo tras el debate."
+    },
+    {
+     "titular": "El Gobierno prorrogará el impuesto a la banca un año más para financiar políticas de vivienda",
+     "url": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
+     "seccion": "Economía",
+     "resumen": "Sánchez anuncia la prórroga del impuesto a la banca en 2027, con 1.400 millones de recaudación para vivienda."
+    },
+    {
+     "titular": "La plana mayor del primer Gobierno de Felipe González pide el voto para Pedro Sánchez: “Hay riesgo de involución y recorte de derechos”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-plana-mayor-del-primer-gobierno-de-felipe-gonzalez-pide-el-voto-para-pedro-sanchez.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Exministros socialistas firman un artículo de apoyo a Sánchez frente a Felipe González, alertando de riesgo de involución."
+    },
+    {
+     "titular": "Una tibieza “incoherente” ante un votante enojado: por qué el plan de Sánchez tenía difícil salir bien",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/una-tibieza-incoherente-ante-un-votante-enojado-por-que-el-plan-de-sanchez-tenia-dificil-salir-bien.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Análisis sobre la moderación de Sánchez en el debate y su posible efecto en un electorado enfadado."
+    },
+    {
+     "titular": "La gran batalla de PSOE, PP y Vox por los votos decisivos de las provincias pequeñas y medianas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-gran-batalla-de-psoe-pp-y-vox-por-los-votos-decisivos-de-las-provincias-pequenas-y-medianas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "PSOE, PP y Vox se disputan las 29 circunscripciones de tres a cinco escaños, que suman casi un tercio del Congreso."
+    },
+    {
+     "titular": "Resurge en Italia el misterio de las masacres de la Mafia de 1992 con el suicidio de un exjefe de policía",
+     "url": "https://elpais.com/internacional/2026-11-21/resurge-en-italia-el-misterio-de-las-masacres-de-mafia-de-1992-con-el-suicidio-de-un-exjefe-de-policia.html",
+     "seccion": "Mafia",
+     "resumen": "Gianni De Gennaro aparece muerto días después de ser acusado de entorpecer la investigación del asesinato de Borsellino."
+    },
+    {
+     "titular": "Campaña electoral 29-N y actualidad política, en directo | Feijóo: “No os fieis de las encuestas. Son capaces de todo y heridos son aún más peligrosos”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Directo de campaña: Feijóo pide no fiarse de las encuestas y Sánchez reclama un 75% de participación."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en el impacto del debate sobre el voto y en el mitin de Valencia. Mantiene la atención en la economía con el impuesto a la banca.",
+   "noticias": [
+    {
+     "titular": "El debate rompe las trincheras y mueve hasta 1,2 millones de votos",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b0081aee9cf4af82d8b45b4.html",
+     "seccion": "Artículos Marisa Cruz",
+     "resumen": "Según una encuesta citada, el 7,5% de los votantes que vieron el debate ha decidido o estudia otra papeleta."
+    },
+    {
+     "titular": "Feijóo abarrota la Plaza de Toros de Valencia y exige a los suyos la máxima movilización: \"No os fieis, son capaces de todo\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/21/6b017ba7e85ece95298b456e.html",
+     "seccion": "España",
+     "resumen": "Feijóo reúne a más de 13.000 personas en Valencia y pide máxima movilización a los suyos."
+    },
+    {
+     "titular": "Sánchez anuncia la prórroga del impuesto a la banca en 2027: ¿en qué consiste un tributo que recauda 1.400 millones al año?",
+     "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/21/6b017050e9cf4ad5138b45a2.html",
+     "seccion": "Banca",
+     "resumen": "Explicación del impuesto a la banca, vigente desde 2022 y prorrogado a 2027, con recaudación anual cercana a 1.400 millones."
+    },
+    {
+     "titular": "Yolanda Díaz entra en la campaña del Frente Amplio: \"El PSOE se equivoca si cree que el 29-N va de quedar primero y que gobiernen PP y Vox\"",
+     "url": "https://www.elmundo.es/cataluna/2026/11/21/6b015da4e4d4d8bb7e8b4591.html",
+     "seccion": "Artículos Gerard Melgar",
+     "resumen": "Yolanda Díaz entra en campaña con Frente Amplio y critica la resignación de Sánchez en el debate."
+    },
+    {
+     "titular": "Aznar y Ayuso responden a Sánchez: \"El que pueda votar que vote, sí... Pero para echarle\"",
+     "url": "https://www.elmundo.es/madrid/2026/11/21/6b0186a3e4d4d8030c8b45d3.html",
+     "seccion": "",
+     "resumen": "Aznar y Ayuso piden votar contra el Gobierno de Sánchez."
+    },
+    {
+     "titular": "Encuentran muerto al ex jefe de la policía italiana después de resultar investigado por un caso relacionado con la mafia",
+     "url": "https://www.elmundo.es/internacional/2026/11/21/6b0182e8fc6c8351418b4596.html",
+     "seccion": "Italia",
+     "resumen": "Hallan muerto al exjefe de la policía italiana De Gennaro, investigado por obstruir la pesquisa del atentado de 1992."
+    },
+    {
+     "titular": "Tragsa ancló el barco que construye el nuevo espigón de Ceuta en suelo marroquí y provocó un conflicto de frontera",
+     "url": "https://www.elmundo.es/espana/2026/11/21/6b009ee3e85ece873e8b4571.html",
+     "seccion": "Ceuta",
+     "resumen": "Un anclaje de una barcaza de Tragsa en suelo marroquí provoca un conflicto de frontera en las obras del espigón de Ceuta."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la campaña con temas de sociedad y cultura, y prioriza el mitin de Valencia y el anuncio fiscal. Incluye también varias noticias de deporte y ocio.",
+   "noticias": [
+    {
+     "titular": "Feijóo pide contener la euforia tras el debate: «No os fieis. No hay nada hecho, queda el partido final»",
+     "url": "https://www.abc.es/espana/feijoo-pide-contener-euforia-tras-debate-fieis-20261121140523-nt.html",
+     "seccion": "",
+     "resumen": "Feijóo pide no confiarse tras el debate en un mitin de unas 12.000 personas en la plaza de Toros de Valencia."
+    },
+    {
+     "titular": "Sánchez anuncia que el Gobierno extenderá el 'impuestazo' a la banca hasta 2027",
+     "url": "https://www.abc.es/economia/sanchez-anuncia-gobierno-extendera-impuestazo-banca-2027-20261121094800-nt.html",
+     "seccion": "",
+     "resumen": "Sánchez anuncia que el Consejo de Ministros aprobará la prórroga del impuesto a la banca en 2027 para financiar vivienda."
+    },
+    {
+     "titular": "Inmigración: faltan 750.000 viviendas y cada vez somos más. ¿Cómo lo solucionan los partidos?",
+     "url": "https://www.abc.es/espana/inmigracion-vivienda-faltan-750000-viviendas-vez-proponen-20261121023024-nt.html",
+     "seccion": "",
+     "resumen": "Repaso a la falta de 750.000 viviendas y a las propuestas de los partidos para afrontarlo, tras el adelanto electoral."
+    },
+    {
+     "titular": "Europa se vuelca con Dinamarca tras el intento de asesinato de un rapero ucraniano por parte de Rusia",
+     "url": "https://www.abc.es/internacional/europa-vuelca-dinamarca-tras-intento-asesinato-rapero-20261121134246-nt.html",
+     "seccion": "",
+     "resumen": "Varios gobiernos europeos muestran solidaridad con Dinamarca tras el intento de asesinato de un rapero ucraniano atribuido a Rusia."
+    },
+    {
+     "titular": "Al menos cuatro afectados y ocho autonomías implicadas: lo que se sabe de la alerta por salmonela en huevos de Eroski",
+     "url": "https://www.abc.es/sociedad/cuatro-afectados-ocho-autonomias-implicadas-sabe-alerta-20261121125623-nt.html",
+     "seccion": "",
+     "resumen": "Alerta de Aesan por salmonela en huevos de la marca Eroski, con al menos cuatro afectados en ocho comunidades."
+    },
+    {
+     "titular": "Tolón, una ministra «muy orgullosa» pese a una semana de «insultos»",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/tolon-ministra-orgullosa-pese-espinas-semana-insultos-20261121130154-nt.html",
+     "seccion": "",
+     "resumen": "La ministra Milagros Tolón, candidata del PSOE por Toledo, denuncia una semana de insultos y mentiras."
+    },
+    {
+     "titular": "El Real Madrid ratifica el nombramiento de Rafael Nadal: «Espero estar aquí durante muchos años»",
+     "url": "https://www.abc.es/deportes/real-madrid/florentino-sienta-nadal-derecha-ovacion-unanime-orgullo-20261121103146-nt.html",
+     "seccion": "",
+     "resumen": "La Asamblea del Real Madrid ratifica a Rafa Nadal en la Junta Directiva."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Da peso a la política nacional y a la campaña, con la voz de Junts y análisis de la semana electoral. Incluye también cumbre del clima y asuntos internacionales.",
+   "noticias": [
+    {
+     "titular": "El Gobierno prorrogará un año el impuesto a la banca para financiar políticas de vivienda",
+     "url": "https://www.lavanguardia.com/politica/20261121/11689766/sanchez-anuncia-destinara-vivienda-1-400-millones-prorroga-impuesto-banca.html",
+     "seccion": "Política",
+     "resumen": "El último Consejo de Ministros antes del 29-N aprobará la prórroga del impuesto a la banca, que financiará 6.000 pisos asequibles y rehabilitará 52.000 viviendas."
+    },
+    {
+     "titular": "Feijóo pide al PP que no se fíe tras la victoria del cara a cara: “Heridos son más peligrosos”",
+     "url": "https://www.lavanguardia.com/local/valencia/20261121/11689836/feijoo-pide-pp-fie-victoria-cara-cara-heridos-son-mas-peligrosos.html",
+     "seccion": "Comunidad Valenciana",
+     "resumen": "Feijóo llena la plaza de toros de Valencia y advierte a los suyos de que la campaña no ha terminado."
+    },
+    {
+     "titular": "La semana que decide",
+     "url": "https://www.lavanguardia.com/politica/20261121/11689500/semana-decide.html",
+     "seccion": "Política",
+     "resumen": "Análisis: Feijóo gana el cara a cara según el consenso, pero Sánchez no queda noqueado de cara a la última semana."
+    },
+    {
+     "titular": "“Lo que ha hecho crecer a PP y Vox ha sido la política del PSOE”",
+     "url": "https://www.lavanguardia.com/politica/20261121/11689489/miriam-nogueras-hecho-crecer-pp-vox-sido-politica-psoe.html",
+     "seccion": "Política",
+     "resumen": "La candidata de Junts sostiene que el auge de PP y Vox se debe a la política del PSOE y quiere condicionar al próximo Gobierno."
+    },
+    {
+     "titular": "La cumbre del clima no logra un plan para eliminar los combustibles fósiles",
+     "url": "https://www.lavanguardia.com/vida/20261120/11689454/cop31-encalla-desacuerdo-prescindir-combustibles-fosiles.html",
+     "seccion": "Sociedad",
+     "resumen": "La cumbre del clima en Turquía entra en prórroga sin acuerdo para eliminar petróleo, gas y carbón."
+    },
+    {
+     "titular": "Costa plantea un impuesto a las Big Tech como ingreso para el presupuesto de la UE",
+     "url": "https://www.lavanguardia.com/economia/20261121/11689797/costa-plantea-impuesto-big-tech-fuente-ingreso-presupuesto-ue.html",
+     "seccion": "Economía",
+     "resumen": "Costa propone un impuesto a las grandes tecnológicas como ingreso del presupuesto de la UE y un recorte del 10%."
+    },
+    {
+     "titular": "Se suicida Gianni De Gennaro, exjefe de la Policía investigado por el caso Borsellino",
+     "url": "https://www.lavanguardia.com/internacional/20261121/11689790/suicida-gianni-gennaro-exjefe-policia-italiana-investigado-caso-borsellino.html",
+     "seccion": "Internacional",
+     "resumen": "Gianni De Gennaro, de 78 años y exjefe de los servicios secretos, se suicida mientras estaba investigado en el caso Borsellino."
+    }
+   ]
+  }
+ ]
+}
