@@ -1,0 +1,530 @@
+{
+ "fecha": "2026-11-22",
+ "franja": "tarde",
+ "generada": "2026-11-22T14:40+01:00",
+ "con_ia": true,
+ "resumen_dia": "La campaña para las elecciones generales del 29-N domina las portadas de los cuatro diarios, con la derecha y el PSOE disputando el primer puesto según las encuestas recientes. La cumbre del clima de la COP31 termina sin acuerdo sobre combustibles fósiles tras el rechazo de la UE. En Barajas, una avería del tren de la T4 Satélite obliga a usar autobuses, y en Barcelona la caída de un árbol durante una carrera deja heridos.",
+ "temas_comunes": [
+  {
+   "titulo": "Encuestas y pugna por el primer puesto",
+   "resumen": "Los sondeos sitúan al PP por delante del PSOE con una diferencia de entre medio punto y 3,5 puntos, mientras Vox cae. Las cabeceras destacan una posible remontada socialista y la mayoría de la derecha en escaños.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el tracking de 40dB según el cual el PSOE se acerca al empate y el voto útil y los indecisos progresistas.",
+     "noticias": [
+      {
+       "titular": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/el-psoe-acaricia-el-empate-con-el-pp-segun-el-tracking-de-40db.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "¿Quiénes son los indecisos? En busca del dubitativo voto de izquierdas",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/quienes-son-los-indecisos-en-busca-del-dubitativo-voto-de-izquierdas.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la ventaja de Feijóo de 3,5 puntos y la caída de Vox por debajo del 19%.",
+     "noticias": [
+      {
+       "titular": "PP y PSOE ganan apoyos y la derecha ancla su ventaja a una semana de votar",
+       "url": "https://www.elmundo.es/espana/encuestas/2026/11/21/6b01d96dfc6c83e5298b4592.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Los profetas de la remontada de Pedro Sánchez",
+       "url": "https://www.elmundo.es/cronica/2026/11/21/6b015b0221efa0930c8b4597.html",
+       "seccion": "A fondo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Señala una holgada mayoría de la derecha de 194 escaños y la advertencia de no dar la victoria por segura.",
+     "noticias": [
+      {
+       "titular": "La derecha mantiene una holgada mayoría de 194 escaños a una semana del 29N",
+       "url": "https://www.abc.es/espana/derecha-mantiene-holgada-mayoria-194-escanos-semana-20261122023225-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Sánchez se conjura contra el 'sorpasso' de Vox al PSOE",
+       "url": "https://www.abc.es/espana/sanchez-conjura-sorpasso-vox-psoe-murcia-20261122131843-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Titula que la derecha suma mayoría absoluta y que el PSOE se acerca al PP con medio punto de diferencia.",
+     "noticias": [
+      {
+       "titular": "La derecha suma mayoría absoluta mientras el PSOE se acerca al PP",
+       "url": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "La mayoría quiere que el nuevo gobierno se centre en la vivienda",
+       "url": "https://www.lavanguardia.com/politica/20261122/11690020/mayoria-quiere-nuevo-gobierno-centre-vivienda.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Cierre de campaña de Sánchez y Feijóo",
+   "resumen": "Sánchez y Feijóo hacen su último tramo de campaña con mítines en Murcia y otras plazas. Ambos llaman a la movilización de sus votantes a una semana de los comicios.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge el tono de movilización de Sánchez frente a la ultraderecha y la prudencia de Feijóo tras su victoria en el debate.",
+     "noticias": [
+      {
+       "titular": "Doce horas en campaña con Pedro Sánchez: “La última vez que la ultraderecha gobernó no había democracia”",
+       "url": "https://elpais.com/espana/2026-11-22/doce-horas-en-campana-con-pedro-sanchez-la-ultima-vez-que-la-ultraderecha-goberno-no-habia-democracia.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "La revancha de Feijóo consigo mismo",
+       "url": "https://elpais.com/espana/2026-11-22/la-revancha-de-feijoo-consigo-mismo.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Campaña electoral 29N y actualidad política, en directo | Sánchez ondea la bandera de Murcia, donde fue declarado persona non grata por el Parlamento regional con los votos de PP y Vox",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/campana-electoral-29n-y-actualidad-politica-en-directo.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "La campaña eleva el drama en la recta final: “¡A por ellos!”. “¡No pasarán!”",
+       "url": "https://elpais.com/espana/2026-11-22/la-campana-eleva-el-drama-en-la-recta-final-a-por-ellos-no-pasaran.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca el mitin de Feijóo en Murcia con más de 7.000 personas y el llamamiento de Sánchez a la remontada.",
+     "noticias": [
+      {
+       "titular": "Feijoó apela al voto contra el miedo en Murcia y aspira a un país \"que vuelva a funcionar\" : \"No quiero una España a bofetadas\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b02bd62fdddffa56f8b4576.html",
+       "seccion": "Alberto Núñez Feijóo"
+      },
+      {
+       "titular": "Sánchez alienta el 'sí se puede' del PSOE en el ecuador de la campaña: \"Nos queda una semana de remontada\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b02d70be4d4d8693e8b457a.html",
+       "seccion": "Artículos Raúl Piña"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Se centra en la visita de Sánchez a Murcia como último domingo de campaña y en el riesgo de sorpasso de Vox.",
+     "noticias": [
+      {
+       "titular": "Sánchez se conjura contra el 'sorpasso' de Vox al PSOE",
+       "url": "https://www.abc.es/espana/sanchez-conjura-sorpasso-vox-psoe-murcia-20261122131843-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Resalta el lleno del mitin de Sánchez con 10.000 simpatizantes y la respuesta de Feijóo sobre el debate.",
+     "noticias": [
+      {
+       "titular": "Sánchez alienta “una semana de remontada” para ganar en las urnas a la “coalición reaccionaria”",
+       "url": "https://www.lavanguardia.com/politica/20261122/11690459/sanchez-alienta-semana-remontada-ganar-urnas-coalicion-reaccionaria.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Feijóo insiste en la prudencia tras ganar a Sánchez en el debate: “España no puede permitirse lo que ocurrió en 2023”",
+       "url": "https://www.lavanguardia.com/politica/20261122/11690458/feijoo-insiste-prudencia-ganar-sanchez-debate-espana-permitirse-ocurrio-2023.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Cumbre del clima COP31 sin acuerdo",
+   "resumen": "La cumbre del clima en Turquía termina sin acuerdo que mencione los combustibles fósiles, tras el rechazo de la UE y otros países a la última propuesta.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Señala el veto de los petroestados y Rusia a las menciones al petróleo, gas y carbón.",
+     "noticias": [
+      {
+       "titular": "La cumbre del clima fracasa incapaz de cerrar un acuerdo que señale a los combustibles fósiles",
+       "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-22/la-presidencia-de-la-cop31-lanza-un-nuevo-borrador-de-acuerdo-para-desatascar-el-caotico-final-de-la-cumbre-del-clima.html",
+       "seccion": "Medio ambiente"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Habla de un colapso de la cumbre, la más larga de la historia, con el borrador sin referencia a los fósiles.",
+     "noticias": [
+      {
+       "titular": "Colapsa la cumbre del clima más larga de la historia: la UE rechaza un acuerdo sin mención a los combustibles fósiles",
+       "url": "https://www.elmundo.es/ciencia/2026/11/22/6b02a7d721efa09c698b4575.html",
+       "seccion": "Medioambiente"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca el rechazo de la UE y de Panamá al texto final y el riesgo de fracaso.",
+     "noticias": [
+      {
+       "titular": "El rechazo de la UE al texto final de la COP31 asoma la Cumbre del Clima al fracaso",
+       "url": "https://www.abc.es/sociedad/rechazo-ue-texto-final-cop31-asoma-cumbre-20261122130447-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya el riesgo de colapso y el malestar de Francia y Alemania con el tercer borrador.",
+     "noticias": [
+      {
+       "titular": "La UE rechaza la última propuesta de pacto y sitúa la COP31 ante el riesgo de colapso",
+       "url": "https://www.lavanguardia.com/natural/20261122/11690347/cop31-analiza-nueva-propuesta-pacto-in-extremis-clima-division.html",
+       "seccion": "Natural"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Junts y ERC en la campaña catalana",
+   "resumen": "Junts celebra un mitin central con expresidentes de la Generalitat, y Rufián, de ERC, habla sobre el futuro de la izquierda y el independentismo.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Presenta a Junts intentando recolocarse en el centro tras las malas perspectivas de voto y recoge las palabras de Rufián sobre las cúpulas de los partidos.",
+     "noticias": [
+      {
+       "titular": "Junts moviliza a Pujol y Mas para recolocarse en el centro tras el ataque de Puigdemont a Sánchez",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/junts-busca-a-contrarreloj-aparecer-como-opcion-de-centro-tras-el-ataque-de-puigdemont-a-sanchez.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Gabriel Rufián: “Más que fascismo hay hijoputismo; la maldad está de moda”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/gabriel-rufian-mas-que-fascismo-hay-hijoputismo-la-maldad-esta-de-moda.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Destaca el mitin de Junts con Pujol, Mas y Puigdemont y la frase de Nogueras sobre votar Catalunya o España.",
+     "noticias": [
+      {
+       "titular": "Junts exhibe músculo convergente en su mitin central y pide salir a la ofensiva por Catalunya",
+       "url": "https://www.lavanguardia.com/politica/20261122/11690422/junts-exhibe-musculo-convergente-mitin-central-pide-salir-ofensiva-catalunya.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Pujol pide el voto para Nogueras en el mitin central de Junts: “Han hecho buen trabajo y lo seguirán haciendo”",
+       "url": "https://www.lavanguardia.com/politica/20261122/11690402/pujol-pide-voto-nogueras-mitin-central-junts-han-hecho-buen-trabajo-seguiran-haciendo.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Gabriel Rufián: “El ‘cuanto peor, mejor’ es tóxico para el independentismo”",
+       "url": "https://www.lavanguardia.com/politica/20261122/11689945/gabriel-rufian-cuanto-peor-mejor-toxico-independentismo.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Caída de árbol en Barcelona durante carrera",
+   "resumen": "Una caída de árbol por fuertes rachas de viento hiere a nueve personas durante la Cursa de les Dones en Barcelona. La Generalitat mantiene la alerta por vientos.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Incluye el dato de nueve heridos y la alerta por viento que sigue activa este domingo.",
+     "noticias": [
+      {
+       "titular": "La caída de un árbol por culpa del fuerte viento deja nueve heridos en Barcelona al paso de la carrera Cursa de Dones",
+       "url": "https://www.elmundo.es/cataluna/2026/11/22/6b02c12d21efa07f188b457c.html",
+       "seccion": "Cataluña"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Detalla que son nueve mujeres heridas en la avenida Meridiana durante la carrera popular.",
+     "noticias": [
+      {
+       "titular": "Al menos nueve mujeres heridas tras la caída de un árbol en una carrera popular en Barcelona",
+       "url": "https://www.abc.es/espana/cataluna/nueve-mujeres-corrian-carrera-popular-resultan-heridas-20261122112941-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Avería del tren en la T4 de Barajas",
+   "resumen": "Una avería del tren que conecta la T4 con la Terminal Satélite obliga a usar autobuses y provoca colas de viajeros. Aena habilita líneas de autobús adicionales.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Señala el caos en la terminal y el servicio adicional de autobuses de Aena.",
+     "noticias": [
+      {
+       "titular": "Caos en Barajas: una avería del tren satélite en la Terminal 4 provoca largas colas de viajeros",
+       "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b02e79c21efa01e3e8b4575.html",
+       "seccion": "Artículos EL MUNDO"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge el aviso de Aena a los pasajeros de vuelos internacionales en la T4 Satélite y el atasco de viajeros.",
+     "noticias": [
+      {
+       "titular": "Centenares de viajeros atrapados en la T4 de Barajas por una avería del tren que une con la Terminal Satélite",
+       "url": "https://www.abc.es/espana/madrid/centenares-viajeros-atrapados-averia-tren-une-terminal-20261122134839-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña electoral con herramientas de análisis como encuestas, promedios y el modelo de escaños. Incluye también la cobertura en directo de los mítines y las entrevistas a los candidatos.",
+   "noticias": [
+    {
+     "titular": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/el-psoe-acaricia-el-empate-con-el-pp-segun-el-tracking-de-40db.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El tracking de 40dB sitúa al PSOE cerca de empatar con el PP, mientras Vox sigue perdiendo apoyo desde el inicio de la campaña."
+    },
+    {
+     "titular": "La campaña eleva el drama en la recta final: “¡A por ellos!”. “¡No pasarán!”",
+     "url": "https://elpais.com/espana/2026-11-22/la-campana-eleva-el-drama-en-la-recta-final-a-por-ellos-no-pasaran.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Los dos principales partidos suben el tono en la última semana, con Sánchez prometiendo un impuesto a la banca y Feijóo leyes contra la ocupación."
+    },
+    {
+     "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Análisis provincia a provincia sobre si el voto útil se ha movido, con un modelo que sitúa 40 escaños en disputa."
+    },
+    {
+     "titular": "¿Quiénes son los indecisos? En busca del dubitativo voto de izquierdas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/quienes-son-los-indecisos-en-busca-del-dubitativo-voto-de-izquierdas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Los indecisos con más dudas se sitúan en el electorado progresista y podrían decidir la pugna por el primer puesto."
+    },
+    {
+     "titular": "Doce horas en campaña con Pedro Sánchez: “La última vez que la ultraderecha gobernó no había democracia”",
+     "url": "https://elpais.com/espana/2026-11-22/doce-horas-en-campana-con-pedro-sanchez-la-ultima-vez-que-la-ultraderecha-goberno-no-habia-democracia.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Crónica de la jornada de Sánchez en campaña, con mítines multitudinarios dirigidos al voto progresista."
+    },
+    {
+     "titular": "La revancha de Feijóo consigo mismo",
+     "url": "https://elpais.com/espana/2026-11-22/la-revancha-de-feijoo-consigo-mismo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Perfil de Feijóo, que encara el final de campaña con más seguridad tras corregir errores de 2023."
+    },
+    {
+     "titular": "Junts moviliza a Pujol y Mas para recolocarse en el centro tras el ataque de Puigdemont a Sánchez",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/junts-busca-a-contrarreloj-aparecer-como-opcion-de-centro-tras-el-ataque-de-puigdemont-a-sanchez.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Junts busca recolocar su mensaje hacia el centro ante unas expectativas de voto poco favorables."
+    },
+    {
+     "titular": "La cumbre del clima fracasa incapaz de cerrar un acuerdo que señale a los combustibles fósiles",
+     "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-22/la-presidencia-de-la-cop31-lanza-un-nuevo-borrador-de-acuerdo-para-desatascar-el-caotico-final-de-la-cumbre-del-clima.html",
+     "seccion": "Medio ambiente",
+     "resumen": "La cumbre del clima termina sin acuerdo sobre combustibles fósiles por el veto de petroestados y Rusia."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en las encuestas y en la ventaja del PP, con la campaña como eje principal. Mezcla la información política con sucesos y noticias internacionales.",
+   "noticias": [
+    {
+     "titular": "PP y PSOE ganan apoyos y la derecha ancla su ventaja a una semana de votar",
+     "url": "https://www.elmundo.es/espana/encuestas/2026/11/21/6b01d96dfc6c83e5298b4592.html",
+     "seccion": "España",
+     "resumen": "Sondeo que da al PP el 31,5% y una ventaja de 3,5 puntos sobre el PSOE, con Vox por debajo del 19%."
+    },
+    {
+     "titular": "Los profetas de la remontada de Pedro Sánchez",
+     "url": "https://www.elmundo.es/cronica/2026/11/21/6b015b0221efa0930c8b4597.html",
+     "seccion": "A fondo",
+     "resumen": "Análisis de los expertos que pronostican una remontada socialista, frente a las críticas de sus detractores."
+    },
+    {
+     "titular": "Feijoó apela al voto contra el miedo en Murcia y aspira a un país \"que vuelva a funcionar\" : \"No quiero una España a bofetadas\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b02bd62fdddffa56f8b4576.html",
+     "seccion": "Alberto Núñez Feijóo",
+     "resumen": "Feijóo reúne a más de 7.000 personas en Murcia y pide no relajarse hasta el final de la campaña."
+    },
+    {
+     "titular": "Sánchez alienta el 'sí se puede' del PSOE en el ecuador de la campaña: \"Nos queda una semana de remontada\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b02d70be4d4d8693e8b457a.html",
+     "seccion": "Artículos Raúl Piña",
+     "resumen": "Sánchez apela a la remontada y al voto oculto en Murcia, bastión de la derecha."
+    },
+    {
+     "titular": "Colapsa la cumbre del clima más larga de la historia: la UE rechaza un acuerdo sin mención a los combustibles fósiles",
+     "url": "https://www.elmundo.es/ciencia/2026/11/22/6b02a7d721efa09c698b4575.html",
+     "seccion": "Medioambiente",
+     "resumen": "La COP31 termina sin mención a los combustibles fósiles, pese a la petición de 120 países."
+    },
+    {
+     "titular": "Rusia lanza 186 drones contra Ucrania tras activar la alerta en Kaliningrado",
+     "url": "https://www.elmundo.es/internacional/2026/11/22/6b02e4b6e9cf4aba2b8b4584.html",
+     "seccion": "Rusia",
+     "resumen": "Rusia lanza 186 drones contra Ucrania, con un muerto y 15 desaparecidos en un bloque cerca de Kiev."
+    },
+    {
+     "titular": "Caos en Barajas: una avería del tren satélite en la Terminal 4 provoca largas colas de viajeros",
+     "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b02e79c21efa01e3e8b4575.html",
+     "seccion": "Artículos EL MUNDO",
+     "resumen": "Una avería del tren de la T4 de Barajas provoca colas y Aena organiza autobuses alternativos."
+    },
+    {
+     "titular": "Agentes del ICE causan una escena \"angustiante\" al arrestar a un hombre y su hija en el embarque de un vuelo en Seattle",
+     "url": "https://www.elmundo.es/internacional/2026/11/22/6b02a762fdddffa7228b4595.html",
+     "seccion": "",
+     "resumen": "Agentes del ICE arrestan a un hombre y su hija en un vuelo en Seattle, en una escena que un vídeo casero recoge."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la campaña con noticias de sucesos y tensiones internacionales, como Irán y la COP31. Destaca el riesgo de sorpasso de Vox y la mayoría de la derecha en escaños.",
+   "noticias": [
+    {
+     "titular": "La derecha mantiene una holgada mayoría de 194 escaños a una semana del 29N",
+     "url": "https://www.abc.es/espana/derecha-mantiene-holgada-mayoria-194-escanos-semana-20261122023225-nt.html",
+     "seccion": "",
+     "resumen": "Un sondeo da a la derecha una holgada mayoría de 194 escaños a una semana de los comicios."
+    },
+    {
+     "titular": "Sánchez se conjura contra el 'sorpasso' de Vox al PSOE",
+     "url": "https://www.abc.es/espana/sanchez-conjura-sorpasso-vox-psoe-murcia-20261122131843-nt.html",
+     "seccion": "",
+     "resumen": "Sánchez cierra su campaña en Murcia, región que le declaró persona non grata, para frenar el sorpasso de Vox."
+    },
+    {
+     "titular": "El rechazo de la UE al texto final de la COP31 asoma la Cumbre del Clima al fracaso",
+     "url": "https://www.abc.es/sociedad/rechazo-ue-texto-final-cop31-asoma-cumbre-20261122130447-nt.html",
+     "seccion": "",
+     "resumen": "La UE y otros países rechazan el último texto de la COP31, lo que sitúa la cumbre al borde del fracaso."
+    },
+    {
+     "titular": "Centenares de viajeros atrapados en la T4 de Barajas por una avería del tren que une con la Terminal Satélite",
+     "url": "https://www.abc.es/espana/madrid/centenares-viajeros-atrapados-averia-tren-une-terminal-20261122134839-nt.html",
+     "seccion": "",
+     "resumen": "Cientos de viajeros quedan atrapados en la T4 de Barajas por la avería del tren hacia la T4 Satélite, y se usan autobuses."
+    },
+    {
+     "titular": "Al menos nueve mujeres heridas tras la caída de un árbol en una carrera popular en Barcelona",
+     "url": "https://www.abc.es/espana/cataluna/nueve-mujeres-corrian-carrera-popular-resultan-heridas-20261122112941-nt.html",
+     "seccion": "",
+     "resumen": "Al menos nueve mujeres resultan heridas por la caída de un árbol durante la Cursa de les Dones en Barcelona."
+    },
+    {
+     "titular": "Irán funciona sin líder supremo",
+     "url": "https://www.abc.es/internacional/iran-funciona-lider-supremo-20261122122404-nt.html",
+     "seccion": "",
+     "resumen": "Análisis sobre Irán sin líder supremo tras la muerte del anterior, con dudas sobre la sucesión."
+    },
+    {
+     "titular": "Un nuevo asesinato en plena calle hace estallar al Badajoz atemorizado por la guerra de clanes",
+     "url": "https://www.abc.es/espana/extremadura/nuevo-asesinato-plena-calle-estallar-badajoz-cloaca-20261120015931-nt.html",
+     "seccion": "",
+     "resumen": "Un asesinato a plena luz del día en Badajoz reaviva la preocupación por la guerra de clanes en la ciudad."
+    },
+    {
+     "titular": "Catalá, sobre la «metáfora» de Morant de abofetear a Feijóo: «Son el partido del odio»",
+     "url": "https://www.abc.es/espana/comunidad-valenciana/catala-sobre-metafora-morant-abofetear-feijoo-partido-20261122131045-nt.html",
+     "seccion": "",
+     "resumen": "La cabeza de lista del PP en Valencia critica las palabras de Diana Morant sobre Feijóo en un mitin del PSOE."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Abre con los sondeos y la campaña electoral, con especial atención a Cataluña y al mitin de Junts. Incluye también temas de economía e internacional.",
+   "noticias": [
+    {
+     "titular": "La derecha suma mayoría absoluta mientras el PSOE se acerca al PP",
+     "url": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html",
+     "seccion": "Política",
+     "resumen": "Sondeo que da a la derecha mayoría absoluta y sitúa al PSOE a medio punto del PP."
+    },
+    {
+     "titular": "La mayoría quiere que el nuevo gobierno se centre en la vivienda",
+     "url": "https://www.lavanguardia.com/politica/20261122/11690020/mayoria-quiere-nuevo-gobierno-centre-vivienda.html",
+     "seccion": "Política",
+     "resumen": "Según la encuesta, la mayoría quiere que el próximo Gobierno priorice la vivienda y un 58% valora mal la gestión actual."
+    },
+    {
+     "titular": "Sánchez alienta “una semana de remontada” para ganar en las urnas a la “coalición reaccionaria”",
+     "url": "https://www.lavanguardia.com/politica/20261122/11690459/sanchez-alienta-semana-remontada-ganar-urnas-coalicion-reaccionaria.html",
+     "seccion": "Política",
+     "resumen": "Sánchez reúne a unos 10.000 simpatizantes en Murcia, donde el Parlamento regional le declaró persona non grata."
+    },
+    {
+     "titular": "Feijóo insiste en la prudencia tras ganar a Sánchez en el debate: “España no puede permitirse lo que ocurrió en 2023”",
+     "url": "https://www.lavanguardia.com/politica/20261122/11690458/feijoo-insiste-prudencia-ganar-sanchez-debate-espana-permitirse-ocurrio-2023.html",
+     "seccion": "Política",
+     "resumen": "Feijóo pide prudencia tras ganar el debate y recuerda los errores de 2023."
+    },
+    {
+     "titular": "Junts exhibe músculo convergente en su mitin central y pide salir a la ofensiva por Catalunya",
+     "url": "https://www.lavanguardia.com/politica/20261122/11690422/junts-exhibe-musculo-convergente-mitin-central-pide-salir-ofensiva-catalunya.html",
+     "seccion": "Política",
+     "resumen": "Junts reúne a Pujol, Mas y Puigdemont en su mitin central y sitúa la elección entre Catalunya y España."
+    },
+    {
+     "titular": "Gabriel Rufián: “El ‘cuanto peor, mejor’ es tóxico para el independentismo”",
+     "url": "https://www.lavanguardia.com/politica/20261122/11689945/gabriel-rufian-cuanto-peor-mejor-toxico-independentismo.html",
+     "seccion": "Política",
+     "resumen": "Rufián asegura que el discurso de 'cuanto peor, mejor' es tóxico para el independentismo."
+    },
+    {
+     "titular": "La UE rechaza la última propuesta de pacto y sitúa la COP31 ante el riesgo de colapso",
+     "url": "https://www.lavanguardia.com/natural/20261122/11690347/cop31-analiza-nueva-propuesta-pacto-in-extremis-clima-division.html",
+     "seccion": "Natural",
+     "resumen": "La UE rechaza el tercer borrador de la COP31, que no menciona explícitamente los combustibles fósiles, y Francia y Alemania se muestran molestas."
+    },
+    {
+     "titular": "Indignación por la detención de dos personas por agentes del ICE en el aeropuerto de Seattle",
+     "url": "https://www.lavanguardia.com/internacional/20261122/11690432/detencion-dos-pasajeros-agentes-ice-encapuchados-aeropuerto-seattle-desata-indignacion.html",
+     "seccion": "Internacional",
+     "resumen": "El gobernador de Washington critica a la agencia migratoria tras la detención de dos personas en el aeropuerto de Seattle."
+    }
+   ]
+  }
+ ]
+}
