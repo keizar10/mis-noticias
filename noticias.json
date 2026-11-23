@@ -1,17 +1,17 @@
 {
- "fecha": "2026-11-22",
+ "fecha": "2026-11-23",
  "franja": "tarde",
- "generada": "2026-11-22T23:11+01:00",
+ "generada": "2026-11-23T17:38+01:00",
  "con_ia": true,
- "resumen_dia": "A una semana de las elecciones generales del 29-N, los cuatro diarios centran la portada en la campaña: las encuestas sitúan al PP por delante del PSOE con una ventaja corta, y los partidos intensifican sus mensajes ante el voto útil y los indecisos de izquierda. En internacional, la cumbre del clima COP31 de Antalya termina sin acuerdo tras rechazar la UE un borrador sin referencia a los combustibles fósiles. Otros asuntos destacados son el caos en Barajas, la muerte de un conductor por la caída de una rama en la M-30 y la llegada de migrantes a El Hierro.",
+ "resumen_dia": "La campaña para las elecciones generales del 29-N domina las portadas, con los sondeos como eje: el CIS da al PSOE una ventaja de unos diez puntos sobre el PP, mientras que las encuestas privadas recogidas por los diarios sitúan a la derecha por delante. En paralelo, el Tribunal Supremo aplica la amnistía a Puigdemont y archiva la causa del 'procés', y Nvidia readmite a Jensen Huang como consejero delegado tras su salida hace pocos días. Sánchez anuncia un impuesto para fortunas superiores a 100 millones de euros.",
  "temas_comunes": [
   {
-   "titulo": "Encuestas y ventaja del PP sobre el PSOE",
-   "resumen": "Las encuestas recientes sitúan al PP por delante del PSOE, con una diferencia de entre medio punto y 3,5 puntos según el sondeo, y a Vox en retroceso. La derecha sumaría mayoría absoluta en algunas estimaciones.",
+   "titulo": "Sondeos de cara al 29-N: CIS frente a encuestas privadas",
+   "resumen": "El CIS da al PSOE en cabeza con unos diez puntos de ventaja sobre el PP y Vox en caída (15,6%). Otras encuestas publicadas el mismo día, como la de 40dB, sitúan a PP y Vox con una amplia mayoría o con la ventaja de la derecha.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Destaca el tracking de 40dB, que sitúa al PSOE cerca del empate con el PP, y el modelo propio de EL PAÍS con 40 escaños en juego.",
+     "enfoque": "Destaca el tracking de 40dB, con el PSOE acercándose al empate con el PP, y el CIS con 10 puntos de ventaja socialista.",
      "noticias": [
       {
        "titular": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
@@ -19,217 +19,111 @@
        "seccion": "Elecciones Generales"
       },
       {
-       "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
+       "titular": "La ventaja de la derecha no cede mientras el PSOE pugna por el primer puesto",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-ventaja-de-la-derecha-no-cede-mientras-el-psoe-pugna-por-el-primer-puesto.html",
        "seccion": "Elecciones Generales"
       },
       {
-       "titular": "¿Cómo se mueven las encuestas? Lo que dice nuestro promedio",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/que-dice-el-promedio-de-encuestas-consulta-todos-los-sondeos-en-tiempo-real.html",
+       "titular": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
        "seccion": "Elecciones Generales"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Subraya la ventaja de 3,5 puntos de Feijóo sobre Sánchez y la caída de Vox por debajo del 19%.",
+     "enfoque": "Subraya la batalla ajustada en 23 provincias y la mayoría de PP y Vox, frente al CIS que describe como un último servicio de Tezanos.",
      "noticias": [
       {
-       "titular": "PP y PSOE ganan apoyos y la derecha ancla su ventaja a una semana de votar",
-       "url": "https://www.elmundo.es/espana/encuestas/2026/11/21/6b01d96dfc6c83e5298b4592.html",
+       "titular": "Batalla al límite en 23 provincias: menos de 10.000 votos decidirán el último escaño, pero PP y Vox amarran su mayoría",
+       "url": "https://www.elmundo.es/espana/encuestas/2026/11/22/6b033046fc6c830e508b4594.html",
        "seccion": "España"
       },
       {
-       "titular": "Los profetas de la remontada de Pedro Sánchez",
-       "url": "https://www.elmundo.es/cronica/2026/11/21/6b015b0221efa0930c8b4597.html",
-       "seccion": "A fondo"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Señala que la derecha suma mayoría absoluta mientras el PSOE se acerca al PP, con medio punto de diferencia.",
-     "noticias": [
-      {
-       "titular": "La derecha suma mayoría absoluta mientras el PSOE se acerca al PP",
-       "url": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "La mayoría quiere que el nuevo gobierno se centre en la vivienda",
-       "url": "https://www.lavanguardia.com/politica/20261122/11690020/mayoria-quiere-nuevo-gobierno-centre-vivienda.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Campaña y voto útil en la recta final",
-   "resumen": "Los partidos de izquierda y derecha intensifican su mensaje en la última semana de campaña, con llamamientos a movilizar voto útil y a captar indecisos del espacio progresista. Sánchez y Feijóo se atribuyen la mejor posición tras el cara a cara.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Enfoca la batalla por el primer puesto, el voto útil y el perfil de los indecisos de izquierda, con propuestas de Sánchez a la banca y de Feijóo sobre okupación.",
-     "noticias": [
-      {
-       "titular": "La campaña eleva el drama en la recta final: “¡A por ellos!”. “¡No pasarán!”",
-       "url": "https://elpais.com/espana/2026-11-22/la-campana-eleva-el-drama-en-la-recta-final-a-por-ellos-no-pasaran.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "¿Quiénes son los indecisos? En busca del dubitativo voto de izquierdas",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/quienes-son-los-indecisos-en-busca-del-dubitativo-voto-de-izquierdas.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Sánchez defiende en ‘Salvados’ que serán los españoles y no la “opinión publicada” quien le vuelva a hacer presidente",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/sanchez-defiende-en-salvados-que-seran-los-espanoles-y-no-la-opinion-publicada-quien-le-vuelva-a-hacer-presidente.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Feijóo: “Sabemos lo que pasó en 2023, ganar y no gobernar. ¡Tenedlo claro! ¡No hemos ganado nada!”",
-       "url": "https://elpais.com/espana/2026-11-22/feijoo-sabemos-lo-que-paso-en-2023-ganar-y-no-gobernar-tenedlo-claro-no-hemos-ganado-nada.html",
-       "seccion": "España"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Se fija en los expertos que pronostican una remontada del PSOE y en los mitines en Formentera y Guipúzcoa.",
-     "noticias": [
-      {
-       "titular": "Los profetas de la remontada de Pedro Sánchez",
-       "url": "https://www.elmundo.es/cronica/2026/11/21/6b015b0221efa0930c8b4597.html",
-       "seccion": "A fondo"
-      },
-      {
-       "titular": "PP y PSOE desembarcan en Formentera: la isla que se decide por la mínima y que por primera vez pone en juego un senador",
-       "url": "https://www.elmundo.es/baleares/2026/11/22/6b031472fc6c8339628b457e.html",
-       "seccion": "Artículos Eduardo Colom"
-      },
-      {
-       "titular": "Un día detrás de Jon Echeverría, el nuevo Lamine Yamal del PP: \"No sueño con ser presidente del Gobierno\"",
-       "url": "https://www.elmundo.es/espana/2026/11/22/6b017facfc6c833d2b8b457c.html",
-       "seccion": "Artículos Willy Azaola"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge el mensaje de Sánchez sobre una semana de remontada y la insistencia de Feijóo en la prudencia tras 2023.",
-     "noticias": [
-      {
-       "titular": "Sánchez alienta “una semana de remontada” para ganar en las urnas a la “coalición reaccionaria”",
-       "url": "https://www.lavanguardia.com/politica/20261122/11690459/sanchez-alienta-semana-remontada-ganar-urnas-coalicion-reaccionaria.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Feijóo insiste en la prudencia: “España no puede permitirse lo que ocurrió en 2023”",
-       "url": "https://www.lavanguardia.com/politica/20261122/11690458/feijoo-insiste-prudencia-ganar-sanchez-debate-espana-permitirse-ocurrio-2023.html",
-       "seccion": "Política"
+       "titular": "El 'último' servicio de Tezanos: el CIS asegura que el PSOE arrasará y Sánchez gobernará y el PP se burla y anuncia que será \"uno de los primeros\" en echar",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b041c85fc6c83271c8b4593.html",
+       "seccion": "CIS"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Destaca el Consejo de Ministros que prorroga el impuesto a la banca antes de las urnas y el mitin de Vox en Zaragoza.",
+     "enfoque": "Presenta el barómetro del CIS como el último antes del 29N y pone en duda su consistencia frente al resto de sondeos.",
      "noticias": [
       {
-       "titular": "El Gobierno se escuda en la crisis de vivienda para extender el 'impuestazo' a la banca",
-       "url": "https://www.abc.es/economia/sanchez-anuncia-gobierno-extendera-impuestazo-banca-2027-20261121094800-nt.html",
+       "titular": "El CIS de Tezanos da 10 puntos de ventaja al PSOE sobre el PP en el último barómetro antes del 29N",
+       "url": "https://www.abc.es/espana/cis-tezanos-puntos-ventaja-psoe-sobre-pp-20261123120259-nt.html",
        "seccion": ""
-      },
-      {
-       "titular": "Santiago Abascal me tiene desconcertado",
-       "url": "https://www.abc.es/espana/santiago-abascal-desconcertado-20261122175024-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Cumbre del clima COP31 sin acuerdo",
-   "resumen": "La cumbre del clima de Antalya termina sin un acuerdo que mencione la transición para abandonar los combustibles fósiles, tras el rechazo de la UE y de otros países a un borrador.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Destaca que es la cumbre más larga de la historia y que el cuarto borrador seguía sin mencionar los combustibles fósiles.",
-     "noticias": [
-      {
-       "titular": "Colapsa la cumbre del clima más larga de la historia: la UE rechaza un acuerdo sin mención a los combustibles fósiles",
-       "url": "https://www.elmundo.es/ciencia/2026/11/22/6b02a7d721efa09c698b4575.html",
-       "seccion": "Medioambiente"
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Presenta el naufragio tras rechazar un tercer borrador que no fija el abandono de la energía fósil, y lo vincula a un debilitamiento del multilateralismo.",
+     "enfoque": "Contrapone el CIS, que sitúa al PSOE en cabeza, con el resto de encuestas, que dan la victoria a Feijóo.",
      "noticias": [
       {
-       "titular": "La cumbre del clima naufraga al ser rechazado un acuerdo que no pone fin a la energía fósil",
-       "url": "https://www.lavanguardia.com/natural/20261122/11690347/cop31-analiza-nueva-propuesta-pacto-in-extremis-clima-division.html",
-       "seccion": "Natural"
+       "titular": "El CIS sitúa al PSOE en cabeza y diez puntos por delante del PP",
+       "url": "https://www.lavanguardia.com/politica/20261123/11691034/cis-situa-psoe-cabeza-diez-puntos-delante-pp.html",
+       "seccion": "Política"
       },
       {
-       "titular": "COP31: la derrota del último refugio del multilateralismo",
-       "url": "https://www.lavanguardia.com/natural/20261122/11690583/cop31-derrota-europa-campo-contrario.html",
-       "seccion": "Natural"
+       "titular": "Todas las encuestas menos el CIS dan la victoria a Feijóo y una amplia mayoría absoluta a PP y Vox",
+       "url": "https://www.lavanguardia.com/politica/20261123/11691293/todas-encuestas-cis-dan-victoria-feijoo-amplia-mayoria-absoluta-pp-vox.html",
+       "seccion": "Política"
       }
      ]
     }
    ]
   },
   {
-   "titulo": "Independentismo catalán y ERC en campaña",
-   "resumen": "Junts y ERC celebran sus mítines centrales en Cataluña con llamamientos al voto en clave catalana y progresista. Rufián es protagonista en varias portadas.",
+   "titulo": "Amnistía y archivo de la causa del 'procés' para Puigdemont",
+   "resumen": "El Tribunal Supremo aplica la ley de amnistía a Puigdemont y a los exconsejeros Comín y Puig, y archiva la causa. Puigdemont reacciona con un poema en redes sociales.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Recoge las declaraciones de Rufián sobre la iniciativa fallida de frente de izquierdas y su responsabilidad.",
+     "enfoque": "Recoge la reacción de Puigdemont con un poema de tono desconsiderado tras el fallo del Supremo.",
      "noticias": [
       {
-       "titular": "Gabriel Rufián: “Más que fascismo hay hijoputismo; la maldad está de moda”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/gabriel-rufian-mas-que-fascismo-hay-hijoputismo-la-maldad-esta-de-moda.html",
+       "titular": "“Para que me muera de ganas de daros por el culo”: el poema que cita Puigdemont tras conocer el carpetazo judicial",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/queridos-enemigos-mios-rezo-para-que-cada-dia-seais-mas-el-poema-que-cita-puigdemont-tras-conocer-el-carpetazo-judicial.html",
        "seccion": "Elecciones Generales"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Destaca el mitin de ERC en Barcelona con la presencia de Irene Montero para frenar a la derecha.",
+     "enfoque": "Sitúa la resolución como cierre de la causa nueve años después de su apertura.",
      "noticias": [
       {
-       "titular": "Gabriel Rufián e Irene Montero vuelven a unir fuerzas en un mitin de ERC para \"frenar a la derecha\" y \"someter al PSOE\" tras las elecciones del 29-N",
-       "url": "https://www.elmundo.es/cataluna/2026/11/22/6b02ff1a21efa040618b457a.html",
-       "seccion": "Artículos Gerard Melgar"
+       "titular": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del 'procés' nueve años después de su apertura",
+       "url": "https://www.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html",
+       "seccion": "Carles Puigdemont"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Detalla la resolución: sobreseimiento libre y extinción de responsabilidad penal, con Marchena como ponente.",
+     "noticias": [
+      {
+       "titular": "El Supremo aplica la amnistía a Puigdemont y extingue su responsabilidad penal",
+       "url": "https://www.abc.es/espana/supremo-aplica-amnistia-puigdemont-extingue-responsabilidad-penal-20261123135034-nt.html",
+       "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Pone el foco en el mitin de Junts con tres expresidentes y en el llamamiento de ERC a aglutinar el voto progresista.",
+     "enfoque": "Subraya la extinción de la causa por malversación y la reacción del independentismo, que habla de persistencia.",
      "noticias": [
       {
-       "titular": "Junts exhibe músculo convergente en su mitin central y pide pasar a la ofensiva por Catalunya",
-       "url": "https://www.lavanguardia.com/politica/20261122/11690422/junts-exhibe-musculo-convergente-mitin-central-pide-salir-ofensiva-catalunya.html",
+       "titular": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del 'procés'",
+       "url": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
        "seccion": "Política"
       },
       {
-       "titular": "Pujol pide el voto para Nogueras en el mitin central de Junts: “Han hecho buen trabajo y lo seguirán haciendo”",
-       "url": "https://www.lavanguardia.com/politica/20261122/11690402/pujol-pide-voto-nogueras-mitin-central-junts-han-hecho-buen-trabajo-seguiran-haciendo.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "ERC pide aglutinar el voto progresista: “Votar PSC es votar Adif, Renfe y el desastre de Rodalies”",
-       "url": "https://www.lavanguardia.com/politica/20261122/11690472/erc-pide-aglutinar-voto-progresista-votar-psc-votar-adif-renfe-desastre-rodalies.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Gabriel Rufián: “El ‘cuanto peor, mejor’ es tóxico para el independentismo”",
-       "url": "https://www.lavanguardia.com/politica/20261122/11689945/gabriel-rufian-cuanto-peor-mejor-toxico-independentismo.html",
+       "titular": "El expresident dedica un poema a sus “enemigos” tras ser amnistiado: “Me muero de ganas de daros por culo”",
+       "url": "https://www.lavanguardia.com/politica/20261123/11691278/puigdemont-cita-poema-dirigirse-enemigos-amnistiado-me-muero-ganas-daros-culo.html",
        "seccion": "Política"
       }
      ]
@@ -237,44 +131,158 @@
    ]
   },
   {
-   "titulo": "Marc Márquez campeón de MotoGP",
-   "resumen": "Marc Márquez logra su octavo título de MotoGP y el décimo mundial tras acabar octavo en el Gran Premio de Portugal, lo que le basta para ser campeón.",
+   "titulo": "Nvidia readmite a Jensen Huang como consejero delegado",
+   "resumen": "El consejo de Nvidia vuelve a nombrar a Huang apenas unos días después de su salida, tras concluir que su regreso no supone riesgo para la seguridad nacional. Las acciones suben en Bolsa.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Subraya la remontada desde los 102 puntos de desventaja en junio y la igualación de la marca de Agostini.",
+     "enfoque": "Centra el foco en la declaración de Trump, que afirma haber convencido a la junta para el regreso.",
      "noticias": [
       {
-       "titular": "Marc Márquez es eterno: levanta su octavo título de MotoGP tras culminar una remontada increíble en el GP de Portugal",
-       "url": "https://elpais.com/deportes/motociclismo/2026-11-22/marc-marquez-es-eterno-levanta-su-octavo-titulo-de-motogp-tras-culminar-una-remontada-increible-en-el-gp-de-portugal.html",
-       "seccion": "GP Portugal"
+       "titular": "Nvidia recupera a Jensen Huang como consejero delegado",
+       "url": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
+       "seccion": "Nvidia Corporation"
       },
       {
-       "titular": "La intrahistoria del título de Marc Márquez, un campeón inagotable incluso con un brazo y medio: “Lo que ha hecho es una salvajada”",
-       "url": "https://elpais.com/deportes/motociclismo/2026-11-22/la-intrahistoria-del-titulo-de-marc-marquez-un-campeon-inagotable-incluso-con-un-brazo-y-medio-lo-que-ha-hecho-es-una-salvajada.html",
-       "seccion": "Motociclismo"
+       "titular": "Trump dice que “convenció” a la junta de Nvidia para que Jensen Huang regresara como consejero delegado: “Yo hice el trato”",
+       "url": "https://elpais.com/us/economia/2026-11-23/trump-celebra-el-regreso-de-jensen-huang-a-nvidia-no-representa-algun-riesgo-a-la-seguridad-nacional.html",
+       "seccion": "Estados Unidos"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Destaca la conservadora carrera de Márquez, que acabó noveno, y la victoria de Bezzechi.",
+     "enfoque": "Recoge las declaraciones de Huang y de Trump, con la cita sobre el sexo y los genios.",
      "noticias": [
       {
-       "titular": "Marc Márquez conquista en Portimao su décimo título mundial",
-       "url": "https://www.elmundo.es/deportes/motociclismo/2026/11/22/6b02f570e9cf4a96128b4586.html",
-       "seccion": "deportes"
+       "titular": "Nvidia restituye a Jensen Huang como presidente y consejero delegado: \"No representa ningún riesgo para la seguridad nacional\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/23/6b044cf5e4d4d8137c8b4591.html",
+       "seccion": "Nvidia"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Resalta el octavo título del piloto con una posición modesta que le daba el campeonato.",
+     "enfoque": "Enmarca la readmisión como un regreso tras el desplome en bolsa y las presiones de Trump.",
      "noticias": [
       {
-       "titular": "Y van diez: ¡Marc Márquez, campeón del mundo!",
-       "url": "https://www.abc.es/deportes/motos/van-diez-marc-marquez-campeon-mundo-20261122144613-nt.html",
+       "titular": "Nvidia readmite a Jensen Huang como CEO tras su desplome en bolsa y las presiones de Trump",
+       "url": "https://www.abc.es/economia/jensen-huang-vuelve-nvidia-ceo-tras-escandalo-20261123151229-nt.html",
        "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Resalta la subida de las acciones y la información del Gobierno de EE.UU. tomada por el consejo, junto con la investigación sobre Alice Huang.",
+     "noticias": [
+      {
+       "titular": "Nvidia devuelve a Jensen Huang al mando y sus acciones se disparan",
+       "url": "https://www.lavanguardia.com/economia/20261123/11691332/nvidia-devuelve-jensen-huang-mando-acciones-disparan-mas-25.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Alice Huang estaba en contacto con el espionaje chino durante su relación con el CEO de Nvidia",
+       "url": "https://www.lavanguardia.com/economia/20261123/11690803/alice-jensen-huang-espia-china-nvidia.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Impuesto a las grandes fortunas propuesto por Sánchez",
+   "resumen": "Sánchez propone un gravamen para patrimonios superiores a 100 millones de euros, con el que el PSOE busca financiar gasto social y vivienda pública. Según ABC, afectaría a 123 personas.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Señala que la medida no figuraba en el programa del PSOE, pero sí, con matices, en el del Frente Amplio.",
+     "noticias": [
+      {
+       "titular": "Sánchez propone un impuesto para “ultrarricos” con fortunas superiores a 100 millones de euros",
+       "url": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Cuantifica el alcance: 123 personas afectadas en España.",
+     "noticias": [
+      {
+       "titular": "El impuesto a los «ultrarricos» a partir de 100 millones de Pedro Sánchez afectaría a 123 personas en España",
+       "url": "https://www.abc.es/economia/cuentas-corrientes/impuesto-ultrarricos-partir-100-millones-pedro-sanchez-20261123163259-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Detalla el destino de la recaudación estimada en 2.000 millones: prestación por crianza, pensiones y vivienda pública.",
+     "noticias": [
+      {
+       "titular": "Sánchez propone un impuesto a los ultrarricos: 2.000 millones para financiar la agenda social",
+       "url": "https://www.lavanguardia.com/politica/20261123/11690862/sanchez-propone-impuesto-ultrarricos-2-000-millones-financiar-agenda-social.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Feijóo y Felipe González en la campaña del PSOE y PP",
+   "resumen": "Feijóo critica a TVE y González responde a Bono sobre su voto. También hay intervenciones de candidatos de Podemos y de Robles en vídeo para el PSOE de Madrid.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge varias intervenciones de la campaña, como Feijóo contra TVE, González frente a Bono y Robles en un vídeo del PSOE.",
+     "noticias": [
+      {
+       "titular": "Feijóo carga contra TVE: “Parece una televisión norcoreana y los informativos son una vergüenza”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/feijoo-carga-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-verguenza.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Margarita Robles entra de lleno en campaña con un vídeo inesperado: “[Sánchez] está guapo… ¡Menudo pájaro!”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/margarita-robles-entra-de-lleno-en-campana-con-un-video-inesperado-sanchez-esta-guapo-menudo-pajaro.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la respuesta de González a Bono y el giro del PSOE hacia el voto femenino indeciso.",
+     "noticias": [
+      {
+       "titular": "González responde con sarcasmo a Bono tras pedirle que vote al PSOE: \"Sé que él lo hace 'pro bono'\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b042561e85eceed0a8b457d.html",
+       "seccion": "Felipe González"
+      },
+      {
+       "titular": "El PSOE se lanza a por el voto de las seis de cada 10 mujeres indecisas: de Sánchez en 'Lecturas' a actos para \"seducir a un feminismo menos militante\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6afc55cfe85ece2a028b45b8.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Incluye la definición de RTVE por Feijóo como 'norcoreana' y el vídeo de Robles.",
+     "noticias": [
+      {
+       "titular": "Feijóo define RTVE como una televisión “norcoreana” por la falta de “equidad” con Sánchez",
+       "url": "https://www.lavanguardia.com/politica/20261123/11690976/feijoo-define-rtve-television-norcoreana-falta-equidad-sanchez.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Robles entra en campaña por el voto femenino: “Está guapo... ¡Menudo pájaro!”",
+       "url": "https://www.lavanguardia.com/politica/20261123/11690970/robles-entra-campana-voto-femenino-esta-guapo-menudo-pajaro.html",
+       "seccion": "Política"
       }
      ]
     }
@@ -285,220 +293,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña electoral, con herramientas de seguimiento como promedios de encuestas, análisis por regiones y entrevistas a candidatos. Incluye también noticias de cultura, deportes y sociedad.",
+   "resumen": "Prioriza la campaña electoral, con sondeos, análisis por provincias y entrevistas a los candidatos. Incluye también la readmisión de Huang en Nvidia y el impuesto a grandes fortunas.",
    "noticias": [
     {
      "titular": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/el-psoe-acaricia-el-empate-con-el-pp-segun-el-tracking-de-40db.html",
      "seccion": "Elecciones Generales",
-     "resumen": "El tracking de 40dB sitúa al PSOE cerca del empate con el PP, mientras Vox sigue bajando desde el inicio de la campaña."
+     "resumen": "El tracking de 40dB sitúa al PSOE cerca de empatar con el PP, mientras Vox baja desde el inicio de la campaña."
     },
     {
-     "titular": "La campaña eleva el drama en la recta final: “¡A por ellos!”. “¡No pasarán!”",
-     "url": "https://elpais.com/espana/2026-11-22/la-campana-eleva-el-drama-en-la-recta-final-a-por-ellos-no-pasaran.html",
+     "titular": "La ventaja de la derecha no cede mientras el PSOE pugna por el primer puesto",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-ventaja-de-la-derecha-no-cede-mientras-el-psoe-pugna-por-el-primer-puesto.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Los partidos suben el tono en la recta final y ambos intentan captar voto útil, con propuestas de Sánchez sobre la banca y de Feijóo sobre okupación."
+     "resumen": "Según 40dB, PP y Vox mantienen la ventaja de la derecha tras diez días de campaña, con un desgaste leve."
     },
     {
-     "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
+     "titular": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Análisis provincia a provincia del voto útil y del modelo del diario, que estima unos 40 escaños en disputa."
+     "resumen": "El CIS da al PSOE 34,4% y al PP 24,7%, con Vox en 15,6% tras perder 2,8 puntos."
     },
     {
-     "titular": "¿Quiénes son los indecisos? En busca del dubitativo voto de izquierdas",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/quienes-son-los-indecisos-en-busca-del-dubitativo-voto-de-izquierdas.html",
+     "titular": "Sánchez propone un impuesto para “ultrarricos” con fortunas superiores a 100 millones de euros",
+     "url": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
+     "seccion": "Economía",
+     "resumen": "Sánchez plantea un impuesto a fortunas de más de 100 millones, medida que no figura en el programa del PSOE."
+    },
+    {
+     "titular": "Nvidia recupera a Jensen Huang como consejero delegado",
+     "url": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
+     "seccion": "Nvidia Corporation",
+     "resumen": "Nvidia recupera a Huang como consejero delegado una semana después de su destitución por la relación con una supuesta espía china."
+    },
+    {
+     "titular": "Trump dice que “convenció” a la junta de Nvidia para que Jensen Huang regresara como consejero delegado: “Yo hice el trato”",
+     "url": "https://elpais.com/us/economia/2026-11-23/trump-celebra-el-regreso-de-jensen-huang-a-nvidia-no-representa-algun-riesgo-a-la-seguridad-nacional.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Trump afirma que convenció a la junta de Nvidia para el regreso de Huang, que estuvo unos diez días fuera."
+    },
+    {
+     "titular": "“Para que me muera de ganas de daros por el culo”: el poema que cita Puigdemont tras conocer el carpetazo judicial",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/queridos-enemigos-mios-rezo-para-que-cada-dia-seais-mas-el-poema-que-cita-puigdemont-tras-conocer-el-carpetazo-judicial.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Los indecisos se concentran en el electorado progresista, que podría decidir la pugna por el primer puesto."
+     "resumen": "Puigdemont reacciona al archivo judicial con un mensaje en redes de tono desconsiderado."
     },
     {
-     "titular": "Sánchez defiende en ‘Salvados’ que serán los españoles y no la “opinión publicada” quien le vuelva a hacer presidente",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/sanchez-defiende-en-salvados-que-seran-los-espanoles-y-no-la-opinion-publicada-quien-le-vuelva-a-hacer-presidente.html",
+     "titular": "Feijóo carga contra TVE: “Parece una televisión norcoreana y los informativos son una vergüenza”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/feijoo-carga-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-verguenza.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Sánchez, en Salvados, confía en el apoyo de los votantes y se considera ganador del cara a cara con Feijóo."
-    },
-    {
-     "titular": "Feijóo: “Sabemos lo que pasó en 2023, ganar y no gobernar. ¡Tenedlo claro! ¡No hemos ganado nada!”",
-     "url": "https://elpais.com/espana/2026-11-22/feijoo-sabemos-lo-que-paso-en-2023-ganar-y-no-gobernar-tenedlo-claro-no-hemos-ganado-nada.html",
-     "seccion": "España",
-     "resumen": "Feijóo pide prudencia tras el cara a cara y recuerda lo ocurrido en 2023, cuando su partido ganó y no logró gobernar."
-    },
-    {
-     "titular": "El maestro Alcaraz, hasta donde él quiera: ni el isquio ni Zverev pudieron con él",
-     "url": "https://elpais.com/deportes/tenis/2026-11-22/despues-de-todo-alcaraz-ya-es-maestro-ni-el-isquio-ni-zverev-pudieron-con-el.html",
-     "seccion": "Carlos Alcaraz",
-     "resumen": "Alcaraz vence a Zverev en las ATP Finals, logrando el primer título de este tipo para un tenista español en 28 años."
-    },
-    {
-     "titular": "Marc Márquez es eterno: levanta su octavo título de MotoGP tras culminar una remontada increíble en el GP de Portugal",
-     "url": "https://elpais.com/deportes/motociclismo/2026-11-22/marc-marquez-es-eterno-levanta-su-octavo-titulo-de-motogp-tras-culminar-una-remontada-increible-en-el-gp-de-portugal.html",
-     "seccion": "GP Portugal",
-     "resumen": "Márquez se proclama campeón de MotoGP tras una remontada desde 102 puntos de desventaja."
+     "resumen": "Feijóo critica a TVE y cuestiona el papel de productoras privadas que trabajan con fondos públicos."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en la ventaja del PP en las encuestas y en las campañas en territorios concretos como Formentera y Guipúzcoa. Dedica espacio también a la cumbre del clima y a la inmigración.",
+   "resumen": "Pone el foco en la igualdad de la batalla electoral en provincias clave y en el CIS. Dedica también espacio a la amnistía de Puigdemont y a la seguridad internacional.",
    "noticias": [
     {
-     "titular": "PP y PSOE ganan apoyos y la derecha ancla su ventaja a una semana de votar",
-     "url": "https://www.elmundo.es/espana/encuestas/2026/11/21/6b01d96dfc6c83e5298b4592.html",
+     "titular": "Batalla al límite en 23 provincias: menos de 10.000 votos decidirán el último escaño, pero PP y Vox amarran su mayoría",
+     "url": "https://www.elmundo.es/espana/encuestas/2026/11/22/6b033046fc6c830e508b4594.html",
      "seccion": "España",
-     "resumen": "Según un sondeo, Feijóo mantiene 3,5 puntos de ventaja sobre Sánchez, mientras Vox baja del 19%."
+     "resumen": "En 23 provincias, menos de 10.000 votos decidirán el último escaño, aunque PP y Vox aseguran su mayoría según el análisis."
     },
     {
-     "titular": "Los profetas de la remontada de Pedro Sánchez",
-     "url": "https://www.elmundo.es/cronica/2026/11/21/6b015b0221efa0930c8b4597.html",
-     "seccion": "A fondo",
-     "resumen": "Tres expertos pronostican que hay partido y que PP y Vox no alcanzarían la mayoría absoluta."
+     "titular": "El 'último' servicio de Tezanos: el CIS asegura que el PSOE arrasará y Sánchez gobernará y el PP se burla y anuncia que será \"uno de los primeros\" en echar",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b041c85fc6c83271c8b4593.html",
+     "seccion": "CIS",
+     "resumen": "El CIS sitúa al PSOE casi 10 puntos por delante del PP y a la mayoría de investidura sin Junts."
     },
     {
-     "titular": "Colapsa la cumbre del clima más larga de la historia: la UE rechaza un acuerdo sin mención a los combustibles fósiles",
-     "url": "https://www.elmundo.es/ciencia/2026/11/22/6b02a7d721efa09c698b4575.html",
-     "seccion": "Medioambiente",
-     "resumen": "La COP31 de Antalya se alarga y la UE rechaza un borrador que no menciona la salida de los combustibles fósiles."
+     "titular": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del 'procés' nueve años después de su apertura",
+     "url": "https://www.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html",
+     "seccion": "Carles Puigdemont",
+     "resumen": "El Supremo aplica la amnistía a Puigdemont y archiva la causa del procés nueve años después de su apertura."
     },
     {
-     "titular": "PP y PSOE desembarcan en Formentera: la isla que se decide por la mínima y que por primera vez pone en juego un senador",
-     "url": "https://www.elmundo.es/baleares/2026/11/22/6b031472fc6c8339628b457e.html",
-     "seccion": "Artículos Eduardo Colom",
-     "resumen": "PP y PSOE movilizan a dos figuras en Formentera, isla que por primera vez elige un senador."
+     "titular": "Nvidia restituye a Jensen Huang como presidente y consejero delegado: \"No representa ningún riesgo para la seguridad nacional\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/23/6b044cf5e4d4d8137c8b4591.html",
+     "seccion": "Nvidia",
+     "resumen": "Nvidia restituye a Huang y este asume el cargo tras considerar que no hay riesgo para la seguridad nacional."
     },
     {
-     "titular": "Un día detrás de Jon Echeverría, el nuevo Lamine Yamal del PP: \"No sueño con ser presidente del Gobierno\"",
-     "url": "https://www.elmundo.es/espana/2026/11/22/6b017facfc6c833d2b8b457c.html",
-     "seccion": "Artículos Willy Azaola",
-     "resumen": "Perfil del candidato del PP en Guipúzcoa durante una jornada de campaña con incidentes."
+     "titular": "\"Rusia quiere desplegar armas nucleares en el espacio\": la OTAN tiene conocimiento \"desde hace años\" de los informes de los servicios de inteligencia",
+     "url": "https://www.elmundo.es/internacional/2026/11/23/6b04507be4d4d898108b458b.html",
+     "seccion": "",
+     "resumen": "La OTAN conoce desde hace años los informes sobre un posible despliegue ruso de armas nucleares en el espacio."
     },
     {
-     "titular": "Alcaraz conquista las ATP Finals ante Zverev y demuestra quién es el número uno",
-     "url": "https://www.elmundo.es/deportes/tenis/2026/11/22/6b033837fc6c830b5f8b45a0.html",
-     "seccion": "tenis",
-     "resumen": "Alcaraz gana las ATP Finals a Zverev, con 1.500 puntos sumados."
+     "titular": "Ucrania hunde una corbeta rusa en Libia y la guerra cruza el Mediterráneo",
+     "url": "https://www.elmundo.es/internacional/2026/11/23/6b03ddfde9cf4a5f188b4574.html",
+     "seccion": "Ucrania",
+     "resumen": "Ucrania ataca una corbeta rusa en Libia con drones, a más de 1.600 kilómetros del frente."
     },
     {
-     "titular": "La llegada de 360 migrantes en seis cayucos durante las últimas 48 horas vuelve a disparar la presión migratoria en El Hierro",
-     "url": "https://www.elmundo.es/espana/2026/11/22/6b0316ebfdddff996e8b4590.html",
-     "seccion": "España",
-     "resumen": "Llegan 360 migrantes a El Hierro en seis cayucos tras una tregua, en plena presión migratoria en Canarias."
+     "titular": "Los jefes políticos de la Guardia Civil boicotearon y recortaron el informe sobre la entrada masiva en Ceuta",
+     "url": "https://www.elmundo.es/espana/2026/11/22/6b032ee9e4d4d858798b456d.html",
+     "seccion": "Artículos Gema Peñalosa",
+     "resumen": "Mandos de la investigación denuncian que se recortó el informe de la Guardia Civil sobre la entrada masiva en Ceuta."
     },
     {
-     "titular": "Milagro grita auxilio por el Superniño: \"El fenómeno nos está pegando muy fuerte\"",
-     "url": "https://www.elmundo.es/internacional/2026/11/22/6b03314421efa0e2728b457d.html",
-     "seccion": "Ecuador",
-     "resumen": "Las lluvias del fenómeno de El Niño anegan gran parte del municipio de Milagro, en Ecuador."
+     "titular": "El comandante Villalba declara que Aldama pagó gastos de la Feria de Sevilla y cacerías a miembros de la Guardia Civil",
+     "url": "https://www.elmundo.es/espana/2026/11/23/6b043adefdddffc64a8b458f.html",
+     "seccion": "Víctor de Aldama",
+     "resumen": "El comandante Villalba declara que Aldama pagó gastos a guardias civiles, en la investigación del caso Koldo."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Combina la información electoral con el impuesto a la banca y la crisis de vivienda, y dedica espacio a sucesos y deportes. Incluye también contenidos de cultura.",
+   "resumen": "Combina la información electoral con noticias de sucesos y casos judiciales, como el tiroteo en Valdebebas y la crisis de Plus Ultra. Recoge también la amnistía y la readmisión de Huang.",
    "noticias": [
     {
-     "titular": "El Gobierno se escuda en la crisis de vivienda para extender el 'impuestazo' a la banca",
-     "url": "https://www.abc.es/economia/sanchez-anuncia-gobierno-extendera-impuestazo-banca-2027-20261121094800-nt.html",
+     "titular": "Plus Ultra paraliza sus operaciones y se asoma a la quiebra sin haber devuelto los 53 millones del rescate",
+     "url": "https://www.abc.es/economia/plus-ultra-paraliza-operaciones-asoma-quiebra-haber-20261123160851-nt.html",
      "seccion": "",
-     "resumen": "El Consejo de Ministros aprobará antes de las elecciones la prórroga del impuesto a la banca para 2027, alegando la crisis de vivienda."
+     "resumen": "Plus Ultra detiene sus vuelos y se acerca a la quiebra sin haber devuelto los 53 millones del rescate público."
     },
     {
-     "titular": "Y van diez: ¡Marc Márquez, campeón del mundo!",
-     "url": "https://www.abc.es/deportes/motos/van-diez-marc-marquez-campeon-mundo-20261122144613-nt.html",
+     "titular": "El CIS de Tezanos da 10 puntos de ventaja al PSOE sobre el PP en el último barómetro antes del 29N",
+     "url": "https://www.abc.es/espana/cis-tezanos-puntos-ventaja-psoe-sobre-pp-20261123120259-nt.html",
      "seccion": "",
-     "resumen": "Marc Márquez se proclama campeón del mundo de MotoGP tras acabar octavo en Portugal."
+     "resumen": "El CIS da al PSOE 34,4% y diez puntos de ventaja sobre el PP en el último barómetro antes de la cita electoral."
     },
     {
-     "titular": "Centenares de viajeros atrapados en la T4 de Barajas por una avería del tren que une con la Terminal Satélite",
-     "url": "https://www.abc.es/espana/madrid/centenares-viajeros-atrapados-averia-tren-une-terminal-20261122134839-nt.html",
+     "titular": "El Supremo aplica la amnistía a Puigdemont y extingue su responsabilidad penal",
+     "url": "https://www.abc.es/espana/supremo-aplica-amnistia-puigdemont-extingue-responsabilidad-penal-20261123135034-nt.html",
      "seccion": "",
-     "resumen": "Una avería en el tren que conecta la T4 con la Terminal Satélite de Barajas deja largas colas de pasajeros."
+     "resumen": "El Supremo extingue la responsabilidad penal de Puigdemont, Comín y Puig al aplicar la ley de amnistía."
     },
     {
-     "titular": "Santiago Abascal me tiene desconcertado",
-     "url": "https://www.abc.es/espana/santiago-abascal-desconcertado-20261122175024-nt.html",
+     "titular": "Nvidia readmite a Jensen Huang como CEO tras su desplome en bolsa y las presiones de Trump",
+     "url": "https://www.abc.es/economia/jensen-huang-vuelve-nvidia-ceo-tras-escandalo-20261123151229-nt.html",
      "seccion": "",
-     "resumen": "Abascal reúne a un público numeroso en un mitin de Vox en Zaragoza a mediodía."
+     "resumen": "Nvidia readmite a Huang como primer ejecutivo tras la caída en bolsa y las presiones de Trump."
     },
     {
-     "titular": "Muere un conductor de 50 años al caer una rama de un árbol sobre su coche en la M-30",
-     "url": "https://www.abc.es/espana/madrid/muere-conductor-anos-caer-rama-arbol-sobre-20261122171402-nt.html",
+     "titular": "El impuesto a los «ultrarricos» a partir de 100 millones de Pedro Sánchez afectaría a 123 personas en España",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/impuesto-ultrarricos-partir-100-millones-pedro-sanchez-20261123163259-nt.html",
      "seccion": "",
-     "resumen": "Muere un conductor de unos 50 años tras caerle una rama sobre el coche en la M-30."
+     "resumen": "El impuesto a fortunas de 100 millones afectaría a 123 personas en España, según la medida planteada por Sánchez."
     },
     {
-     "titular": "Jair Bolsonaro, ingresado en cuidados intensivos por una obstrucción intestinal",
-     "url": "https://www.abc.es/internacional/jair-bolsonaro-ingresado-cuidados-intensivos-obstruccion-intestinal-20261122191630-nt.html",
+     "titular": "Tirotean en la cabeza al narco el 'Coletas', en el aparcamiento de un gimnasio en Valdebebas",
+     "url": "https://www.abc.es/espana/madrid/tirotean-cabeza-hombre-aparcamiento-gimnasio-valdebebas-20261123140724-nt.html",
      "seccion": "",
-     "resumen": "Bolsonaro permanece ingresado en cuidados intensivos por una obstrucción intestinal, según el hospital."
+     "resumen": "Un narcotraficante colombiano resulta herido grave tras recibir un disparo en la cabeza en un aparcamiento de Valdebebas."
     },
     {
-     "titular": "Raphael recibe el alta médica tras su hospitalización en La Coruña",
-     "url": "https://www.abc.es/cultura/musica/raphael-recibe-alta-medica-tras-hospitalizacion-coruna-20261122134146-nt.html",
+     "titular": "La Audiencia Nacional descarta de nuevo investigar a Cospedal como pedía el PSOE",
+     "url": "https://www.abc.es/espana/audiencia-nacional-descarta-nuevo-investigar-cospedal-kitchen-20261123145108-nt.html",
      "seccion": "",
-     "resumen": "Raphael recibe el alta tras ser hospitalizado en La Coruña por hipertensión y taquicardias."
+     "resumen": "La Audiencia Nacional rechaza reabrir el caso Kitchen e investigar a Cospedal, como pedía el PSOE."
     },
     {
-     "titular": "Al menos un muerto y dos heridos en la explosión de una vivienda en Rudilla (Teruel)",
-     "url": "https://www.abc.es/espana/aragon/muerto-dos-heridos-explosion-vivienda-rudilla-teruel-20261122194138-nt.html",
+     "titular": "«La muerte te espera»: una nueva oleada de amenazas por mail pone en alerta a 450 colegios en Alemania",
+     "url": "https://www.abc.es/internacional/450-escuelas-alemania-reciben-amenaza-bomba-correo-20261123114505-nt.html",
      "seccion": "",
-     "resumen": "Una explosión en una vivienda de Rudilla (Teruel) deja un muerto y dos heridos."
+     "resumen": "Unos 450 colegios en Alemania reciben amenazas de bomba por correo electrónico."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Da prioridad a las encuestas y a la campaña en Cataluña, con mítines de Junts y ERC. Incluye también información sobre la cumbre del clima y temas internacionales.",
+   "resumen": "Prioriza la campaña electoral con foco en Cataluña y en los sondeos, y da espacio a la amnistía de Puigdemont. En economía, sigue el caso Nvidia.",
    "noticias": [
     {
-     "titular": "La derecha suma mayoría absoluta mientras el PSOE se acerca al PP",
-     "url": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html",
+     "titular": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del 'procés'",
+     "url": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
      "seccion": "Política",
-     "resumen": "Según la encuesta que publica, la derecha suma mayoría absoluta y Feijóo aventaja a Sánchez en medio punto."
+     "resumen": "El Supremo aplica la amnistía a Puigdemont y da por extinguida la causa por malversación del procés."
     },
     {
-     "titular": "La mayoría quiere que el nuevo gobierno se centre en la vivienda",
-     "url": "https://www.lavanguardia.com/politica/20261122/11690020/mayoria-quiere-nuevo-gobierno-centre-vivienda.html",
+     "titular": "El CIS sitúa al PSOE en cabeza y diez puntos por delante del PP",
+     "url": "https://www.lavanguardia.com/politica/20261123/11691034/cis-situa-psoe-cabeza-diez-puntos-delante-pp.html",
      "seccion": "Política",
-     "resumen": "Más de la mitad de los encuestados valora negativamente la gestión del Gobierno saliente, y la mayoría quiere que el próximo se centre en la vivienda."
+     "resumen": "El CIS sitúa al PSOE diez puntos por delante del PP, con Vox en 15,6% y Frente Amplio en 5,7%."
     },
     {
-     "titular": "Sánchez alienta “una semana de remontada” para ganar en las urnas a la “coalición reaccionaria”",
-     "url": "https://www.lavanguardia.com/politica/20261122/11690459/sanchez-alienta-semana-remontada-ganar-urnas-coalicion-reaccionaria.html",
+     "titular": "Todas las encuestas menos el CIS dan la victoria a Feijóo y una amplia mayoría absoluta a PP y Vox",
+     "url": "https://www.lavanguardia.com/politica/20261123/11691293/todas-encuestas-cis-dan-victoria-feijoo-amplia-mayoria-absoluta-pp-vox.html",
      "seccion": "Política",
-     "resumen": "Sánchez reúne a unas 10.000 personas en Murcia, donde PP y Vox lo habían declarado persona non grata en la Asamblea."
+     "resumen": "Los sondeos publicados salvo el CIS dan la victoria a Feijóo y una amplia mayoría a PP y Vox."
     },
     {
-     "titular": "Feijóo insiste en la prudencia: “España no puede permitirse lo que ocurrió en 2023”",
-     "url": "https://www.lavanguardia.com/politica/20261122/11690458/feijoo-insiste-prudencia-ganar-sanchez-debate-espana-permitirse-ocurrio-2023.html",
+     "titular": "Sánchez propone un impuesto a los ultrarricos: 2.000 millones para financiar la agenda social",
+     "url": "https://www.lavanguardia.com/politica/20261123/11690862/sanchez-propone-impuesto-ultrarricos-2-000-millones-financiar-agenda-social.html",
      "seccion": "Política",
-     "resumen": "Feijóo insiste en la prudencia y asegura que los socialistas están asustados ante el cambio."
+     "resumen": "Sánchez propone un gravamen a patrimonios de más de 100 millones para financiar crianza, pensiones y vivienda pública."
     },
     {
-     "titular": "Junts exhibe músculo convergente en su mitin central y pide pasar a la ofensiva por Catalunya",
-     "url": "https://www.lavanguardia.com/politica/20261122/11690422/junts-exhibe-musculo-convergente-mitin-central-pide-salir-ofensiva-catalunya.html",
+     "titular": "Feijóo define RTVE como una televisión “norcoreana” por la falta de “equidad” con Sánchez",
+     "url": "https://www.lavanguardia.com/politica/20261123/11690976/feijoo-define-rtve-television-norcoreana-falta-equidad-sanchez.html",
      "seccion": "Política",
-     "resumen": "Junts celebra su mitin central con tres expresidentes y sostiene que el 29-N se vota Cataluña o España."
+     "resumen": "Feijóo describe RTVE como norcoreana y plantea una nueva ley de eutanasia que mantenga las partes correctas."
     },
     {
-     "titular": "ERC pide aglutinar el voto progresista: “Votar PSC es votar Adif, Renfe y el desastre de Rodalies”",
-     "url": "https://www.lavanguardia.com/politica/20261122/11690472/erc-pide-aglutinar-voto-progresista-votar-psc-votar-adif-renfe-desastre-rodalies.html",
-     "seccion": "Política",
-     "resumen": "ERC pide votar en bloque al progresismo y critica la gestión de Rodalies por parte del PSC."
+     "titular": "Nvidia devuelve a Jensen Huang al mando y sus acciones se disparan",
+     "url": "https://www.lavanguardia.com/economia/20261123/11691332/nvidia-devuelve-jensen-huang-mando-acciones-disparan-mas-25.html",
+     "seccion": "Economía",
+     "resumen": "El consejo de Nvidia devuelve a Huang al mando once días después de su dimisión, y sus acciones se disparan."
     },
     {
-     "titular": "La cumbre del clima naufraga al ser rechazado un acuerdo que no pone fin a la energía fósil",
-     "url": "https://www.lavanguardia.com/natural/20261122/11690347/cop31-analiza-nueva-propuesta-pacto-in-extremis-clima-division.html",
-     "seccion": "Natural",
-     "resumen": "La cumbre del clima termina sin acuerdo tras rechazar un borrador que no menciona los combustibles fósiles."
+     "titular": "Alice Huang estaba en contacto con el espionaje chino durante su relación con el CEO de Nvidia",
+     "url": "https://www.lavanguardia.com/economia/20261123/11690803/alice-jensen-huang-espia-china-nvidia.html",
+     "seccion": "Economía",
+     "resumen": "Alice Huang habría estado en contacto con el espionaje chino durante su relación con el CEO de Nvidia."
     },
     {
-     "titular": "El gran salto de China: drones, humanoides y coches eléctricos para reescribir la modernidad",
-     "url": "https://www.lavanguardia.com/internacional/20261122/11689333/gran-salto-china-humanoides-drones-coches-electricos-reescribir-modernidad.html",
-     "seccion": "Internacional",
-     "resumen": "Reportaje sobre el avance de China en drones, humanoides, coches eléctricos e inteligencia artificial."
+     "titular": "Un hombre muere al recibir cuatro disparos a las puertas de un bar en el Poble Sec",
+     "url": "https://www.lavanguardia.com/sucesos/20261123/11690866/mossos-investigan-muerte-arma-fuego-distrito-sants-montjuic.html",
+     "seccion": "Sucesos",
+     "resumen": "Un hombre muere tras recibir cuatro disparos en la puerta de un bar del Poble Sec, en un ajuste de cuentas según el teniente de alcalde."
     }
    ]
   }

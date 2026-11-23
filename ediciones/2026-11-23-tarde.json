@@ -1,0 +1,514 @@
+{
+ "fecha": "2026-11-23",
+ "franja": "tarde",
+ "generada": "2026-11-23T17:38+01:00",
+ "con_ia": true,
+ "resumen_dia": "La campaña para las elecciones generales del 29-N domina las portadas, con los sondeos como eje: el CIS da al PSOE una ventaja de unos diez puntos sobre el PP, mientras que las encuestas privadas recogidas por los diarios sitúan a la derecha por delante. En paralelo, el Tribunal Supremo aplica la amnistía a Puigdemont y archiva la causa del 'procés', y Nvidia readmite a Jensen Huang como consejero delegado tras su salida hace pocos días. Sánchez anuncia un impuesto para fortunas superiores a 100 millones de euros.",
+ "temas_comunes": [
+  {
+   "titulo": "Sondeos de cara al 29-N: CIS frente a encuestas privadas",
+   "resumen": "El CIS da al PSOE en cabeza con unos diez puntos de ventaja sobre el PP y Vox en caída (15,6%). Otras encuestas publicadas el mismo día, como la de 40dB, sitúan a PP y Vox con una amplia mayoría o con la ventaja de la derecha.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el tracking de 40dB, con el PSOE acercándose al empate con el PP, y el CIS con 10 puntos de ventaja socialista.",
+     "noticias": [
+      {
+       "titular": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/el-psoe-acaricia-el-empate-con-el-pp-segun-el-tracking-de-40db.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "La ventaja de la derecha no cede mientras el PSOE pugna por el primer puesto",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-ventaja-de-la-derecha-no-cede-mientras-el-psoe-pugna-por-el-primer-puesto.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya la batalla ajustada en 23 provincias y la mayoría de PP y Vox, frente al CIS que describe como un último servicio de Tezanos.",
+     "noticias": [
+      {
+       "titular": "Batalla al límite en 23 provincias: menos de 10.000 votos decidirán el último escaño, pero PP y Vox amarran su mayoría",
+       "url": "https://www.elmundo.es/espana/encuestas/2026/11/22/6b033046fc6c830e508b4594.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "El 'último' servicio de Tezanos: el CIS asegura que el PSOE arrasará y Sánchez gobernará y el PP se burla y anuncia que será \"uno de los primeros\" en echar",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b041c85fc6c83271c8b4593.html",
+       "seccion": "CIS"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Presenta el barómetro del CIS como el último antes del 29N y pone en duda su consistencia frente al resto de sondeos.",
+     "noticias": [
+      {
+       "titular": "El CIS de Tezanos da 10 puntos de ventaja al PSOE sobre el PP en el último barómetro antes del 29N",
+       "url": "https://www.abc.es/espana/cis-tezanos-puntos-ventaja-psoe-sobre-pp-20261123120259-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Contrapone el CIS, que sitúa al PSOE en cabeza, con el resto de encuestas, que dan la victoria a Feijóo.",
+     "noticias": [
+      {
+       "titular": "El CIS sitúa al PSOE en cabeza y diez puntos por delante del PP",
+       "url": "https://www.lavanguardia.com/politica/20261123/11691034/cis-situa-psoe-cabeza-diez-puntos-delante-pp.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Todas las encuestas menos el CIS dan la victoria a Feijóo y una amplia mayoría absoluta a PP y Vox",
+       "url": "https://www.lavanguardia.com/politica/20261123/11691293/todas-encuestas-cis-dan-victoria-feijoo-amplia-mayoria-absoluta-pp-vox.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Amnistía y archivo de la causa del 'procés' para Puigdemont",
+   "resumen": "El Tribunal Supremo aplica la ley de amnistía a Puigdemont y a los exconsejeros Comín y Puig, y archiva la causa. Puigdemont reacciona con un poema en redes sociales.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la reacción de Puigdemont con un poema de tono desconsiderado tras el fallo del Supremo.",
+     "noticias": [
+      {
+       "titular": "“Para que me muera de ganas de daros por el culo”: el poema que cita Puigdemont tras conocer el carpetazo judicial",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/queridos-enemigos-mios-rezo-para-que-cada-dia-seais-mas-el-poema-que-cita-puigdemont-tras-conocer-el-carpetazo-judicial.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Sitúa la resolución como cierre de la causa nueve años después de su apertura.",
+     "noticias": [
+      {
+       "titular": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del 'procés' nueve años después de su apertura",
+       "url": "https://www.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html",
+       "seccion": "Carles Puigdemont"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Detalla la resolución: sobreseimiento libre y extinción de responsabilidad penal, con Marchena como ponente.",
+     "noticias": [
+      {
+       "titular": "El Supremo aplica la amnistía a Puigdemont y extingue su responsabilidad penal",
+       "url": "https://www.abc.es/espana/supremo-aplica-amnistia-puigdemont-extingue-responsabilidad-penal-20261123135034-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya la extinción de la causa por malversación y la reacción del independentismo, que habla de persistencia.",
+     "noticias": [
+      {
+       "titular": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del 'procés'",
+       "url": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "El expresident dedica un poema a sus “enemigos” tras ser amnistiado: “Me muero de ganas de daros por culo”",
+       "url": "https://www.lavanguardia.com/politica/20261123/11691278/puigdemont-cita-poema-dirigirse-enemigos-amnistiado-me-muero-ganas-daros-culo.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Nvidia readmite a Jensen Huang como consejero delegado",
+   "resumen": "El consejo de Nvidia vuelve a nombrar a Huang apenas unos días después de su salida, tras concluir que su regreso no supone riesgo para la seguridad nacional. Las acciones suben en Bolsa.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Centra el foco en la declaración de Trump, que afirma haber convencido a la junta para el regreso.",
+     "noticias": [
+      {
+       "titular": "Nvidia recupera a Jensen Huang como consejero delegado",
+       "url": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
+       "seccion": "Nvidia Corporation"
+      },
+      {
+       "titular": "Trump dice que “convenció” a la junta de Nvidia para que Jensen Huang regresara como consejero delegado: “Yo hice el trato”",
+       "url": "https://elpais.com/us/economia/2026-11-23/trump-celebra-el-regreso-de-jensen-huang-a-nvidia-no-representa-algun-riesgo-a-la-seguridad-nacional.html",
+       "seccion": "Estados Unidos"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge las declaraciones de Huang y de Trump, con la cita sobre el sexo y los genios.",
+     "noticias": [
+      {
+       "titular": "Nvidia restituye a Jensen Huang como presidente y consejero delegado: \"No representa ningún riesgo para la seguridad nacional\"",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/23/6b044cf5e4d4d8137c8b4591.html",
+       "seccion": "Nvidia"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Enmarca la readmisión como un regreso tras el desplome en bolsa y las presiones de Trump.",
+     "noticias": [
+      {
+       "titular": "Nvidia readmite a Jensen Huang como CEO tras su desplome en bolsa y las presiones de Trump",
+       "url": "https://www.abc.es/economia/jensen-huang-vuelve-nvidia-ceo-tras-escandalo-20261123151229-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Resalta la subida de las acciones y la información del Gobierno de EE.UU. tomada por el consejo, junto con la investigación sobre Alice Huang.",
+     "noticias": [
+      {
+       "titular": "Nvidia devuelve a Jensen Huang al mando y sus acciones se disparan",
+       "url": "https://www.lavanguardia.com/economia/20261123/11691332/nvidia-devuelve-jensen-huang-mando-acciones-disparan-mas-25.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Alice Huang estaba en contacto con el espionaje chino durante su relación con el CEO de Nvidia",
+       "url": "https://www.lavanguardia.com/economia/20261123/11690803/alice-jensen-huang-espia-china-nvidia.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Impuesto a las grandes fortunas propuesto por Sánchez",
+   "resumen": "Sánchez propone un gravamen para patrimonios superiores a 100 millones de euros, con el que el PSOE busca financiar gasto social y vivienda pública. Según ABC, afectaría a 123 personas.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Señala que la medida no figuraba en el programa del PSOE, pero sí, con matices, en el del Frente Amplio.",
+     "noticias": [
+      {
+       "titular": "Sánchez propone un impuesto para “ultrarricos” con fortunas superiores a 100 millones de euros",
+       "url": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Cuantifica el alcance: 123 personas afectadas en España.",
+     "noticias": [
+      {
+       "titular": "El impuesto a los «ultrarricos» a partir de 100 millones de Pedro Sánchez afectaría a 123 personas en España",
+       "url": "https://www.abc.es/economia/cuentas-corrientes/impuesto-ultrarricos-partir-100-millones-pedro-sanchez-20261123163259-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Detalla el destino de la recaudación estimada en 2.000 millones: prestación por crianza, pensiones y vivienda pública.",
+     "noticias": [
+      {
+       "titular": "Sánchez propone un impuesto a los ultrarricos: 2.000 millones para financiar la agenda social",
+       "url": "https://www.lavanguardia.com/politica/20261123/11690862/sanchez-propone-impuesto-ultrarricos-2-000-millones-financiar-agenda-social.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Feijóo y Felipe González en la campaña del PSOE y PP",
+   "resumen": "Feijóo critica a TVE y González responde a Bono sobre su voto. También hay intervenciones de candidatos de Podemos y de Robles en vídeo para el PSOE de Madrid.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge varias intervenciones de la campaña, como Feijóo contra TVE, González frente a Bono y Robles en un vídeo del PSOE.",
+     "noticias": [
+      {
+       "titular": "Feijóo carga contra TVE: “Parece una televisión norcoreana y los informativos son una vergüenza”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/feijoo-carga-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-verguenza.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Margarita Robles entra de lleno en campaña con un vídeo inesperado: “[Sánchez] está guapo… ¡Menudo pájaro!”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/margarita-robles-entra-de-lleno-en-campana-con-un-video-inesperado-sanchez-esta-guapo-menudo-pajaro.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Destaca la respuesta de González a Bono y el giro del PSOE hacia el voto femenino indeciso.",
+     "noticias": [
+      {
+       "titular": "González responde con sarcasmo a Bono tras pedirle que vote al PSOE: \"Sé que él lo hace 'pro bono'\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b042561e85eceed0a8b457d.html",
+       "seccion": "Felipe González"
+      },
+      {
+       "titular": "El PSOE se lanza a por el voto de las seis de cada 10 mujeres indecisas: de Sánchez en 'Lecturas' a actos para \"seducir a un feminismo menos militante\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6afc55cfe85ece2a028b45b8.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Incluye la definición de RTVE por Feijóo como 'norcoreana' y el vídeo de Robles.",
+     "noticias": [
+      {
+       "titular": "Feijóo define RTVE como una televisión “norcoreana” por la falta de “equidad” con Sánchez",
+       "url": "https://www.lavanguardia.com/politica/20261123/11690976/feijoo-define-rtve-television-norcoreana-falta-equidad-sanchez.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Robles entra en campaña por el voto femenino: “Está guapo... ¡Menudo pájaro!”",
+       "url": "https://www.lavanguardia.com/politica/20261123/11690970/robles-entra-campana-voto-femenino-esta-guapo-menudo-pajaro.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña electoral, con sondeos, análisis por provincias y entrevistas a los candidatos. Incluye también la readmisión de Huang en Nvidia y el impuesto a grandes fortunas.",
+   "noticias": [
+    {
+     "titular": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/el-psoe-acaricia-el-empate-con-el-pp-segun-el-tracking-de-40db.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El tracking de 40dB sitúa al PSOE cerca de empatar con el PP, mientras Vox baja desde el inicio de la campaña."
+    },
+    {
+     "titular": "La ventaja de la derecha no cede mientras el PSOE pugna por el primer puesto",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-ventaja-de-la-derecha-no-cede-mientras-el-psoe-pugna-por-el-primer-puesto.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Según 40dB, PP y Vox mantienen la ventaja de la derecha tras diez días de campaña, con un desgaste leve."
+    },
+    {
+     "titular": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El CIS da al PSOE 34,4% y al PP 24,7%, con Vox en 15,6% tras perder 2,8 puntos."
+    },
+    {
+     "titular": "Sánchez propone un impuesto para “ultrarricos” con fortunas superiores a 100 millones de euros",
+     "url": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
+     "seccion": "Economía",
+     "resumen": "Sánchez plantea un impuesto a fortunas de más de 100 millones, medida que no figura en el programa del PSOE."
+    },
+    {
+     "titular": "Nvidia recupera a Jensen Huang como consejero delegado",
+     "url": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
+     "seccion": "Nvidia Corporation",
+     "resumen": "Nvidia recupera a Huang como consejero delegado una semana después de su destitución por la relación con una supuesta espía china."
+    },
+    {
+     "titular": "Trump dice que “convenció” a la junta de Nvidia para que Jensen Huang regresara como consejero delegado: “Yo hice el trato”",
+     "url": "https://elpais.com/us/economia/2026-11-23/trump-celebra-el-regreso-de-jensen-huang-a-nvidia-no-representa-algun-riesgo-a-la-seguridad-nacional.html",
+     "seccion": "Estados Unidos",
+     "resumen": "Trump afirma que convenció a la junta de Nvidia para el regreso de Huang, que estuvo unos diez días fuera."
+    },
+    {
+     "titular": "“Para que me muera de ganas de daros por el culo”: el poema que cita Puigdemont tras conocer el carpetazo judicial",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/queridos-enemigos-mios-rezo-para-que-cada-dia-seais-mas-el-poema-que-cita-puigdemont-tras-conocer-el-carpetazo-judicial.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Puigdemont reacciona al archivo judicial con un mensaje en redes de tono desconsiderado."
+    },
+    {
+     "titular": "Feijóo carga contra TVE: “Parece una televisión norcoreana y los informativos son una vergüenza”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/feijoo-carga-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-verguenza.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo critica a TVE y cuestiona el papel de productoras privadas que trabajan con fondos públicos."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la igualdad de la batalla electoral en provincias clave y en el CIS. Dedica también espacio a la amnistía de Puigdemont y a la seguridad internacional.",
+   "noticias": [
+    {
+     "titular": "Batalla al límite en 23 provincias: menos de 10.000 votos decidirán el último escaño, pero PP y Vox amarran su mayoría",
+     "url": "https://www.elmundo.es/espana/encuestas/2026/11/22/6b033046fc6c830e508b4594.html",
+     "seccion": "España",
+     "resumen": "En 23 provincias, menos de 10.000 votos decidirán el último escaño, aunque PP y Vox aseguran su mayoría según el análisis."
+    },
+    {
+     "titular": "El 'último' servicio de Tezanos: el CIS asegura que el PSOE arrasará y Sánchez gobernará y el PP se burla y anuncia que será \"uno de los primeros\" en echar",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b041c85fc6c83271c8b4593.html",
+     "seccion": "CIS",
+     "resumen": "El CIS sitúa al PSOE casi 10 puntos por delante del PP y a la mayoría de investidura sin Junts."
+    },
+    {
+     "titular": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del 'procés' nueve años después de su apertura",
+     "url": "https://www.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html",
+     "seccion": "Carles Puigdemont",
+     "resumen": "El Supremo aplica la amnistía a Puigdemont y archiva la causa del procés nueve años después de su apertura."
+    },
+    {
+     "titular": "Nvidia restituye a Jensen Huang como presidente y consejero delegado: \"No representa ningún riesgo para la seguridad nacional\"",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/23/6b044cf5e4d4d8137c8b4591.html",
+     "seccion": "Nvidia",
+     "resumen": "Nvidia restituye a Huang y este asume el cargo tras considerar que no hay riesgo para la seguridad nacional."
+    },
+    {
+     "titular": "\"Rusia quiere desplegar armas nucleares en el espacio\": la OTAN tiene conocimiento \"desde hace años\" de los informes de los servicios de inteligencia",
+     "url": "https://www.elmundo.es/internacional/2026/11/23/6b04507be4d4d898108b458b.html",
+     "seccion": "",
+     "resumen": "La OTAN conoce desde hace años los informes sobre un posible despliegue ruso de armas nucleares en el espacio."
+    },
+    {
+     "titular": "Ucrania hunde una corbeta rusa en Libia y la guerra cruza el Mediterráneo",
+     "url": "https://www.elmundo.es/internacional/2026/11/23/6b03ddfde9cf4a5f188b4574.html",
+     "seccion": "Ucrania",
+     "resumen": "Ucrania ataca una corbeta rusa en Libia con drones, a más de 1.600 kilómetros del frente."
+    },
+    {
+     "titular": "Los jefes políticos de la Guardia Civil boicotearon y recortaron el informe sobre la entrada masiva en Ceuta",
+     "url": "https://www.elmundo.es/espana/2026/11/22/6b032ee9e4d4d858798b456d.html",
+     "seccion": "Artículos Gema Peñalosa",
+     "resumen": "Mandos de la investigación denuncian que se recortó el informe de la Guardia Civil sobre la entrada masiva en Ceuta."
+    },
+    {
+     "titular": "El comandante Villalba declara que Aldama pagó gastos de la Feria de Sevilla y cacerías a miembros de la Guardia Civil",
+     "url": "https://www.elmundo.es/espana/2026/11/23/6b043adefdddffc64a8b458f.html",
+     "seccion": "Víctor de Aldama",
+     "resumen": "El comandante Villalba declara que Aldama pagó gastos a guardias civiles, en la investigación del caso Koldo."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina la información electoral con noticias de sucesos y casos judiciales, como el tiroteo en Valdebebas y la crisis de Plus Ultra. Recoge también la amnistía y la readmisión de Huang.",
+   "noticias": [
+    {
+     "titular": "Plus Ultra paraliza sus operaciones y se asoma a la quiebra sin haber devuelto los 53 millones del rescate",
+     "url": "https://www.abc.es/economia/plus-ultra-paraliza-operaciones-asoma-quiebra-haber-20261123160851-nt.html",
+     "seccion": "",
+     "resumen": "Plus Ultra detiene sus vuelos y se acerca a la quiebra sin haber devuelto los 53 millones del rescate público."
+    },
+    {
+     "titular": "El CIS de Tezanos da 10 puntos de ventaja al PSOE sobre el PP en el último barómetro antes del 29N",
+     "url": "https://www.abc.es/espana/cis-tezanos-puntos-ventaja-psoe-sobre-pp-20261123120259-nt.html",
+     "seccion": "",
+     "resumen": "El CIS da al PSOE 34,4% y diez puntos de ventaja sobre el PP en el último barómetro antes de la cita electoral."
+    },
+    {
+     "titular": "El Supremo aplica la amnistía a Puigdemont y extingue su responsabilidad penal",
+     "url": "https://www.abc.es/espana/supremo-aplica-amnistia-puigdemont-extingue-responsabilidad-penal-20261123135034-nt.html",
+     "seccion": "",
+     "resumen": "El Supremo extingue la responsabilidad penal de Puigdemont, Comín y Puig al aplicar la ley de amnistía."
+    },
+    {
+     "titular": "Nvidia readmite a Jensen Huang como CEO tras su desplome en bolsa y las presiones de Trump",
+     "url": "https://www.abc.es/economia/jensen-huang-vuelve-nvidia-ceo-tras-escandalo-20261123151229-nt.html",
+     "seccion": "",
+     "resumen": "Nvidia readmite a Huang como primer ejecutivo tras la caída en bolsa y las presiones de Trump."
+    },
+    {
+     "titular": "El impuesto a los «ultrarricos» a partir de 100 millones de Pedro Sánchez afectaría a 123 personas en España",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/impuesto-ultrarricos-partir-100-millones-pedro-sanchez-20261123163259-nt.html",
+     "seccion": "",
+     "resumen": "El impuesto a fortunas de 100 millones afectaría a 123 personas en España, según la medida planteada por Sánchez."
+    },
+    {
+     "titular": "Tirotean en la cabeza al narco el 'Coletas', en el aparcamiento de un gimnasio en Valdebebas",
+     "url": "https://www.abc.es/espana/madrid/tirotean-cabeza-hombre-aparcamiento-gimnasio-valdebebas-20261123140724-nt.html",
+     "seccion": "",
+     "resumen": "Un narcotraficante colombiano resulta herido grave tras recibir un disparo en la cabeza en un aparcamiento de Valdebebas."
+    },
+    {
+     "titular": "La Audiencia Nacional descarta de nuevo investigar a Cospedal como pedía el PSOE",
+     "url": "https://www.abc.es/espana/audiencia-nacional-descarta-nuevo-investigar-cospedal-kitchen-20261123145108-nt.html",
+     "seccion": "",
+     "resumen": "La Audiencia Nacional rechaza reabrir el caso Kitchen e investigar a Cospedal, como pedía el PSOE."
+    },
+    {
+     "titular": "«La muerte te espera»: una nueva oleada de amenazas por mail pone en alerta a 450 colegios en Alemania",
+     "url": "https://www.abc.es/internacional/450-escuelas-alemania-reciben-amenaza-bomba-correo-20261123114505-nt.html",
+     "seccion": "",
+     "resumen": "Unos 450 colegios en Alemania reciben amenazas de bomba por correo electrónico."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza la campaña electoral con foco en Cataluña y en los sondeos, y da espacio a la amnistía de Puigdemont. En economía, sigue el caso Nvidia.",
+   "noticias": [
+    {
+     "titular": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del 'procés'",
+     "url": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
+     "seccion": "Política",
+     "resumen": "El Supremo aplica la amnistía a Puigdemont y da por extinguida la causa por malversación del procés."
+    },
+    {
+     "titular": "El CIS sitúa al PSOE en cabeza y diez puntos por delante del PP",
+     "url": "https://www.lavanguardia.com/politica/20261123/11691034/cis-situa-psoe-cabeza-diez-puntos-delante-pp.html",
+     "seccion": "Política",
+     "resumen": "El CIS sitúa al PSOE diez puntos por delante del PP, con Vox en 15,6% y Frente Amplio en 5,7%."
+    },
+    {
+     "titular": "Todas las encuestas menos el CIS dan la victoria a Feijóo y una amplia mayoría absoluta a PP y Vox",
+     "url": "https://www.lavanguardia.com/politica/20261123/11691293/todas-encuestas-cis-dan-victoria-feijoo-amplia-mayoria-absoluta-pp-vox.html",
+     "seccion": "Política",
+     "resumen": "Los sondeos publicados salvo el CIS dan la victoria a Feijóo y una amplia mayoría a PP y Vox."
+    },
+    {
+     "titular": "Sánchez propone un impuesto a los ultrarricos: 2.000 millones para financiar la agenda social",
+     "url": "https://www.lavanguardia.com/politica/20261123/11690862/sanchez-propone-impuesto-ultrarricos-2-000-millones-financiar-agenda-social.html",
+     "seccion": "Política",
+     "resumen": "Sánchez propone un gravamen a patrimonios de más de 100 millones para financiar crianza, pensiones y vivienda pública."
+    },
+    {
+     "titular": "Feijóo define RTVE como una televisión “norcoreana” por la falta de “equidad” con Sánchez",
+     "url": "https://www.lavanguardia.com/politica/20261123/11690976/feijoo-define-rtve-television-norcoreana-falta-equidad-sanchez.html",
+     "seccion": "Política",
+     "resumen": "Feijóo describe RTVE como norcoreana y plantea una nueva ley de eutanasia que mantenga las partes correctas."
+    },
+    {
+     "titular": "Nvidia devuelve a Jensen Huang al mando y sus acciones se disparan",
+     "url": "https://www.lavanguardia.com/economia/20261123/11691332/nvidia-devuelve-jensen-huang-mando-acciones-disparan-mas-25.html",
+     "seccion": "Economía",
+     "resumen": "El consejo de Nvidia devuelve a Huang al mando once días después de su dimisión, y sus acciones se disparan."
+    },
+    {
+     "titular": "Alice Huang estaba en contacto con el espionaje chino durante su relación con el CEO de Nvidia",
+     "url": "https://www.lavanguardia.com/economia/20261123/11690803/alice-jensen-huang-espia-china-nvidia.html",
+     "seccion": "Economía",
+     "resumen": "Alice Huang habría estado en contacto con el espionaje chino durante su relación con el CEO de Nvidia."
+    },
+    {
+     "titular": "Un hombre muere al recibir cuatro disparos a las puertas de un bar en el Poble Sec",
+     "url": "https://www.lavanguardia.com/sucesos/20261123/11690866/mossos-investigan-muerte-arma-fuego-distrito-sants-montjuic.html",
+     "seccion": "Sucesos",
+     "resumen": "Un hombre muere tras recibir cuatro disparos en la puerta de un bar del Poble Sec, en un ajuste de cuentas según el teniente de alcalde."
+    }
+   ]
+  }
+ ]
+}
