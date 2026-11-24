@@ -1,512 +1,228 @@
 {
  "fecha": "2026-11-24",
- "franja": "mañana",
- "generada": "2026-11-24T04:05+01:00",
+ "franja": "tarde",
+ "generada": "2026-11-24T17:35+01:00",
  "con_ia": true,
- "resumen_dia": "El debate electoral a ocho portavoces del 29N domina la portada de los cuatro diarios, con lecturas distintas sobre su resultado. La polémica por la expediente de la Junta Electoral a Silvia Intxaurrondo y el regreso de Jensen Huang a Nvidia tras su destitución completan los asuntos más repetidos. Las encuestas divergen: el CIS da ventaja al PSOE mientras el resto de sondeos favorecen al PP y a Vox. El Supremo aplica la amnistía a Puigdemont y cierra la causa del 'procés'.",
- "temas_comunes": [
-  {
-   "titulo": "Debate electoral a ocho portavoces",
-   "resumen": "Los ocho portavoces parlamentarios se enfrentaron en un debate a ocho en la campaña del 29N, con acusaciones cruzadas sobre vivienda, inmigración, corrupción y pensiones. Los diarios coinciden en que no hubo un vencedor claro.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Subraya la verificación de afirmaciones, señalando mentiras e inexactitudes, y la división entre bloques con Vox como línea roja para el resto.",
-     "noticias": [
-      {
-       "titular": "La izquierda combate unida a PP y Vox en un debate a ocho que escenifica la división entre bloques",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-izquierda-combate-unida-a-pp-y-vox-en-un-debate-a-ocho-que-escenifica-la-division-entre-bloques.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Mentiras, inexactitudes y medias verdades en el debate entre los ocho portavoces",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/mentiras-inexactitudes-y-medias-verdades-en-el-debate-entre-los-ocho-portavoces.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "El debate de la España real",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-debate-de-la-espana-real.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Los momentos más tensos del debate electoral de portavoces parlamentarios",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/los-momentos-mas-tensos-del-debate-electoral-de-portavoces-parlamentarios.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Se centra en el perjuicio al portavoz de ERC/Junts en la competición y en una crítica personal al desempeño de Rufián.",
-     "noticias": [
-      {
-       "titular": "Justa electoral con ocho portavoces y una traductora",
-       "url": "https://www.elmundo.es/espana/2026/11/24/6b04cd7ae4d4d845488b4597.html",
-       "seccion": "Artículos Juan Diego Madueño"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Destaca el plató con ocho atriles, el ruido y la presencia de mujeres como portavoces de los partidos de derechas.",
-     "noticias": [
-      {
-       "titular": "PP y Vox denuncian la gestión de ocho años del «Gobierno y sus cómplices» en un plató de todos contra ellos",
-       "url": "https://www.abc.es/espana/pp-vox-denuncian-gestion-ocho-anos-gobierno-20261123234708-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Apunta que el debate acabó sin vencedor, con más reproches que propuestas.",
-     "noticias": [
-      {
-       "titular": "El debate a ocho se salda con cada uno a lo suyo y sin vencedor",
-       "url": "https://www.lavanguardia.com/politica/20261124/11691602/debate-ocho-salda-suyo-vencedor.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Expediente de la JEC a Silvia Intxaurrondo",
-   "resumen": "La Junta Electoral Central abre expediente a la periodista de TVE por posible falta de neutralidad, y la propia periodista anuncia que recurrirá a los tribunales. La JEC también abre expedientes a dos ministros.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge la reacción de la periodista, que habla de sanción con orgullo y de ataque a la libertad de prensa, y añade la presión del PP para evitar una entrevista con Feijóo en su programa.",
-     "noticias": [
-      {
-       "titular": "La Junta Electoral abre expediente a Silvia Intxaurrondo por posible vulneración de la neutralidad",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-junta-electoral-sanciona-a-la-periodista-silvia-intxaurrondo-por-posible-vulneracion-de-la-neutralidad.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Dirigentes del PP presionan para evitar la entrevista de Intxaurrondo a Feijóo ante el temor a una “encerrona” de final de campaña",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/dirigentes-del-pp-presionan-para-evitar-la-entrevista-de-intxaurrondo-a-feijoo-ante-el-temor-a-una-encerrona-de-final-de-campana.html",
-       "seccion": "Alberto Núñez Feijóo"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Señala que la JEC extiende los expedientes a los ministros Bolaños y Bustinduy.",
-     "noticias": [
-      {
-       "titular": "La Junta Electoral abre expediente a Silvia Intxaurrondo por no ser neutral con Vox",
-       "url": "https://www.lavanguardia.com/politica/20261123/11691429/junta-electoral-abre-expediente-silvia-intxaurrondo-neutral-vox.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Regreso de Jensen Huang a Nvidia",
-   "resumen": "El consejo de Nvidia readmite a Jensen Huang como consejero delegado once días después de su destitución, tras una supuesta relación con una persona vinculada al espionaje chino. Trump afirma haber influido en la decisión.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Destaca la subida de las acciones en Bolsa y la afirmación de Trump de haber cerrado el trato.",
-     "noticias": [
-      {
-       "titular": "Nvidia recupera a Jensen Huang como consejero delegado",
-       "url": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
-       "seccion": "Nvidia Corporation"
-      },
-      {
-       "titular": "Trump dice que “convenció” a la junta de Nvidia para que Jensen Huang regresara como consejero delegado: “Yo hice el trato”",
-       "url": "https://elpais.com/us/economia/2026-11-23/trump-celebra-el-regreso-de-jensen-huang-a-nvidia-no-representa-algun-riesgo-a-la-seguridad-nacional.html",
-       "seccion": "Estados Unidos"
-      },
-      {
-       "titular": "Jensen Huang vuelve a las oficinas de Nvidia entre ovaciones de los empleados",
-       "url": "https://elpais.com/us/2026-11-23/jensen-huang-vuelve-a-las-oficinas-de-nvidia-entre-ovaciones-de-los-empleados.html",
-       "seccion": "Estados Unidos"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Enfatiza la presión de la Casa Blanca y el alza del 30% de la acción, junto con el patrimonio del matrimonio Huang.",
-     "noticias": [
-      {
-       "titular": "Los 11 días en el rincón de pensar de Jensen Huang y la alargada sombra de Trump: \"El sexo vende, colegas\"",
-       "url": "https://www.elmundo.es/economia/2026/11/23/6b0492bffc6c83954e8b4599.html",
-       "seccion": "NLPremium"
-      },
-      {
-       "titular": "Así es la inmensa fortuna que han amasado Jensen y Lori Huang",
-       "url": "https://www.elmundo.es/economia/2026/11/24/6b047583fc6c8339628b45b0.html",
-       "seccion": "WSJ"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Recoge la caída de la capitalización, de tres billones a un billón de dólares, y el rescate impuesto por Trump.",
-     "noticias": [
-      {
-       "titular": "Caída y auge de Jensen Huang: cómo y por qué Trump impuso el rescate del CEO de Nvidia",
-       "url": "https://www.abc.es/economia/caida-auge-jensen-huang-trump-impuso-rescate-20261124024940-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Subraya que el consejo concluyó, tras información del propio presidente estadounidense, que el regreso no supone riesgo para la seguridad nacional, y el vínculo de Alice Huang con el espionaje chino.",
-     "noticias": [
-      {
-       "titular": "Trump presionó a la junta de Nvidia para el regreso de Jensen Huang: “Yo cerré el trato”",
-       "url": "https://www.lavanguardia.com/economia/20261123/11691332/nvidia-devuelve-jensen-huang-mando-acciones-disparan-mas-25.html",
-       "seccion": "Economía"
-      },
-      {
-       "titular": "Alice Huang estaba en contacto con el espionaje chino durante su relación con el CEO de Nvidia",
-       "url": "https://www.lavanguardia.com/economia/20261123/11690803/alice-jensen-huang-espia-china-nvidia.html",
-       "seccion": "Economía"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Encuestas y el CIS",
-   "resumen": "El CIS da ventaja al PSOE sobre el PP, mientras el resto de sondeos publicados antes del veto electoral dan la victoria a Feijóo con mayoría de PP y Vox. El CIS sitúa a Vox en un 15,6%.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Presenta su promedio de encuestas y un modelo que sitúa 40 escaños en juego, con llamadas al voto útil por provincia.",
-     "noticias": [
-      {
-       "titular": "¿Qué dicen todas las encuestas? Así cierra el promedio",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/que-dice-el-promedio-de-encuestas-consulta-todos-los-sondeos-en-tiempo-real.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Critica el sondeo del CIS con un 34,4% para el PSOE y un 24,7% para el PP, por distancia con la mayoría de encuestas.",
-     "noticias": [
-      {
-       "titular": "El 'golpe' del CIS de Tezanos corona ocho años de la politización de las instituciones con Sánchez",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b0499d9fc6c836d468b459f.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Contrapone el CIS, que da el primer puesto al PSOE, con el resto de encuestas que dan la victoria al PP.",
-     "noticias": [
-      {
-       "titular": "El CIS sitúa al PSOE en cabeza y diez puntos por delante del PP",
-       "url": "https://www.lavanguardia.com/politica/20261123/11691034/cis-situa-psoe-cabeza-diez-puntos-delante-pp.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Todas las encuestas menos el CIS dan la victoria a Feijóo y una amplia mayoría absoluta a PP y Vox",
-       "url": "https://www.lavanguardia.com/politica/20261123/11691293/todas-encuestas-cis-dan-victoria-feijoo-amplia-mayoria-absoluta-pp-vox.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Voto exterior y voto por correo",
-   "resumen": "El voto de nacionalizados y residentes en el extranjero genera dudas sobre su gestión, mientras se vota en urnas de cartón en Argentina y Venezuela. Los diarios señalan posibles irregularidades en el voto CERA y por correo.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Describe la votación de los nietos en Argentina y Venezuela y la separación de votos suspendidos por orden judicial.",
-     "noticias": [
-      {
-       "titular": "Los 'nietos' votan en urnas de cartón en Argentina y Venezuela con una participación masiva",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b048519e85ece28708b4595.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Señala el caos en el voto exterior y las sospechas sobre el voto por correo, con referencia a la instrucción de Sofía Puente.",
-     "noticias": [
-      {
-       "titular": "Tarjetas censales para muertos, desconocidos y papeletas inexistentes",
-       "url": "https://www.abc.es/espana/anomalias-papeletas-voto-correo-20261124022300-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Caos en el voto de nacionalizados y residentes en el extranjero",
-       "url": "https://www.abc.es/espana/caos-voto-nacionalizados-residentes-extranjero-tras-instruccion-20261124022251-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Amnistía a Puigdemont y mensaje tras el fallo",
-   "resumen": "El Tribunal Supremo aplica la amnistía al expresidente catalán y cierra la causa del procés por malversación. Puigdemont responde con un mensaje de tono desconsiderado en redes.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Recoge el poema citado por Puigdemont tras el carpetazo judicial, con tono de crítica a sus formas.",
-     "noticias": [
-      {
-       "titular": "“Para que me muera de ganas de daros por el culo”: el poema que cita Puigdemont tras conocer el carpetazo judicial",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/queridos-enemigos-mios-rezo-para-que-cada-dia-seais-mas-el-poema-que-cita-puigdemont-tras-conocer-el-carpetazo-judicial.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Informa de la aplicación de la amnistía y del cierre de la causa, con la cita de Puigdemont y la anuncio de una rueda de prensa sobre su retorno.",
-     "noticias": [
-      {
-       "titular": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del 'procés'",
-       "url": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Puigdemont cita un poema para dirigirse a sus “enemigos” tras ser amnistiado: “Me muero de ganas de daros por culo”",
-       "url": "https://www.lavanguardia.com/politica/20261123/11691278/puigdemont-cita-poema-dirigirse-enemigos-amnistiado-me-muero-ganas-daros-culo.html",
-       "seccion": "Política"
-      }
-     ]
-    }
-   ]
-  }
- ],
+ "resumen_dia": "A cinco días de las elecciones generales del 29-N, el Gobierno aprobó en su último Consejo de Ministros un paquete de medidas sociales y fiscales: ampliación del permiso por nacimiento a 20 semanas, rebaja del IRPF a autónomos y prórroga de las ayudas al transporte en 2027. Los cuatro diarios destacan la campaña, con el debate sobre el voto exterior y el DNI digital tras la decisión del Supremo, y la carta de Felipe González anunciando que no votará al PSOE. En economía, Bruselas amenaza a España con un procedimiento por déficit excesivo.</resumen_dia>\n<parameter name=\"temas_comunes\">[{\"titulo\": \"Paquete de medidas sociales del Gobierno antes del 29-N\", \"resumen\": \"El Consejo de Ministros aprobó la ampliación del permiso por nacimiento a 20 semanas, la rebaja del IRPF a autónomos y la prórroga de las ayudas al transporte para 2027. Las medidas se presentan a cinco días de las elecciones.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Subraya la sintonía de la coalición y cifra el paquete en millones, con el impuesto a la banca y el permiso por fallecimiento.\", \"ids\": [\"elpais-4\", \"elpais-5\", \"elpais-7\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Presenta la lluvia de medidas como un uso electoral del último Consejo y recuerda que parte estaba pactada con Sumar.\", \"ids\": [\"elmundo-0\", \"elmundo-1\"]}, {\"medio\": \"abc\", \"enfoque\": \"Destaca el carácter electoralista del paquete y menciona medidas como el aborto y el 'tax the rich'.\", \"ids\": [\"abc-8\", \"abc-14\", \"abc-0\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Recoge el permiso de 20 semanas (34 para familias monoparentales), la prórroga del transporte y el tope a los créditos rápidos.\", \"ids\": [\"lavanguardia-0\", \"lavanguardia-4\", \"lavanguardia-1\", \"lavanguardia-2\"]}]}, {\"titulo\": \"Felipe González y el voto en blanco al PSOE\", \"resumen\": \"El expresidente socialista anunció que no votará al PSOE y Sánchez le respondió. Dirigentes socialistas de Sevilla y otros críticos reaccionaron a su decisión.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Destaca el apoyo de un centenar de veteranos socialistas sevillanos a Sánchez.\", \"ids\": [\"elpais-14\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Recoge la respuesta de Sánchez: la ultraderecha se frena con el rojo, no con el blanco.\", \"ids\": [\"elmundo-6\"]}, {\"medio\": \"abc\", \"enfoque\": \"Recoge la crítica de Susana Díaz a Bono por su cercanía a González.\", \"ids\": [\"abc-2\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Señala la furia de González con los exministros que apoyan a Sánchez.\", \"ids\": [\"lavanguardia-3\"]}]}, {\"titulo\": \"Voto exterior, DNI digital y sospechas de fraude\", \"resumen\": \"El Supremo avaló el DNI digital para votar y dejó en manos de la Junta Electoral la votación separada de los nacionalizados por la ley de nietos. Feijóo y Ayuso cuestionan la limpieza del proceso.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Enfoca la alarma de Feijóo y Ayuso por el fraude, citando el voto exterior y el correo.\", \"ids\": [\"elpais-6\", \"elpais-12\"]}, {\"medio\": \"elmundo\", \"enfoque\": \"Aborda el asunto solo de forma indirecta en la portada, sin destacarlo entre los titulares principales.\", \"ids\": []}, {\"medio\": \"abc\", \"enfoque\": \"No incluye esta información entre sus titulares de portada.\", \"ids\": []}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Destaca la inquietud de Feijóo por las urnas en consulados y la aprobación del DNI electrónico por el Supremo.\", \"ids\": [\"lavanguardia-6\", \"lavanguardia-7\", \"lavanguardia-8\"]}]}, {\"titulo\": \"Bruselas y el déficit excesivo de España\", \"resumen\": \"La Comisión Europea advierte de que España puede enfrentarse a un procedimiento por déficit excesivo por el gasto público. El comisario de Economía lo vinculó a la evaluación de datos de la próxima primavera.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"No incluye esta información entre sus titulares.\", \"ids\": []}, {\"medio\": \"elmundo\", \"enfoque\": \"Relaciona la amenaza con las promesas electorales del Gobierno.\", \"ids\": [\"elmundo-2\"]}, {\"titulo\": \"Bruselas y el déficit excesivo de España\", \"medio\": \"abc\", \"enfoque\": \"Presenta la advertencia como coincidente con el paquete de medidas del Gobierno.\", \"ids\": [\"abc-9\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Atribuye la desviación a las medidas para amortiguar la guerra de Irán y al aumento de plantillas de funcionarios.\", \"ids\": [\"lavanguardia-13\"]}]}, {\"titulo\": \"Expediente a Silvia Intxaurrondo por la Junta Electoral\", \"resumen\": \"La Junta Electoral Central votó por 7 a 5 abrir un expediente sancionador a la periodista Silvia Intxaurrondo por la neutralidad de sus preguntas. La presentadora anunció que irá a los tribunales.\", \"medios\": [{\"medio\": \"elpais\", \"enfoque\": \"Recoge el debate interno de la Junta y la mayoría que defendió que las preguntas no fueron neutrales.\", \"ids\": [\"elpais-8\"]}, {\"medio\": \"lavanguardia\", \"enfoque\": \"Recoge la reacción de la presentadora, que anuncia acudir a los tribunales.\", \"ids\": [\"lavanguardia-10\"]}]}]",
+ "temas_comunes": [],
  "medios": [
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la cobertura de la campaña del 29N, con encuestas, análisis territoriales y el debate a ocho. Incluye también la polémica de Intxaurrondo y el caso Nvidia.",
+   "resumen": "Prioriza la campaña electoral, con el promedio de encuestas, el voto útil y las entrevistas a candidatos, junto con las medidas sociales del Gobierno. Da peso a las sospechas de fraude de Feijóo y Ayuso y al debate sobre la Junta Electoral.",
    "noticias": [
     {
-     "titular": "La izquierda combate unida a PP y Vox en un debate a ocho que escenifica la división entre bloques",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-izquierda-combate-unida-a-pp-y-vox-en-un-debate-a-ocho-que-escenifica-la-division-entre-bloques.html",
+     "titular": "El Gobierno reivindica su traca final de medidas sociales previas al 29-N: “Cumplimos con nuestro deber”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/el-gobierno-reivindica-su-traca-final-con-impuesto-a-la-banca-rebaja-de-autonomos-aborto-y-permiso-por-fallecimiento-cumplimos-con-nuestro-deber-gobernamos.html",
      "seccion": "Elecciones Generales",
-     "resumen": "El debate a ocho deriva en duelos entre bloques, con la izquierda enfrentada a PP y Vox."
+     "resumen": "El Gobierno presenta su último paquete de medidas sociales, con impuesto a la banca, rebaja a autónomos y permiso por fallecimiento, y destaca la unidad de la coalición."
     },
     {
-     "titular": "Mentiras, inexactitudes y medias verdades en el debate entre los ocho portavoces",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/mentiras-inexactitudes-y-medias-verdades-en-el-debate-entre-los-ocho-portavoces.html",
+     "titular": "Feijóo y Ayuso alimentan el fantasma del fraude el 29-N: “Sánchez y la limpieza electoral son dos conceptos contradictorios”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/feijoo-y-ayuso-alimentan-el-fantasma-del-fraude-el-29-n-sanchez-y-la-limpieza-electoral-son-dos-conceptos-contradictorios.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Análisis de afirmaciones del debate, con inexactitudes sobre inmigración, vivienda y pensiones."
+     "resumen": "Feijóo y Ayuso cuestionan la limpieza del proceso electoral apoyándose en el voto exterior, el voto por correo y las primarias del PSOE."
     },
     {
-     "titular": "La Junta Electoral abre expediente a Silvia Intxaurrondo por posible vulneración de la neutralidad",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-junta-electoral-sanciona-a-la-periodista-silvia-intxaurrondo-por-posible-vulneracion-de-la-neutralidad.html",
+     "titular": "El debate dentro de la Junta Electoral para abrir expediente sancionador a Silvia Intxaurrondo: una votación que terminó siete a cinco",
+     "url": "https://elpais.com/espana/2026-11-24/la-junta-electoral-se-divide-siete-a-cinco-para-sancionar-a-intxaurrondo-por-sus-reflexiones-sobre-vox.html",
+     "seccion": "España",
+     "resumen": "La Junta Electoral vota por 7 a 5 abrir expediente sancionador a Silvia Intxaurrondo, con la mayoría que considera que sus preguntas no fueron neutrales."
+    },
+    {
+     "titular": "El Gobierno amplía el permiso por nacimiento y cuidado hasta las 20 semanas",
+     "url": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html",
+     "seccion": "Sociedad",
+     "resumen": "El Consejo de Ministros amplía el permiso de nacimiento y cuidado hasta 20 semanas, con 17 semanas en el primer año del hijo."
+    },
+    {
+     "titular": "El Supremo avala el DNI digital como medio para identificarse el 29-N",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/el-supremo-avala-el-dni-electronico-como-medio-para-identificarse-el-29-n.html",
      "seccion": "Elecciones Generales",
-     "resumen": "La JEC abre expediente a la periodista de TVE por posible falta de neutralidad."
+     "resumen": "El Supremo avala el DNI digital para votar y deja a la Junta Electoral la decisión sobre la votación separada de los nacionalizados por la ley de nietos."
     },
     {
-     "titular": "Dirigentes del PP presionan para evitar la entrevista de Intxaurrondo a Feijóo ante el temor a una “encerrona” de final de campaña",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/dirigentes-del-pp-presionan-para-evitar-la-entrevista-de-intxaurrondo-a-feijoo-ante-el-temor-a-una-encerrona-de-final-de-campana.html",
-     "seccion": "Alberto Núñez Feijóo",
-     "resumen": "Dirigentes del PP presionan para evitar la entrevista de Feijóo en el programa de Intxaurrondo."
-    },
-    {
-     "titular": "¿Qué dicen todas las encuestas? Así cierra el promedio",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/que-dice-el-promedio-de-encuestas-consulta-todos-los-sondeos-en-tiempo-real.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Promedio de encuestas del diario, que da más peso a las encuestadoras con mejor historial."
-    },
-    {
-     "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Modelo del diario que sitúa 40 escaños en juego y analiza el voto útil por provincia."
-    },
-    {
-     "titular": "Nvidia recupera a Jensen Huang como consejero delegado",
-     "url": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
-     "seccion": "Nvidia Corporation",
-     "resumen": "Nvidia readmite a Jensen Huang como consejero delegado y sus acciones se disparan en Bolsa."
-    },
-    {
-     "titular": "El Gobierno ampliará este martes el permiso de duelo por fallecimiento a 10 días",
-     "url": "https://elpais.com/economia/2026-11-23/el-gobierno-ampliara-este-martes-el-permiso-de-fallecimiento-a-10-dias.html",
+     "titular": "Hacienda rebaja el IRPF de los autónomos y elimina los pagos trimestrales del IVA para los pequeños negocios",
+     "url": "https://elpais.com/economia/2026-11-24/hacienda-rebaja-el-irpf-de-los-autonomos-y-elimina-los-pagos-trimestrales-del-iva-para-los-pequenos-negocios.html",
      "seccion": "Economía",
-     "resumen": "El Gobierno amplía a 10 días el permiso por fallecimiento, con tres o cinco días en otros casos."
+     "resumen": "Hacienda rebaja el IRPF de los autónomos, elimina los pagos trimestrales de IVA para pequeños negocios y retrasa Verifactu."
+    },
+    {
+     "titular": "Un centenar de veteranos socialistas sevillanos muestran su apoyo a Sánchez en respuesta al voto en blanco de Felipe González",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/un-centenar-de-veteranos-socialistas-sevillanos-muestran-su-apoyo-a-sanchez-en-respuesta-al-voto-en-blanco-de-felipe-gonzalez.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Un centenar de veteranos socialistas sevillanos respaldan a Sánchez frente al voto en blanco anunciado por Felipe González."
+    },
+    {
+     "titular": "Aitor Esteban: “Sánchez es una lagartija, escurridizo”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/aitor-esteban-sanchez-es-una-lagartija-escurridizo.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El presidente del PNV, Aitor Esteban, se distancia del PSOE y critica su política de vivienda."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Pone el foco en la crítica al CIS y en la gestión del voto exterior. También destaca la intervención de la Casa Blanca en Nvidia y asuntos judiciales.",
+   "resumen": "Pone el foco en el último Consejo de Ministros de Sánchez y en la respuesta del Gobierno a las críticas de Bruselas. Combina la política nacional con sucesos judiciales y asuntos internacionales como Ucrania y Colombia.",
    "noticias": [
     {
-     "titular": "El 'golpe' del CIS de Tezanos corona ocho años de la politización de las instituciones con Sánchez",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b0499d9fc6c836d468b459f.html",
+     "titular": "Sánchez exprime su último Consejo de Ministros en campaña con una lluvia de medidas para las familias, las mujeres, los autónomos, más millones para vivienda...",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b058aa3fc6c83f00a8b4582.html",
+     "seccion": "Artículos Raúl Piña",
+     "resumen": "Sánchez agota su último Consejo de Ministros en campaña con un paquete de medidas, algunas pactadas hace un año y otras impulsadas por Sumar."
+    },
+    {
+     "titular": "Bruselas amenaza a España con abrir un expediente por exceso de gasto público mientras Sánchez acumula promesas electorales",
+     "url": "https://www.elmundo.es/economia/2026/11/24/6b059b66fc6c837c2b8b4585.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "Bruselas advierte de un posible expediente a España por exceso de gasto y el comisario de Economía anuncia un informe sobre la deuda en primavera."
+    },
+    {
+     "titular": "El Gobierno rebaja el IRPF a 2,6 millones de autónomos y simplifica la declaración del IVA",
+     "url": "https://www.elmundo.es/economia/2026/11/24/6b05811ae9cf4a280b8b4593.html",
+     "seccion": "",
+     "resumen": "El Gobierno rebaja el IRPF a 2,6 millones de autónomos y reduce a una anual las declaraciones de IVA de los que facturan menos de 85.000 euros."
+    },
+    {
+     "titular": "Sánchez responde a González tras su decisión de no votar al PSOE: \"La ultraderecha se frena con el rojo, no con el blanco\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b054e7fe9cf4a54648b458c.html",
+     "seccion": "Artículos Raúl Piña",
+     "resumen": "Sánchez responde a Felipe González, que no votará al PSOE, y sostiene que la ultraderecha se frena con el voto rojo."
+    },
+    {
+     "titular": "Pablo Iglesias sale al rescate de Podemos para evitar que Irene Montero se quede sin escaño",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b054b58e85eceb17f8b459a.html",
      "seccion": "Elecciones Generales",
-     "resumen": "El CIS da al PSOE un 34,4% y al PP un 24,7%, cifras alejadas de la mayoría de sondeos."
+     "resumen": "Pablo Iglesias participará en el cierre de campaña de Podemos para ayudar a Irene Montero a conservar su escaño."
     },
     {
-     "titular": "Los 'nietos' votan en urnas de cartón en Argentina y Venezuela con una participación masiva",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b048519e85ece28708b4595.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Votación de nietos en urnas de cartón en Argentina y Venezuela, con votos suspendidos sin contabilizar."
+     "titular": "Cintia Rocho se ratifica ante Pedraz: está \"muy segura\" de que fue el ex juez Sáenz de Tejada quien contactó con ella para producirle \"daño físico\" a la juez del 'hermanísimo'",
+     "url": "https://www.elmundo.es/espana/2026/11/24/6b056e6ce85ece73128b456e.html",
+     "seccion": "Tribunales",
+     "resumen": "Cintia Rocho se ratifica ante el juez Pedraz en que el ex juez Sáenz de Tejada la contactó para causar daño físico a la jueza del caso del hermanísimo."
     },
     {
-     "titular": "Los 11 días en el rincón de pensar de Jensen Huang y la alargada sombra de Trump: \"El sexo vende, colegas\"",
-     "url": "https://www.elmundo.es/economia/2026/11/23/6b0492bffc6c83954e8b4599.html",
-     "seccion": "NLPremium",
-     "resumen": "El consejo de Nvidia restituye a Huang tras presiones de la Casa Blanca; la acción sube un 30%."
+     "titular": "Los drones a reacción trasladan la guerra al oeste de Ucrania",
+     "url": "https://www.elmundo.es/internacional/2026/11/24/6b0432efe9cf4a96248b4583.html",
+     "seccion": "Ucrania",
+     "resumen": "Rusia intensifica los ataques con drones en el oeste de Ucrania, zona considerada hasta ahora retaguardia."
     },
     {
-     "titular": "El PP promete acabar con la burocracia del urbanismo: externalizará servicios para tener \"licencia de obras en tres meses\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b047b7ce85ecec71c8b4586.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "El PP propone externalizar trámites urbanísticos para agilizar las licencias de obras."
-    },
-    {
-     "titular": "Un directivo de la Sepi avisó a Bruselas de una \"triquiñuela\" en el rescate de Air Europa para \"eludir su escrutinio\"",
-     "url": "https://www.elmundo.es/espana/2026/11/23/6b047ec4e9cf4a38218b4592.html",
-     "seccion": "NLPremium",
-     "resumen": "Un directivo de la Sepi avisó a Bruselas de un fraccionamiento del rescate de Air Europa."
-    },
-    {
-     "titular": "La mancha de García Ortiz degrada las tomas de posesión de fiscales de la máxima categoría a salas secundarias del Supremo",
-     "url": "https://www.elmundo.es/espana/2026/11/24/6b04930efc6c831d0e8b4590.html",
-     "seccion": "Álvaro García Ortiz",
-     "resumen": "Las tomas de posesión de fiscales del Supremo se trasladan a salas secundarias."
-    },
-    {
-     "titular": "España gastará en pensiones un 43% más de PIB que la UE en 2050 pese a disparar cotizaciones y sin los ajustes de Alemania o Suecia",
-     "url": "https://www.elmundo.es/economia/2026/11/24/6b04613de9cf4ac8208b45a7.html",
-     "seccion": "Artículos Cristina Alonso",
-     "resumen": "Funcas advierte del gasto en pensiones, un 43% superior al de la UE en 2050."
-    },
-    {
-     "titular": "Guerras interconectadas y costes al alza: la guerra de Ucrania agita el Mediterráneo",
-     "url": "https://www.elmundo.es/internacional/2026/11/23/6b04850bfdddffd4538b457f.html",
-     "seccion": "Guerra Ucrania Rusia",
-     "resumen": "El ataque a un buque en el Mediterráneo amplía los riesgos de la guerra de Ucrania hasta Libia."
+     "titular": "Abelardo de la Espriella, ante el último atentado en Colombia: \"Juro que se lo haré pagar a los narcoterroristas\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/24/6b056607e4d4d84c4c8b4598.html",
+     "seccion": "Colombia",
+     "resumen": "Un atentado con coche bomba en Villavicencio (Colombia) deja heridos y Abelardo de la Espriella promete castigar a los responsables."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Enfoca la campaña con temas como el voto exterior, el voto femenino y la inmigración en Cataluña. Incluye también la crisis de Nvidia, el caso SEPI y asuntos judiciales.",
+   "resumen": "Destaca la última semana de campaña y el paquete de medidas del Gobierno con impacto electoral. Incluye además temas de política internacional y de tenis y fútbol de alcance destacado.",
    "noticias": [
     {
-     "titular": "Caos en el voto de nacionalizados y residentes en el extranjero",
-     "url": "https://www.abc.es/espana/caos-voto-nacionalizados-residentes-extranjero-tras-instruccion-20261124022251-nt.html",
+     "titular": "Traca final de Sánchez antes del 29N: aborto, 'tax the rich' y permisos retribuidos",
+     "url": "https://www.abc.es/espana/traca-final-sanchez-29n-aborto-tax-the-20261124115959-nt.html",
      "seccion": "",
-     "resumen": "Caos en el voto CERA, con sospechas tras la nacionalización de nietos del exilio."
+     "resumen": "Sánchez reserva para el último Consejo de Ministros medidas como el aborto, el 'tax the rich' y permisos retribuidos, con un enfoque electoral."
     },
     {
-     "titular": "Tarjetas censales para muertos, desconocidos y papeletas inexistentes",
-     "url": "https://www.abc.es/espana/anomalias-papeletas-voto-correo-20261124022300-nt.html",
+     "titular": "Susana Díaz, sobre las palabras de Bono: «Qué haces buscándole la boca a Felipe González a cinco días de las elecciones»",
+     "url": "https://www.abc.es/play/television/noticias/susana-diaz-piensan-sobre-palabras-bono-incomprensible-felipe-elecciones-20261124164304-nt.html",
      "seccion": "",
-     "resumen": "Alertas sobre tarjetas censales irregulares y sospechas en el voto por correo."
+     "resumen": "Susana Díaz critica a Bono por su cercanía a Felipe González, que acudirá a votar sin papeleta al no apoyar la dirección del PSOE."
     },
     {
-     "titular": "Caída y auge de Jensen Huang: cómo y por qué Trump impuso el rescate del CEO de Nvidia",
-     "url": "https://www.abc.es/economia/caida-auge-jensen-huang-trump-impuso-rescate-20261124024940-nt.html",
+     "titular": "Se amplía a 20 semanas el permiso por nacimiento",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/gobierno-amplia-semanas-permiso-nacimiento-queda-normativa-20261124103515-nt.html",
      "seccion": "",
-     "resumen": "La capitalización de Nvidia cae de tres a un billón de dólares y Trump impone el rescate de Huang."
+     "resumen": "El permiso de paternidad y maternidad se amplía a 20 semanas, según anunció Sánchez a cinco días de las elecciones."
     },
     {
-     "titular": "Las actas de la SEPI revelan que una carta de un ministro venezolano cerró el plan de pagos de Plus Ultra con PDVSA",
-     "url": "https://www.abc.es/espana/actas-sepi-revelan-carta-ministro-venezolano-cerro-20261124021316-nt.html",
+     "titular": "Bruselas amenaza con sancionar a España por déficit excesivo",
+     "url": "https://www.abc.es/economia/bruselas-amenaza-sancionar-espana-deficit-excesivo-dia-20261124160049-nt.html",
      "seccion": "",
-     "resumen": "Las actas de la SEPI relacionan un pago de Plus Ultra a PDVSA con una carta de un ministro venezolano."
+     "resumen": "La Comisión Europea amenaza con un expediente por déficit excesivo a España, mientras el Gobierno aprueba su paquete de medidas."
     },
     {
-     "titular": "Ofensiva del PP por el voto femenino en la recta final de la campaña",
-     "url": "https://www.abc.es/espana/ofensiva-pp-voto-femenino-recta-final-campana-20261123021712-nt.html",
+     "titular": "Trump busca éxitos políticos entre el Río Grande y Ecuador para la recta final de su presidencia",
+     "url": "https://www.abc.es/internacional/maga-buscan-victorias-rio-grande-ecuador-recta-20261124164009-nt.html",
      "seccion": "",
-     "resumen": "El PP centra su recta final en atraer el voto femenino, más indeciso según las encuestas."
+     "resumen": "Trump busca logros políticos en América, con el viaje de Pete Hegseth por varios países como antesala de la segunda mitad de su mandato."
     },
     {
-     "titular": "El voto antiinmigración transforma Cataluña: «Mi padre es separatista. Nunca me había votado. Ahora lo hará por Vox»",
-     "url": "https://www.abc.es/espana/cataluna/voto-antiinmigracion-transforma-cataluna-padre-separatista-nunca-20261124021723-nt.html",
+     "titular": "Un atentado con coche bomba en el centro de Colombia deja al menos 23 heridos",
+     "url": "https://www.abc.es/internacional/atentado-coche-bomba-centro-colombia-deja-heridos-20261124074010-nt.html",
      "seccion": "",
-     "resumen": "El voto antiinmigración crece en el área metropolitana de Barcelona, según un reportaje sobre la campaña."
+     "resumen": "Un coche bomba en Villavicencio deja al menos 23 heridos frente a la sede del gobierno regional."
     },
     {
-     "titular": "EE.UU. desplaza a China en la explotación del petróleo de Venezuela",
-     "url": "https://www.abc.es/internacional/eeuu-desplaza-china-explotacion-petroleo-venezuela-20261123021310-nt.html",
+     "titular": "Madrid prorroga la ayuda al transporte en 2027, pero denuncia que el Gobierno debe más de 300 millones",
+     "url": "https://www.abc.es/espana/madrid/madrid-prorroga-ayuda-transporte-2027-denuncia-gobierno-20261124170703-nt.html",
      "seccion": "",
-     "resumen": "EE.UU. sustituye a China en la explotación petrolera de Venezuela tras la caída de Maduro."
+     "resumen": "La Comunidad de Madrid logra la prórroga de las ayudas al transporte en 2027, aunque reclama al Gobierno más de 300 millones."
     },
     {
-     "titular": "El aval judicial salva a Pilar Bernabé de entregar sus mensajes de la dana",
-     "url": "https://www.abc.es/espana/comunidad-valenciana/aval-judicial-salva-pilar-bernabe-entregar-mensajes-20261124021027-nt.html",
+     "titular": "Palo a Marruecos: el TAS le quita la Copa África y se la devuelve a Senegal",
+     "url": "https://www.abc.es/deportes/futbol/senegal-recupera-copa-africa-tras-fallo-tas-20261124152445-nt.html",
      "seccion": "",
-     "resumen": "Un aval judicial exime a Pilar Bernabé de entregar sus mensajes en la causa de la dana."
+     "resumen": "El TAS anula la decisión de la CAF y devuelve a Senegal el título de la Copa de África 2025."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Destaca la política nacional con la encuesta del CIS, el debate a ocho y el fallo sobre Puigdemont. Recoge también la crisis de Nvidia y el caso de Mango.",
+   "resumen": "Prioriza las medidas económicas del Gobierno, como los topes a los créditos rápidos y la prórroga del transporte, junto con la campaña y el voto exterior. Incluye también asuntos judiciales y la situación de un estudiante catalán retenido por el ICE.",
    "noticias": [
     {
-     "titular": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del 'procés'",
-     "url": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
-     "seccion": "Política",
-     "resumen": "El Supremo aplica la amnistía a Puigdemont y da por extinguida la causa del procés por malversación."
-    },
-    {
-     "titular": "El CIS sitúa al PSOE en cabeza y diez puntos por delante del PP",
-     "url": "https://www.lavanguardia.com/politica/20261123/11691034/cis-situa-psoe-cabeza-diez-puntos-delante-pp.html",
-     "seccion": "Política",
-     "resumen": "El CIS da al PSOE una ventaja de diez puntos sobre el PP y sitúa a Vox en un 15,6%."
-    },
-    {
-     "titular": "Todas las encuestas menos el CIS dan la victoria a Feijóo y una amplia mayoría absoluta a PP y Vox",
-     "url": "https://www.lavanguardia.com/politica/20261123/11691293/todas-encuestas-cis-dan-victoria-feijoo-amplia-mayoria-absoluta-pp-vox.html",
-     "seccion": "Política",
-     "resumen": "Las encuestas publicadas antes del veto electoral dan la victoria a Feijóo, salvo el CIS."
-    },
-    {
-     "titular": "La Junta Electoral abre expediente a Silvia Intxaurrondo por no ser neutral con Vox",
-     "url": "https://www.lavanguardia.com/politica/20261123/11691429/junta-electoral-abre-expediente-silvia-intxaurrondo-neutral-vox.html",
-     "seccion": "Política",
-     "resumen": "La JEC abre expediente a Intxaurrondo y también a los ministros Bolaños y Bustinduy."
-    },
-    {
-     "titular": "Trump presionó a la junta de Nvidia para el regreso de Jensen Huang: “Yo cerré el trato”",
-     "url": "https://www.lavanguardia.com/economia/20261123/11691332/nvidia-devuelve-jensen-huang-mando-acciones-disparan-mas-25.html",
+     "titular": "El Gobierno amplía a 20 semanas el permiso por nacimiento",
+     "url": "https://www.lavanguardia.com/economia/20261124/11691915/consejo-ministras-aprobara-ampliar-20-semanas-permiso-nacimiento.html",
      "seccion": "Economía",
-     "resumen": "Nvidia readmite a Huang tras la información de Trump, que concluye que no hay riesgo para la seguridad nacional."
+     "resumen": "El permiso por nacimiento se amplía a 20 semanas, con 34 para familias monoparentales."
     },
     {
-     "titular": "El debate a ocho se salda con cada uno a lo suyo y sin vencedor",
-     "url": "https://www.lavanguardia.com/politica/20261124/11691602/debate-ocho-salda-suyo-vencedor.html",
+     "titular": "El Gobierno pone por primera vez topes a los intereses de los créditos rápidos al consumo",
+     "url": "https://www.lavanguardia.com/economia/20261124/11692185/gobierno-pone-topes-intereses-creditos-consumo.html",
+     "seccion": "Economía",
+     "resumen": "El Gobierno fija por primera vez un tipo máximo del 22% TAE para créditos al consumo y tarjetas revolving, y del 6% para los de alto coste."
+    },
+    {
+     "titular": "Hacienda rebaja el IRPF a los autónomos en 465 millones y simplifica sus liquidaciones de IVA",
+     "url": "https://www.lavanguardia.com/economia/20261124/11692145/hacienda-rebaja-irpf-autonomos-465-millones-simplifica-liquidaciones-iva.html",
+     "seccion": "Economía",
+     "resumen": "Hacienda rebaja el IRPF a autónomos en 465 millones, simplifica el IVA y aplaza Verifactu hasta octubre de 2028."
+    },
+    {
+     "titular": "El Gobierno prorroga para 2027 las ayudas al transporte público con los mismos descuentos",
+     "url": "https://www.lavanguardia.com/economia/20261124/11692151/gobierno-prorroga-2027-ayudas-transporte-publico-descuentos.html",
+     "seccion": "Economía",
+     "resumen": "Se prorroga para 2027 el Abono Único de transporte con los mismos descuentos: 60 euros al mes y 30 para jóvenes."
+    },
+    {
+     "titular": "Bruselas amenaza a España con un procedimiento de déficit excesivo",
+     "url": "https://www.lavanguardia.com/economia/20261124/11692173/bruselas-amenaza-espana-procedimiento-deficit-excesivo.html",
+     "seccion": "Economía",
+     "resumen": "Bruselas amenaza a España con un procedimiento de déficit excesivo por las medidas ante la guerra de Irán y el aumento de funcionarios."
+    },
+    {
+     "titular": "Feijóo, preocupado por las “urnas de cartón” en los consulados: “Sánchez y la limpieza electoral son conceptos bastante contradictorios”",
+     "url": "https://www.lavanguardia.com/politica/20261124/11691943/feijoo-preocupado-urnas-carton-consulados-sanchez-limpieza-electoral-son-conceptos-contradictorios.html",
      "seccion": "Política",
-     "resumen": "El debate a ocho termina sin vencedor, con más reproches que propuestas."
+     "resumen": "Feijóo expresa inquietud por las urnas en los consulados y pide que los cónsules supervisen el voto."
     },
     {
-     "titular": "Un asesor de Andic declara que la Fundación recibiría 10 millones anuales y contaba con los hijos",
-     "url": "https://www.lavanguardia.com/sucesos/20261123/11691456/asesor-andic-declara-fundacion-recibiria-10-millones-anuales-contaba-hijos.html",
-     "seccion": "Sucesos",
-     "resumen": "Un asesor de Andic declara que la fundación recibiría 10 millones anuales y que los hijos estaban incluidos."
-    },
-    {
-     "titular": "El 41% fía la solución al problema de la vivienda en más oferta pública",
-     "url": "https://www.lavanguardia.com/politica/20261123/11690573/41-fia-solucion-problema-vivienda-mas-oferta-publica.html",
+     "titular": "Intxaurrondo irá a los tribunales: “¿Es neutral la JEC entre el fascismo y la democracia?”",
+     "url": "https://www.lavanguardia.com/politica/20261124/11691884/silvia-intxaurrondo-ira-tribunales-desafia-jec-neutral-junta-electoral-fascismo-democracia.html",
      "seccion": "Política",
-     "resumen": "Una encuesta indica que el 41% confía en más vivienda pública como solución al problema."
+     "resumen": "Silvia Intxaurrondo acudirá a los tribunales tras el expediente de la Junta Electoral y cuestiona su neutralidad."
+    },
+    {
+     "titular": "Las condiciones del centro del ICE donde retienen al estudiante catalán: poca comida y luces 24 horas",
+     "url": "https://www.lavanguardia.com/internacional/20261124/11691862/poca-comida-luces-encendidas-24-horas-condiciones-centro-ice-retiene-estudiante-catalan.html",
+     "seccion": "Internacional",
+     "resumen": "Un estudiante catalán de 22 años retenido en un centro del ICE denuncia falta de asistencia legal al firmar su deportación."
     }
    ]
   }
