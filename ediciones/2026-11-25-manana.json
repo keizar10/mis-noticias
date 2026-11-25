@@ -1,0 +1,434 @@
+{
+ "fecha": "2026-11-25",
+ "franja": "mañana",
+ "generada": "2026-11-25T02:09+01:00",
+ "con_ia": true,
+ "resumen_dia": "La campaña para las elecciones generales del 29-N domina las portadas, con el apagón de encuestas ya en marcha y los principales candidatos centrados en el voto femenino, la vivienda y la presencia en Cataluña. El Gobierno aprueba su último paquete de medidas sociales y fiscales antes de los comicios, con ampliación del permiso por nacimiento, rebaja del IRPF a autónomos y nuevos topes a los créditos rápidos. En paralelo, la llegada récord de cayucos a El Hierro y la Junta Electoral Central frente a Silvia Intxaurrondo completan la agenda política y social.",
+ "temas_comunes": [
+  {
+   "titulo": "Paquete de medidas sociales y fiscales del Gobierno",
+   "resumen": "El Consejo de Ministros aprueba medidas antes de las elecciones: amplía el permiso por nacimiento hasta 20 semanas, rebaja el IRPF a autónomos y retrasa Verifactu. También se fijan topes a los créditos rápidos al consumo.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca la coalición Gobierno-Sumar y el carácter de 'traca final' del paquete, con el impuesto a la banca y el permiso por fallecimiento.",
+     "noticias": [
+      {
+       "titular": "El Gobierno reivindica su traca final de medidas sociales previas al 29-N: “Cumplimos con nuestro deber”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/el-gobierno-reivindica-su-traca-final-con-impuesto-a-la-banca-rebaja-de-autonomos-aborto-y-permiso-por-fallecimiento-cumplimos-con-nuestro-deber-gobernamos.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "El Gobierno amplía el permiso por nacimiento y cuidado hasta las 20 semanas",
+       "url": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Hacienda rebaja el IRPF de los autónomos y elimina los pagos trimestrales del IVA para los pequeños negocios",
+       "url": "https://elpais.com/economia/2026-11-24/hacienda-rebaja-el-irpf-de-los-autonomos-y-elimina-los-pagos-trimestrales-del-iva-para-los-pequenos-negocios.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya que parte de las medidas estaban pactadas hace un año y que Sumar presionaba para aprobarlas.",
+     "noticias": [
+      {
+       "titular": "Sánchez exprime su último Consejo de Ministros en campaña con una lluvia de medidas para las familias, las mujeres, los autónomos, más millones para vivienda",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b058aa3fc6c83f00a8b4582.html",
+       "seccion": "Artículos Raúl Piña"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Se centra en los topes al interés de los créditos rápidos y en los nuevos permisos por cuidados y eutanasia.",
+     "noticias": [
+      {
+       "titular": "El Gobierno amplía a 20 semanas el permiso por nacimiento",
+       "url": "https://www.lavanguardia.com/economia/20261124/11691915/consejo-ministras-aprobara-ampliar-20-semanas-permiso-nacimiento.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "El Gobierno pone por primera vez topes a los intereses de los créditos rápidos al consumo",
+       "url": "https://www.lavanguardia.com/economia/20261124/11692185/gobierno-pone-topes-intereses-creditos-consumo.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Así quedan los permisos por cuidado, nacimiento y fallecimiento: cuántos días tocan y quién tiene derecho",
+       "url": "https://www.lavanguardia.com/politica/20261124/11692374/asi-quedan-permisos-cuidado-nacimiento-fallecimiento-dias-tocan-derecho.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Hacienda rebaja el IRPF a los autónomos en 465 millones y simplifica sus liquidaciones de IVA",
+       "url": "https://www.lavanguardia.com/economia/20261124/11692145/hacienda-rebaja-irpf-autonomos-465-millones-simplifica-liquidaciones-iva.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Campaña del 29-N: voto femenino y violencia de género",
+   "resumen": "Feijóo y Vox plantean propuestas sobre violencia contra las mujeres y el voto femenino, mientras el PSOE responde con críticas a la hipocresía del PP. Vox pide acabar con ayudas a ONG y derogar la ley LGTBI.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge la frase de Feijóo sobre el respeto a mujeres y LGTBI y la petición de Vox de poner fin al sistema de protección de víctimas.",
+     "noticias": [
+      {
+       "titular": "Feijóo: “En España no habrá sitio para quien no respete a las mujeres ni a las personas LGTBI”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/feijoo-en-espana-no-habra-sitio-para-quien-no-respete-a-las-mujeres-ni-a-las-personas-lgtbi.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Vox pide poner fin al “fracasado” sistema de protección de las mujeres ante el día contra la violencia de género",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/vox-pide-poner-fin-al-fracasado-sistema-de-proteccion-de-las-mujeres-en-el-dia-contra-la-violencia-de-genero.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Presenta a Feijóo disputando al PSOE el voto femenino con propuestas de prisión permanente revisable y expulsión de extranjeros.",
+     "noticias": [
+      {
+       "titular": "Feijóo enarbola la bandera del feminismo para disputar al PSOE el voto de las mujeres: \"No habrá sitio para quien ejerza la violencia contra ellas\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b05c9e621efa046268b4573.html",
+       "seccion": "PP"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la acusación de 'hipocresía' de Feijóo contra Sánchez por el voto femenino.",
+     "noticias": [
+      {
+       "titular": "Feijóo arremete contra la “hipocresía” de Sánchez por el voto femenino",
+       "url": "https://www.lavanguardia.com/politica/20261124/11692568/feijoo-arremete-hipocresia-sanchez-voto-femenino.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Vivienda: debate Colau-Albiol",
+   "resumen": "Colau y Albiol se enfrentaron en un debate sobre vivienda con propuestas opuestas: expropiaciones frente a seguridad jurídica para propietarios y cambios en la ley del suelo.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Presenta el cara a cara como un choque sobre expropiar fondos buitre y el pasado de Colau en un edificio ocupado.",
+     "noticias": [
+      {
+       "titular": "Colau: “Hay que expropiar a los fondos buitre”. Albiol: “Hay que construir más rápido”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/colau-hay-que-expropiar-a-los-fondos-buitre-albiol-hay-que-construir-mas-rapido.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Incluye la cifra de 700.000 viviendas anuales del PP y la propuesta de recuperar un millón de pisos de fondos y alquiler vacacional.",
+     "noticias": [
+      {
+       "titular": "Colau receta expropiaciones y admite que \"los alquileres suben el doble que los salarios\" y Albiol le afea su pasado 'okupa' y promete seguridad al propietario",
+       "url": "https://www.elmundo.es/cataluna/2026/11/25/6b061017e9cf4a280b8b45be.html",
+       "seccion": "Artículos Víctor Mondelo"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca las posiciones 'diametralmente opuestas' y la propuesta de expropiar 400.000 pisos turísticos.",
+     "noticias": [
+      {
+       "titular": "Albiol propone seguridad jurídica a los propietarios de viviendas y Colau expropiar los 400.000 pisos turísticos",
+       "url": "https://www.abc.es/espana/cataluna/albiol-propone-seguridad-juridica-propietarios-viviendas-colau-20261124001909-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Junta Electoral y Silvia Intxaurrondo",
+   "resumen": "La Junta Electoral vota por 7 a 5 abrir expediente sancionador a Silvia Intxaurrondo por considerar que sus preguntas no fueron neutrales; la presentadora anuncia que irá a los tribunales.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Describe el debate interno del órgano y la votación ajustada.",
+     "noticias": [
+      {
+       "titular": "El debate dentro de la Junta Electoral para abrir expediente sancionador a Silvia Intxaurrondo: una votación que terminó siete a cinco",
+       "url": "https://elpais.com/espana/2026-11-24/la-junta-electoral-se-divide-siete-a-cinco-para-sancionar-a-intxaurrondo-por-sus-reflexiones-sobre-vox.html",
+       "seccion": "Silvia Intxaurrondo"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge la reacción de la presentadora, que anuncia acudir a los tribunales y cuestiona a la Junta.",
+     "noticias": [
+      {
+       "titular": "Silvia Intxaurrondo irá a los tribunales y desafía a la JEC: ”¿Es neutral entre fascismo y democracia?”",
+       "url": "https://www.lavanguardia.com/politica/20261124/11691884/silvia-intxaurrondo-ira-tribunales-desafia-jec-neutral-junta-electoral-fascismo-democracia.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Llegada récord de migrantes a El Hierro",
+   "resumen": "Más de 1.900 personas fueron rescatadas en un solo día en La Restinga, El Hierro, lo que supera el récord de llegadas a Canarias. Las autoridades están en prealerta por nuevas embarcaciones.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Señala que el puerto está desbordado y que las llegadas igualan en un mes al número de habitantes de la isla.",
+     "noticias": [
+      {
+       "titular": "Desbordado de cayucos el puerto de El Hierro: tantos inmigrantes como habitantes en menos de un mes",
+       "url": "https://www.elmundo.es/espana/2026/11/24/6b05f20121efa017398b4587.html",
+       "seccion": "Artículos Candela Ibáñez"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Subraya la cifra récord de más de 1.900 inmigrantes rescatados en un día.",
+     "noticias": [
+      {
+       "titular": "Canarias supera el récord de llegadas con más de 1.900 inmigrantes rescatados en El Hierro",
+       "url": "https://www.abc.es/espana/canarias/madrugada-intensa-canarias-604-inmigrantes-rescatados-tres-20261124120137-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña electoral, con el apagón de encuestas, las entrevistas a candidatos y los análisis por regiones. También destaca las medidas del Gobierno y el conflicto con la Comunidad de Madrid por las instrucciones sobre neutralidad ideológica.",
+   "noticias": [
+    {
+     "titular": "Llega el apagón de encuestas: ¿Qué dice el promedio con las últimas?",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/llega-el-apagon-de-encuestas-que-dice-el-promedio-con-todas-las-ultimas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Último promedio de encuestas de EL PAÍS antes del apagón demoscópico, con una herramienta para construir un promedio propio."
+    },
+    {
+     "titular": "El Gobierno reivindica su traca final de medidas sociales previas al 29-N: “Cumplimos con nuestro deber”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/el-gobierno-reivindica-su-traca-final-con-impuesto-a-la-banca-rebaja-de-autonomos-aborto-y-permiso-por-fallecimiento-cumplimos-con-nuestro-deber-gobernamos.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El Gobierno presenta un paquete de medidas sociales previas a las elecciones, con impuesto a la banca, rebaja a autónomos y permiso por fallecimiento, con mensaje de unidad de la coalición."
+    },
+    {
+     "titular": "El Gobierno amplía el permiso por nacimiento y cuidado hasta las 20 semanas",
+     "url": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html",
+     "seccion": "Sociedad",
+     "resumen": "El permiso por nacimiento y cuidado se amplía hasta 20 semanas, con 17 semanas en el primer año del hijo."
+    },
+    {
+     "titular": "Pedro Sánchez: “Cataluña no va a fallar y va a liderar la gran victoria progresista”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/pedro-sanchez-cataluna-no-va-a-fallar-y-va-a-liderar-la-gran-victoria-progresista.html",
+     "seccion": "Pedro Sánchez",
+     "resumen": "Sánchez hace campaña en Barcelona con apoyo de Serrat y Loles León y anuncia una ley para evitar guerras ilegales."
+    },
+    {
+     "titular": "El Gobierno exige a la Comunidad de Madrid que retire las instrucciones de “neutralidad ideológica” por señalar al profesorado y poner en riesgo derechos fundamentales",
+     "url": "https://elpais.com/educacion/2026-11-24/el-gobierno-requiere-a-la-comunidad-de-madrid-retirar-las-instrucciones-de-la-neutralidad-ideologica-por-generar-desconfianza-hacia-el-profesorado.html",
+     "seccion": "Centros educativos",
+     "resumen": "El Ministerio de Educación requiere a Madrid retirar la norma de neutralidad ideológica y da un mes para eliminarla."
+    },
+    {
+     "titular": "El debate dentro de la Junta Electoral para abrir expediente sancionador a Silvia Intxaurrondo: una votación que terminó siete a cinco",
+     "url": "https://elpais.com/espana/2026-11-24/la-junta-electoral-se-divide-siete-a-cinco-para-sancionar-a-intxaurrondo-por-sus-reflexiones-sobre-vox.html",
+     "seccion": "Silvia Intxaurrondo",
+     "resumen": "La Junta Electoral vota 7 a 5 abrir expediente a Intxaurrondo por considerar sus preguntas no neutrales."
+    },
+    {
+     "titular": "Hacienda rebaja el IRPF de los autónomos y elimina los pagos trimestrales del IVA para los pequeños negocios",
+     "url": "https://elpais.com/economia/2026-11-24/hacienda-rebaja-el-irpf-de-los-autonomos-y-elimina-los-pagos-trimestrales-del-iva-para-los-pequenos-negocios.html",
+     "seccion": "Economía",
+     "resumen": "Hacienda rebaja el IRPF de autónomos, elimina pagos trimestrales de IVA para pequeños negocios y retrasa Verifactu."
+    },
+    {
+     "titular": "Sputnik-S, el satélite ruso que amenaza con llevar la guerra nuclear al espacio",
+     "url": "https://elpais.com/internacional/2026-11-24/sputnik-s-el-satelite-ruso-que-amenaza-con-llevar-la-guerra-nuclear-al-espacio.html",
+     "seccion": "Guerra nuclear",
+     "resumen": "Información sobre el satélite ruso Sputnik-S, que los servicios occidentales creen que podría llevar armas nucleares al espacio; Moscú lo niega."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la campaña electoral y en las propuestas de los partidos, junto con asuntos de corrupción y gestión pública. Mantiene una sección amplia de reportajes sobre sucesos, sociedad y deporte.",
+   "noticias": [
+    {
+     "titular": "Sánchez exprime su último Consejo de Ministros en campaña con una lluvia de medidas para las familias, las mujeres, los autónomos, más millones para vivienda",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b058aa3fc6c83f00a8b4582.html",
+     "seccion": "Artículos Raúl Piña",
+     "resumen": "Último Consejo de Ministros antes de las elecciones con medidas para familias, mujeres, autónomos y vivienda; el Gobierno defiende que sigue gobernando."
+    },
+    {
+     "titular": "Feijóo enarbola la bandera del feminismo para disputar al PSOE el voto de las mujeres: \"No habrá sitio para quien ejerza la violencia contra ellas\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b05c9e621efa046268b4573.html",
+     "seccion": "PP",
+     "resumen": "Feijóo busca el voto femenino con propuestas de prisión permanente revisable y expulsión de extranjeros condenados por delitos sexuales."
+    },
+    {
+     "titular": "Sánchez mete a Loles León y a Serrat en campaña tras el apoyo de Bardem y otras personalidades de la cultura a Frente Amplio",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b05d44c21efa0d9778b456d.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Sánchez incorpora a Loles León y Serrat tras el apoyo de figuras culturales a Frente Amplio; cinco personas fueron expulsadas de un mitin de Illa."
+    },
+    {
+     "titular": "Pablo Iglesias sale al rescate de Podemos para evitar que Irene Montero se quede sin escaño",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b054b58e85eceb17f8b459a.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Pablo Iglesias participará en el cierre de campaña de Podemos para ayudar a Irene Montero a conservar escaño."
+    },
+    {
+     "titular": "Colau receta expropiaciones y admite que \"los alquileres suben el doble que los salarios\" y Albiol le afea su pasado 'okupa' y promete seguridad al propietario",
+     "url": "https://www.elmundo.es/cataluna/2026/11/25/6b061017e9cf4a280b8b45be.html",
+     "seccion": "Artículos Víctor Mondelo",
+     "resumen": "Colau propone expropiaciones y Albiol plantea cambiar la ley del suelo para construir 700.000 viviendas al año."
+    },
+    {
+     "titular": "Desbordado de cayucos el puerto de El Hierro: tantos inmigrantes como habitantes en menos de un mes",
+     "url": "https://www.elmundo.es/espana/2026/11/24/6b05f20121efa017398b4587.html",
+     "seccion": "Artículos Candela Ibáñez",
+     "resumen": "El puerto de El Hierro está saturado por llegadas de cayucos; en menos de un mes han llegado tantos migrantes como habitantes."
+    },
+    {
+     "titular": "El Ministerio de Ciencia releva a un alto cargo del Ciemat tras denuncias por contratos pero no investiga: \"Esto no puede ser\"",
+     "url": "https://www.elmundo.es/espana/2026/11/25/6b05f7a3e4d4d80a2d8b45a9.html",
+     "seccion": "Artículos Quico Alsedo",
+     "resumen": "El Ministerio de Ciencia releva a un alto cargo del Ciemat tras denuncias sindicales por contratos irregulares."
+    },
+    {
+     "titular": "El rival de Hernández de Cos por la presidencia del BCE lleva el pulso hasta el final a pesar de sus escasas opciones: \"Pablo es brillante\"",
+     "url": "https://www.elmundo.es/economia/2026/11/25/6b05b6a7e4d4d8064a8b45a1.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "Knot mantiene su candidatura a la presidencia del BCE frente a Hernández de Cos, que sigue como favorito, antes de la cumbre de líderes."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Combina información de sucesos y tribunales con temas de sociedad, cultura y servicios. En política destaca la vivienda y la inmigración, y da espacio a noticias internacionales y a contenidos de estilo de vida.",
+   "noticias": [
+    {
+     "titular": "Canarias supera el récord de llegadas con más de 1.900 inmigrantes rescatados en El Hierro",
+     "url": "https://www.abc.es/espana/canarias/madrugada-intensa-canarias-604-inmigrantes-rescatados-tres-20261124120137-nt.html",
+     "seccion": "",
+     "resumen": "Más de 1.900 inmigrantes son rescatados en un día en La Restinga, lo que supone un récord de llegadas a Canarias."
+    },
+    {
+     "titular": "Albiol propone seguridad jurídica a los propietarios de viviendas y Colau expropiar los 400.000 pisos turísticos",
+     "url": "https://www.abc.es/espana/cataluna/albiol-propone-seguridad-juridica-propietarios-viviendas-colau-20261124001909-nt.html",
+     "seccion": "",
+     "resumen": "Debate entre Albiol y Colau con posiciones opuestas en vivienda; Colau propone expropiar 400.000 pisos turísticos."
+    },
+    {
+     "titular": "Kilmar Abrego, el salvadoreño deportado «por error» de EE.UU., sale del país y se instalará en España",
+     "url": "https://www.abc.es/internacional/kilmar-abrego-salvadoreno-deportado-error-eeuu-sale-20261125003716-nt.html",
+     "seccion": "",
+     "resumen": "Kilmar Ábrego sale de EE.UU. y se instala en España tras ser deportado por error en 2025."
+    },
+    {
+     "titular": "Trump se enfrenta a demócratas y republicanos por la vuelta de Jensen Huang a Nvidia",
+     "url": "https://www.abc.es/internacional/trump-enfrenta-republicanos-democratas-jensen-huang-20261124190641-nt.html",
+     "seccion": "",
+     "resumen": "Trump interviene para devolver a Jensen Huang al frente de Nvidia, once días después de que el consejo lo forzara a dimitir."
+    },
+    {
+     "titular": "Argentina entra en recesión técnica tras una nueva caída de la actividad económica",
+     "url": "https://www.abc.es/economia/argentina-entra-recesion-tecnica-tras-nueva-caida-20261124222400-nt.html",
+     "seccion": "",
+     "resumen": "Argentina entra en recesión técnica tras dos trimestres consecutivos de caída de la actividad."
+    },
+    {
+     "titular": "La Policía reconstruye los últimos meses del narco el Coletas para identificar con quién tenía la deuda",
+     "url": "https://www.abc.es/espana/madrid/policia-reconstruye-ultimos-meses-narco-coletas-identificar-20261125014552-nt.html",
+     "seccion": "",
+     "resumen": "La Policía investiga el asesinato del narcotraficante 'El Coletas' en Valdebebas y sus deudas pendientes."
+    },
+    {
+     "titular": "La falta de trenes complica la campaña de Navidad de la hostelería pese al Black Friday",
+     "url": "https://www.abc.es/espana/madrid/falta-trenes-complica-campana-navidad-hosteleria-pese-20261125014624-nt.html",
+     "seccion": "",
+     "resumen": "La falta de trenes preocupa a la hostelería madrileña ante la campaña de Navidad."
+    },
+    {
+     "titular": "Felipe VI y Letizia, al lado de la infanta Margarita: los detalles de una visita al hospital que no ha trascendido hasta ahora",
+     "url": "https://www.abc.es/gente/felipe-letizia-lado-infanta-margarita-detalles-visita-20261124143059-nt.html",
+     "seccion": "",
+     "resumen": "Los Reyes visitaron a la infanta Margarita en el hospital Gregorio Marañón, visita que no había trascendido."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Prioriza la campaña en Cataluña y las propuestas de los partidos independentistas y de izquierdas. También recoge las medidas económicas del Gobierno y la advertencia de Bruselas sobre el gasto público.",
+   "noticias": [
+    {
+     "titular": "El Gobierno amplía a 20 semanas el permiso por nacimiento",
+     "url": "https://www.lavanguardia.com/economia/20261124/11691915/consejo-ministras-aprobara-ampliar-20-semanas-permiso-nacimiento.html",
+     "seccion": "Economía",
+     "resumen": "El Gobierno amplía el permiso por nacimiento a 20 semanas, con 34 semanas para familias monoparentales."
+    },
+    {
+     "titular": "El Gobierno pone por primera vez topes a los intereses de los créditos rápidos al consumo",
+     "url": "https://www.lavanguardia.com/economia/20261124/11692185/gobierno-pone-topes-intereses-creditos-consumo.html",
+     "seccion": "Economía",
+     "resumen": "Se fijan topes de interés del 22% TAE para créditos al consumo y tarjetas revolving, y del 6% para créditos de alto coste."
+    },
+    {
+     "titular": "Bruselas amenaza a España con un expediente por superar los límites de gasto",
+     "url": "https://www.lavanguardia.com/economia/20261124/11692173/bruselas-amenaza-espana-procedimiento-deficit-excesivo.html",
+     "seccion": "Economía",
+     "resumen": "Bruselas advierte a España de un expediente por superar los límites de gasto por medidas ante la guerra de Irán y aumento de funcionarios."
+    },
+    {
+     "titular": "Silvia Intxaurrondo irá a los tribunales y desafía a la JEC: ”¿Es neutral entre fascismo y democracia?”",
+     "url": "https://www.lavanguardia.com/politica/20261124/11691884/silvia-intxaurrondo-ira-tribunales-desafia-jec-neutral-junta-electoral-fascismo-democracia.html",
+     "seccion": "Política",
+     "resumen": "Intxaurrondo acudirá a los tribunales tras el expediente de la Junta Electoral y cuestiona la neutralidad del órgano."
+    },
+    {
+     "titular": "Secesionismo sobreseído, así arranca la última semana del nervioso 29-N",
+     "url": "https://www.lavanguardia.com/politica/20261124/11691800/secesionismo-sobreseido-asi-arranca-ultima-semana-nervioso-29-n.html",
+     "seccion": "Política",
+     "resumen": "Se sobresee la causa secesionista y arranca la última semana de campaña, con críticas de Felipe González a exministros que apoyan a Sánchez."
+    },
+    {
+     "titular": "El Frente Amplio promete revertir todas las privatizaciones sanitarias",
+     "url": "https://www.lavanguardia.com/politica/20261124/11692553/frente-amplio-promete-revertir-todas-privatizaciones-sanitarias.html",
+     "seccion": "Política",
+     "resumen": "El Frente Amplio propone revertir las privatizaciones sanitarias y elevar el gasto sanitario al 8% del PIB."
+    },
+    {
+     "titular": "La matriarca de un clan reconoce que la contactaron para eliminar a la jueza Biedma",
+     "url": "https://www.lavanguardia.com/politica/20261124/11692298/matriarca-clan-reconoce-contactaron-eliminar-jueza-biedma.html",
+     "seccion": "Política",
+     "resumen": "Una líder de un clan reconoce contactos para eliminar a la jueza Biedma; el juez pide al PSOE más documentación sobre pagos a abogados."
+    },
+    {
+     "titular": "Hacienda rebaja el IRPF a los autónomos en 465 millones y simplifica sus liquidaciones de IVA",
+     "url": "https://www.lavanguardia.com/economia/20261124/11692145/hacienda-rebaja-irpf-autonomos-465-millones-simplifica-liquidaciones-iva.html",
+     "seccion": "Economía",
+     "resumen": "Hacienda rebaja el IRPF a autónomos en 465 millones y retrasa Verifactu hasta octubre de 2028."
+    }
+   ]
+  }
+ ]
+}
