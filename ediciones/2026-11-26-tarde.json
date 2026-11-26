@@ -1,0 +1,486 @@
+{
+ "fecha": "2026-11-26",
+ "franja": "tarde",
+ "generada": "2026-11-26T16:53+01:00",
+ "con_ia": true,
+ "resumen_dia": "Pablo Hernández de Cos será el próximo presidente del BCE, según coinciden los cuatro diarios tras el acuerdo de los líderes europeos. En plena recta final de campaña para las elecciones generales del 29-N, el foco se reparte entre el debate a cuatro, los mensajes de los candidatos y las encuestas. Como sucesos de relevancia, el naufragio de un buque con gasóleo cerca de Ibiza y la investigación de la UCO sobre obras en Navarra ocupan portadas.",
+ "temas_comunes": [
+  {
+   "titulo": "Hernández de Cos, nuevo presidente del BCE",
+   "resumen": "Los líderes de la eurozona han acordado elegir al exgobernador del Banco de España para presidir el BCE, con el apoyo de Francia y Alemania. Sería el primer español en el cargo, previsto para febrero.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el perfil del candidato como liberal pragmático y el reto de una posible crisis en Francia.",
+     "noticias": [
+      {
+       "titular": "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
+       "url": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Perfil | Hernández de Cos, un liberal pragmático experto en forjar consensos",
+       "url": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-un-liberal-pragmatico-experto-en-forjar-consensos.html",
+       "seccion": "Pablo Hernández de Cos"
+      },
+      {
+       "titular": "De cómo Pablo ha ganado por goleada",
+       "url": "https://elpais.com/economia/2026-11-26/de-como-pablo-ha-ganado-por-goleada.html",
+       "seccion": "Economía"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Subraya que es el cargo europeo de mayor poder en la historia de España y el apoyo de todos los países, incluido Países Bajos.",
+     "noticias": [
+      {
+       "titular": "Hernández de Cos será el próximo presidente del BCE y consigue el cargo europeo de mayor poder en la historia de España",
+       "url": "https://www.elmundo.es/economia/2026/11/26/6b083332fdddff741f8b4595.html",
+       "seccion": "Artículos Daniel Viaña"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Presenta la elección como victoria española histórica tras la cumbre del Consejo Europeo.",
+     "noticias": [
+      {
+       "titular": "Los líderes europeos eligen a Hernández de Cos como nuevo presidente del BCE",
+       "url": "https://www.abc.es/economia/consejo-europeo-elige-pablo-hernandez-cos-nuevo-20261126142403-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Pone el acento en que España liderará por primera vez la institución y en su perfil de técnico que forja consensos.",
+     "noticias": [
+      {
+       "titular": "El español Pablo Hernández de Cos será el próximo presidente del BCE",
+       "url": "https://www.lavanguardia.com/economia/20261126/11693870/espanol-pablo-hernandez-cos-sera-proximo-presidente-bce.html",
+       "seccion": "Economía"
+      },
+      {
+       "titular": "Pablo Hernández de Cos: un técnico de prestigio para forjar consensos",
+       "url": "https://www.lavanguardia.com/economia/20261126/11689251/pablo-hernandez-cos-tecnico-prestigio-forjar-consensos.html",
+       "seccion": "Economía"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Campaña electoral del 29-N y debate a cuatro",
+   "resumen": "Sánchez, Feijóo, Abascal y Colau se enfrentan en un debate a cuatro antes de la jornada electoral del 29 de noviembre. Las encuestas dan a un gobierno de PP y Vox como opción probable, aunque no garantizada.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Sitúa el debate como clave para definir los dos bloques y recoge la mayoría progresista que defiende Sánchez y las probabilidades de cada mayoría según su modelo.",
+     "noticias": [
+      {
+       "titular": "Sánchez: “Estamos tocando con la yema de los dedos la mayoría progresista, si llegamos al 75% la podemos tener”",
+       "url": "https://elpais.com/espana/2026-11-26/sanchez-estamos-tocando-con-la-yema-de-los-dedos-la-mayoria-progresista-si-llegamos-al-75-la-podemos-tener.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "Sánchez, Feijóo, Abascal y Colau afrontan un debate clave para la definición de los dos bloques ante el 29-N",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/sanchez-feijoo-abascal-y-colau-afrontan-un-debate-clave-para-la-definicion-de-los-dos-bloques-ante-el-29-n.html",
+       "seccion": "España"
+      },
+      {
+       "titular": "¿Quién va a ganar las elecciones? La probabilidad de cada mayoría según las encuestas",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-va-a-ganar-las-elecciones-la-probabilidad-de-cada-mayoria-segun-las-encuestas.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Se centra en el mensaje de Feijóo sobre el cambio y la bajada de impuestos, y en cómo conectan los candidatos con el votante.",
+     "noticias": [
+      {
+       "titular": "Feijóo: \"El cambio es recuperar la ambición del país y la esperanza de los jóvenes\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b072540fdddff343c8b4586.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Feijóo, Sánchez, Abascal y Colau: cuatro formas de conquistarte",
+       "url": "https://www.elmundo.es/podcasts/el-mundo-al-dia/2026/11/26/6b071f27fc6c839c3e8b45cb.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Anticipa el debate a cuatro y su papel de voto estratégico, según Iván Redondo.",
+     "noticias": [
+      {
+       "titular": "Iván Redondo, claro sobre quién va a ser el ganador del debate a cuatro de las elecciones generales 29N: «Tiene muchas opciones de ser el voto estratégico»",
+       "url": "https://www.abc.es/play/television/noticias/ivan-redondo-claro-sobre-ganador-debate-cuatro-20261126155017-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Cuándo es el debate a cuatro de las elecciones con Abascal, Colau, Pedro Sánchez y Feijóo",
+       "url": "https://www.abc.es/play/television/noticias/debate-cuatro-elecciones-generales-29n-sanchez-feijoo-abascal-20261126050000-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge las dudas sobre la limpieza electoral y el choque de Feijóo con el Gobierno en su acto en Madrid.",
+     "noticias": [
+      {
+       "titular": "Tensión electoral: de los avisos sobre un posible fraude al último cartucho del debate a cuatro",
+       "url": "https://www.lavanguardia.com/politica/20261126/11693470/tension-electoral-avisos-sobre-posible-fraude-ultimo-cartucho-debate-cuatro.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Feijóo llama a “culminar las ganas de cambio” y echar a los “delincuentes del Gobierno”",
+       "url": "https://www.lavanguardia.com/politica/20261125/11693483/feijoo-llama-madrid-culminar-ganas-cambio-echar-delincuentes-gobierno.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Ernest Urtasun: “Nos jugamos un Gobierno con motor Vox o con motor Frente Amplio”",
+       "url": "https://www.lavanguardia.com/politica/20261126/11693300/ernest-urtasun-jugamos-gobierno-motor-vox-motor-frente-amplio.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Naufragio de buque con combustible cerca de Ibiza",
+   "resumen": "Un buque de bandera maltesa con unas 7.000 toneladas de gasóleo volcó cerca de Ibiza en su ruta de Algeciras a Barcelona. Hay un marinero muerto y varios tripulantes heridos, y se investigan las causas.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Detalla el origen del barco, la ruta habitual y las diferencias con el caso del Prestige.",
+     "noticias": [
+      {
+       "titular": "Un armador turco, una ruta \"habitual\" y una diferencia crucial con el Prestige: todas las claves del Med Emre, el barco volcado cerca de Ibiza",
+       "url": "https://www.elmundo.es/economia/empresas/2026/11/26/6b082435e85ecede028b4582.html",
+       "seccion": "Artículos Paula María"
+      },
+      {
+       "titular": "Un buque cargado con 7.000 toneladas de gasóleo naufraga cerca de Ibiza: hay un marinero muerto y seis tripulantes heridos",
+       "url": "https://www.elmundo.es/baleares/ibiza/2026/11/26/6b07cf2ee4d4d8cb118b4592.html",
+       "seccion": "Ibiza"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca la cifra de 1,2 millones de litros de combustible y el balance de un fallecido y seis heridos.",
+     "noticias": [
+      {
+       "titular": "Un buque cargado con 1,2 millones de litros de combustible naufraga a 40 kilómetros de Ibiza",
+       "url": "https://www.abc.es/espana/baleares/muere-marino-tras-hundirse-cerca-ibiza-buque-20261126071415-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya el rescate de otros 16 marineros con helicópteros de Salvamento Marítimo.",
+     "noticias": [
+      {
+       "titular": "Alerta por el naufragio de un buque con 7.000 toneladas de gasóleo cerca de Ibiza",
+       "url": "https://www.lavanguardia.com/local/baleares/20261126/11693714/muere-marinero-hundimiento-barco-cargado-1-2-millones-litros-crudo-cerca-eivissa.html",
+       "seccion": "Islas Baleares"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Investigación de la UCO sobre obras en Navarra",
+   "resumen": "La Guardia Civil informa al juez de posibles irregularidades en la adjudicación y ejecución de los túneles de Belate, contratados por el Gobierno navarro.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Señala que la obra fue encargada al socio de Cerdán por 70 millones y que se sospecha un informe amañado.",
+     "noticias": [
+      {
+       "titular": "La UCO detecta \"posibles delitos\" en la mayor obra de Navarra en décadas, que Chivite encargó al socio de Cerdán por 70 millones",
+       "url": "https://www.elmundo.es/espana/2026/11/26/6b080638fdddff29568b4579.html",
+       "seccion": "UCO"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge las sospechas sobre la licitación y la posterior modificación del contrato.",
+     "noticias": [
+      {
+       "titular": "La UCO apunta a posibles irregularidades en la adjudicación de los túneles de Belate del Gobierno de Chivite",
+       "url": "https://www.abc.es/espana/uco-apunta-posibles-irregularidades-adjudicacion-modificados-tuneles-20261126110120-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Intxaurrondo y expediente de la Junta Electoral",
+   "resumen": "La Junta Electoral Central ha abierto un expediente a la periodista Silvia Intxaurrondo, y el Consejo de Administración de RTVE la respalda.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge el respaldo de RTVE y su disposición a dar defensa jurídica, junto con el expediente de un juez en activo contra la periodista.",
+     "noticias": [
+      {
+       "titular": "El Consejo de Administración de RTVE respalda a Silvia Intxaurrondo ante el expediente abierto por la Junta Electoral",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/el-consejo-de-administracion-de-rtve-respalda-a-silvia-intxaurrondo-ante-el-expediente-abierto-por-la-junta-electoral.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Un juez en activo entra en “campaña” con un vídeo en redes contra el Gobierno, el PSOE y la periodista Silvia Intxaurrondo",
+       "url": "https://elpais.com/espana/2026-11-26/un-juez-en-activo-entra-en-campana-con-un-video-en-redes-contra-el-gobierno-el-psoe-y-la-periodista-silvia-intxaurrondo.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Recoge el comunicado de RTVE que califica la medida de inédita y jurídicamente improcedente.",
+     "noticias": [
+      {
+       "titular": "El Consejo de Administración de RTVE expresa su “respaldo y solidaridad” con Intxaurrondo tras expdientarla la JEC",
+       "url": "https://www.lavanguardia.com/television/20261126/11694039/consejo-administracion-rtve-expresa-respaldo-solidaridad-intxaurrondo-expdientarla-jec.html",
+       "seccion": "Televisión"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "medios": [
+  {
+   "medio": "elpais",
+   "nombre": "El País",
+   "resumen": "Prioriza la campaña del 29-N, con entrevistas, programas electorales y modelos de encuesta. En economía destaca el nombramiento de Hernández de Cos y su perfil.",
+   "noticias": [
+    {
+     "titular": "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
+     "url": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html",
+     "seccion": "Economía",
+     "resumen": "Hernández de Cos relevará a Lagarde en el BCE a partir de febrero tras lograr el apoyo de Francia y Alemania."
+    },
+    {
+     "titular": "Sánchez: “Estamos tocando con la yema de los dedos la mayoría progresista, si llegamos al 75% la podemos tener”",
+     "url": "https://elpais.com/espana/2026-11-26/sanchez-estamos-tocando-con-la-yema-de-los-dedos-la-mayoria-progresista-si-llegamos-al-75-la-podemos-tener.html",
+     "seccion": "España",
+     "resumen": "Sánchez afirma que su bloque podría alcanzar la mayoría progresista y acusa a PP y Vox de un trumpismo preventivo."
+    },
+    {
+     "titular": "¿Quién va a ganar las elecciones? La probabilidad de cada mayoría según las encuestas",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-va-a-ganar-las-elecciones-la-probabilidad-de-cada-mayoria-segun-las-encuestas.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El modelo del diario ve probable un gobierno de PP y Vox, aunque el PSOE tiene tendencia a su favor."
+    },
+    {
+     "titular": "Sánchez, Feijóo, Abascal y Colau afrontan un debate clave para la definición de los dos bloques ante el 29-N",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/sanchez-feijoo-abascal-y-colau-afrontan-un-debate-clave-para-la-definicion-de-los-dos-bloques-ante-el-29-n.html",
+     "seccion": "España",
+     "resumen": "Sánchez, Feijóo, Abascal y Colau se citan en un debate a cuatro que marca la definición de los bloques."
+    },
+    {
+     "titular": "El Consejo de Administración de RTVE respalda a Silvia Intxaurrondo ante el expediente abierto por la Junta Electoral",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/el-consejo-de-administracion-de-rtve-respalda-a-silvia-intxaurrondo-ante-el-expediente-abierto-por-la-junta-electoral.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "El Consejo de RTVE respalda a Silvia Intxaurrondo ante el expediente de la Junta Electoral y ofrece defensa jurídica."
+    },
+    {
+     "titular": "Un juez en activo entra en “campaña” con un vídeo en redes contra el Gobierno, el PSOE y la periodista Silvia Intxaurrondo",
+     "url": "https://elpais.com/espana/2026-11-26/un-juez-en-activo-entra-en-campana-con-un-video-en-redes-contra-el-gobierno-el-psoe-y-la-periodista-silvia-intxaurrondo.html",
+     "seccion": "España",
+     "resumen": "Un juez en activo difunde un vídeo contra el Gobierno, el PSOE y la periodista Intxaurrondo."
+    },
+    {
+     "titular": "El Congreso convalida más decretos sociales con subidas salariales a los funcionarios y exención fiscal al SMI",
+     "url": "https://elpais.com/espana/2026-11-26/el-congreso-convalida-mas-decretos-sociales-con-subidas-salariales-a-los-funcionarios-y-mejoras-fiscales.html",
+     "seccion": "España",
+     "resumen": "El Congreso convalida decretos sociales con subidas a funcionarios y exención fiscal al SMI; Vox no acude a la Diputación Permanente."
+    },
+    {
+     "titular": "Vox propone un recorte del gasto público de las dimensiones de la motosierra de Milei",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/vox-propone-un-recorte-del-gasto-publico-de-las-dimensiones-de-la-motosierra-de-milei.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Vox plantea un recorte del gasto público inspirado en la motosierra de Milei, cifrado por su portavoz económico."
+    }
+   ]
+  },
+  {
+   "medio": "elmundo",
+   "nombre": "El Mundo",
+   "resumen": "Pone el foco en la UCO y en la investigación de obras navarras, junto con el naufragio cerca de Ibiza. En política, prioriza el mensaje de Feijóo y el voto en Ceuta.",
+   "noticias": [
+    {
+     "titular": "La UCO detecta \"posibles delitos\" en la mayor obra de Navarra en décadas, que Chivite encargó al socio de Cerdán por 70 millones",
+     "url": "https://www.elmundo.es/espana/2026/11/26/6b080638fdddff29568b4579.html",
+     "seccion": "UCO",
+     "resumen": "La UCO ve posibles delitos en la adjudicación de los túneles de Belate, obra encargada por el Gobierno navarro."
+    },
+    {
+     "titular": "Un buque cargado con 7.000 toneladas de gasóleo naufraga cerca de Ibiza: hay un marinero muerto y seis tripulantes heridos",
+     "url": "https://www.elmundo.es/baleares/ibiza/2026/11/26/6b07cf2ee4d4d8cb118b4592.html",
+     "seccion": "Ibiza",
+     "resumen": "Un buque con 7.000 toneladas de gasóleo naufragó cerca de Ibiza, con un marinero muerto y seis heridos."
+    },
+    {
+     "titular": "La presidenta del Poder Judicial llama al ministro Marlaska por la retirada de la escolta permanente a la juez Biedma",
+     "url": "https://www.elmundo.es/espana/2026/11/26/6b082497fc6c83625b8b457d.html",
+     "seccion": "Audiencia Nacional",
+     "resumen": "La presidenta del Poder Judicial habla con Marlaska por la retirada de la escolta de la juez Biedma."
+    },
+    {
+     "titular": "Hernández de Cos será el próximo presidente del BCE y consigue el cargo europeo de mayor poder en la historia de España",
+     "url": "https://www.elmundo.es/economia/2026/11/26/6b083332fdddff741f8b4595.html",
+     "seccion": "Artículos Daniel Viaña",
+     "resumen": "Hernández de Cos será el próximo presidente del BCE, con nombramiento definitivo en diciembre y toma de cargo en febrero."
+    },
+    {
+     "titular": "Feijóo: \"El cambio es recuperar la ambición del país y la esperanza de los jóvenes\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b072540fdddff343c8b4586.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo cierra campaña apelando al voto útil y prometiendo bajar impuestos en el primer mes de gobierno."
+    },
+    {
+     "titular": "\"El voto musulmán\" sostiene al PSOE en Ceuta con la pugna PP-Vox en un puñado de votos",
+     "url": "https://www.elmundo.es/espana/2026/11/26/6b005c94fc6c83305c8b45b7.html",
+     "seccion": "España",
+     "resumen": "En Ceuta, el voto musulmán sostiene al PSOE en una disputa PP-Vox por un puñado de votos."
+    },
+    {
+     "titular": "El Supremo fija el final de la pena de Ábalos en mayo de 2042 y en noviembre de 2040 la de Koldo",
+     "url": "https://www.elmundo.es/espana/2026/11/26/6b08386ee85eced9618b456e.html",
+     "seccion": "",
+     "resumen": "El Supremo fija el fin de las penas de Ábalos y Koldo en 2042 y 2040, respectivamente."
+    },
+    {
+     "titular": "El acoso 'abertzale' persigue a Jon Echeverría hasta el final de la campaña del PP: \"Si no está la Ertzaintza, nos apedrean\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/26/6b082e7621efa04a508b45a7.html",
+     "seccion": "PP",
+     "resumen": "El candidato del PP en Gipuzkoa, Jon Echeverría, sufre un nuevo acoso durante la campaña en el País Vasco."
+    }
+   ]
+  },
+  {
+   "medio": "abc",
+   "nombre": "ABC",
+   "resumen": "Destaca la elección de Hernández de Cos y las investigaciones judiciales sobre Navarra y Ceuta. Incluye también el debate a cuatro y contenidos de servicio y ocio navideños.",
+   "noticias": [
+    {
+     "titular": "Los líderes europeos eligen a Hernández de Cos como nuevo presidente del BCE",
+     "url": "https://www.abc.es/economia/consejo-europeo-elige-pablo-hernandez-cos-nuevo-20261126142403-nt.html",
+     "seccion": "",
+     "resumen": "Los líderes de la eurozona alcanzan un acuerdo para elegir a Hernández de Cos como presidente del BCE."
+    },
+    {
+     "titular": "La UCO apunta a posibles irregularidades en la adjudicación de los túneles de Belate del Gobierno de Chivite",
+     "url": "https://www.abc.es/espana/uco-apunta-posibles-irregularidades-adjudicacion-modificados-tuneles-20261126110120-nt.html",
+     "seccion": "",
+     "resumen": "La UCO apunta a irregularidades en la adjudicación de los túneles de Belate y remite un nuevo informe al juez."
+    },
+    {
+     "titular": "El cónsul de Tetuán reconoce el encuentro en El Tarajal de Ceuta dos días antes de la entrada masiva",
+     "url": "https://www.abc.es/espana/consul-tetuan-reconoce-visita-delegacion-gobierno-ceuta-20261126134747-nt.html",
+     "seccion": "",
+     "resumen": "El cónsul en Tetuán reconoce que se reunió en Ceuta con un jefe de Gabinete dos días antes de la entrada masiva de inmigrantes."
+    },
+    {
+     "titular": "Un buque cargado con 1,2 millones de litros de combustible naufraga a 40 kilómetros de Ibiza",
+     "url": "https://www.abc.es/espana/baleares/muere-marino-tras-hundirse-cerca-ibiza-buque-20261126071415-nt.html",
+     "seccion": "",
+     "resumen": "Un buque con 1,2 millones de litros de combustible naufraga a 40 km de Ibiza; un tripulante muerto y seis heridos."
+    },
+    {
+     "titular": "Iván Redondo, claro sobre quién va a ser el ganador del debate a cuatro de las elecciones generales 29N: «Tiene muchas opciones de ser el voto estratégico»",
+     "url": "https://www.abc.es/play/television/noticias/ivan-redondo-claro-sobre-ganador-debate-cuatro-20261126155017-nt.html",
+     "seccion": "",
+     "resumen": "Iván Redondo anticipa que el ganador del debate a cuatro podría ser el voto estratégico."
+    },
+    {
+     "titular": "Cuándo es el debate a cuatro de las elecciones con Abascal, Colau, Pedro Sánchez y Feijóo",
+     "url": "https://www.abc.es/play/television/noticias/debate-cuatro-elecciones-generales-29n-sanchez-feijoo-abascal-20261126050000-nt.html",
+     "seccion": "",
+     "resumen": "Explica cuándo se celebra el debate a cuatro y el papel de los indecisos en la recta final."
+    },
+    {
+     "titular": "El presidente de BlackRock señala a España como mercado estratégico ante uno de los mayores ciclos inversores de la historia",
+     "url": "https://www.abc.es/espana/cataluna/presidente-blackrock-augura-mayores-ciclos-inversion-historia-20261126161011-nt.html",
+     "seccion": "",
+     "resumen": "Larry Fink, de BlackRock, señala a España como mercado estratégico ante un ciclo inversor histórico."
+    },
+    {
+     "titular": "Elon Musk podrá lanzar un millón de nuevos satélites y los astrónomos se oponen: «Estamos consternados»",
+     "url": "https://www.abc.es/ciencia/elon-musk-podra-lanzar-millon-nuevos-satelites-20261126163245-nt.html",
+     "seccion": "",
+     "resumen": "La FCC autoriza a SpaceX una constelación de hasta un millón de satélites, lo que preocupa a los astrónomos."
+    }
+   ]
+  },
+  {
+   "medio": "lavanguardia",
+   "nombre": "La Vanguardia",
+   "resumen": "Pone el foco en la campaña catalana y en las tensiones electorales, con la candidatura de Hernández de Cos como noticia de economía. Incluye también el naufragio de Ibiza en Baleares.",
+   "noticias": [
+    {
+     "titular": "El español Pablo Hernández de Cos será el próximo presidente del BCE",
+     "url": "https://www.lavanguardia.com/economia/20261126/11693870/espanol-pablo-hernandez-cos-sera-proximo-presidente-bce.html",
+     "seccion": "Economía",
+     "resumen": "España liderará por primera vez el BCE con Hernández de Cos, tras el respaldo de los líderes europeos."
+    },
+    {
+     "titular": "Tensión electoral: de los avisos sobre un posible fraude al último cartucho del debate a cuatro",
+     "url": "https://www.lavanguardia.com/politica/20261126/11693470/tension-electoral-avisos-sobre-posible-fraude-ultimo-cartucho-debate-cuatro.html",
+     "seccion": "Política",
+     "resumen": "Las dudas sobre la limpieza electoral se usan, según el diario, para desacreditar a Sánchez y movilizar al electorado de PP y Vox."
+    },
+    {
+     "titular": "Feijóo llama a “culminar las ganas de cambio” y echar a los “delincuentes del Gobierno”",
+     "url": "https://www.lavanguardia.com/politica/20261125/11693483/feijoo-llama-madrid-culminar-ganas-cambio-echar-delincuentes-gobierno.html",
+     "seccion": "Política",
+     "resumen": "Feijóo pide culminar el cambio en un acto multitudinario en Madrid acompañado por Ayuso y Almeida."
+    },
+    {
+     "titular": "Ernest Urtasun: “Nos jugamos un Gobierno con motor Vox o con motor Frente Amplio”",
+     "url": "https://www.lavanguardia.com/politica/20261126/11693300/ernest-urtasun-jugamos-gobierno-motor-vox-motor-frente-amplio.html",
+     "seccion": "Política",
+     "resumen": "Urtasun advierte al PSOE de que no son unas elecciones presidenciales ante su llamada al voto útil."
+    },
+    {
+     "titular": "Vivienda e inmigración centran los choques de los candidatos catalanes a tres días del 29-N",
+     "url": "https://www.lavanguardia.com/economia/20261126/11694095/vivienda-inmigracion-candidatos-catalunya-29n.html",
+     "seccion": "Economía",
+     "resumen": "En Cataluña, vivienda e inmigración centran los choques de los candidatos en el Cercle d'Economia."
+    },
+    {
+     "titular": "La diputación permanente da luz verde a los cinco últimos decretos del Gobierno",
+     "url": "https://www.lavanguardia.com/politica/20261126/11694060/diputacion-permanente-da-luz-verde-cinco-ultimos-decretos-gobierno.html",
+     "seccion": "Política",
+     "resumen": "La Diputación Permanente da luz verde a los cinco últimos decretos del Gobierno, con el plantón de Vox."
+    },
+    {
+     "titular": "Puigdemont regresará a Catalunya sin aclarar su futuro pero deja algunas pistas",
+     "url": "https://www.lavanguardia.com/politica/20261126/11693457/puigdemont-regresara-catalunya-aclarar-futuro-deja-pistas.html",
+     "seccion": "Política",
+     "resumen": "Puigdemont volverá a Cataluña sin aclarar si mantendrá su acta de diputado en el Parlament."
+    },
+    {
+     "titular": "Alerta por el naufragio de un buque con 7.000 toneladas de gasóleo cerca de Ibiza",
+     "url": "https://www.lavanguardia.com/local/baleares/20261126/11693714/muere-marinero-hundimiento-barco-cargado-1-2-millones-litros-crudo-cerca-eivissa.html",
+     "seccion": "Islas Baleares",
+     "resumen": "Salvamento Marítimo rescata a 16 marineros tras el naufragio de un buque con 7.000 toneladas de gasóleo cerca de Ibiza."
+    }
+   ]
+  }
+ ]
+}
