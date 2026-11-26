@@ -1,17 +1,228 @@
 {
- "fecha": "2026-11-25",
- "franja": "tarde",
- "generada": "2026-11-25T17:17+01:00",
+ "fecha": "2026-11-26",
+ "franja": "mañana",
+ "generada": "2026-11-26T01:45+01:00",
  "con_ia": true,
- "resumen_dia": "Las elecciones generales del 29-N dominan la portada de los cuatro diarios, con el debate del jueves, las encuestas y el voto en el extranjero en el centro. También destacan el regreso de Puigdemont el 12 de diciembre, la movilización del 25-N contra la violencia de género y el nuevo anuncio de aranceles de Estados Unidos a la UE. En Canarias, la llegada récord de migrantes a El Hierro sigue ocupando espacio.",
+ "resumen_dia": "Las elecciones generales del 29-N dominan la portada de los cuatro diarios, con la campaña en su última semana: debates, voto por correo y los mítines de PP y PSOE. También destacan el 25-N, con manifestaciones en toda España contra la violencia machista, y el regreso de Puigdemont a Barcelona previsto para el 12 de diciembre. En lo internacional, varios diarios recogen el plan de aranceles de Trump y el caso de Abrego García.",
  "temas_comunes": [
   {
-   "titulo": "Regreso de Puigdemont a Cataluña el 12 de diciembre",
-   "resumen": "Puigdemont anuncia que volverá en avión a Barcelona el sábado 12 de diciembre y que acudirá al Parlament. Lo confirma en declaraciones desde Bruselas.",
+   "titulo": "Recta final de la campaña del 29-N",
+   "resumen": "Los candidatos afrontan la última semana antes de las elecciones generales del 29 de noviembre, con mítines, un debate a cuatro y entrevistas en canales de YouTube. Las campañas se centran en el voto útil y en el electorado indeciso.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Recoge el anuncio con la frase de que regresa 3.315 días después, subrayando el tiempo transcurrido.",
+     "enfoque": "Destaca el apagón de encuestas, el promedio propio del diario y el debate final de cuatro candidatos, con el mitin de Feijóo pidiendo el voto de socialistas.",
+     "noticias": [
+      {
+       "titular": "Llega el apagón de encuestas: ¿Qué dice el promedio con las últimas?",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/llega-el-apagon-de-encuestas-que-dice-el-promedio-con-todas-las-ultimas.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Feijóo pide el voto “prestado” a “los socialistas avergonzados para limpiar al PSOE”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/feijoo-pide-el-voto-prestado-a-los-socialistas-avergonzados-para-limpiar-al-psoe.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Los cuatro candidatos, ante el último gran debate: así se prepara la cita decisiva de este jueves",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/los-cuatro-candidatos-ante-el-ultimo-gran-debate-asi-se-prepara-la-cita-decisiva-de-este-jueves.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge el mensaje de Feijóo sobre el voto del cambio y la previsión de tono de Sánchez en el debate, con la posición de Abascal como elemento central.",
+     "noticias": [
+      {
+       "titular": "Feijóo: \"El cambio es recuperar la ambición del país y la esperanza de los jóvenes\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b072540fdddff343c8b4586.html",
+       "seccion": "Elecciones Generales"
+      },
+      {
+       "titular": "Sánchez busca la revancha en un debate en el que Abascal \"complica\" la posición de Feijóo: \"No pueden ir a un pacto de no agresión\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b070c74fdddff89748b456e.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Se fija en el mitin del PP en la Caja Mágica y en las cartas personales enviadas por Feijóo durante la campaña.",
+     "noticias": [
+      {
+       "titular": "Feijóo promete devolver la «decencia» al Gobierno y derribar el muro sanchista",
+       "url": "https://www.abc.es/espana/madrid/feijoo-promete-devolver-decencia-gobierno-derribar-muro-20261125213242-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Las cartas de Feijóo en campaña: 600 misivas personales a particulares, deportistas y asociaciones",
+       "url": "https://www.abc.es/espana/cartas-feijoo-campana-600-enviadas-asociaciones-deportistas-20261126202148-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Incluye el baño de masas de Feijóo en Madrid, la caravana de Vox y el análisis de las estrategias electorales hacia el voto indeciso.",
+     "noticias": [
+      {
+       "titular": "Feijóo llama a “culminar las ganas de cambio” y echar a los “delincuentes del Gobierno”",
+       "url": "https://www.lavanguardia.com/politica/20261125/11693483/feijoo-llama-madrid-culminar-ganas-cambio-echar-delincuentes-gobierno.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Vox acusa al PSOE de destrozar las certezas de los trabajadores",
+       "url": "https://www.lavanguardia.com/politica/20261125/11693466/vox-acusa-psoe-destrozar-certezas-trabajadores.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Del voto útil a los youtubers: las estrategias electorales para conquistar al indeciso",
+       "url": "https://www.lavanguardia.com/videos/claves-del-dia/20261125/11693405/voto-util-youtubers-estrategias-electorales-conquistar-indeciso.html",
+       "seccion": "Claves del día"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Entrevistas de Plex a Sánchez y Feijóo",
+   "resumen": "Los dos principales candidatos han participado en entrevistas con el youtuber Plex, con 15 millones de seguidores en su canal. Ambas piezas se publicaron como parte de la campaña.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Subraya el formato del encuentro y el alcance del canal, con un titular centrado en la forma de las entrevistas.",
+     "noticias": [
+      {
+       "titular": "Dos horas con Plex: Sánchez sueña con ser juez en el ‘GTA VI’ y Feijóo tiembla en un coche a 247 kilómetros por hora",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/dos-horas-con-plex-sanchez-suena-con-ser-juez-en-el-gta-vi-y-feijoo-tiembla-en-un-coche-a-247-kilometros-por-hora.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Recoge las declaraciones de ambos candidatos durante sus entrevistas, con referencias a la velocidad y a la adrenalina.",
+     "noticias": [
+      {
+       "titular": "Pedro Sánchez invita a Plex a un plan en bici: «Me ayuda a soltar mucha adrenalina»",
+       "url": "https://www.abc.es/gente/pedro-sanchez-invita-plex-plan-bici-ayuda-20261125211320-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Feijóo le cuenta a Plex cómo se siente con su meme más famoso: «Me enfadó un poco, pero después me ha encantado»",
+       "url": "https://www.abc.es/gente/feijoo-cuenta-plex-siente-meme-famoso-enfado-20261125224848-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Resume las dos entrevistas con una descripción de cada visita, en casa de Sánchez y en el circuito del Jarama con Feijóo.",
+     "noticias": [
+      {
+       "titular": "Así han sido las entrevistas de Plex con Pedro Sánchez y Alberto Núñez Feijóo",
+       "url": "https://www.lavanguardia.com/politica/20261125/11693418/sanchez-entrevista-plex-nunca-pense-llegaria-presidente-gobierno.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Voto por correo y voto exterior",
+   "resumen": "Más de un millón de personas han pedido el voto por correo, con colas en algunas oficinas. Los consulados en el extranjero también son objeto de sospechas sobre el proceso de votación.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca el número de solicitudes de voto por correo y las colas para votar, con referencia a las dudas sembradas por PP y Vox.",
+     "noticias": [
+      {
+       "titular": "Colas interminables para votar por correo en la recta final de la campaña electoral: “Esto es bárbaro”",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/colas-interminables-para-votar-por-correo-en-la-recta-final-de-la-campana-electoral-esto-es-barbaro.html",
+       "seccion": "Elecciones Generales"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Se centra en irregularidades y participación en el voto desde el extranjero, con casos de sobres sin llegar a París y Milán.",
+     "noticias": [
+      {
+       "titular": "Sorpresas e irregularidades en el voto por correo: crece la participación en América y sobres que no llegan a París y Milán",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b07109bfc6c837f368b45b2.html",
+       "seccion": "José Manuel Albares"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Enfoca las sospechas sobre el voto exterior, con consulados que habrían fabricado sobres y papeletas por falta de material a tiempo.",
+     "noticias": [
+      {
+       "titular": "Los consulados 'fabricaron' sobres y papeletas para el voto exterior al no llegarles a tiempo los del 29N",
+       "url": "https://www.abc.es/espana/numerosos-consulados-recibieron-tiempo-sobres-papeletas-necesarios-20261125022920-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Violencia machista y 25-N",
+   "resumen": "Miles de personas se manifiestan en España con motivo del Día Internacional contra la Violencia de Género. La jornada incluye casos recientes de asesinatos de mujeres en Murcia, Chiclana y Bullas.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Recoge las manifestaciones y la advertencia sobre un posible retroceso de derechos de las mujeres, con lemas ligados a la campaña.",
+     "noticias": [
+      {
+       "titular": "Decenas de miles de personas llenan las calles en un 25-N marcado por la campaña: “Hay que salir. Hay políticos que niegan la violencia de género”",
+       "url": "https://elpais.com/sociedad/2026-11-25/decenas-de-miles-de-personas-salen-a-las-calles-en-un-25-n-marcado-por-la-campana-hay-que-salir-mas-ahora-que-hay-politicos-que-niegan-la-violencia-de-genero.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Subraya la presencia política en las calles y el nuevo caso en Murcia, junto con dos casos de asesinatos en Chiclana y Bullas.",
+     "noticias": [
+      {
+       "titular": "El 25-N toma las calles con una importante presencia política en la recta final de campaña",
+       "url": "https://www.lavanguardia.com/vida/20261125/11693458/25-n-toma-calles-espana-marcado-presencia-politica-cuatro-dias-elecciones.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "El dolor de las madres que han perdido a sus hijas por violencia machista",
+       "url": "https://www.lavanguardia.com/vida/20261125/11692409/madres-hijas-victimas-25n-violencia-machista-genero.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Detenido un hombre por matar a su pareja, una mujer hallada semienterrada en octubre en Chiclana",
+       "url": "https://www.lavanguardia.com/vida/20261125/11693043/detenido-hombre-matar-pareja-mujer-hallada-semienterrada-octubre-chiclana.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Un hombre asesina a su novia en Bullas y se da a la fuga",
+       "url": "https://www.lavanguardia.com/vida/20261125/11693160/guardia-civil-investiga-asesinato-mujer-32-anos-bullas-murcia.html",
+       "seccion": "Sociedad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Puigdemont anuncia su regreso el 12 de diciembre",
+   "resumen": "El expresidente catalán Carles Puigdemont volverá a Barcelona el sábado 12 de diciembre y acudirá al Parlament. Anuncia una nueva ofensiva para el reconocimiento de la República catalana.",
+   "medios": [
+    {
+     "medio": "elpais",
+     "enfoque": "Destaca la frase del anuncio y el tono de su regreso, tras 3.315 días fuera.",
      "noticias": [
       {
        "titular": "Puigdemont anuncia que regresará a Barcelona el sábado 12 de diciembre “sin pedir perdón ni permiso”",
@@ -22,29 +233,18 @@
     },
     {
      "medio": "elmundo",
-     "enfoque": "Destaca sus palabras sobre el fracaso del Estado y su mención a dormir en casa con su familia.",
+     "enfoque": "Subraya la nueva ofensiva política que plantea Puigdemont tras su vuelta y el recibimiento en el Parlament.",
      "noticias": [
       {
-       "titular": "Puigdemont volverá a España el 12 de diciembre tras la amnistía: \"El Estado ha fracasado, regresaré a mi país, a Cataluña, sin pedir perdón ni permiso\"",
-       "url": "https://www.elmundo.es/espana/2026/11/25/6b06b417fc6c83ba038b458e.html",
-       "seccion": "Artículos Daniel Viaña"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Señala que el anuncio se adelantó hace quince días y detalla el viaje directo a Barcelona.",
-     "noticias": [
-      {
-       "titular": "Puigdemont confirma que regresará a España el 12 de diciembre «sin pedir permiso ni perdón»",
-       "url": "https://www.abc.es/espana/cataluna/puigdemont-volvere-diciembre-mediodia-parlament-20261125111313-nt.html",
-       "seccion": ""
+       "titular": "Puigdemont lanzará su nueva ofensiva para lograr \"el reconocimiento oficial de la República Catalana\" con su regreso en 16 días",
+       "url": "https://www.elmundo.es/cataluna/2026/11/25/6b0714f5e4d4d869358b4570.html",
+       "seccion": "NLPremium"
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Enfoca la recepción en el Parlament en el sábado tras el puente de la Purísima, antes del último pleno.",
+     "enfoque": "Recoge la confirmación del regreso y el encaje de la visita en el calendario parlamentario, tras el puente de la Purísima.",
      "noticias": [
       {
        "titular": "Puigdemont confirma que regresará a Catalunya el 12 de diciembre y acudirá al Parlament",
@@ -56,166 +256,38 @@
    ]
   },
   {
-   "titulo": "Aranceles de Estados Unidos a la UE y otros socios",
-   "resumen": "Washington propone nuevos aranceles a catorce socios comerciales, entre ellos China, Japón y la UE, tras una investigación sobre exceso de capacidad industrial. Bruselas rechaza la premisa.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge la respuesta de Bruselas, que toma nota pero rechaza que Europa sea fuente de sobrecapacidad.",
-     "noticias": [
-      {
-       "titular": "EEUU anuncia nuevos aranceles a la UE, China o Japón tras una investigación formal sobre presuntos subsidios y exceso de capacidad industrial",
-       "url": "https://www.elmundo.es/economia/2026/11/25/6b06ef89e4d4d8ad388b45b2.html",
-       "seccion": "Artículos Pablo R. Suanzes"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Presenta la propuesta como una reapertura de la guerra comercial, con China y la UE en el punto de mira.",
-     "noticias": [
-      {
-       "titular": "Trump reabre la guerra comercial: propone nuevos aranceles a 14 socios, incluidos China y la UE",
-       "url": "https://www.abc.es/internacional/trump-reabre-guerra-comercial-propone-nuevos-aranceles-20261125154933-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Subraya que la medida incluye a los 27 miembros de la UE y que se plantea pese al rechazo de los votantes estadounidenses.",
-     "noticias": [
-      {
-       "titular": "Trump desvela un nuevo plan para imponer aranceles, incluidos China y los 27 miembros de la UE",
-       "url": "https://www.lavanguardia.com/economia/20261125/11693211/trump-desvela-nuevo-plan-imponer-aranceles-incluidos-china-27-miembros-ue.html",
-       "seccion": "Economía"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Llegada de Kilmar Ábrego a Madrid",
-   "resumen": "El salvadoreño Kilmar Ábrego García aterriza en Madrid tras elegir España como destino de su salida de Estados Unidos, después de haber sido deportado.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Recoge las palabras de su abogado, que critica la intención de deportarlo esposado a Liberia.",
-     "noticias": [
-      {
-       "titular": "El abogado del migrante Kilmar Ábrego a su llegada a Madrid: \"El Gobierno de Trump quiso deportarlo esposado en un avión a Liberia. Él ahora decide su destino\"",
-       "url": "https://www.elmundo.es/internacional/2026/11/25/6b06df0e21efa04d1e8b4581.html",
-       "seccion": "Estados Unidos"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Describe la llegada a Madrid y el paso previo por un centro de detención en Maryland.",
-     "noticias": [
-      {
-       "titular": "Kilmar Abrego, el salvadoreño deportado ilegalmente por el ICE, aterriza en Madrid tras su salida voluntaria de EE.UU.",
-       "url": "https://www.abc.es/internacional/kilmar-abrego-salvadoreno-deportado-ice-aterriza-madrid-20261125125251-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Lo presenta como símbolo de la resistencia a la represión de Trump y evita la deportación forzosa a África.",
-     "noticias": [
-      {
-       "titular": "Abrego García, símbolo de la resistencia a la represión de Trump, se autodeporta a España",
-       "url": "https://www.lavanguardia.com/internacional/20261125/11692783/abrego-garcia-simbolo-resistencia-represion-migratoria-trump-auto-deporta-espana.html",
-       "seccion": "Internacional"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Llegadas de migrantes a Canarias y El Hierro",
-   "resumen": "El Gobierno canario declara la emergencia sanitaria en El Hierro y pide apoyo de la UME. Se rescatan casi 2.000 personas en 24 horas en la Ruta Canaria.",
-   "medios": [
-    {
-     "medio": "elmundo",
-     "enfoque": "Centra el foco en la declaración de emergencia y la petición de reunión urgente con la Comisión Europea.",
-     "noticias": [
-      {
-       "titular": "El Gobierno canario declara la emergencia sanitaria en El Hierro y solicita el apoyo de la UME ante el \"desborde\" de los recursos por la crisis migratoria",
-       "url": "https://www.elmundo.es/espana/2026/11/25/6b0702d1e9cf4a2c308b4584.html",
-       "seccion": "Canarias"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Destaca el récord de rescates en 24 horas, con 1.971 personas en 14 cayucos.",
-     "noticias": [
-      {
-       "titular": "Canarias bate su propio récord de llegadas con más de 1.900 inmigrantes rescatados en El Hierro en 24 horas",
-       "url": "https://www.abc.es/espana/canarias/madrugada-intensa-canarias-604-inmigrantes-rescatados-tres-20261124120137-nt.html",
-       "seccion": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Violencia de género y movilización del 25-N",
-   "resumen": "Se celebran manifestaciones contra la violencia machista el Día Internacional de la Eliminación de la Violencia contra las Mujeres. Se citan 49 asesinatos de mujeres por sus parejas o exparejas este año.",
+   "titulo": "Debate y propuestas migratorias",
+   "resumen": "La migración aparece en la campaña con el plan de deportaciones de un ideólogo ligado a Vox y con un choque entre bloques por la gestión migratoria. España también pide a Frontex un despliegue en Senegal.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Cobertura en directo con declaraciones de la ministra Ana Redondo y el temor a un retroceso si la ultraderecha entra en el Gobierno.",
+     "enfoque": "Recoge el plan de deportaciones propuesto por el Instituto para la Remigración y sus vínculos con Abascal.",
      "noticias": [
       {
-       "titular": "Manifestaciones 25-N contra la violencia de género, en directo | Ana Redondo defiende situarse con las mujeres que sufren el “terrorismo privado” de la violencia machista: “No cabe la equidistancia”",
-       "url": "https://elpais.com/sociedad/2026-11-25/manifestaciones-25-n-contra-la-violencia-de-genero-en-directo.html",
-       "seccion": "Sociedad"
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Incluye testimonios de madres que han perdido a sus hijas y una columna de opinión sobre víctimas recientes.",
-     "noticias": [
-      {
-       "titular": "El dolor de las madres que han perdido a sus hijas por violencia machista",
-       "url": "https://www.lavanguardia.com/vida/20261125/11692409/madres-hijas-victimas-25n-violencia-machista-genero.html",
-       "seccion": "Sociedad"
-      },
-      {
-       "titular": "Nos queremos vivas",
-       "url": "https://www.lavanguardia.com/opinion/20261125/11692218/queremos-vivas.html",
-       "seccion": "Opinión"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Frase de Álvarez de Toledo sobre Sánchez y el piso de Ábalos",
-   "resumen": "La dirigente del PP Ana de Toledo afirma en un acto del 25-N que el Gobierno puso un piso a una mujer en Madrid, en referencia a la expareja de Ábalos.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Sitúa la declaración en el edificio donde residió la expareja de Ábalos, junto a críticas de Azcón y Ezcurra desde Teruel.",
-     "noticias": [
-      {
-       "titular": "Álvarez de Toledo lanza un mensaje este 25N desde el edificio donde residió la expareja de Ábalos: “El Gobierno le puso un piso a una puta”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/alvarez-de-toledo-lanza-un-mensaje-este-25n-desde-el-edificio-donde-residio-la-expareja-de-abalos-el-gobierno-le-puso-un-piso-a-una-puta.html",
+       "titular": "El ideólogo de la “remigración” europea lanza en plena campaña un plan de deportaciones para un hipotético Gobierno del PP y Vox",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/el-ideologo-de-la-remigracion-europea-lanza-en-plena-campana-un-plan-de-deportaciones-para-un-hipotetico-gobierno-del-pp-y-vox.html",
        "seccion": "Elecciones Generales"
       }
      ]
     },
     {
-     "medio": "lavanguardia",
-     "enfoque": "Recoge la frase literal en el contexto de lugares vinculados a casos de corrupción y prostitución.",
+     "medio": "elmundo",
+     "enfoque": "Destaca la petición española a Frontex para desplegar un avión en Senegal sin convenio firmado.",
      "noticias": [
       {
-       "titular": "Álvarez de Toledo, sobre la política de vivienda de Sánchez: “Le puso un piso a una puta en la Plaza de España”",
-       "url": "https://www.lavanguardia.com/politica/20261125/11693170/alvarez-toledo-resume-politica-vivienda-sanchez-le-puso-piso-puta-plaza-espana.html",
+       "titular": "España pide a Frontex desplegar un avión en Senegal aunque no ha logrado firmar un convenio tras años de crisis migratoria",
+       "url": "https://www.elmundo.es/espana/2026/11/25/6b0727e2e85ecea7758b45a4.html",
+       "seccion": "inmigración"
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Se centra en el enfrentamiento entre PP, Vox y bloque de izquierdas sobre la gestión migratoria.",
+     "noticias": [
+      {
+       "titular": "Urtasun y Rufián acusan de “racismo” a PP y Vox, que defienden un giro en gestión migratoria",
+       "url": "https://www.lavanguardia.com/politica/20261126/11693514/urtasun-rufian-acusan-racismo-pp-vox-defienden-giro-gestion-migratoria.html",
        "seccion": "Política"
       }
      ]
@@ -227,220 +299,220 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña del 29-N, con encuestas, voto útil, entrevistas y el debate del jueves. Añade la movilización del 25-N y casos de trata.",
+   "resumen": "Prioriza la campaña electoral, con promedios de encuestas, entrevistas a candidatos y el mitin de Feijóo. También recoge temas sociales como las manifestaciones del 25-N y la liberación de víctimas de trata.",
    "noticias": [
     {
-     "titular": "El nerviosismo del PP en la recta final: resucita el fantasma del pucherazo y admite la posibilidad de un empate con el PSOE",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/el-nerviosismo-del-pp-en-la-recta-final-resucita-el-fantasma-del-pucherazo-y-admite-la-posibilidad-de-un-empate-con-el-psoe.html",
+     "titular": "Llega el apagón de encuestas: ¿Qué dice el promedio con las últimas?",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/llega-el-apagon-de-encuestas-que-dice-el-promedio-con-todas-las-ultimas.html",
      "seccion": "Elecciones Generales",
-     "resumen": "El PP muestra nerviosismo en la recta final: menciona el temor a un pucherazo y admite un posible empate con el PSOE."
+     "resumen": "Tras el apagón de encuestas, el diario publica su promedio con los últimos sondeos antes de la votación."
     },
     {
      "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Análisis del voto útil por provincia según las últimas encuestas, con 40 escaños que el modelo del diario considera en juego."
-    },
-    {
-     "titular": "Llega el apagón de encuestas: ¿Qué dice el promedio con las últimas?",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/llega-el-apagon-de-encuestas-que-dice-el-promedio-con-todas-las-ultimas.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Publica el último promedio de encuestas antes del apagón electoral y una herramienta para construir uno propio."
+     "resumen": "Analiza el voto útil por provincias y estima que hay 40 escaños en juego según su modelo."
     },
     {
      "titular": "Los cuatro candidatos, ante el último gran debate: así se prepara la cita decisiva de este jueves",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/los-cuatro-candidatos-ante-el-ultimo-gran-debate-asi-se-prepara-la-cita-decisiva-de-este-jueves.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Anuncia el último debate del jueves entre Sánchez, Feijóo, Abascal y Colau, con cinco bloques y turnos sorteados."
+     "resumen": "Explica el formato del último debate de cuatro candidatos, con cinco bloques temáticos y orden por sorteo."
     },
     {
-     "titular": "Manifestaciones 25-N contra la violencia de género, en directo | Ana Redondo defiende situarse con las mujeres que sufren el “terrorismo privado” de la violencia machista: “No cabe la equidistancia”",
-     "url": "https://elpais.com/sociedad/2026-11-25/manifestaciones-25-n-contra-la-violencia-de-genero-en-directo.html",
+     "titular": "Feijóo pide el voto “prestado” a “los socialistas avergonzados para limpiar al PSOE”",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/feijoo-pide-el-voto-prestado-a-los-socialistas-avergonzados-para-limpiar-al-psoe.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo se dirige a votantes socialistas críticos con el PSOE y da por ganada la suma de la derecha en Madrid."
+    },
+    {
+     "titular": "El ideólogo de la “remigración” europea lanza en plena campaña un plan de deportaciones para un hipotético Gobierno del PP y Vox",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/el-ideologo-de-la-remigracion-europea-lanza-en-plena-campana-un-plan-de-deportaciones-para-un-hipotetico-gobierno-del-pp-y-vox.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Un ideólogo de la remigración propone un plan de deportaciones para un posible Gobierno de PP y Vox."
+    },
+    {
+     "titular": "Decenas de miles de personas llenan las calles en un 25-N marcado por la campaña: “Hay que salir. Hay políticos que niegan la violencia de género”",
+     "url": "https://elpais.com/sociedad/2026-11-25/decenas-de-miles-de-personas-salen-a-las-calles-en-un-25-n-marcado-por-la-campana-hay-que-salir-mas-ahora-que-hay-politicos-que-niegan-la-violencia-de-genero.html",
      "seccion": "Sociedad",
-     "resumen": "Cobertura en directo de las manifestaciones del 25-N, con 49 mujeres asesinadas por parejas o exparejas este año."
+     "resumen": "Decenas de miles de personas se manifiestan por el 25-N, con la violencia de género y los derechos de las mujeres en el centro."
     },
     {
      "titular": "Puigdemont anuncia que regresará a Barcelona el sábado 12 de diciembre “sin pedir perdón ni permiso”",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/puigdemont-anuncia-que-regresara-a-barcelona-el-sabado-12-de-diciembre.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Puigdemont anuncia su regreso a Barcelona el 12 de diciembre y su paso por el Parlament."
-    },
-    {
-     "titular": "Álvarez de Toledo lanza un mensaje este 25N desde el edificio donde residió la expareja de Ábalos: “El Gobierno le puso un piso a una puta”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/alvarez-de-toledo-lanza-un-mensaje-este-25n-desde-el-edificio-donde-residio-la-expareja-de-abalos-el-gobierno-le-puso-un-piso-a-una-puta.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Dirigentes del PP lanzan críticas al PSOE desde lugares vinculados al exministro Ábalos."
+     "resumen": "Puigdemont volverá a Barcelona el 12 de diciembre y acudirá al Parlament."
     },
     {
      "titular": "Creían que iban a cuidar a personas mayores y las obligaron a prostituirse las 24 horas, siete días a la semana",
      "url": "https://elpais.com/sociedad/2026-11-25/creian-que-iban-a-cuidar-a-personas-mayores-y-las-obligaron-a-prostituirse-las-24-horas-siete-dias-a-la-semana.html",
      "seccion": "España",
-     "resumen": "Liberadas 11 mujeres víctimas de trata con fines sexuales captadas con falsas ofertas de trabajo."
+     "resumen": "Liberadas once mujeres víctimas de trata con fines sexuales captadas con falsas ofertas de trabajo."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Destaca el voto de los españoles en el extranjero y la disputa sobre el censo exterior, junto con la última agenda del Consejo de Ministros. Incluye también el caso Plus Ultra y temas de Estonia y Canarias.",
+   "resumen": "Pone el foco en la campaña y en el voto exterior, con irregularidades en el voto por correo. También destaca la investigación sobre el accidente ferroviario de Adamuz.",
    "noticias": [
     {
-     "titular": "Ley de nietos: urnas de cartón, participación masiva y muchas dudas",
-     "url": "https://www.elmundo.es/podcasts/el-mundo-al-dia/2026/11/25/6b05e783e4d4d8251d8b457c.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Cientos de miles de votos del censo exterior están suspendidos por dudas sobre cómo creció ese censo bajo el Gobierno."
-    },
-    {
-     "titular": "Puigdemont volverá a España el 12 de diciembre tras la amnistía: \"El Estado ha fracasado, regresaré a mi país, a Cataluña, sin pedir perdón ni permiso\"",
-     "url": "https://www.elmundo.es/espana/2026/11/25/6b06b417fc6c83ba038b458e.html",
-     "seccion": "Artículos Daniel Viaña",
-     "resumen": "Puigdemont anuncia su regreso el 12 de diciembre y critica que el Estado ha fracasado."
-    },
-    {
-     "titular": "El legado de Sánchez al próximo Gobierno en Bruselas: un gasto público \"disparado\", amenaza de expediente y una gestión fiscal sin presupuestos \"que no es la ideal\"",
-     "url": "https://www.elmundo.es/economia/2026/11/25/6b05af6de4d4d8a35c8b459a.html",
-     "seccion": "Artículos Daniel Viaña",
-     "resumen": "La Comisión Europea alerta de un posible procedimiento contra España por el gasto público y la gestión fiscal."
-    },
-    {
-     "titular": "¿Adiós al IVA trimestral? Las claves de la rebaja fiscal a los autónomos: qué cambia, quién gana y quién se queda fuera",
-     "url": "https://www.elmundo.es/economia/2026/11/25/6b05c5ba21efa0d46b8b459c.html",
-     "seccion": "Artículos Gabriela Galarza",
-     "resumen": "El Gobierno aprueba en su último Consejo de Ministros una rebaja del IRPF para autónomos y una declaración anual para quienes facturan menos de 85.000 euros."
-    },
-    {
-     "titular": "EEUU anuncia nuevos aranceles a la UE, China o Japón tras una investigación formal sobre presuntos subsidios y exceso de capacidad industrial",
-     "url": "https://www.elmundo.es/economia/2026/11/25/6b06ef89e4d4d8ad388b45b2.html",
-     "seccion": "Artículos Pablo R. Suanzes",
-     "resumen": "EEUU propone nuevos aranceles a la UE, China y Japón; Bruselas rechaza la premisa de sobrecapacidad."
-    },
-    {
-     "titular": "El Gobierno canario declara la emergencia sanitaria en El Hierro y solicita el apoyo de la UME ante el \"desborde\" de los recursos por la crisis migratoria",
-     "url": "https://www.elmundo.es/espana/2026/11/25/6b0702d1e9cf4a2c308b4584.html",
-     "seccion": "Canarias",
-     "resumen": "Canarias declara la emergencia sanitaria en El Hierro y pide apoyo de la UME ante la llegada masiva de migrantes."
-    },
-    {
-     "titular": "Los investigadores de la Aitat alertan del riesgo de que se repita la tragedia de Adamuz tras constatar fallos de seguridad que no se han corregido",
-     "url": "https://www.elmundo.es/andalucia/2026/11/25/6b06b5b721efa046268b458d.html",
+     "titular": "Adif validó en 2020 el sistema que no detectó la rotura de la vía de Adamuz que dejó 46 muertos",
+     "url": "https://www.elmundo.es/andalucia/2026/11/25/6b06d406fdddffe3308b45b0.html",
      "seccion": "Andalucía",
-     "resumen": "La Aitat advierte del riesgo de repetir la tragedia de Adamuz por fallos de seguridad no corregidos."
+     "resumen": "El borrador de informe de los investigadores apunta a que el sistema validado por Adif en 2020 no detectó la rotura de la vía y que el accidente podría repetirse."
     },
     {
-     "titular": "María Corina Machado: \"La verdad de los negocios oscuros del chavismo con España se sabrá y será peor\"",
-     "url": "https://www.elmundo.es/internacional/2026/11/24/6b05e07ae85ecea73c8b45a0.html",
-     "seccion": "María Corina Machado",
-     "resumen": "María Corina Machado denuncia que los negocios del chavismo con España, incluido el caso Plus Ultra, esconden un desfalco mayor."
+     "titular": "Feijóo: \"El cambio es recuperar la ambición del país y la esperanza de los jóvenes\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b072540fdddff343c8b4586.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Feijóo pide voto útil para el cambio y promete bajar impuestos en el primer mes de Gobierno."
+    },
+    {
+     "titular": "Sánchez busca la revancha en un debate en el que Abascal \"complica\" la posición de Feijóo: \"No pueden ir a un pacto de no agresión\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b070c74fdddff89748b456e.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Moncloa prevé que Sánchez adopte un tono serio en el debate, donde Abascal complica la posición de Feijóo."
+    },
+    {
+     "titular": "Sorpresas e irregularidades en el voto por correo: crece la participación en América y sobres que no llegan a París y Milán",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b07109bfc6c837f368b45b2.html",
+     "seccion": "José Manuel Albares",
+     "resumen": "Irregularidades y aumento de participación en el voto por correo desde el extranjero, con sobres que no llegan a París y Milán."
+    },
+    {
+     "titular": "Puigdemont lanzará su nueva ofensiva para lograr \"el reconocimiento oficial de la República Catalana\" con su regreso en 16 días",
+     "url": "https://www.elmundo.es/cataluna/2026/11/25/6b0714f5e4d4d869358b4570.html",
+     "seccion": "NLPremium",
+     "resumen": "Puigdemont prepara una nueva ofensiva por el reconocimiento de la República catalana tras su regreso el día 12."
+    },
+    {
+     "titular": "España pide a Frontex desplegar un avión en Senegal aunque no ha logrado firmar un convenio tras años de crisis migratoria",
+     "url": "https://www.elmundo.es/espana/2026/11/25/6b0727e2e85ecea7758b45a4.html",
+     "seccion": "inmigración",
+     "resumen": "España pide a Frontex un avión en Senegal, pero sin convenio firmado y sin vía jurídica clara según el entorno de la agencia."
+    },
+    {
+     "titular": "La engañifa del impuesto a la banca: Hacienda elude desvelar en el BOE cómo repartirlo entre las CCAA y el Banco de España se mantiene en contra",
+     "url": "https://www.elmundo.es/economia/2026/11/26/6b0723c521efa0a0268b459f.html",
+     "seccion": "Artículos Carlos Segovia",
+     "resumen": "Hacienda no aclara en el BOE el reparto del impuesto a la banca entre comunidades autónomas."
+    },
+    {
+     "titular": "Los estudiantes venezolanos, a María Corina Machado: \"Hemos perdido el miedo\"",
+     "url": "https://www.elmundo.es/internacional/2026/11/25/6b072fa8e9cf4a77538b45a2.html",
+     "seccion": "Venezuela",
+     "resumen": "María Corina Machado recibe apoyo de estudiantes venezolanos en la Universidad Central."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Pone el foco en la agenda política y en medidas aprobadas en el último Consejo de Ministros, como la prohibición de vapeadores de sabores. Dedica espacio también a la migración en Canarias y a la política internacional.",
+   "resumen": "Combina la campaña electoral con temas de sociedad, ciencia y entretenimiento. Destaca las sospechas sobre el voto exterior y la cobertura de los candidatos en canales de YouTube.",
    "noticias": [
     {
-     "titular": "Puigdemont confirma que regresará a España el 12 de diciembre «sin pedir permiso ni perdón»",
-     "url": "https://www.abc.es/espana/cataluna/puigdemont-volvere-diciembre-mediodia-parlament-20261125111313-nt.html",
+     "titular": "Los consulados 'fabricaron' sobres y papeletas para el voto exterior al no llegarles a tiempo los del 29N",
+     "url": "https://www.abc.es/espana/numerosos-consulados-recibieron-tiempo-sobres-papeletas-necesarios-20261125022920-nt.html",
      "seccion": "",
-     "resumen": "Puigdemont confirma que volverá a España el 12 de diciembre y que se dirigirá al Parlament nada más llegar."
+     "resumen": "Los consulados habrían fabricado sobres y papeletas para el voto exterior al no llegarles a tiempo los del 29-N."
     },
     {
-     "titular": "El Gobierno aprobó de tapadillo en el Consejo de Ministros la prohibición de los váper de sabores",
-     "url": "https://www.abc.es/sociedad/gobierno-aprobo-tapadillo-prohibicion-vaper-sabores-consejo-20261125115918-nt.html",
+     "titular": "Feijóo promete devolver la «decencia» al Gobierno y derribar el muro sanchista",
+     "url": "https://www.abc.es/espana/madrid/feijoo-promete-devolver-decencia-gobierno-derribar-muro-20261125213242-nt.html",
      "seccion": "",
-     "resumen": "El Gobierno aprobó en el último Consejo de Ministros la prohibición de los vapeadores de sabores, sin mención en la rueda de prensa."
+     "resumen": "Feijóo promete devolver la decencia al Gobierno en el mitin central del PP en la Caja Mágica."
     },
     {
-     "titular": "La Comunidad de Madrid lleva ante el TC el decreto de vivienda por invasión de competencias",
-     "url": "https://www.abc.es/espana/madrid/comunidad-madrid-lleva-ante-tc-decreto-vivienda-20261125133335-nt.html",
+     "titular": "Las cartas de Feijóo en campaña: 600 misivas personales a particulares, deportistas y asociaciones",
+     "url": "https://www.abc.es/espana/cartas-feijoo-campana-600-enviadas-asociaciones-deportistas-20261126202148-nt.html",
      "seccion": "",
-     "resumen": "La Comunidad de Madrid recurre ante el Constitucional el decreto estatal de vivienda por considerar que invade competencias autonómicas."
+     "resumen": "Feijóo ha enviado unas 600 cartas personales a particulares, deportistas y asociaciones durante la campaña."
     },
     {
-     "titular": "Trump reabre la guerra comercial: propone nuevos aranceles a 14 socios, incluidos China y la UE",
-     "url": "https://www.abc.es/internacional/trump-reabre-guerra-comercial-propone-nuevos-aranceles-20261125154933-nt.html",
+     "titular": "Pedro Sánchez invita a Plex a un plan en bici: «Me ayuda a soltar mucha adrenalina»",
+     "url": "https://www.abc.es/gente/pedro-sanchez-invita-plex-plan-bici-ayuda-20261125211320-nt.html",
      "seccion": "",
-     "resumen": "EEUU propone aranceles a catorce socios comerciales, entre ellos China y la UE, por exceso de capacidad industrial."
+     "resumen": "Sánchez visita el canal de Plex en su casa y habla de la adrenalina que le provoca andar en bici."
     },
     {
-     "titular": "Canarias bate su propio récord de llegadas con más de 1.900 inmigrantes rescatados en El Hierro en 24 horas",
-     "url": "https://www.abc.es/espana/canarias/madrugada-intensa-canarias-604-inmigrantes-rescatados-tres-20261124120137-nt.html",
+     "titular": "Feijóo le cuenta a Plex cómo se siente con su meme más famoso: «Me enfadó un poco, pero después me ha encantado»",
+     "url": "https://www.abc.es/gente/feijoo-cuenta-plex-siente-meme-famoso-enfado-20261125224848-nt.html",
      "seccion": "",
-     "resumen": "Canarias registra 1.971 rescates en 24 horas en la Ruta Canaria, récord para el archipiélago."
-    },
-    {
-     "titular": "Los hutíes ganan terreno y extienden la guerra al corazón de Arabia Saudí",
-     "url": "https://www.abc.es/internacional/huties-ganan-terreno-extienden-guerra-corazon-arabia-20261125153945-nt.html",
-     "seccion": "",
-     "resumen": "Los hutíes avanzan en Yemen y extienden los ataques a Arabia Saudí con misiles y drones."
-    },
-    {
-     "titular": "Kilmar Abrego, el salvadoreño deportado ilegalmente por el ICE, aterriza en Madrid tras su salida voluntaria de EE.UU.",
-     "url": "https://www.abc.es/internacional/kilmar-abrego-salvadoreno-deportado-ice-aterriza-madrid-20261125125251-nt.html",
-     "seccion": "",
-     "resumen": "Kilmar Ábrego García aterriza en Madrid tras elegir España como destino de su autodeportación desde EEUU."
+     "resumen": "Feijóo se sube al coche de Plex en el circuito del Jarama y comenta el meme que le hizo famoso."
     },
     {
      "titular": "España supera el millón de animales utilizados en experimentación científica, un 27% más que el año anterior",
      "url": "https://www.abc.es/ciencia/espana-supera-millon-animales-utilizados-experimentacion-cientifica-20261125160142-nt.html",
      "seccion": "",
-     "resumen": "España registra más de un millón de animales usados en experimentación científica en 2025, un 26,7% más que el año anterior."
+     "resumen": "España registró más de un millón de usos de animales en experimentación científica en 2025, un 26,7% más que el año anterior."
+    },
+    {
+     "titular": "Nueva York prohíbe los juguetes que incluyen chatbots de IA: «Podrían ser peligrosos para vuestros hijos»",
+     "url": "https://www.abc.es/tecnologia/electronica/nueva-york-prohibe-juguetes-incluyen-chatbots-ia-20261125182627-nt.html",
+     "seccion": "",
+     "resumen": "Nueva York prohíbe durante cinco años los juguetes con chatbots de inteligencia artificial."
+    },
+    {
+     "titular": "Más de 700.000 soldados rusos han muerto en casi cinco años de guerra en Ucrania",
+     "url": "https://www.abc.es/internacional/700000-soldados-rusos-muerto-muertos-cinco-anos-20261125183734-nt.html",
+     "seccion": "",
+     "resumen": "Más de 700.000 soldados rusos habrían muerto en la guerra de Ucrania, según estimaciones sobre la falta de datos oficiales."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Centra la portada en la campaña electoral, con foco en el voto útil, la corrupción en el PSOE y las propuestas de los partidos. Incluye también la política catalana y la violencia machista.",
+   "resumen": "Da peso a la política catalana y nacional, con el 25-N y la campaña en las calles. También incluye la situación de Abrego García y del joven catalán detenido por el ICE.",
    "noticias": [
     {
-     "titular": "La estrategia de Feijóo y Sánchez para captar el voto útil enoja a sus aliados",
-     "url": "https://www.lavanguardia.com/politica/20261125/11692520/estrategia-feijoo-sanchez-captar-voto-util-enoja-aliados.html",
+     "titular": "El 25-N toma las calles con una importante presencia política en la recta final de campaña",
+     "url": "https://www.lavanguardia.com/vida/20261125/11693458/25-n-toma-calles-espana-marcado-presencia-politica-cuatro-dias-elecciones.html",
+     "seccion": "Sociedad",
+     "resumen": "El 25-N reúne a políticos en las calles mientras se investiga un nuevo posible crimen machista en Murcia."
+    },
+    {
+     "titular": "Feijóo llama a “culminar las ganas de cambio” y echar a los “delincuentes del Gobierno”",
+     "url": "https://www.lavanguardia.com/politica/20261125/11693483/feijoo-llama-madrid-culminar-ganas-cambio-echar-delincuentes-gobierno.html",
      "seccion": "Política",
-     "resumen": "Vox y Frente Amplio critican la estrategia de PP y PSOE para captar el voto útil en la recta final."
+     "resumen": "Feijóo pide culminar el cambio y echar a los delincuentes del Gobierno en un acto en Madrid con Ayuso y Almeida."
     },
     {
      "titular": "Sánchez circunscribe a un caso la corrupción en su Gobierno: “Ábalos me ha hecho mucho daño”",
      "url": "https://www.lavanguardia.com/politica/20261125/11692920/sanchez-alerta-gobierno-pp-vox-esfumen-derechos-libertades.html",
      "seccion": "Política",
-     "resumen": "Sánchez atribuye la corrupción en su Gobierno a un caso, el de Ábalos, y advierte de riesgos con un Gobierno de PP y Vox."
-    },
-    {
-     "titular": "Albiol: “Revisaremos el impuesto de patrimonio y el de sucesiones: castigan a los catalanes”",
-     "url": "https://www.lavanguardia.com/politica/20261125/11692524/albiol-revisaremos-impuesto-patrimonio-sucesiones-castigan-catalanes.html",
-     "seccion": "Política",
-     "resumen": "Albiol anuncia que el PP revisará los impuestos de patrimonio y sucesiones y aspira a gobernar en solitario."
-    },
-    {
-     "titular": "Corrupción y transparencia en las elecciones del 29-N: ¿qué promete cada partido?",
-     "url": "https://www.lavanguardia.com/politica/20261125/11692262/corrupcion-transparencia-29-n-que-promete-partido.html",
-     "seccion": "Política",
-     "resumen": "Comparativa de los programas electorales sobre corrupción y transparencia: recuperación de fondos, control del gasto y visibilidad de influencias."
+     "resumen": "Sánchez atribuye la corrupción en su Gobierno a un caso concreto, el de Ábalos, y alerta sobre los riesgos de un Gobierno de PP y Vox."
     },
     {
      "titular": "Puigdemont confirma que regresará a Catalunya el 12 de diciembre y acudirá al Parlament",
      "url": "https://www.lavanguardia.com/politica/20261125/11692596/puigdemont-confirma-regresara-catalunya-12-diciembre-acudira-parlament.html",
      "seccion": "Política",
-     "resumen": "Puigdemont regresará a Catalunya el 12 de diciembre y será recibido en el Parlament."
+     "resumen": "Puigdemont confirma que estará en el Parlament el 12 de diciembre, justo antes del último pleno del periodo de sesiones."
     },
     {
      "titular": "Trump desvela un nuevo plan para imponer aranceles, incluidos China y los 27 miembros de la UE",
      "url": "https://www.lavanguardia.com/economia/20261125/11693211/trump-desvela-nuevo-plan-imponer-aranceles-incluidos-china-27-miembros-ue.html",
      "seccion": "Economía",
-     "resumen": "Trump plantea aranceles que incluyen a los 27 países de la UE, pese al rechazo de los votantes en las elecciones de medio plazo."
+     "resumen": "La Casa Blanca plantea nuevos aranceles que incluirían a China y a los 27 países de la UE, según el plan de Trump."
     },
     {
-     "titular": "El Estado de bienestar se tambalea",
-     "url": "https://www.lavanguardia.com/politica/20261125/11692585/bienestar-tambalea.html",
+     "titular": "Abrego García, símbolo de la resistencia a la represión de Trump, se autodeporta a España",
+     "url": "https://www.lavanguardia.com/internacional/20261125/11692783/abrego-garcia-simbolo-resistencia-represion-migratoria-trump-auto-deporta-espana.html",
+     "seccion": "Internacional",
+     "resumen": "Abrego García se autodeporta a España tras evitar un traslado forzoso a África."
+    },
+    {
+     "titular": "La abogada del joven catalán encarcelado por el ICE: “La respuesta de EE.UU. no nos sirve”",
+     "url": "https://www.lavanguardia.com/internacional/20261125/11693161/abogada-joven-catalan-encarcelado-ice-respuesta-ee-uu-sirve.html",
+     "seccion": "Internacional",
+     "resumen": "La abogada de un joven catalán encarcelado por el ICE rechaza la propuesta de salida de EE.UU. ofrecida por la agencia."
+    },
+    {
+     "titular": "Urtasun y Rufián acusan de “racismo” a PP y Vox, que defienden un giro en gestión migratoria",
+     "url": "https://www.lavanguardia.com/politica/20261126/11693514/urtasun-rufian-acusan-racismo-pp-vox-defienden-giro-gestion-migratoria.html",
      "seccion": "Política",
-     "resumen": "Reportaje sobre el deterioro del Estado de bienestar en sanidad, educación y servicios sociales."
-    },
-    {
-     "titular": "Detenido un hombre por matar a su pareja, una mujer hallada semienterrada en octubre en Chiclana",
-     "url": "https://www.lavanguardia.com/vida/20261125/11693043/detenido-hombre-matar-pareja-mujer-hallada-semienterrada-octubre-chiclana.html",
-     "seccion": "Sociedad",
-     "resumen": "Detenido un hombre por matar a su pareja, hallada semienterrada en Chiclana; la víctima tenía un caso activo en VioGén."
+     "resumen": "Urtasun y Rufián acusan de racismo a PP y Vox por su propuesta de giro en la gestión migratoria."
     }
    ]
   }
