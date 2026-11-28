@@ -1,114 +1,69 @@
 {
  "fecha": "2026-11-28",
- "franja": "mañana",
- "generada": "2026-11-28T01:16+01:00",
+ "franja": "tarde",
+ "generada": "2026-11-28T15:38+01:00",
  "con_ia": true,
- "resumen_dia": "La campaña para las elecciones generales del 29-N entra en su último día con los cuatro grandes partidos cerrando mítines y con el debate a cuatro y el \"calladita\" de Feijóo como ejes del tramo final. El País prevé un gobierno de PP y Vox según su modelo, pero sin garantía, mientras que Sánchez busca una mayoría de izquierdas sin depender de Junts. En otros frentes, el accidente de Adamuz vuelve a ocupar espacio por el informe pericial sobre las vías, y se conocen el remolque del Med Emre a Cartagena y la retirada de Marc Márquez del motociclismo.",
+ "resumen_dia": "La jornada de reflexión previa a las elecciones generales del 29-N marca el cierre de la campaña, con los sondeos y los modelos de los diarios apuntando a una mayoría de PP y Vox como resultado más probable, aunque con margen de incertidumbre. Los cuatro diarios dedican buena parte de su portada a los movimientos de los candidatos en la jornada y a la movilización de cara al domingo. Además aparecen asuntos de actualidad como la crisis migratoria en Canarias y Ceuta, el traslado del buque Med Emre a Cartagena y la investigación sobre el accidente de Adamuz.",
  "temas_comunes": [
   {
-   "titulo": "Cierres de campaña de los cuatro candidatos",
-   "resumen": "PSOE, PP, Vox y Frente Amplio celebran sus últimos actos antes de las elecciones del 29-N. Sánchez lo hace en la Caja Mágica de Madrid, Feijóo en Sevilla, Abascal en la plaza de toros de Valencia y Frente Amplio en Villaverde.",
+   "titulo": "Jornada de reflexión y movimientos de los candidatos",
+   "resumen": "Los principales candidatos pasan el día de reflexión sin actos públicos: Feijóo viaja a Ceuta y Sánchez practica deporte o descansa, mientras Colau viaja en tren a Barcelona. La jornada precede a la votación del domingo 29 de noviembre.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Pone el foco en las cifras de asistencia y en el mensaje de cada líder, destacando el mitin de Sánchez como el más multitudinario de su trayectoria.",
+     "enfoque": "Recoge en directo la jornada con el detalle de la agenda de cada líder, con un tono de crónica de las horas previas al voto.",
      "noticias": [
       {
-       "titular": "Sánchez culmina su sexta campaña con el mitin más multitudinario de su trayectoria: “Tenemos la mayoría progresista a la vista, ¡sí se puede!”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/sanchez-culmina-su-sexta-campana-con-el-mitin-mas-multitudinario-de-su-trayectoria-tenemos-la-mayoria-progresista-a-la-vista-si-se-puede.html",
+       "titular": "Feijóo viaja a Ceuta en la jornada de reflexión para pelear los últimos votos",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/feijoo-viaja-a-ceuta-en-la-jornada-de-reflexion-para-pelear-los-ultimos-votos.html",
        "seccion": "Elecciones Generales"
       },
       {
-       "titular": "Feijóo apela a la izquierda pese a confiar en una mayoría de derechas: “Préstanos tu voto para volver a la honestidad”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/feijoo-apela-a-la-izquierda-pese-a-confiar-en-una-mayoria-de-derechas-prestanos-tu-voto-para-volver-a-la-honestidad.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Frente Amplio evoca el espíritu de 2023 para “volver a ganar” las generales",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/frente-amplio-evoca-el-espiritu-de-2023-para-volver-a-ganar-las-generales.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Abascal cierra su campaña con una traca de insultos y descalificaciones contra Pedro Sánchez",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/abascal-cierra-su-campana-con-una-traca-de-insultos-y-descalificaciones-contra-pedro-sanchez.html",
+       "titular": "Elecciones generales del 29-N, la jornada de reflexión en directo | Sánchez pasa el día haciendo deporte, Montero pasea con su perra y Rufián come con la familia, mientras Feijóo viaja a Ceuta",
+       "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/ultima-hora-de-la-jornada-de-reflexion-de-las-elecciones-generales-del-29-n-en-directo.html",
        "seccion": "Elecciones Generales"
       }
      ]
     },
     {
      "medio": "elmundo",
-     "enfoque": "Describe la campaña como una elección entre cambio de Gobierno o no y subraya las hipotecas de los dos grandes partidos con sus socios.",
+     "enfoque": "Presenta el viaje de Feijóo a Ceuta como un compromiso personal con el presidente local y pone el foco en las actividades de Sánchez y Colau.",
      "noticias": [
       {
-       "titular": "Los partidos cierran una campaña de unas elecciones en las que se elige desde la trinchera: cambio de Gobierno, sí o no",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09d179e85ece701c8b4577.html",
-       "seccion": "Elecciones Generales"
+       "titular": "Alberto Núñez Feijóo visita Ceuta en la jornada de reflexión del 29-N como muestra de \"apoyo y solidaridad\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b0abb9921efa09a3f8b459a.html",
+       "seccion": "España"
       },
       {
-       "titular": "Feijóo cierra la campaña pidiendo el voto a \"quienes dudan\" y que nunca antes votaron al PP: \"La decencia no es de izquierdas ni de derechas\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09a44afc6c83041b8b4587.html",
-       "seccion": "Andalucía"
-      },
-      {
-       "titular": "Abascal exhibe fuerza desde una Plaza de Toros de Valencia abarrotada y llama a votar sin miedo: \"¡Echadle cojones y ovarios!\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09d315fdddff93658b4592.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Colau devuelve la fe al Frente Amplio y llama a los que \"no se rinden\" ni \"callan\" para la \"remontada\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09f0b0e9cf4ab7248b45ac.html",
-       "seccion": "Frente Amplio"
+       "titular": "Pedro Sánchez apuesta por la bicicleta y Ada Colau viaja en tren a Barcelona en la jornada de reflexión del 29-N",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b0adf2521efa0525f8b4589.html",
+       "seccion": "España"
       }
      ]
     },
     {
      "medio": "abc",
-     "enfoque": "Recoge el ambiente de los actos y ofrece cifras de asistentes distintas según la fuente, como en el caso de Valencia.",
+     "enfoque": "Contrapone la visita de Feijóo a Ceuta con el deporte de Sánchez en un resumen de la jornada.",
      "noticias": [
       {
-       "titular": "Abascal abarrota la Plaza de Toros de Valencia y apunta al «canalla» Sánchez: «Has provocado muertes»",
-       "url": "https://www.abc.es/espana/abascal-abarrota-plaza-toros-valencia-apunta-canalla-20261127213303-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Sánchez se da un festival con Almodóvar, batucada y 'Los Planetas' para alentar el relato de la remontada",
-       "url": "https://www.abc.es/espana/sanchez-festival-cierre-campana-almodovar-batucada-planetas-20261127202951-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Frente Amplio desafía la cordura y apela a una remontada épica en el cierre de campaña",
-       "url": "https://www.abc.es/espana/frente-amplio-desafia-cordura-apela-remontada-epica-20261127212312-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Feijóo, en Sevilla: «Si el domingo votamos todos juntos, se acabó. Pido el voto de la izquierda»",
-       "url": "https://www.abc.es/espana/andalucia/feijoo-cierre-campana-sevilla-domingo-votamos-juntos-20261127202432-nts.html",
+       "titular": "El día de reflexión de los candidatos: Feijóo viaja a Ceuta mientras Sánchez hace deporte",
+       "url": "https://www.abc.es/espana/dia-reflexion-candidatos-feijoo-ceuta-20261128100308-nt.html",
        "seccion": ""
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Enfoca los actos en la movilización socialista, el mensaje de Feijóo al votante del PSOE y el llamamiento de Abascal a echar a Sánchez.",
+     "enfoque": "Describe la pausa de los candidatos entre paseos, música y tiempo con la familia, incluyendo a Rufián y Nogueras.",
      "noticias": [
       {
-       "titular": "Feijóo apela al votante crítico del PSOE en Sevilla: “No os pido que cambiéis de ideología”",
-       "url": "https://www.lavanguardia.com/politica/20261127/11695380/feijoo-apela-votante-critico-psoe-ultimo-mitin-campana-sevilla-pido-cambieis-ideologia.html",
+       "titular": "Ceuta, paseos por el campo y música electrónica: así pasan los candidatos la jornada de reflexión",
+       "url": "https://www.lavanguardia.com/politica/20261128/11695688/ceuta-paseos-campo-musica-electronica-asi-pasan-candidatos-jornada-reflexion.html",
        "seccion": "Política"
       },
       {
-       "titular": "Sánchez cierra su campaña en Madrid con la mayor movilización socialista desde 1982",
-       "url": "https://www.lavanguardia.com/politica/20261127/11695394/sanchez-cierra-campana-madrid-mayor-movilizacion-socialista-1982.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Abascal pide “votar sin miedo” para reconstruir España y “echar a Sánchez de La Moncloa”",
-       "url": "https://www.lavanguardia.com/local/valencia/20261127/11695376/abascal-pide-votar-miedo-reconstruir-espana-echar-sanchez-moncloa.html",
-       "seccion": "Comunidad Valenciana"
-      },
-      {
-       "titular": "Sánchez, a por una “movilización histórica” para una “remontada épica”",
-       "url": "https://www.lavanguardia.com/politica/20261127/11694367/sanchez-movilizacion-historica-remontada-epica.html",
+       "titular": "Elecciones generales 2026 en España: jornada de reflexión del 29N, dónde votar y el horario de los colegios, en directo",
+       "url": "https://www.lavanguardia.com/politica/20261128/11695652/elecciones-generales-2026-29n-jornada-de-reflexion-ultima-hora-hoy-en-directo.html",
        "seccion": "Política"
       }
      ]
@@ -116,87 +71,12 @@
    ]
   },
   {
-   "titulo": "Debate a cuatro y la frase \"calladita\"",
-   "resumen": "La frase de Feijóo a Colau durante el debate a cuatro del jueves ha sido reutilizada por Sánchez y Ayuso en sus intervenciones. El debate también ha impulsado a Frente Amplio, según varios diarios.",
+   "titulo": "Previsiones electorales y escenarios de mayoría",
+   "resumen": "Los modelos y encuestas recogidos por los diarios sitúan como resultado más probable una mayoría de PP y Vox, aunque no descartan una victoria del PSOE ni otros escenarios. Se citan unos 40 escaños en juego.",
    "medios": [
     {
      "medio": "elpais",
-     "enfoque": "Recoge la frase de Feijóo, la respuesta de Colau y la reafirmación del candidato popular, así como la reacción de Ayuso.",
-     "noticias": [
-      {
-       "titular": "“Y usted, calladita”: la polémica frase de Feijóo a Colau durante el debate",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/colau-cuestiona-a-feijoo-que-mantenga-a-mazon-aforado-y-el-lider-del-pp-le-contesta-que-estuvo-calladita.html",
-       "seccion": "Elecciones Generales"
-      },
-      {
-       "titular": "Ayuso llama “ofendidita” a Colau y la acusa de estar “calladita” mientras “arruinaba Barcelona”",
-       "url": "https://elpais.com/espana/madrid/2026-11-27/ayuso-llama-ofendidita-a-colau-y-le-acusa-de-estar-calladita-mientras-arruinaba-barcelona.html",
-       "seccion": "Comunidad de Madrid"
-      },
-      {
-       "titular": "Sánchez culmina su sexta campaña con el mitin más multitudinario de su trayectoria: “Tenemos la mayoría progresista a la vista, ¡sí se puede!”",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/sanchez-culmina-su-sexta-campana-con-el-mitin-mas-multitudinario-de-su-trayectoria-tenemos-la-mayoria-progresista-a-la-vista-si-se-puede.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "elmundo",
-     "enfoque": "Vincula la frase al cierre de campaña de Sánchez y a la coalición con Frente Amplio.",
-     "noticias": [
-      {
-       "titular": "Sánchez ficha a Almodóvar y Los Planetas para su cierre de campaña y exprime el \"usted, calladita\" de Feijóo: \"Las mujeres hablarán alto y claro en contra de la involución\"",
-       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09c80efdddff4f258b45b6.html",
-       "seccion": "Elecciones Generales"
-      }
-     ]
-    },
-    {
-     "medio": "abc",
-     "enfoque": "Analiza los datos del debate: interrupciones de Sánchez a Feijóo y palabras más usadas.",
-     "noticias": [
-      {
-       "titular": "Los datos del debate a cuatro: alusiones, ataques y palabras más usadas",
-       "url": "https://www.abc.es/espana/datos-debate-cuatro-alusiones-ataques-palabras-usadas-20261127084730-nt.html",
-       "seccion": ""
-      },
-      {
-       "titular": "Frente Amplio desafía la cordura y apela a una remontada épica en el cierre de campaña",
-       "url": "https://www.abc.es/espana/frente-amplio-desafia-cordura-apela-remontada-epica-20261127212312-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
-     "medio": "lavanguardia",
-     "enfoque": "Señala el impulso del debate para Frente Amplio y publica verificaciones de las afirmaciones hechas.",
-     "noticias": [
-      {
-       "titular": "Frente Amplio exprime el éxito en el debate a cuatro para recuperar impulso",
-       "url": "https://www.lavanguardia.com/politica/20261127/11695396/frente-amplio-exprime-exito-debate-colau-recuperar-impulso-calladita.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Verdad, falso o engañoso: las verificaciones del debate electoral a cuatro",
-       "url": "https://www.lavanguardia.com/politica/20261127/11695087/verificaciones-debate-electoral-cuatro-29-n.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Calladita... y el dedito",
-       "url": "https://www.lavanguardia.com/opinion/20261128/11695397/calladita-dedito.html",
-       "seccion": "Opinión"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "titulo": "Previsiones y escaños en juego",
-   "resumen": "Los diarios analizan qué escaños decidirán las elecciones y qué movimientos de voto son determinantes. El País calcula unos 40 escaños en el aire y ABC sitúa 14 escaños clave del PP.",
-   "medios": [
-    {
-     "medio": "elpais",
-     "enfoque": "Ofrece probabilidades de mayoría según su modelo y un análisis de los flujos de voto desde 2023.",
+     "enfoque": "Cuantifica la probabilidad de cada mayoría con su modelo y advierte de que el PSOE tiene una tendencia favorable, con 40 escaños en el aire.",
      "noticias": [
       {
        "titular": "¿Quién va a ganar las elecciones? La probabilidad de cada mayoría según las encuestas",
@@ -209,40 +89,35 @@
        "seccion": "Elecciones Generales"
       },
       {
-       "titular": "¿Qué movimientos deciden las elecciones del 29-N? Fugas de la izquierda, abstencionistas y nuevos votantes",
-       "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/que-movimientos-deciden-las-elecciones-del-29-n-fugas-de-la-izquierda-abstencionistas-y-nuevos-votantes.html",
+       "titular": "La victoria del PSOE y otras sorpresas posibles, según las encuestas",
+       "url": "https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-11-28/la-victoria-del-psoe-y-otras-sorpresas-posibles-segun-las-encuestas.html",
+       "seccion": "España"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Centra el análisis en los 14 escaños que el PP considera clave frente a una izquierda movilizada.",
+     "noticias": [
+      {
+       "titular": "El PP se juega 14 escaños clave frente a una izquierda movilizada: \"Ya pasó en 2023\"",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b09d1c8e85eceb5238b459f.html",
        "seccion": "Elecciones Generales"
       }
      ]
     },
     {
-     "medio": "abc",
-     "enfoque": "Pone el foco en las 14 circunscripciones donde el PP se juega el último escaño frente a la izquierda o nacionalistas.",
-     "noticias": [
-      {
-       "titular": "El PP se juega 14 escaños claves con la izquierda o nacionalistas",
-       "url": "https://www.abc.es/espana/pp-juega-catorce-escanos-claves-izquierda-nacionalistas-20261127191147-nt.html",
-       "seccion": ""
-      }
-     ]
-    },
-    {
      "medio": "lavanguardia",
-     "enfoque": "Sitúa a Junts y ERC en Cataluña como actores para el resultado en Madrid y analiza la estrategia de Feijóo en las grandes provincias.",
+     "enfoque": "Subraya que el voto se derechiza mientras los valores no cambian, y que Vox aspira a un papel clave en la gobernabilidad.",
      "noticias": [
       {
-       "titular": "Junts confía en dar la vuelta a los sondeos para que Catalunya sea clave en Madrid",
-       "url": "https://www.lavanguardia.com/politica/20261127/11695391/junts-confia-dar-vuelta-sondeos-catalunya-sea-clave-madrid.html",
+       "titular": "Vox espera tener un rol fundamental en la gobernabilidad de España",
+       "url": "https://www.lavanguardia.com/politica/20261127/11695382/vox-espera-rol-fundamental-gobernabilidad-espana.html",
        "seccion": "Política"
       },
       {
-       "titular": "ERC se aferra al tirón de Rufián y apela a no conformarse con el mal menor sino “exigir más” al PSOE",
-       "url": "https://www.lavanguardia.com/politica/20261127/11695346/erc-aferra-tiron-rufian-apela-conformarse-mal-menor-exigir-mas-psoe.html",
-       "seccion": "Política"
-      },
-      {
-       "titular": "Feijóo, muy presente en las grandes provincias durante la campaña para atar el Gobierno",
-       "url": "https://www.lavanguardia.com/politica/20261127/11694369/feijoo-presente-grandes-provincias-campana-atar-gobierno.html",
+       "titular": "Las tribus políticas ante el 29-N: el voto se derechiza; los valores, no",
+       "url": "https://www.lavanguardia.com/politica/20261128/11695270/29-n-tribu-politica-valores-voto-derecha.html",
        "seccion": "Política"
       }
      ]
@@ -250,37 +125,135 @@
    ]
   },
   {
-   "titulo": "Accidente de Adamuz y el Med Emre",
-   "resumen": "Se conocen nuevos datos sobre el accidente ferroviario de Adamuz, con la antigüedad de las vías en el punto del choque, y el Gobierno ordena remolcar el buque Med Emre a Cartagena pese a la oposición de Murcia.",
+   "titulo": "Cierre de campaña y llamamientos a la movilización",
+   "resumen": "Feijóo pide un apoyo fuerte para gobernar, Sánchez cierra en Madrid con un mitin multitudinario y Frente Amplio busca recuperar impulso tras el debate a cuatro.",
    "medios": [
     {
-     "medio": "elmundo",
-     "enfoque": "Recoge el informe pericial que cuestiona la renovación de las vías y la investigación sobre la mala praxis de la tripulación del Med Emre.",
+     "medio": "elpais",
+     "enfoque": "Dedica el análisis a la campaña en televisión, repasando los momentos mediáticos más destacados de los candidatos.",
      "noticias": [
       {
-       "titular": "La Guardia Civil desmonta la \"renovación integral\" de Óscar Puente en Adamuz: traviesas, vías y balasto de 1990 en el punto exacto del accidente",
-       "url": "https://www.elmundo.es/andalucia/2026/11/27/6b094bf5fdddfff9158b457b.html",
-       "seccion": "Andalucía"
-      },
+       "titular": "De Broncano con Abascal a los zapatos de María Casado en el atril: los 13 momentos televisivos que han marcado esta campaña electoral",
+       "url": "https://elpais.com/television/2026-11-28/de-broncano-con-abascal-a-los-zapatos-de-maria-casado-en-el-atril-los-13-momentos-televisivos-que-han-marcado-esta-campana-electoral.html",
+       "seccion": "Televisión"
+      }
+     ]
+    },
+    {
+     "medio": "elmundo",
+     "enfoque": "Ofrece un cuestionario para que el lector compare sus ideas con los programas de los partidos.",
+     "noticias": [
       {
-       "titular": "El Gobierno ordena iniciar el remolque del Med Emre a Cartagena con la oposición del Gobierno de Murcia",
-       "url": "https://www.elmundo.es/baleares/2026/11/27/6b097728e4d4d8d5478b458d.html",
-       "seccion": "Artículos Eduardo Colom"
+       "titular": "¿A qué partido político voto este 29-N?",
+       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b043899e85ecee5408b4597.html",
+       "seccion": "Artículos María Alcántara"
       }
      ]
     },
     {
      "medio": "lavanguardia",
-     "enfoque": "Enfoca el asunto del buque desde la respuesta de Murcia y la comunicación del Gobierno a Cartagena.",
+     "enfoque": "Destaca la movilización del acto final del PSOE, con cifras de asistencia, y el impulso de Frente Amplio tras el debate televisivo.",
      "noticias": [
       {
-       "titular": "Cartagena acogerá al mercante naufragado que llegará el lunes al puerto de Escombreras",
-       "url": "https://www.lavanguardia.com/local/valencia/20261127/11695268/cartagena-acogera-mercante-naufragado-llegara-lunes-puerto-escombreras.html",
-       "seccion": "Comunidad Valenciana"
+       "titular": "Los mítines finales anticipan una alta movilización este domingo",
+       "url": "https://www.lavanguardia.com/politica/20261128/11695390/participacion-mitines-finales-anticipa-alta-movilizacion-domingo.html",
+       "seccion": "Política"
       },
       {
-       "titular": "Murcia rechaza el buque accidentado y exige al Gobierno otro emplazamiento",
-       "url": "https://www.lavanguardia.com/vida/20261127/11695171/prohens-opone-carguero-naufragado-remolque-puerto-balear.html",
+       "titular": "Feijóo pide un apoyo “fuerte” para gobernar tras las elecciones del 29-N",
+       "url": "https://www.lavanguardia.com/politica/20261128/11695705/feijoo-pide-apoyo-fuerte-gobernar-elecciones-29-n.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Sánchez cierra su campaña en Madrid con la mayor movilización socialista desde 1982",
+       "url": "https://www.lavanguardia.com/politica/20261127/11695394/sanchez-cierra-campana-madrid-mayor-movilizacion-socialista-1982.html",
+       "seccion": "Política"
+      },
+      {
+       "titular": "Frente Amplio exprime el éxito en el debate a cuatro para recuperar impulso",
+       "url": "https://www.lavanguardia.com/politica/20261127/11695396/frente-amplio-exprime-exito-debate-colau-recuperar-impulso-calladita.html",
+       "seccion": "Política"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Crisis migratoria: cayucos y Ceuta",
+   "resumen": "Se suman noticias sobre la llegada de cayucos a Canarias, con 14 fallecidos en El Hierro, y sobre la avalancha en Ceuta, cuya investigación apunta a una posible influencia de Marruecos.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Vincula la avalancha de Ceuta con la influencia de Marruecos y recoge el testimonio de un testigo sobre un aviso previo.",
+     "noticias": [
+      {
+       "titular": "La influencia de Marruecos en la avalancha a Ceuta se fortalece a 48 horas de las elecciones",
+       "url": "https://www.elmundo.es/espana/2026/11/27/6b09ec54e85ece0c498b457c.html",
+       "seccion": "Ceuta"
+      },
+      {
+       "titular": "Torres lamenta los 14 fallecidos del cayuco de El Hierro: \"No suben a una patera por diversión, sino por desesperación\"",
+       "url": "https://www.elmundo.es/espana/2026/11/28/6b0aaa23e9cf4a32068b45ad.html",
+       "seccion": "Canarias"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Se centra en el origen de la ruta, con testimonios desde Senegal y el precio que cobran las mafias.",
+     "noticias": [
+      {
+       "titular": "En el punto de partida de los cayucos en Senegal: «Si me lanzo al mar puedo morir, si me quedo, moriré de hambre»",
+       "url": "https://www.abc.es/espana/abc-punto-partida-cayucos-senegal-lanzo-mar-20261128025619-nt.html",
+       "seccion": ""
+      },
+      {
+       "titular": "Las mafias ofrecen descuentos para ir a Canarias cuando hay mala mar",
+       "url": "https://www.abc.es/espana/mafias-inmigracion-ofrecen-descuentos-canarias-mala-mar-20261128025530-nt.html",
+       "seccion": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titulo": "Buque Med Emre y traslado a Cartagena",
+   "resumen": "El Gobierno de Murcia pide suspender el traslado del buque Med Emre a Cartagena, mientras el remolque avanza hacia el puerto murciano previsto para el lunes.",
+   "medios": [
+    {
+     "medio": "elmundo",
+     "enfoque": "Recoge la petición de López Miras de paralizar la operación hasta ver un informe de impacto ambiental.",
+     "noticias": [
+      {
+       "titular": "Murcia reclamará al Tribunal Superior de Justicia de Madrid que suspenda el traslado del Med Emre a Cartagena",
+       "url": "https://www.elmundo.es/murcia/2026/11/28/6b0ac0bbe4d4d89e768b45a0.html",
+       "seccion": "Murcia"
+      }
+     ]
+    },
+    {
+     "medio": "abc",
+     "enfoque": "Destaca el recurso del Ejecutivo murciano ante el TSJ de Madrid y el tono de urgencia de su presidente.",
+     "noticias": [
+      {
+       "titular": "El Gobierno de Murcia pedirá a la Justicia que suspendan el traslado del buque Med Emre a Cartagena",
+       "url": "https://www.abc.es/espana/murcia/gobierno-murcia-pedira-justicia-suspendan-traslado-buque-20261128123549-nt.html",
+       "seccion": ""
+      }
+     ]
+    },
+    {
+     "medio": "lavanguardia",
+     "enfoque": "Informa del inicio del remolque y explica la operación técnica para evitar el vertido de gasóleo.",
+     "noticias": [
+      {
+       "titular": "Empiezan a remolcar destino a Cartagena el buque naufragado frente a Eivissa",
+       "url": "https://www.lavanguardia.com/vida/20261128/11695742/empiezan-remolcar-destino-cartagena-buque-naufragado-frente-eivissa.html",
+       "seccion": "Sociedad"
+      },
+      {
+       "titular": "Esta ingeniera explica por qué es mejor remolcar el buque naufragado que dejarlo fondeado",
+       "url": "https://www.lavanguardia.com/vida/20261128/11695227/ingeniera-explica-mejor-remolcar-buque-naufragado-dejarlo-fondeado.html",
        "seccion": "Sociedad"
       }
      ]
@@ -292,220 +265,196 @@
   {
    "medio": "elpais",
    "nombre": "El País",
-   "resumen": "Prioriza la campaña electoral, con un modelo de probabilidades de mayoría, el voto útil y los programas de cada partido. Dedica también espacio a Marc Márquez y a Podemos ante el riesgo de que Irene Montero quede fuera del Congreso.",
+   "resumen": "Prioriza el análisis electoral con probabilidades de cada mayoría y guías de voto útil y programas. Acompaña con la jornada de reflexión y temas de sociedad y cultura.",
    "noticias": [
     {
      "titular": "¿Quién va a ganar las elecciones? La probabilidad de cada mayoría según las encuestas",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/quien-va-a-ganar-las-elecciones-la-probabilidad-de-cada-mayoria-segun-las-encuestas.html",
      "seccion": "Elecciones Generales",
-     "resumen": "El modelo del diario ve probable un gobierno de PP y Vox, aunque no descarta que el PSOE tenga opciones de revalidar."
+     "resumen": "El modelo del diario ve probable un gobierno de PP y Vox, aunque la derecha no alcanza la mayoría en cerca de una de cada seis simulaciones."
     },
     {
-     "titular": "Sánchez culmina su sexta campaña con el mitin más multitudinario de su trayectoria: “Tenemos la mayoría progresista a la vista, ¡sí se puede!”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/sanchez-culmina-su-sexta-campana-con-el-mitin-mas-multitudinario-de-su-trayectoria-tenemos-la-mayoria-progresista-a-la-vista-si-se-puede.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Sánchez cierra campaña en Madrid con un mitin en la Caja Mágica y mensajes para movilizar el voto femenino y progresista."
-    },
-    {
-     "titular": "Feijóo apela a la izquierda pese a confiar en una mayoría de derechas: “Préstanos tu voto para volver a la honestidad”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/feijoo-apela-a-la-izquierda-pese-a-confiar-en-una-mayoria-de-derechas-prestanos-tu-voto-para-volver-a-la-honestidad.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Feijóo pide el voto de la izquierda en Sevilla y da por hecha la victoria de su partido en las elecciones."
-    },
-    {
-     "titular": "Abascal cierra su campaña con una traca de insultos y descalificaciones contra Pedro Sánchez",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/abascal-cierra-su-campana-con-una-traca-de-insultos-y-descalificaciones-contra-pedro-sanchez.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Abascal cierra campaña en Valencia con 12.000 asistentes según el diario, con un discurso centrado en Sánchez."
-    },
-    {
-     "titular": "“Y usted, calladita”: la polémica frase de Feijóo a Colau durante el debate",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/colau-cuestiona-a-feijoo-que-mantenga-a-mazon-aforado-y-el-lider-del-pp-le-contesta-que-estuvo-calladita.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Explica la polémica frase de Feijóo a Colau en el debate y la reacción del líder popular, que primero amaga con retirarla y luego la mantiene."
+     "titular": "La victoria del PSOE y otras sorpresas posibles, según las encuestas",
+     "url": "https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-11-28/la-victoria-del-psoe-y-otras-sorpresas-posibles-segun-las-encuestas.html",
+     "seccion": "España",
+     "resumen": "Recoge el escenario más probable de mayoría PP-Vox y otros resultados posibles, desde una victoria del PSOE hasta una ola derechista."
     },
     {
      "titular": "Voto útil con todas las encuestas: Las opciones de izquierda y derecha en cada provincia",
      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Señala unos 40 escaños en el aire según el modelo del diario y ofrece una herramienta de voto útil por provincias."
+     "resumen": "Ofrece una guía de voto útil por provincia y cifra en 40 los escaños en disputa según su modelo."
     },
     {
-     "titular": "Marc Márquez anuncia por sorpresa su retirada de MotoGP: “Siento el miedo, no a las motos, sino a las lesiones”",
-     "url": "https://elpais.com/deportes/2026-11-27/marc-marquez-anuncia-su-retirada-de-la-competicion.html",
-     "seccion": "Marc Márquez",
-     "resumen": "Marc Márquez anuncia su retirada de MotoGP tras la última carrera en Valencia, por las lesiones en un brazo."
-    },
-    {
-     "titular": "La última bala de Podemos se llama Pablo Iglesias: “Ojalá seamos suficientes”",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/la-ultima-bala-de-podemos-se-llama-pablo-iglesias-ojala-seamos-suficientes.html",
+     "titular": "Elecciones generales del 29-N, la jornada de reflexión en directo | Sánchez pasa el día haciendo deporte, Montero pasea con su perra y Rufián come con la familia, mientras Feijóo viaja a Ceuta",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/ultima-hora-de-la-jornada-de-reflexion-de-las-elecciones-generales-del-29-n-en-directo.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Pablo Iglesias reaparece en un mitin de Podemos para movilizar a la militancia ante el riesgo de que Irene Montero no entre en el Congreso."
+     "resumen": "Sigue en directo la jornada de reflexión, con la agenda de los líderes y la previsión de 38,6 millones de electores llamados a votar."
+    },
+    {
+     "titular": "Feijóo viaja a Ceuta en la jornada de reflexión para pelear los últimos votos",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/feijoo-viaja-a-ceuta-en-la-jornada-de-reflexion-para-pelear-los-ultimos-votos.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Explica que Feijóo viaja a Ceuta sin agenda pública para respetar el límite legal de la jornada de reflexión."
+    },
+    {
+     "titular": "Comparador de los programas electorales para las elecciones generales del 29-N",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/comparador-de-los-programas-electorales-para-las-elecciones-generales-del-29-n.html",
+     "seccion": "Elecciones Generales",
+     "resumen": "Compara las propuestas electorales del PP, PSOE, Vox y Frente Amplio para la próxima legislatura."
+    },
+    {
+     "titular": "De Broncano con Abascal a los zapatos de María Casado en el atril: los 13 momentos televisivos que han marcado esta campaña electoral",
+     "url": "https://elpais.com/television/2026-11-28/de-broncano-con-abascal-a-los-zapatos-de-maria-casado-en-el-atril-los-13-momentos-televisivos-que-han-marcado-esta-campana-electoral.html",
+     "seccion": "Televisión",
+     "resumen": "Repasa los momentos televisivos de la campaña, desde entrevistas en programas de entretenimiento hasta plataformas digitales."
     }
    ]
   },
   {
    "medio": "elmundo",
    "nombre": "El Mundo",
-   "resumen": "Combina la cobertura de los cierres de campaña con análisis sobre el perfil de los candidatos y la cuestión de los socios. Incluye también el caso del accidente de Adamuz y el buque Med Emre.",
+   "resumen": "Pone el foco en el reparto de escaños clave y en la movilización de la izquierda, con piezas de contexto político. Mantiene también noticias de Ceuta, Canarias y Murcia.",
    "noticias": [
     {
-     "titular": "Los partidos cierran una campaña de unas elecciones en las que se elige desde la trinchera: cambio de Gobierno, sí o no",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09d179e85ece701c8b4577.html",
+     "titular": "El PP se juega 14 escaños clave frente a una izquierda movilizada: \"Ya pasó en 2023\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b09d1c8e85eceb5238b459f.html",
      "seccion": "Elecciones Generales",
-     "resumen": "Los dos grandes partidos cierran una campaña planteada como cambio de Gobierno o continuidad, con ambos condicionados por sus socios."
+     "resumen": "El PP apuesta por 14 escaños clave y pide apoyo a votantes que nunca le han respaldado, ante una izquierda que considera movilizada."
     },
     {
-     "titular": "Sánchez ficha a Almodóvar y Los Planetas para su cierre de campaña y exprime el \"usted, calladita\" de Feijóo: \"Las mujeres hablarán alto y claro en contra de la involución\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09c80efdddff4f258b45b6.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Sánchez cierra con Almodóvar y Los Planetas y, por primera vez en campaña, plantea reeditar la coalición con Frente Amplio."
+     "titular": "Alberto Núñez Feijóo visita Ceuta en la jornada de reflexión del 29-N como muestra de \"apoyo y solidaridad\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b0abb9921efa09a3f8b459a.html",
+     "seccion": "España",
+     "resumen": "Feijóo viaja a Ceuta por apoyo y solidaridad con el presidente local, sin actos políticos y con la tarde en familia."
     },
     {
-     "titular": "Feijóo cierra la campaña pidiendo el voto a \"quienes dudan\" y que nunca antes votaron al PP: \"La decencia no es de izquierdas ni de derechas\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09a44afc6c83041b8b4587.html",
+     "titular": "La influencia de Marruecos en la avalancha a Ceuta se fortalece a 48 horas de las elecciones",
+     "url": "https://www.elmundo.es/espana/2026/11/27/6b09ec54e85ece0c498b457c.html",
+     "seccion": "Ceuta",
+     "resumen": "Un testigo sostiene que un mando policial avisó el 10 de julio de la oleada, lo que refuerza las sospechas sobre la influencia de Marruecos."
+    },
+    {
+     "titular": "\"Los rojos\" pintados como \"el demonio\" en el bastión de la izquierda en Madrid: \"Hemos tenido a Aznar y a Rajoy y no pasó nada, pero Abascal es muy peligroso\"",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b003e40fdddffdf3c8b459a.html",
+     "seccion": "España",
+     "resumen": "Reportaje desde un bastión de la izquierda en Madrid, donde el PP crece por el cambio demográfico y el voto mayor cree que Vox es más peligroso."
+    },
+    {
+     "titular": "Pedro Sánchez apuesta por la bicicleta y Ada Colau viaja en tren a Barcelona en la jornada de reflexión del 29-N",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b0adf2521efa0525f8b4589.html",
+     "seccion": "España",
+     "resumen": "Sánchez descansa en bicicleta antes de votar en Madrid y Colau viaja en tren a Barcelona durante la jornada de reflexión."
+    },
+    {
+     "titular": "Los informes oficiales de la investigación apuntalan la responsabilidad política en la tragedia de Adamuz horas antes de las elecciones",
+     "url": "https://www.elmundo.es/andalucia/2026/11/27/6b084d93fc6c837b068b458b.html",
      "seccion": "Andalucía",
-     "resumen": "Feijóo pide el voto a quienes nunca votaron al PP en Andalucía, en un acto con su tono de moderación y decencia."
+     "resumen": "Los informes oficiales sobre el accidente de Adamuz apuntan a Adif por la vía rota, el bache sin reparar y el material obsoleto."
     },
     {
-     "titular": "Abascal exhibe fuerza desde una Plaza de Toros de Valencia abarrotada y llama a votar sin miedo: \"¡Echadle cojones y ovarios!\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09d315fdddff93658b4592.html",
-     "seccion": "Elecciones Generales",
-     "resumen": "Abascal llena la plaza de toros de Valencia y pide votar sin miedo, con la meta de sacar al PSOE del Gobierno."
-    },
-    {
-     "titular": "Colau devuelve la fe al Frente Amplio y llama a los que \"no se rinden\" ni \"callan\" para la \"remontada\"",
-     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09f0b0e9cf4ab7248b45ac.html",
-     "seccion": "Frente Amplio",
-     "resumen": "Colau cierra campaña en Madrid con más de 4.000 personas y busca una remontada tras el debate a cuatro."
-    },
-    {
-     "titular": "La Guardia Civil desmonta la \"renovación integral\" de Óscar Puente en Adamuz: traviesas, vías y balasto de 1990 en el punto exacto del accidente",
-     "url": "https://www.elmundo.es/andalucia/2026/11/27/6b094bf5fdddfff9158b457b.html",
-     "seccion": "Andalucía",
-     "resumen": "La Guardia Civil cuestiona la renovación de vías en Adamuz, con traviesas y balasto de 1990 en el punto del accidente."
-    },
-    {
-     "titular": "El Gobierno ordena iniciar el remolque del Med Emre a Cartagena con la oposición del Gobierno de Murcia",
-     "url": "https://www.elmundo.es/baleares/2026/11/27/6b097728e4d4d8d5478b458d.html",
-     "seccion": "Artículos Eduardo Colom",
-     "resumen": "El Gobierno ordena remolcar el Med Emre a Cartagena pese a la oposición de Murcia, mientras la investigación apunta a mala praxis de la tripulación."
-    },
-    {
-     "titular": "Marc Márquez, en su adiós: \"Empecé a sentir miedo\"",
-     "url": "https://www.elmundo.es/deportes/motociclismo/2026/11/27/6b097e1ffdddff48178b45b1.html",
-     "seccion": "deportes",
-     "resumen": "Marc Márquez anuncia su adiós a las motos en una rueda de prensa en Valencia, donde correrá por última vez."
+     "titular": "Murcia reclamará al Tribunal Superior de Justicia de Madrid que suspenda el traslado del Med Emre a Cartagena",
+     "url": "https://www.elmundo.es/murcia/2026/11/28/6b0ac0bbe4d4d89e768b45a0.html",
+     "seccion": "Murcia",
+     "resumen": "El Gobierno de Murcia pedirá al TSJ de Madrid suspender el traslado del Med Emre y reclama un informe de impacto ambiental."
     }
    ]
   },
   {
    "medio": "abc",
    "nombre": "ABC",
-   "resumen": "Destaca los actos de cierre de campaña con cifras de asistencia y el pulso por los escaños decisivos del PP. Mezcla la información política con contenido de servicio, cultura y gastronomía.",
+   "resumen": "Combina la jornada de reflexión y la seguridad de la votación con temas de actualidad económica y migratoria. Incluye también la crisis de Canarias y la retirada del buque a Cartagena.",
    "noticias": [
     {
-     "titular": "El PP se juega 14 escaños claves con la izquierda o nacionalistas",
-     "url": "https://www.abc.es/espana/pp-juega-catorce-escanos-claves-izquierda-nacionalistas-20261127191147-nt.html",
+     "titular": "El día de reflexión de los candidatos: Feijóo viaja a Ceuta mientras Sánchez hace deporte",
+     "url": "https://www.abc.es/espana/dia-reflexion-candidatos-feijoo-ceuta-20261128100308-nt.html",
      "seccion": "",
-     "resumen": "El PP tiene en juego 14 escaños en circunscripciones donde compite con la izquierda o con nacionalistas, claves para el resultado."
+     "resumen": "Feijóo viaja a Ceuta en la jornada de reflexión mientras Sánchez hace deporte, en el cierre de una campaña sin actos públicos."
     },
     {
-     "titular": "Abascal abarrota la Plaza de Toros de Valencia y apunta al «canalla» Sánchez: «Has provocado muertes»",
-     "url": "https://www.abc.es/espana/abascal-abarrota-plaza-toros-valencia-apunta-canalla-20261127213303-nt.html",
+     "titular": "Las pensiones subirán un 3,5% y la factura anual se elevará en casi 17.000 millones",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/pensiones-subiran-factura-anual-subira-17000-millones-20261128023333-nt.html",
      "seccion": "",
-     "resumen": "Abascal llena la plaza de toros de Valencia con 14.000 personas según la organización y acusa a Sánchez de provocar muertes."
+     "resumen": "El Gobierno anuncia una subida del 3,5% de las pensiones para 2027, con un impacto anual superior a 17.000 millones que deberá gestionar el próximo Ejecutivo."
     },
     {
-     "titular": "Sánchez se da un festival con Almodóvar, batucada y 'Los Planetas' para alentar el relato de la remontada",
-     "url": "https://www.abc.es/espana/sanchez-festival-cierre-campana-almodovar-batucada-planetas-20261127202951-nt.html",
+     "titular": "La Policía unifica pautas ante escenarios «capciosos» y bulos en mesas electorales del 29N",
+     "url": "https://www.abc.es/espana/policia-unifica-pautas-ante-escenarios-capciosos-bulos-20261128121409-nt.html",
      "seccion": "",
-     "resumen": "El PSOE cierra campaña en la Caja Mágica con más de 13.000 asistentes, en un acto con formato de festival."
+     "resumen": "La Policía Nacional elabora una guía para homogeneizar la actuación de las patrullas ante bulos y escenarios conflictivos en las mesas electorales."
     },
     {
-     "titular": "Frente Amplio desafía la cordura y apela a una remontada épica en el cierre de campaña",
-     "url": "https://www.abc.es/espana/frente-amplio-desafia-cordura-apela-remontada-epica-20261127212312-nt.html",
+     "titular": "En el punto de partida de los cayucos en Senegal: «Si me lanzo al mar puedo morir, si me quedo, moriré de hambre»",
+     "url": "https://www.abc.es/espana/abc-punto-partida-cayucos-senegal-lanzo-mar-20261128025619-nt.html",
      "seccion": "",
-     "resumen": "Frente Amplio cierra campaña con un tono optimista tras el debate a cuatro, después de una campaña discreta."
+     "resumen": "Un inmigrante de Senegal describe la decisión de emprender el viaje en cayuco pese al riesgo, en medio de la crisis migratoria en Canarias."
     },
     {
-     "titular": "Feijóo, en Sevilla: «Si el domingo votamos todos juntos, se acabó. Pido el voto de la izquierda»",
-     "url": "https://www.abc.es/espana/andalucia/feijoo-cierre-campana-sevilla-domingo-votamos-juntos-20261127202432-nts.html",
+     "titular": "Las mafias ofrecen descuentos para ir a Canarias cuando hay mala mar",
+     "url": "https://www.abc.es/espana/mafias-inmigracion-ofrecen-descuentos-canarias-mala-mar-20261128025530-nt.html",
      "seccion": "",
-     "resumen": "Feijóo cierra en Sevilla y pide el voto de la izquierda, al tiempo que sostiene que el cambio es posible también en España."
+     "resumen": "Las mafias cobran entre 600 y 800 euros por plaza en cayuco desde Senegal y ofrecen descuentos cuando el mar está peor."
     },
     {
-     "titular": "Los datos del debate a cuatro: alusiones, ataques y palabras más usadas",
-     "url": "https://www.abc.es/espana/datos-debate-cuatro-alusiones-ataques-palabras-usadas-20261127084730-nt.html",
+     "titular": "El Gobierno de Murcia pedirá a la Justicia que suspendan el traslado del buque Med Emre a Cartagena",
+     "url": "https://www.abc.es/espana/murcia/gobierno-murcia-pedira-justicia-suspendan-traslado-buque-20261128123549-nt.html",
      "seccion": "",
-     "resumen": "Analiza el debate a cuatro: Sánchez interrumpió a Feijóo 63 veces frente a 15 en el debate anterior."
+     "resumen": "El Gobierno de Murcia recurrirá ante el TSJ de Madrid para suspender el traslado del buque Med Emre a Cartagena."
     },
     {
-     "titular": "Interior da una «protección especial» al jefe de los espías de Marruecos desde el año 2022",
-     "url": "https://www.abc.es/espana/interior-proteccion-especial-jefe-espias-marruecos-2022-20261127213031-nt.html",
+     "titular": "La lista maldita de Valladolid: de Puente y los trenes a Redondo y las pulseras",
+     "url": "https://www.abc.es/espana/castilla-leon/lista-maldita-valladolid-puente-trenes-redondo-pulseras-20261127025153-nt.html",
      "seccion": "",
-     "resumen": "Interior dio protección especial al jefe de los servicios secretos marroquíes desde 2022, según el diario."
-    },
-    {
-     "titular": "David Ferrer: «He visto muy bien a Alcaraz, es muy importante para nosotros»",
-     "url": "https://www.abc.es/deportes/tenis/david-ferrer-visto-bien-alcaraz-20261127141048-nt.html",
-     "seccion": "",
-     "resumen": "David Ferrer valora el estado de Carlos Alcaraz antes de las semifinales de la Copa Davis contra Gran Bretaña."
+     "resumen": "Ningún líder nacional del PSOE ha hecho campaña en Valladolid, según un análisis de la campaña en la provincia."
     }
    ]
   },
   {
    "medio": "lavanguardia",
    "nombre": "La Vanguardia",
-   "resumen": "Pone el acento en la movilización de los partidos y en el peso de Cataluña en las elecciones generales, con Junts y ERC. Incluye también las verificaciones del debate y la inmigración por la ruta canaria.",
+   "resumen": "Prioriza la campaña catalana y los candidatos de izquierda y derecha en el cierre electoral. Incluye también la operación de remolque del buque Med Emre.",
    "noticias": [
     {
      "titular": "Sánchez cierra su campaña en Madrid con la mayor movilización socialista desde 1982",
      "url": "https://www.lavanguardia.com/politica/20261127/11695394/sanchez-cierra-campana-madrid-mayor-movilizacion-socialista-1982.html",
      "seccion": "Política",
-     "resumen": "Sánchez cierra campaña con más de 13.000 asistentes en la Caja Mágica, lo que según el diario es la mayor movilización socialista desde 1982."
+     "resumen": "Sánchez cierra campaña en Madrid con un acto que reúne a más de 13.000 simpatizantes, la mayor movilización socialista desde 1982."
     },
     {
-     "titular": "Feijóo apela al votante crítico del PSOE en Sevilla: “No os pido que cambiéis de ideología”",
-     "url": "https://www.lavanguardia.com/politica/20261127/11695380/feijoo-apela-votante-critico-psoe-ultimo-mitin-campana-sevilla-pido-cambieis-ideologia.html",
+     "titular": "Feijóo pide un apoyo “fuerte” para gobernar tras las elecciones del 29-N",
+     "url": "https://www.lavanguardia.com/politica/20261128/11695705/feijoo-pide-apoyo-fuerte-gobernar-elecciones-29-n.html",
      "seccion": "Política",
-     "resumen": "Feijóo pide el voto de los socialistas críticos en Sevilla y reconoce que no les pide un cambio ideológico."
-    },
-    {
-     "titular": "Abascal pide “votar sin miedo” para reconstruir España y “echar a Sánchez de La Moncloa”",
-     "url": "https://www.lavanguardia.com/local/valencia/20261127/11695376/abascal-pide-votar-miedo-reconstruir-espana-echar-sanchez-moncloa.html",
-     "seccion": "Comunidad Valenciana",
-     "resumen": "Abascal llena la plaza de toros de Valencia y pide echar a Sánchez de La Moncloa, en un pulso al PP."
+     "resumen": "Feijóo termina su campaña en Barcelona y Sevilla y pide un apoyo fuerte para gobernar tras el 29-N."
     },
     {
      "titular": "Junts confía en dar la vuelta a los sondeos para que Catalunya sea clave en Madrid",
      "url": "https://www.lavanguardia.com/politica/20261127/11695391/junts-confia-dar-vuelta-sondeos-catalunya-sea-clave-madrid.html",
      "seccion": "Política",
-     "resumen": "Junts intenta revertir los sondeos para que Cataluña tenga peso en la mayoría que salga de Madrid."
+     "resumen": "Junts intenta revertir los sondeos para que Cataluña tenga peso decisivo en la política de Madrid."
     },
     {
-     "titular": "ERC se aferra al tirón de Rufián y apela a no conformarse con el mal menor sino “exigir más” al PSOE",
-     "url": "https://www.lavanguardia.com/politica/20261127/11695346/erc-aferra-tiron-rufian-apela-conformarse-mal-menor-exigir-mas-psoe.html",
+     "titular": "Esquerra llama a evitar el voto al PSC “como mal menor”",
+     "url": "https://www.lavanguardia.com/politica/20261128/11695392/esquerra-llama-evitar-voto-psc-mal-menor.html",
      "seccion": "Política",
-     "resumen": "ERC pide al PSOE más exigencias en lugar de conformarse con el mal menor y critica la convocatoria anticipada por el modelo de financiación."
+     "resumen": "ERC pide evitar el voto al PSC como mal menor y Rufián sostiene que los socialistas no merecen el apoyo de los suyos."
     },
     {
-     "titular": "Verdad, falso o engañoso: las verificaciones del debate electoral a cuatro",
-     "url": "https://www.lavanguardia.com/politica/20261127/11695087/verificaciones-debate-electoral-cuatro-29-n.html",
+     "titular": "Frente Amplio exprime el éxito en el debate a cuatro para recuperar impulso",
+     "url": "https://www.lavanguardia.com/politica/20261127/11695396/frente-amplio-exprime-exito-debate-colau-recuperar-impulso-calladita.html",
      "seccion": "Política",
-     "resumen": "Recoge las verificaciones de las afirmaciones realizadas en el debate electoral a cuatro."
+     "resumen": "Frente Amplio busca recuperar impulso tras el debate a cuatro, que ha cambiado el ritmo de una campaña que arrancó lenta."
     },
     {
-     "titular": "Nuevo drama en la ruta migratoria canaria: al menos 14 muertos en un cayuco que se dirige a El Hierro",
-     "url": "https://www.lavanguardia.com/local/canarias/20261127/11695005/evacuados-seis-migrantes-cayuco-iba-hierro-cadaveres-pasaje.html",
-     "seccion": "Islas Canarias",
-     "resumen": "Al menos 14 personas mueren en un cayuco a la deriva que se dirigía a El Hierro tras salir de Gambia."
-    },
-    {
-     "titular": "Frontex desplegará un avión frente a las costas de Senegal para frenar los cayucos a Canarias",
-     "url": "https://www.lavanguardia.com/politica/20261127/11695378/frontex-desplegara-avion-frente-costas-senegal-frenar-cayucos-canarias.html",
+     "titular": "Vox espera tener un rol fundamental en la gobernabilidad de España",
+     "url": "https://www.lavanguardia.com/politica/20261127/11695382/vox-espera-rol-fundamental-gobernabilidad-espana.html",
      "seccion": "Política",
-     "resumen": "Frontex desplegará un avión frente a Senegal para frenar las salidas de cayucos hacia Canarias, a petición de España."
+     "resumen": "Vox aspira a un papel fundamental en la gobernabilidad y sitúa como prioridad echar a Sánchez."
+    },
+    {
+     "titular": "Empiezan a remolcar destino a Cartagena el buque naufragado frente a Eivissa",
+     "url": "https://www.lavanguardia.com/vida/20261128/11695742/empiezan-remolcar-destino-cartagena-buque-naufragado-frente-eivissa.html",
+     "seccion": "Sociedad",
+     "resumen": "Comienza el remolque del buque naufragado frente a Eivissa hacia Cartagena, con llegada prevista el lunes."
     }
    ]
   }
